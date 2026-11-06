@@ -1,1097 +1,169 @@
 window.EXAMS_DATA = [
   {
     "id": 1,
-    "title": "Đề số 01: Chuẩn hóa kiến thức nền tảng & Các mốc số liệu trọng điểm",
+    "title": "Đề số 01: Chuẩn hóa kiến thức Luật Cán bộ, công chức & Quản lý nhà nước",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "Theo Luật Viên chức 2010 (sửa đổi 2019), đối tượng nào sau đây được xác định là 'Viên chức'?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Công dân Việt Nam được tuyển dụng, bổ nhiệm vào ngạch công chức trong cơ quan hành chính nhà nước.",
-          "B. Người được bầu cử, phê chuẩn giữ chức vụ theo nhiệm kỳ trong cơ quan nhà nước, hưởng lương từ ngân sách nhà nước.",
-          "C. Người lao động làm việc theo hợp đồng lao động tại các doanh nghiệp có vốn nhà nước.",
-          "D. Công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật."
+          "A. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã.",
+          "B. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "C. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước."
         ],
         "ans": 3,
-        "explanation": "★ Bản chất: Viên chức có 4 dấu hiệu nhận biết bắt buộc: (1) Là công dân Việt Nam; (2) Tuyển dụng theo vị trí việc làm; (3) Làm việc tại đơn vị sự nghiệp công lập (ĐVSNCL) theo Hợp đồng làm việc; (4) Hưởng lương từ quỹ lương của ĐVSNCL.\n★ Bẫy sai: Phương án B là 'Cán bộ'; Phương án C là 'Công chức'; Phương án D là người lao động theo Bộ luật Lao động."
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "q": "Theo Điều 3 Luật Viên chức 2010, có bao nhiêu nguyên tắc trong hoạt động nghề nghiệp của viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. 4 nguyên tắc",
-          "B. 5 nguyên tắc",
-          "C. 7 nguyên tắc",
-          "D. 6 nguyên tắc"
+          "A. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "B. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng.",
+          "C. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo.",
+          "D. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao."
         ],
         "ans": 0,
-        "explanation": "★ Mẹo nhớ: 'Tuân thủ pháp luật - Tận tụy phục vụ - Tuân thủ quy trình - Chịu sự giám sát' (4 nguyên tắc). Phân biệt với 4 nguyên tắc quản lý viên chức tại Điều 6."
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Điều 6 Luật Viên chức, có bao nhiêu nguyên tắc quản lý viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
         "options": [
-          "A. 4 nguyên tắc",
-          "B. 5 nguyên tắc",
-          "C. 3 nguyên tắc",
-          "D. 6 nguyên tắc"
+          "A. 6 nguyên tắc",
+          "B. 4 nguyên tắc",
+          "C. 5 nguyên tắc",
+          "D. 7 nguyên tắc"
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
+        "options": [
+          "A. Tự do học thuật và sáng tạo không giới hạn.",
+          "B. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước.",
+          "C. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "D. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
+        "options": [
+          "A. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân.",
+          "B. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ.",
+          "C. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "D. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
+        "options": [
+          "A. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "B. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó.",
+          "C. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành.",
+          "D. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
+        "options": [
+          "A. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "B. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật.",
+          "C. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "D. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
+        "options": [
+          "A. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức.",
+          "B. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "C. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính.",
+          "D. Chỉ chào hỏi những người giữ chức vụ cao hơn mình."
         ],
         "ans": 0,
-        "explanation": "★ Mẹo nhớ: Luật Viên chức có 2 điều quy định '4 nguyên tắc': Điều 3 (4 nguyên tắc nghề nghiệp) và Điều 6 (4 nguyên tắc quản lý)."
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng chính sách gì về tiền lương?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
         "options": [
-          "A. Được miễn đóng toàn bộ các khoản thuế thu nhập suốt đời.",
-          "B. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của Chính phủ.",
-          "C. Được hưởng gấp 10 lần lương cơ sở.",
-          "D. Được tự do quyết định mức lương hàng tháng."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật Viên chức: Viên chức làm việc ở vùng đặc biệt khó khăn được hưởng phụ cấp và chính sách ưu đãi của Nhà nước."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có quyền nghỉ không hưởng lương trong trường hợp nào?",
-        "options": [
-          "A. Có lý do chính đáng và được sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập.",
-          "B. Tự ý nghỉ bất kỳ lúc nào chỉ cần gửi tin nhắn thông báo.",
-          "C. Không bao giờ được phép nghỉ không hưởng lương.",
-          "D. Chỉ áp dụng cho viên chức nữ sinh con."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 13 Luật Viên chức: Được nghỉ không hưởng lương trong trường hợp có lý do chính đáng và được người đứng đầu đồng ý."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức được phép tham gia góp vốn vào doanh nghiệp theo hình thức nào?",
-        "options": [
-          "A. Được lập doanh nghiệp tư nhân đứng tên chính mình làm chủ.",
-          "B. Được giữ chức danh Tổng giám đốc điều hành công ty cổ phần ngoài giờ làm việc.",
-          "C. Được góp vốn nhưng không được tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh...",
-          "D. Tuyệt đối không được góp vốn vào bất kỳ doanh nghiệp nào."
-        ],
-        "ans": 2,
-        "explanation": "★ Bẫy trắc nghiệm: Viên chức ĐƯỢC GÓP VỐN nhưng KHÔNG ĐƯỢC QUẢN LÝ, ĐIỀU HÀNH doanh nghiệp (khoản 3 Điều 14 Luật Viên chức)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 4 nghĩa vụ",
-          "B. 7 nghĩa vụ",
-          "C. 6 nghĩa vụ",
-          "D. 5 nghĩa vụ"
+          "A. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân.",
+          "B. Tôn trọng phong tục tập quán của đồng bào các dân tộc.",
+          "C. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "D. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ."
         ],
         "ans": 3,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
         "options": [
-          "A. 7 nghĩa vụ",
-          "B. 6 nghĩa vụ",
-          "C. 5 nghĩa vụ",
-          "D. 8 nghĩa vụ"
-        ],
-        "ans": 0,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Đâu KHÔNG PHẢI là việc viên chức không được làm theo Điều 19 Luật Viên chức 2010?",
-        "options": [
-          "A. Phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức.",
-          "B. Tham gia các hoạt động thiện nguyện ngoài giờ giảng dạy.",
-          "C. Trốn tránh trách nhiệm, thoái thác công việc hoặc nhiệm vụ được giao.",
-          "D. Sử dụng tài sản của cơ quan, tổ chức và của nhân dân trái với quy định của pháp luật."
+          "A. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ.",
+          "B. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật.",
+          "C. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật.",
+          "D. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành."
         ],
         "ans": 1,
-        "explanation": "★ Phân tích: Tham gia thiện nguyện ngoài giờ là hoạt động khuyến khích. Các hành vi B, C, D đều thuộc 6 điều cấm tại Điều 19."
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Luật sửa đổi 2019, từ ngày 01/7/2020, hợp đồng làm việc xác định thời hạn áp dụng cho người trúng tuyển mới có khoảng thời gian là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
         "options": [
-          "A. Từ đủ 12 tháng đến 36 tháng.",
-          "B. Không quá 24 tháng.",
-          "C. Từ đủ 24 tháng đến 60 tháng.",
-          "D. Từ đủ 12 tháng đến 60 tháng."
+          "A. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên.",
+          "B. Cấp cao, Cấp trung, Cấp cơ sở.",
+          "C. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V.",
+          "D. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ."
         ],
         "ans": 3,
-        "explanation": "★ Bẫy thời gian cực hay gặp: Luật cũ 2010 là từ đủ 12 đến 36 tháng. Luật sửa đổi 2019 mở rộng thành TỪ ĐỦ 12 THÁNG ĐẾN 60 THÁNG (Khoản 2 Điều 25). Nhớ kỹ mốc 60 tháng!"
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
         "options": [
-          "A. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển.",
-          "B. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025.",
-          "C. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục.",
-          "D. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn."
-        ],
-        "ans": 3,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Đơn vị sự nghiệp công lập được quyền đơn phương chấm dứt hợp đồng làm việc với viên chức trong trường hợp nào?",
-        "options": [
-          "A. Viên chức bị đánh giá hoàn thành nhiệm vụ nhưng hiệu trưởng không thích.",
-          "B. Viên chức từ chối tham gia đội văn nghệ của trường.",
-          "C. Viên chức có 02 năm liên tiếp bị xếp loại chất lượng ở mức không hoàn thành nhiệm vụ.",
-          "D. Viên chức có 01 tháng không đạt chỉ tiêu dạy giỏi."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 29 Luật Viên chức: Có 02 NĂM LIÊN TIẾP bị đánh giá không hoàn thành nhiệm vụ. Nếu chỉ 1 năm thì chưa được đơn phương chấm dứt!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
-        "options": [
-          "A. Cảm thấy áp lực công việc giảng dạy quá nặng nề.",
-          "B. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân.",
-          "C. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ.",
-          "D. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
-        "options": [
-          "A. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động).",
-          "B. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "C. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "D. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định."
-        ],
-        "ans": 0,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
-        "options": [
-          "A. Không quá 02 năm",
-          "B. Không quá 05 năm",
-          "C. Không quá 03 năm",
-          "D. Không quá 01 năm"
-        ],
-        "ans": 2,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
-        "options": [
-          "A. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "B. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
-          "C. 2 mức: Đạt và Không đạt chuẩn viên chức.",
-          "D. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
-        "options": [
-          "A. Buộc thôi việc",
-          "B. Cảnh cáo",
-          "C. Khiển trách",
-          "D. Cách chức"
-        ],
-        "ans": 3,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
-        "options": [
-          "A. 05 năm (60 tháng)",
-          "B. 10 năm",
-          "C. 03 năm (36 tháng)",
-          "D. 02 năm (24 tháng)"
-        ],
-        "ans": 0,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "B. Viên chức không tham gia họp hội đồng trường định kỳ.",
-          "C. Viên chức vi phạm quy định về đi làm muộn quá 3 lần.",
-          "D. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ."
-        ],
-        "ans": 0,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 1] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
-        "options": [
-          "A. Không quá 45 ngày cố định.",
-          "B. Không quá 30 ngày; kéo dài tối đa 60 ngày.",
-          "C. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày.",
-          "D. Không quá 07 ngày làm việc."
-        ],
-        "ans": 2,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "B. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm.",
-          "C. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "D. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
-        "options": [
-          "A. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù.",
-          "B. Người không có hộ khẩu thường trú tại thành phố Huế.",
-          "C. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu.",
-          "D. Người đã từng làm việc tại doanh nghiệp tư nhân."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
-        "options": [
-          "A. Người dân tộc thiểu số, sĩ quan quân đội nhân dân.",
-          "B. Người tốt nghiệp đại học loại giỏi tại nước ngoài.",
-          "C. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh.",
-          "D. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học."
-        ],
-        "ans": 2,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 2,5 điểm",
-          "B. 3,0 điểm",
-          "C. 5,0 điểm",
-          "D. 7,5 điểm"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2.",
-          "B. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "C. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "D. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2."
-        ],
-        "ans": 3,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "B. 60 câu hỏi, thời gian làm bài 90 phút.",
-          "C. 60 câu hỏi, thời gian làm bài 60 phút.",
-          "D. 50 câu hỏi, thời gian làm bài 50 phút."
-        ],
-        "ans": 2,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1.",
-          "B. Thí sinh là đảng viên chính thức được miễn thi Vòng 1.",
-          "C. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1.",
-          "D. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1."
-        ],
-        "ans": 2,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
-        "options": [
-          "A. Thời gian thi vấn đáp 45 phút.",
-          "B. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "C. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "D. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị."
+          "A. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng.",
+          "B. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "C. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "D. Số lượng hồ sơ tồn đọng từ các năm trước."
         ],
         "ans": 1,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
         "options": [
-          "A. Thang điểm 100, đạt từ 60 điểm trở lên.",
-          "B. Thang điểm 100, đạt từ 50 điểm trở lên.",
-          "C. Thang điểm 10, đạt từ 5 điểm trở lên.",
-          "D. Thang điểm 100, đạt từ 70 điểm trở lên."
+          "A. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "B. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam.",
+          "C. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "D. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương."
         ],
         "ans": 1,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
-        "options": [
-          "A. Trong thời hạn 30 ngày",
-          "B. Trong thời hạn 45 ngày",
-          "C. Trong thời hạn 60 ngày",
-          "D. Trong thời hạn 15 ngày"
-        ],
-        "ans": 0,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
-        "options": [
-          "A. 24 tháng",
-          "B. 12 tháng",
-          "C. 06 tháng",
-          "D. 09 tháng"
-        ],
-        "ans": 1,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
-        "options": [
-          "A. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương.",
-          "B. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi.",
-          "C. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần.",
-          "D. Thời gian nghỉ lễ, tết theo quy định của Nhà nước."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
-        "options": [
-          "A. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng.",
-          "B. Là con ruột của người đứng đầu đơn vị tuyển dụng.",
-          "C. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "D. Có chứng chỉ tiếng Anh quốc tế C1 trở lên."
-        ],
-        "ans": 0,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
-        "options": [
-          "A. 80%",
-          "B. 85%",
-          "C. 100%",
-          "D. 75%"
-        ],
-        "ans": 1,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 1] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
-        "options": [
-          "A. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "B. Được giảm 100% số tiết dạy trên lớp.",
-          "C. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự.",
-          "D. Được hưởng thêm 50% mức lương của người tập sự."
-        ],
-        "ans": 2,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
-        "options": [
-          "A. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây.",
-          "B. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "C. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng.",
-          "D. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
-        "options": [
-          "A. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội.",
-          "B. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "C. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học.",
-          "D. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
-        "options": [
-          "A. Giáo dục trung học phổ thông.",
-          "B. Giáo dục tiểu học.",
-          "C. Giáo dục mầm non cho trẻ 5 tuổi.",
-          "D. Giáo dục trung học cơ sở."
-        ],
-        "ans": 1,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
-        "options": [
-          "A. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh.",
-          "B. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "C. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí.",
-          "D. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất."
-        ],
-        "ans": 2,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
-        "options": [
-          "A. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học.",
-          "B. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "C. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp.",
-          "D. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm)."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
-        "options": [
-          "A. Ủy ban nhân dân cấp tỉnh.",
-          "B. Hiệu trưởng từng trường phổ thông.",
-          "C. Giám đốc Sở Giáo dục và Đào tạo.",
-          "D. Hội Khuyến học tỉnh."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
-        "options": [
-          "A. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "B. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường.",
-          "C. Giữ vai trò quản lý tài chính trường học.",
-          "D. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
-        "options": [
-          "A. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở.",
-          "B. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "C. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế.",
-          "D. Phải là đảng viên Đảng Cộng sản Việt Nam."
-        ],
-        "ans": 1,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
-        "options": [
-          "A. Có bằng tốt nghiệp trung cấp sư phạm trở lên.",
-          "B. Có bằng tốt nghiệp cao đẳng sư phạm trở lên.",
-          "C. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ.",
-          "D. Có bằng cử nhân ngành đào tạo giáo viên trở lên."
-        ],
-        "ans": 1,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
-        "options": [
-          "A. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "B. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm).",
-          "C. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm.",
-          "D. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy."
-        ],
-        "ans": 1,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "B. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định.",
-          "C. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác.",
-          "D. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh."
-        ],
-        "ans": 1,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
-        "options": [
-          "A. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học.",
-          "B. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "C. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học.",
-          "D. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
-        "options": [
-          "A. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền.",
-          "B. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp.",
-          "C. Ra bài tập về nhà phù hợp với năng lực của học sinh.",
-          "D. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
-        "options": [
-          "A. Không có chế độ phụ cấp thâm niên.",
-          "B. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "C. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương.",
-          "D. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 1] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên.",
-          "B. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ.",
-          "C. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "D. Đóng góp ý kiến xây dựng phong trào thi đua của lớp."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
-        "options": [
-          "A. Giảm tải 80% thời lượng các môn khoa học cơ bản.",
-          "B. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học.",
-          "C. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc.",
-          "D. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
-        "options": [
-          "A. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành.",
-          "B. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "C. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "D. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
-        "options": [
-          "A. Học thuộc lòng kiến thức sách giáo khoa theo mẫu.",
-          "B. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "C. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học.",
-          "D. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế."
-        ],
-        "ans": 1,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
-        "options": [
-          "A. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "B. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn.",
-          "C. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "D. Loại bỏ hoàn toàn việc kiểm tra định kỳ."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
-        "options": [
-          "A. 4 chương, 15 điều",
-          "B. 3 chương, 12 điều",
-          "C. 5 chương, 15 điều",
-          "D. 4 chương, 10 điều"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
-        "options": [
-          "A. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "B. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh.",
-          "C. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn.",
-          "D. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
-        "options": [
-          "A. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "B. Sử dụng hình phạt thể xác nghiêm khắc để răn đe.",
-          "C. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường.",
-          "D. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
-        "options": [
-          "A. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh.",
-          "B. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "C. Xúc phạm, áp đặt, vụ lợi.",
-          "D. Kịp thời thông báo kết quả học tập của học sinh."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
-        "options": [
-          "A. 6 tiêu chuẩn, 18 tiêu chí",
-          "B. 4 tiêu chuẩn, 12 tiêu chí",
-          "C. 5 tiêu chuẩn, 15 tiêu chí",
-          "D. 5 tiêu chuẩn, 20 tiêu chí"
-        ],
-        "ans": 2,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 1] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường.",
-          "B. Kiểm tra vở ghi và sách bài tập của học sinh.",
-          "C. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "D. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Đề số 02: Chuyên sâu Quy chế tuyển dụng, Hợp đồng làm việc & Điểm ưu tiên",
-    "totalQuestions": 60,
-    "timeMinutes": 60,
-    "questions": [
-      {
-        "q": "Cô Hoàng Thủy đang giảng dạy tại một trường phổ thông tư thục (dân lập) có ký hợp đồng không xác định thời hạn. Theo Luật Viên chức, cô Hoàng Thủy có được coi là viên chức hay không?",
-        "options": [
-          "A. Không được coi là viên chức, vì trường tư thục không phải là đơn vị sự nghiệp công lập.",
-          "B. Được coi là viên chức, vì giảng dạy tại trường phổ thông đều thuộc ngạch viên chức ngành giáo dục.",
-          "C. Được coi là viên chức danh dự nếu đạt giáo viên dạy giỏi cấp tỉnh.",
-          "D. Được coi là viên chức, nếu nhà trường có đăng ký mã số chức danh nghề nghiệp với Bộ GD&ĐT."
-        ],
-        "ans": 0,
-        "explanation": "★ Bản chất: Luật Viên chức quy định viên chức PHẢI làm việc tại 'đơn vị sự nghiệp công lập' (thuộc sở hữu nhà nước). Người dạy tại trường tư thục/dân lập là người lao động làm việc theo Bộ luật Lao động, không phải viên chức nhà nước."
-      },
-      {
-        "q": "Đâu là một trong các nguyên tắc trong hoạt động nghề nghiệp của viên chức được quy định tại Điều 3 Luật Viên chức 2010?",
-        "options": [
-          "A. Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật trong quá trình thực hiện hoạt động nghề nghiệp.",
-          "B. Bảo đảm quyền chủ động và đề cao trách nhiệm của người đứng đầu.",
-          "C. Thực hiện bình đẳng giới và các chính sách ưu tiên.",
-          "D. Bảo đảm sự lãnh đạo tuyệt đối của tổ chức công đoàn."
-        ],
-        "ans": 0,
-        "explanation": "★ Bẫy trắc nghiệm: Phương án B và C là nguyên tắc QUẢN LÝ viên chức (Điều 6). Chỉ có phương án A là nguyên tắc HOẠT ĐỘNG NGHỀ NGHIỆP (Điều 3)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Nguyên tắc nào sau đây là nguyên tắc quản lý viên chức theo Điều 6 Luật Viên chức?",
-        "options": [
-          "A. Tuân thủ quy trình nghiệp vụ.",
-          "B. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam và sự thống nhất quản lý của Nhà nước.",
-          "C. Độc lập tác chiến không cần kiểm tra.",
-          "D. Tận tụy phục vụ nhân dân."
-        ],
-        "ans": 1,
-        "explanation": "★ Phân tích: Sự lãnh đạo của Đảng là nguyên tắc quản lý hàng đầu (khoản 1 Điều 6). Các đáp án khác là nguyên tắc nghề nghiệp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Khi làm việc thêm giờ hoặc làm việc vào ban đêm, viên chức được hưởng chế độ gì?",
-        "options": [
-          "A. Không được nhận bất kỳ khoản thù lao nào vì thuộc trách nhiệm cống hiến.",
-          "B. Nhận gấp 5 lần tiền lương ngày thường.",
-          "C. Chỉ được bù giờ nghỉ mà không được nhận tiền.",
-          "D. Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm theo quy định của pháp luật."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 12 Luật Viên chức: Viên chức được trả tiền làm thêm giờ, tiền làm việc vào ban đêm theo quy định pháp luật lao động."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Trường hợp do nhu cầu công việc mà viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hàng năm thì được giải quyết như thế nào?",
-        "options": [
-          "A. Bắt buộc phải chuyển số ngày phép sang năm thứ mười.",
-          "B. Bị hủy bỏ toàn bộ số ngày phép mà không có bất kỳ khoản hỗ trợ nào.",
-          "C. Trừ trực tiếp vào điểm thi đua cuối năm.",
-          "D. Được thanh toán một khoản tiền cho những ngày không nghỉ theo quy định."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Viên chức: Được thanh toán tiền cho những ngày không nghỉ theo quy chế đơn vị."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Cô giáo dạy Tiếng Anh tại trường THCS công lập có được ký hợp đồng giảng dạy buổi tối tại một trung tâm ngoại ngữ tư thục không?",
-        "options": [
-          "A. Được ký hợp đồng vụ việc ngoài giờ làm việc nếu pháp luật không cấm và được người đứng đầu trường học đồng ý.",
-          "B. Bị cấm hoàn toàn vì vi phạm đạo đức nhà giáo.",
-          "C. Tự do dạy mà không cần thông báo hay xin phép bất kỳ ai.",
-          "D. Chỉ được dạy miễn phí không được nhận thù lao."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 14 Luật Viên chức: Được ký hợp đồng vụ việc với cơ quan, tổ chức khác mà pháp luật không cấm nhưng phải hoàn thành nhiệm vụ được giao và có sự đồng ý của người đứng đầu."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 7 nghĩa vụ",
-          "B. 6 nghĩa vụ",
-          "C. 5 nghĩa vụ",
-          "D. 4 nghĩa vụ"
-        ],
-        "ans": 2,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
-        "options": [
-          "A. 5 nghĩa vụ",
-          "B. 8 nghĩa vụ",
-          "C. 7 nghĩa vụ",
-          "D. 6 nghĩa vụ"
-        ],
-        "ans": 2,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có hành vi xúc phạm danh dự, nhân phẩm của người học là vi phạm điều khoản nào?",
-        "options": [
-          "A. Vi phạm những việc viên chức không được làm tại khoản 4 Điều 19 Luật Viên chức.",
-          "B. Vi phạm nguyên tắc bảo mật thông tin nhà nước.",
-          "C. Vi phạm quyền đơn phương chấm dứt hợp đồng.",
-          "D. Vi phạm chế độ biệt phái viên chức."
-        ],
-        "ans": 0,
-        "explanation": "★ Trích luật: Khoản 4 Điều 19 nghiêm cấm: Xúc phạm danh dự, nhân phẩm, uy tín của người khác trong khi thực hiện hoạt động nghề nghiệp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Một trường học công lập tại TP Huế tuyển dụng giáo viên mới vào tháng 09/2025. Hiệu trưởng ký hợp đồng làm việc lần đầu với thời hạn 48 tháng thì có đúng quy định pháp luật không?",
-        "options": [
-          "A. Sai quy định, vì phải ký không xác định thời hạn ngay từ đầu.",
-          "B. Sai quy định, vì tối đa chỉ được ký 24 tháng.",
-          "C. Đúng quy định, vì thời hạn 48 tháng nằm trong khung từ đủ 12 tháng đến 60 tháng.",
-          "D. Sai quy định, vì hợp đồng lần đầu bắt buộc phải đúng 36 tháng."
-        ],
-        "ans": 2,
-        "explanation": "★ Tình huống: Khung luật cho phép từ đủ 12 tháng đến 60 tháng, nên ký 48 tháng là hoàn toàn hợp pháp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển.",
-          "B. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục.",
-          "C. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn.",
-          "D. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025."
-        ],
-        "ans": 2,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Khi đơn phương chấm dứt hợp đồng làm việc với viên chức ký hợp đồng XÁC ĐỊNH THỜI HẠN (trừ trường hợp ốm đau), ĐVSNCL phải báo trước ít nhất bao nhiêu ngày?",
-        "options": [
-          "A. Ít nhất 15 ngày.",
-          "B. Ít nhất 60 ngày.",
-          "C. Ít nhất 45 ngày.",
-          "D. Ít nhất 30 ngày."
-        ],
-        "ans": 3,
-        "explanation": "★ Bẫy ngày báo trước: HĐ không xác định thời hạn: báo trước ít nhất 45 ngày; HĐ xác định thời hạn: báo trước ít nhất 30 ngày."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
-        "options": [
-          "A. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình.",
-          "B. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân.",
-          "C. Cảm thấy áp lực công việc giảng dạy quá nặng nề.",
-          "D. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
-        "options": [
-          "A. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "B. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "C. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định.",
-          "D. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động)."
-        ],
-        "ans": 3,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
-        "options": [
-          "A. Không quá 02 năm",
-          "B. Không quá 05 năm",
-          "C. Không quá 01 năm",
-          "D. Không quá 03 năm"
-        ],
-        "ans": 3,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
-        "options": [
-          "A. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E.",
-          "B. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "C. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
-          "D. 2 mức: Đạt và Không đạt chuẩn viên chức."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
-        "options": [
-          "A. Buộc thôi việc",
-          "B. Cách chức",
-          "C. Khiển trách",
-          "D. Cảnh cáo"
-        ],
-        "ans": 1,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
-        "options": [
-          "A. 03 năm (36 tháng)",
-          "B. 05 năm (60 tháng)",
-          "C. 10 năm",
-          "D. 02 năm (24 tháng)"
-        ],
-        "ans": 1,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ.",
-          "B. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "C. Viên chức vi phạm quy định về đi làm muộn quá 3 lần.",
-          "D. Viên chức không tham gia họp hội đồng trường định kỳ."
-        ],
-        "ans": 1,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 2] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
-        "options": [
-          "A. Không quá 45 ngày cố định.",
-          "B. Không quá 07 ngày làm việc.",
-          "C. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày.",
-          "D. Không quá 30 ngày; kéo dài tối đa 60 ngày."
-        ],
-        "ans": 2,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển.",
-          "B. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "C. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "D. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
-        "options": [
-          "A. Người đã từng làm việc tại doanh nghiệp tư nhân.",
-          "B. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu.",
-          "C. Người không có hộ khẩu thường trú tại thành phố Huế.",
-          "D. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
-        "options": [
-          "A. Người dân tộc thiểu số, sĩ quan quân đội nhân dân.",
-          "B. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh.",
-          "C. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học.",
-          "D. Người tốt nghiệp đại học loại giỏi tại nước ngoài."
-        ],
-        "ans": 1,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 3,0 điểm",
-          "B. 2,5 điểm",
-          "C. 5,0 điểm",
-          "D. 7,5 điểm"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "B. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "C. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2.",
-          "D. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2."
-        ],
-        "ans": 3,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "B. 60 câu hỏi, thời gian làm bài 90 phút.",
-          "C. 60 câu hỏi, thời gian làm bài 60 phút.",
-          "D. 50 câu hỏi, thời gian làm bài 50 phút."
-        ],
-        "ans": 2,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1.",
-          "B. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1.",
-          "C. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1.",
-          "D. Thí sinh là đảng viên chính thức được miễn thi Vòng 1."
-        ],
-        "ans": 2,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
-        "options": [
-          "A. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "B. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "C. Thời gian thi vấn đáp 45 phút.",
-          "D. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị."
-        ],
-        "ans": 1,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
-        "options": [
-          "A. Thang điểm 10, đạt từ 5 điểm trở lên.",
-          "B. Thang điểm 100, đạt từ 60 điểm trở lên.",
-          "C. Thang điểm 100, đạt từ 70 điểm trở lên.",
-          "D. Thang điểm 100, đạt từ 50 điểm trở lên."
-        ],
-        "ans": 3,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
-        "options": [
-          "A. Trong thời hạn 15 ngày",
-          "B. Trong thời hạn 45 ngày",
-          "C. Trong thời hạn 60 ngày",
-          "D. Trong thời hạn 30 ngày"
-        ],
-        "ans": 3,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 1] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
         "options": [
           "A. 06 tháng",
           "B. 09 tháng",
@@ -1099,6163 +171,7111 @@ window.EXAMS_DATA = [
           "D. 12 tháng"
         ],
         "ans": 3,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 1] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
         "options": [
-          "A. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần.",
-          "B. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương.",
-          "C. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "D. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
-        "options": [
-          "A. Có chứng chỉ tiếng Anh quốc tế C1 trở lên.",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "C. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng.",
-          "D. Là con ruột của người đứng đầu đơn vị tuyển dụng."
+          "A. 100% mức lương bậc 1 trong mọi trường hợp.",
+          "B. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "C. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự).",
+          "D. 75% mức lương bậc 1."
         ],
         "ans": 2,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
         "options": [
-          "A. 100%",
-          "B. 75%",
-          "C. 85%",
-          "D. 80%"
-        ],
-        "ans": 2,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 2] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
-        "options": [
-          "A. Được giảm 100% số tiết dạy trên lớp.",
-          "B. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự.",
-          "C. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "D. Được hưởng thêm 50% mức lương của người tập sự."
-        ],
-        "ans": 1,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
-        "options": [
-          "A. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây.",
-          "B. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng.",
-          "C. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "D. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
-        "options": [
-          "A. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội.",
-          "B. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "C. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học.",
-          "D. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao."
+          "A. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+          "B. 4 mức: Xuất sắc, Khá, Trung bình, Yếu.",
+          "C. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
+          "D. 5 mức: Hạng A, B, C, D, E."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
         "options": [
-          "A. Giáo dục tiểu học.",
-          "B. Giáo dục trung học cơ sở.",
-          "C. Giáo dục trung học phổ thông.",
-          "D. Giáo dục mầm non cho trẻ 5 tuổi."
+          "A. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "B. Khiển trách, Cảnh cáo, Giáng chức, Cách chức.",
+          "C. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương)."
         ],
         "ans": 0,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
         "options": [
-          "A. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh.",
-          "B. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí.",
-          "C. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "D. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất."
-        ],
-        "ans": 1,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
-        "options": [
-          "A. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm).",
-          "B. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp.",
-          "C. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học.",
-          "D. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm)."
+          "A. Chuyển sang làm viên chức sự nghiệp.",
+          "B. Bãi nhiệm và Miễn nhiệm.",
+          "C. Chỉ có Khiển trách và Buộc thôi việc.",
+          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
         "options": [
-          "A. Hội Khuyến học tỉnh.",
-          "B. Ủy ban nhân dân cấp tỉnh.",
-          "C. Giám đốc Sở Giáo dục và Đào tạo.",
-          "D. Hiệu trưởng từng trường phổ thông."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
-        "options": [
-          "A. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường.",
-          "B. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh.",
-          "C. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "D. Giữ vai trò quản lý tài chính trường học."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
-        "options": [
-          "A. Phải là đảng viên Đảng Cộng sản Việt Nam.",
-          "B. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở.",
-          "C. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "D. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế."
+          "A. Không giới hạn thời hiệu.",
+          "B. 12 tháng đối với mọi hình thức.",
+          "C. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "D. 36 tháng đối với mọi hình thức."
         ],
         "ans": 2,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 1] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
         "options": [
-          "A. Có bằng tốt nghiệp cao đẳng sư phạm trở lên.",
-          "B. Có bằng tốt nghiệp trung cấp sư phạm trở lên.",
-          "C. Có bằng cử nhân ngành đào tạo giáo viên trở lên.",
-          "D. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ."
+          "A. Không quá 60 ngày.",
+          "B. Do thủ trưởng đơn vị quyết định tùy ý.",
+          "C. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày.",
+          "D. Cố định 30 ngày."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
+        "options": [
+          "A. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "B. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ.",
+          "C. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương.",
+          "D. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam."
         ],
         "ans": 0,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
         "options": [
-          "A. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "B. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "C. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm.",
-          "D. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm)."
-        ],
-        "ans": 3,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh.",
-          "B. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "C. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định.",
-          "D. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác."
+          "A. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy.",
+          "B. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị.",
+          "C. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên.",
+          "D. Cơ quan quyền lực nhà nước cao nhất tại địa phương."
         ],
         "ans": 2,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
         "options": [
-          "A. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học.",
-          "B. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học.",
-          "C. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "D. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học."
+          "A. Hiệp thương dân chủ và tự nguyện đóng góp.",
+          "B. Khoán việc, giao việc và nghiệm thu.",
+          "C. Phân quyền, phân cấp và ủy quyền.",
+          "D. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện."
+        ],
+        "ans": 2,
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
+        "options": [
+          "A. Do Chủ tịch UBND cấp trên phân công bằng lời nói.",
+          "B. Phải được quy định trong luật.",
+          "C. Quy định trong quy chế nội bộ của UBND cấp dưới.",
+          "D. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
+        "options": [
+          "A. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp.",
+          "B. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "C. Không được ủy quyền lại cho cơ quan, tổ chức khác.",
+          "D. Được ủy quyền cho bất kỳ cá nhân công chức nào."
+        ],
+        "ans": 2,
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
+        "options": [
+          "A. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "C. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy.",
+          "D. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
+        "options": [
+          "A. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương.",
+          "B. Thường trực Hội đồng nhân dân cấp huyện.",
+          "C. Giám đốc Sở Nội vụ.",
+          "D. Thủ tướng Chính phủ."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
         "options": [
-          "A. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp.",
-          "B. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "C. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền.",
-          "D. Ra bài tập về nhà phù hợp với năng lực của học sinh."
+          "A. Mỗi nhiệm kỳ chỉ họp 01 lần",
+          "B. Ít nhất 02 kỳ họp",
+          "C. Ít nhất 04 kỳ họp",
+          "D. Mỗi tháng 01 kỳ"
         ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
         "options": [
-          "A. Không có chế độ phụ cấp thâm niên.",
-          "B. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương.",
-          "C. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "D. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ."
+          "A. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "B. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh.",
+          "C. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách.",
+          "D. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "B. Ban Tiếp công dân và Ban Quản lý trật tự đô thị.",
+          "C. Chỉ có Ban Pháp chế và Ban Kinh tế.",
+          "D. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 2] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
         "options": [
-          "A. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ.",
-          "B. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "C. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên.",
-          "D. Đóng góp ý kiến xây dựng phong trào thi đua của lớp."
+          "A. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "B. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
+          "C. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn.",
+          "D. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
         "options": [
-          "A. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học.",
-          "B. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc.",
-          "C. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân.",
-          "D. Giảm tải 80% thời lượng các môn khoa học cơ bản."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
-        "options": [
-          "A. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "B. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "C. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân.",
-          "D. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
-        "options": [
-          "A. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học.",
-          "B. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "C. Học thuộc lòng kiến thức sách giáo khoa theo mẫu.",
-          "D. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế."
-        ],
-        "ans": 1,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
-        "options": [
-          "A. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "B. Loại bỏ hoàn toàn việc kiểm tra định kỳ.",
-          "C. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "D. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn."
+          "A. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "B. Chỉ được góp ý nhắc nhở mà không được bãi bỏ.",
+          "C. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ.",
+          "D. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
         "options": [
-          "A. 3 chương, 12 điều",
-          "B. 5 chương, 15 điều",
-          "C. 4 chương, 15 điều",
-          "D. 4 chương, 10 điều"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
-        "options": [
-          "A. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn.",
-          "B. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp.",
-          "C. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh.",
-          "D. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
-        "options": [
-          "A. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường.",
-          "B. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "C. Sử dụng hình phạt thể xác nghiêm khắc để răn đe.",
-          "D. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
-        "options": [
-          "A. Kịp thời thông báo kết quả học tập của học sinh.",
-          "B. Xúc phạm, áp đặt, vụ lợi.",
-          "C. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "D. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh."
+          "A. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp.",
+          "B. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân.",
+          "C. Phải có bằng tiến sĩ luật học.",
+          "D. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
         "options": [
-          "A. 5 tiêu chuẩn, 15 tiêu chí",
-          "B. 5 tiêu chuẩn, 20 tiêu chí",
-          "C. 6 tiêu chuẩn, 18 tiêu chí",
-          "D. 4 tiêu chuẩn, 12 tiêu chí"
+          "A. Giám đốc các doanh nghiệp tư nhân trên địa bàn.",
+          "B. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương.",
+          "C. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "D. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 1] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
+        "options": [
+          "A. Chuyển thành mô hình ban quản lý khu kinh tế mở.",
+          "B. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương).",
+          "C. Giải thể hoàn toàn các cơ quan tư pháp cấp quận.",
+          "D. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp."
+        ],
+        "ans": 1,
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
+        "options": [
+          "A. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+          "B. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "C. Thông cáo báo chí của cơ quan truyền thông công quyền.",
+          "D. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày."
         ],
         "ans": 0,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 2] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
         "options": [
-          "A. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần.",
-          "B. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "C. Kiểm tra vở ghi và sách bài tập của học sinh.",
-          "D. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường."
+          "A. Công văn hướng dẫn nghiệp vụ.",
+          "B. Chỉ thị và Quyết định.",
+          "C. Quyết định.",
+          "D. Nghị quyết và Thông tư."
+        ],
+        "ans": 2,
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
+        "options": [
+          "A. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành.",
+          "B. Không sớm hơn 30 ngày kể từ ngày ký ban hành.",
+          "C. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "D. Không sớm hơn 45 ngày kể từ ngày đăng công báo."
+        ],
+        "ans": 0,
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "options": [
+          "A. Quy định bãi bỏ các thủ tục hành chính rườm rà.",
+          "B. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng.",
+          "C. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai.",
+          "D. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn."
+        ],
+        "ans": 3,
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
+        "options": [
+          "A. 9 thành phần",
+          "B. 7 thành phần",
+          "C. 12 thành phần",
+          "D. 8 thành phần"
+        ],
+        "ans": 0,
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
+        "options": [
+          "A. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang.",
+          "B. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "C. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do.",
+          "D. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang."
+        ],
+        "ans": 3,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký.",
+          "B. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "C. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái.",
+          "D. Đóng dấu chính giữa trùm lên toàn bộ chữ ký."
+        ],
+        "ans": 2,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
+        "options": [
+          "A. Tối đa 10 tờ văn bản",
+          "B. Tối đa 03 tờ văn bản",
+          "C. Tối đa 05 tờ văn bản",
+          "D. Không giới hạn số tờ"
+        ],
+        "ans": 2,
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
+        "options": [
+          "A. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 1] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
+        "options": [
+          "A. Ủy ban nhân dân thành phố Huế",
+          "B. Ủy Ban Nhân Dân Thành Phố Huế",
+          "C. ủy ban nhân dân Thành phố Huế",
+          "D. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)"
+        ],
+        "ans": 0,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
+        "options": [
+          "A. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "B. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+          "C. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức.",
+          "D. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước.",
+          "B. Cán bộ, công chức, viên chức trong cơ quan nhà nước.",
+          "C. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "D. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 15 nhóm hành vi",
+          "B. 10 nhóm hành vi",
+          "C. 12 nhóm hành vi",
+          "D. 8 nhóm hành vi"
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình chi tiết đời sống riêng tư của người thân cán bộ.",
+          "B. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí.",
+          "C. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn.",
+          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo.",
+          "B. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi.",
+          "C. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "D. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng.",
+          "B. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng.",
+          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài.",
+          "D. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên."
+        ],
+        "ans": 2,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Trước ngày 30 tháng 06 hàng năm",
+          "B. Trước ngày 31 tháng 12 của năm kê khai",
+          "C. Trước ngày 31 tháng 01 năm sau",
+          "D. Vào dịp Đại hội cổ đông"
+        ],
+        "ans": 1,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "B. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+          "D. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã.",
+          "B. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "C. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp.",
+          "D. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân."
+        ],
+        "ans": 1,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI.",
+          "B. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính.",
+          "C. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "D. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số."
+        ],
+        "ans": 3,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "B. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "C. Mở rộng trụ sở làm việc của các cơ quan hành chính.",
+          "D. Mua sắm trang thiết bị xe công vụ hiện đại."
+        ],
+        "ans": 0,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI.",
+          "B. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương.",
+          "C. Đếm số lượng văn bản hành chính được ban hành trong năm.",
+          "D. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước."
+        ],
+        "ans": 3,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "B. Dịch vụ công trong nước và Dịch vụ công quốc tế.",
+          "C. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4.",
+          "D. Dịch vụ công miễn phí và Dịch vụ công có thu phí."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức.",
+          "B. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập.",
+          "C. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "D. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh."
+        ],
+        "ans": 3,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 1] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý.",
+          "B. Giảm thời gian làm việc trong ngày của công chức.",
+          "C. Tăng thu lệ phí cho ngân sách địa phương.",
+          "D. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Đề số 02: Chuyên sâu Tổ chức chính quyền địa phương & Bộ máy UBND/HĐND TP Huế",
+    "totalQuestions": 60,
+    "timeMinutes": 60,
+    "questions": [
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
+        "options": [
+          "A. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "B. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "C. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã.",
+          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước."
+        ],
+        "ans": 3,
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
+        "options": [
+          "A. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao.",
+          "B. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng.",
+          "C. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "D. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo."
+        ],
+        "ans": 2,
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. 5 nguyên tắc",
+          "B. 7 nguyên tắc",
+          "C. 6 nguyên tắc",
+          "D. 4 nguyên tắc"
+        ],
+        "ans": 0,
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
+        "options": [
+          "A. Tự do học thuật và sáng tạo không giới hạn.",
+          "B. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "C. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước.",
+          "D. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
+        "options": [
+          "A. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "B. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý.",
+          "C. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân.",
+          "D. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
+        "options": [
+          "A. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới.",
+          "B. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "C. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành.",
+          "D. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó."
+        ],
+        "ans": 3,
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
+        "options": [
+          "A. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "B. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh.",
+          "C. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật.",
+          "D. Được hưởng gấp đôi hệ số lương hiện hưởng."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
+        "options": [
+          "A. Chỉ chào hỏi những người giữ chức vụ cao hơn mình.",
+          "B. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính.",
+          "C. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức.",
+          "D. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
+        "options": [
+          "A. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ.",
+          "B. Tôn trọng phong tục tập quán của đồng bào các dân tộc.",
+          "C. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "D. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
+        "options": [
+          "A. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành.",
+          "B. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ.",
+          "C. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật.",
+          "D. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
+        "options": [
+          "A. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ.",
+          "B. Cấp cao, Cấp trung, Cấp cơ sở.",
+          "C. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên.",
+          "D. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V."
+        ],
+        "ans": 0,
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
+        "options": [
+          "A. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "B. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng.",
+          "C. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "D. Số lượng hồ sơ tồn đọng từ các năm trước."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
+        "options": [
+          "A. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "B. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam.",
+          "C. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "D. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 2] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
+        "options": [
+          "A. 12 tháng",
+          "B. 06 tháng",
+          "C. 09 tháng",
+          "D. 24 tháng"
+        ],
+        "ans": 0,
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 2] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
+        "options": [
+          "A. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "B. 75% mức lương bậc 1.",
+          "C. 100% mức lương bậc 1 trong mọi trường hợp.",
+          "D. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự)."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
+        "options": [
+          "A. 5 mức: Hạng A, B, C, D, E.",
+          "B. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+          "C. 4 mức: Xuất sắc, Khá, Trung bình, Yếu.",
+          "D. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
+        "options": [
+          "A. Khiển trách, Cảnh cáo, Giáng chức, Cách chức.",
+          "B. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "C. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương)."
+        ],
+        "ans": 2,
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
+        "options": [
+          "A. Chỉ có Khiển trách và Buộc thôi việc.",
+          "B. Bãi nhiệm và Miễn nhiệm.",
+          "C. Chuyển sang làm viên chức sự nghiệp.",
+          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
+        "options": [
+          "A. 36 tháng đối với mọi hình thức.",
+          "B. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "C. 12 tháng đối với mọi hình thức.",
+          "D. Không giới hạn thời hiệu."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 2] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
+        "options": [
+          "A. Cố định 30 ngày.",
+          "B. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày.",
+          "C. Không quá 60 ngày.",
+          "D. Do thủ trưởng đơn vị quyết định tùy ý."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
+        "options": [
+          "A. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "B. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương.",
+          "C. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ.",
+          "D. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
+        "options": [
+          "A. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị.",
+          "B. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên.",
+          "C. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy.",
+          "D. Cơ quan quyền lực nhà nước cao nhất tại địa phương."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
+        "options": [
+          "A. Khoán việc, giao việc và nghiệm thu.",
+          "B. Hiệp thương dân chủ và tự nguyện đóng góp.",
+          "C. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện.",
+          "D. Phân quyền, phân cấp và ủy quyền."
+        ],
+        "ans": 3,
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
+        "options": [
+          "A. Do Chủ tịch UBND cấp trên phân công bằng lời nói.",
+          "B. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban.",
+          "C. Phải được quy định trong luật.",
+          "D. Quy định trong quy chế nội bộ của UBND cấp dưới."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
+        "options": [
+          "A. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "B. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp.",
+          "C. Được ủy quyền cho bất kỳ cá nhân công chức nào.",
+          "D. Không được ủy quyền lại cho cơ quan, tổ chức khác."
+        ],
+        "ans": 3,
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
+        "options": [
+          "A. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy.",
+          "B. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "C. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân.",
+          "D. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an)."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
+        "options": [
+          "A. Thường trực Hội đồng nhân dân cấp huyện.",
+          "B. Giám đốc Sở Nội vụ.",
+          "C. Thủ tướng Chính phủ.",
+          "D. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
+        "options": [
+          "A. Mỗi tháng 01 kỳ",
+          "B. Ít nhất 04 kỳ họp",
+          "C. Ít nhất 02 kỳ họp",
+          "D. Mỗi nhiệm kỳ chỉ họp 01 lần"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
+        "options": [
+          "A. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh.",
+          "B. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh.",
+          "C. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "D. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị.",
+          "B. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "C. Ban Tiếp công dân và Ban Quản lý trật tự đô thị.",
+          "D. Chỉ có Ban Pháp chế và Ban Kinh tế."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
+        "options": [
+          "A. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "B. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "C. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
+          "D. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
+        "options": [
+          "A. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố.",
+          "B. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "C. Chỉ được góp ý nhắc nhở mà không được bãi bỏ.",
+          "D. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
+        "options": [
+          "A. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương.",
+          "B. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp.",
+          "C. Phải có bằng tiến sĩ luật học.",
+          "D. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
+        "options": [
+          "A. Giám đốc các doanh nghiệp tư nhân trên địa bàn.",
+          "B. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương.",
+          "C. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "D. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 2] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
+        "options": [
+          "A. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp.",
+          "B. Chuyển thành mô hình ban quản lý khu kinh tế mở.",
+          "C. Giải thể hoàn toàn các cơ quan tư pháp cấp quận.",
+          "D. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương)."
+        ],
+        "ans": 3,
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
+        "options": [
+          "A. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+          "B. Thông cáo báo chí của cơ quan truyền thông công quyền.",
+          "C. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày.",
+          "D. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
+        "options": [
+          "A. Nghị quyết và Thông tư.",
+          "B. Chỉ thị và Quyết định.",
+          "C. Công văn hướng dẫn nghiệp vụ.",
+          "D. Quyết định."
+        ],
+        "ans": 3,
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
+        "options": [
+          "A. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "B. Không sớm hơn 45 ngày kể từ ngày đăng công báo.",
+          "C. Không sớm hơn 30 ngày kể từ ngày ký ban hành.",
+          "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
+        ],
+        "ans": 3,
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "options": [
+          "A. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng.",
+          "B. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai.",
+          "C. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn.",
+          "D. Quy định bãi bỏ các thủ tục hành chính rườm rà."
+        ],
+        "ans": 2,
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
+        "options": [
+          "A. 9 thành phần",
+          "B. 12 thành phần",
+          "C. 7 thành phần",
+          "D. 8 thành phần"
+        ],
+        "ans": 0,
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
+        "options": [
+          "A. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "B. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang.",
+          "C. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do.",
+          "D. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang."
+        ],
+        "ans": 1,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái.",
+          "B. Đóng dấu chính giữa trùm lên toàn bộ chữ ký.",
+          "C. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký.",
+          "D. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải."
+        ],
+        "ans": 0,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
+        "options": [
+          "A. Tối đa 03 tờ văn bản",
+          "B. Tối đa 10 tờ văn bản",
+          "C. Tối đa 05 tờ văn bản",
+          "D. Không giới hạn số tờ"
+        ],
+        "ans": 2,
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
+        "options": [
+          "A. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
+        ],
+        "ans": 1,
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 2] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
+        "options": [
+          "A. ủy ban nhân dân Thành phố Huế",
+          "B. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)",
+          "C. Ủy Ban Nhân Dân Thành Phố Huế",
+          "D. Ủy ban nhân dân thành phố Huế"
+        ],
+        "ans": 3,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
+        "options": [
+          "A. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "B. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+          "C. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính.",
+          "D. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Cán bộ, công chức, viên chức trong cơ quan nhà nước.",
+          "B. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó.",
+          "C. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "D. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 10 nhóm hành vi",
+          "B. 8 nhóm hành vi",
+          "C. 12 nhóm hành vi",
+          "D. 15 nhóm hành vi"
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình chi tiết đời sống riêng tư của người thân cán bộ.",
+          "B. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí.",
+          "C. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
+          "D. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "B. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận.",
+          "C. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo.",
+          "D. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng.",
+          "B. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên.",
+          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài.",
+          "D. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng."
+        ],
+        "ans": 2,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Vào dịp Đại hội cổ đông",
+          "B. Trước ngày 30 tháng 06 hàng năm",
+          "C. Trước ngày 31 tháng 01 năm sau",
+          "D. Trước ngày 31 tháng 12 của năm kê khai"
+        ],
+        "ans": 3,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng.",
+          "B. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+          "C. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "D. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "B. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã.",
+          "C. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân.",
+          "D. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp."
+        ],
+        "ans": 0,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "B. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính.",
+          "D. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI."
+        ],
+        "ans": 1,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "B. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Mua sắm trang thiết bị xe công vụ hiện đại.",
+          "D. Mở rộng trụ sở làm việc của các cơ quan hành chính."
+        ],
+        "ans": 1,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
+          "B. Đếm số lượng văn bản hành chính được ban hành trong năm.",
+          "C. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương.",
+          "D. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI."
+        ],
+        "ans": 0,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4.",
+          "B. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "C. Dịch vụ công miễn phí và Dịch vụ công có thu phí.",
+          "D. Dịch vụ công trong nước và Dịch vụ công quốc tế."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức.",
+          "B. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập.",
+          "C. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "D. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh."
+        ],
+        "ans": 3,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 2] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý.",
+          "B. Giảm thời gian làm việc trong ngày của công chức.",
+          "C. Tăng thu lệ phí cho ngân sách địa phương.",
+          "D. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   },
   {
     "id": 3,
-    "title": "Đề số 03: Chuyên sâu Quyền lợi, Nghĩa vụ & Những điều viên chức không được làm",
+    "title": "Đề số 03: Chuyên sâu Luật Ban hành VBQPPL & Kỹ thuật văn thư (Nghị định 30/2020)",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "Điểm khác biệt căn bản về nguồn chi trả lương giữa Công chức và Viên chức là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Công chức hưởng lương theo sản phẩm; Viên chức hưởng lương theo thỏa thuận khoán việc.",
-          "B. Viên chức chỉ hưởng lương khi đơn vị sự nghiệp có lợi nhuận kinh doanh.",
-          "C. Công chức hưởng lương từ ngân sách nhà nước; Viên chức hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.",
-          "D. Cả công chức và viên chức đều hưởng lương trực tiếp từ ngân sách thành phố như nhau."
+          "A. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "B. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "C. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước.",
+          "D. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã."
         ],
         "ans": 2,
-        "explanation": "★ Bản chất: Điều 2 Luật Viên chức quy định viên chức hưởng lương từ 'quỹ lương của đơn vị sự nghiệp công lập' (bao gồm ngân sách cấp và nguồn thu sự nghiệp của đơn vị). Trong khi đó, công chức (Luật Cán bộ, công chức) hưởng lương trực tiếp từ ngân sách nhà nước."
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "q": "Nguyên tắc 'Tận tụy phục vụ nhân dân' thuộc nhóm nguyên tắc nào dưới đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. Nguyên tắc quản lý viên chức (Điều 6 Luật Viên chức).",
-          "B. Nguyên tắc đánh giá và phân loại viên chức hàng năm.",
-          "C. Nguyên tắc trong hoạt động nghề nghiệp của viên chức (Điều 3 Luật Viên chức).",
-          "D. Nguyên tắc ký kết hợp đồng làm việc."
+          "A. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "B. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao.",
+          "C. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo.",
+          "D. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. 5 nguyên tắc",
+          "B. 7 nguyên tắc",
+          "C. 4 nguyên tắc",
+          "D. 6 nguyên tắc"
+        ],
+        "ans": 0,
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
+        "options": [
+          "A. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước.",
+          "B. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL.",
+          "C. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "D. Tự do học thuật và sáng tạo không giới hạn."
         ],
         "ans": 2,
-        "explanation": "★ Bản chất: Hoạt động nghề nghiệp của viên chức gắn liền với phục vụ cộng đồng, học sinh, bệnh nhân, người dân nên 'Tận tụy phục vụ nhân dân' là nguyên tắc nghề nghiệp số 2 tại Điều 3."
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Luật Viên chức, việc tuyển dụng, sử dụng, quản lý, đánh giá viên chức được thực hiện trên cơ sở nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
         "options": [
-          "A. Bằng khen và huy chương qua các năm.",
-          "B. Quan hệ thân quen và ý chí chủ quan của thủ trưởng.",
-          "C. Tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và căn cứ vào hợp đồng làm việc.",
-          "D. Mức độ đóng góp tài chính cho đơn vị."
+          "A. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "B. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý.",
+          "C. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ.",
+          "D. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
+        "options": [
+          "A. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới.",
+          "B. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "C. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành.",
+          "D. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó."
+        ],
+        "ans": 3,
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
+        "options": [
+          "A. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "B. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh.",
+          "C. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật.",
+          "D. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn."
         ],
         "ans": 2,
-        "explanation": "★ Trích luật: Khoản 3 Điều 6 Luật Viên chức: Căn cứ tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và hợp đồng làm việc."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Quyền của viên chức về tiền lương bao gồm quyền nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
         "options": [
-          "A. Được tự định đoạt bảng lương của đồng nghiệp.",
-          "B. Được nhận lương trực tiếp bằng ngoại tệ không qua tài khoản.",
-          "C. Được tự giữ lại một phần nguồn thu viện phí, học phí.",
-          "D. Được hưởng tiền thưởng, được xét nâng lương theo quy định của pháp luật và quy chế của đơn vị sự nghiệp công lập."
+          "A. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "B. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức.",
+          "C. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính.",
+          "D. Chỉ chào hỏi những người giữ chức vụ cao hơn mình."
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 12 Luật Viên chức."
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có quyền nghỉ không hưởng lương trong trường hợp nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
         "options": [
-          "A. Không bao giờ được phép nghỉ không hưởng lương.",
-          "B. Tự ý nghỉ bất kỳ lúc nào chỉ cần gửi tin nhắn thông báo.",
-          "C. Chỉ áp dụng cho viên chức nữ sinh con.",
-          "D. Có lý do chính đáng và được sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 13 Luật Viên chức: Được nghỉ không hưởng lương trong trường hợp có lý do chính đáng và được người đứng đầu đồng ý."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức được phép tham gia góp vốn vào doanh nghiệp theo hình thức nào?",
-        "options": [
-          "A. Được góp vốn nhưng không được tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh...",
-          "B. Được giữ chức danh Tổng giám đốc điều hành công ty cổ phần ngoài giờ làm việc.",
-          "C. Tuyệt đối không được góp vốn vào bất kỳ doanh nghiệp nào.",
-          "D. Được lập doanh nghiệp tư nhân đứng tên chính mình làm chủ."
-        ],
-        "ans": 0,
-        "explanation": "★ Bẫy trắc nghiệm: Viên chức ĐƯỢC GÓP VỐN nhưng KHÔNG ĐƯỢC QUẢN LÝ, ĐIỀU HÀNH doanh nghiệp (khoản 3 Điều 14 Luật Viên chức)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 7 nghĩa vụ",
-          "B. 6 nghĩa vụ",
-          "C. 5 nghĩa vụ",
-          "D. 4 nghĩa vụ"
+          "A. Tôn trọng phong tục tập quán của đồng bào các dân tộc.",
+          "B. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân.",
+          "C. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ.",
+          "D. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu."
         ],
         "ans": 2,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
         "options": [
-          "A. 7 nghĩa vụ",
-          "B. 6 nghĩa vụ",
-          "C. 8 nghĩa vụ",
-          "D. 5 nghĩa vụ"
+          "A. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật.",
+          "B. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật.",
+          "C. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành.",
+          "D. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ."
         ],
         "ans": 0,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Đâu KHÔNG PHẢI là việc viên chức không được làm theo Điều 19 Luật Viên chức 2010?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
         "options": [
-          "A. Sử dụng tài sản của cơ quan, tổ chức và của nhân dân trái với quy định của pháp luật.",
-          "B. Tham gia các hoạt động thiện nguyện ngoài giờ giảng dạy.",
-          "C. Phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức.",
-          "D. Trốn tránh trách nhiệm, thoái thác công việc hoặc nhiệm vụ được giao."
+          "A. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V.",
+          "B. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ.",
+          "C. Cấp cao, Cấp trung, Cấp cơ sở.",
+          "D. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên."
         ],
         "ans": 1,
-        "explanation": "★ Phân tích: Tham gia thiện nguyện ngoài giờ là hoạt động khuyến khích. Các hành vi B, C, D đều thuộc 6 điều cấm tại Điều 19."
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Luật sửa đổi 2019, từ ngày 01/7/2020, hợp đồng làm việc xác định thời hạn áp dụng cho người trúng tuyển mới có khoảng thời gian là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
         "options": [
-          "A. Không quá 24 tháng.",
-          "B. Từ đủ 12 tháng đến 60 tháng.",
-          "C. Từ đủ 24 tháng đến 60 tháng.",
-          "D. Từ đủ 12 tháng đến 36 tháng."
-        ],
-        "ans": 1,
-        "explanation": "★ Bẫy thời gian cực hay gặp: Luật cũ 2010 là từ đủ 12 đến 36 tháng. Luật sửa đổi 2019 mở rộng thành TỪ ĐỦ 12 THÁNG ĐẾN 60 THÁNG (Khoản 2 Điều 25). Nhớ kỹ mốc 60 tháng!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển.",
-          "B. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn.",
-          "C. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025.",
-          "D. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục."
-        ],
-        "ans": 1,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Đơn vị sự nghiệp công lập được quyền đơn phương chấm dứt hợp đồng làm việc với viên chức trong trường hợp nào?",
-        "options": [
-          "A. Viên chức có 02 năm liên tiếp bị xếp loại chất lượng ở mức không hoàn thành nhiệm vụ.",
-          "B. Viên chức từ chối tham gia đội văn nghệ của trường.",
-          "C. Viên chức có 01 tháng không đạt chỉ tiêu dạy giỏi.",
-          "D. Viên chức bị đánh giá hoàn thành nhiệm vụ nhưng hiệu trưởng không thích."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 29 Luật Viên chức: Có 02 NĂM LIÊN TIẾP bị đánh giá không hoàn thành nhiệm vụ. Nếu chỉ 1 năm thì chưa được đơn phương chấm dứt!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
-        "options": [
-          "A. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân.",
-          "B. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ.",
-          "C. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình.",
-          "D. Cảm thấy áp lực công việc giảng dạy quá nặng nề."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
-        "options": [
-          "A. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "B. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định.",
-          "C. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "D. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động)."
-        ],
-        "ans": 3,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
-        "options": [
-          "A. Không quá 03 năm",
-          "B. Không quá 02 năm",
-          "C. Không quá 05 năm",
-          "D. Không quá 01 năm"
-        ],
-        "ans": 0,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
-        "options": [
-          "A. 2 mức: Đạt và Không đạt chuẩn viên chức.",
-          "B. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E.",
-          "C. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
-          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
-        "options": [
-          "A. Buộc thôi việc",
-          "B. Cách chức",
-          "C. Khiển trách",
-          "D. Cảnh cáo"
-        ],
-        "ans": 1,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
-        "options": [
-          "A. 10 năm",
-          "B. 03 năm (36 tháng)",
-          "C. 05 năm (60 tháng)",
-          "D. 02 năm (24 tháng)"
+          "A. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng.",
+          "B. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "C. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "D. Số lượng hồ sơ tồn đọng từ các năm trước."
         ],
         "ans": 2,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
         "options": [
-          "A. Viên chức không tham gia họp hội đồng trường định kỳ.",
-          "B. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "C. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ.",
-          "D. Viên chức vi phạm quy định về đi làm muộn quá 3 lần."
+          "A. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "B. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam.",
+          "C. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương.",
+          "D. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý."
         ],
         "ans": 1,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 3] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 3] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
         "options": [
-          "A. Không quá 45 ngày cố định.",
-          "B. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày.",
-          "C. Không quá 07 ngày làm việc.",
-          "D. Không quá 30 ngày; kéo dài tối đa 60 ngày."
-        ],
-        "ans": 1,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển.",
-          "B. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "C. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm.",
-          "D. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
-        "options": [
-          "A. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu.",
-          "B. Người không có hộ khẩu thường trú tại thành phố Huế.",
-          "C. Người đã từng làm việc tại doanh nghiệp tư nhân.",
-          "D. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù."
+          "A. 09 tháng",
+          "B. 06 tháng",
+          "C. 24 tháng",
+          "D. 12 tháng"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 3] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
         "options": [
-          "A. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học.",
-          "B. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh.",
-          "C. Người tốt nghiệp đại học loại giỏi tại nước ngoài.",
-          "D. Người dân tộc thiểu số, sĩ quan quân đội nhân dân."
+          "A. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "B. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự).",
+          "C. 100% mức lương bậc 1 trong mọi trường hợp.",
+          "D. 75% mức lương bậc 1."
         ],
         "ans": 1,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
         "options": [
-          "A. 7,5 điểm",
-          "B. 5,0 điểm",
-          "C. 2,5 điểm",
-          "D. 3,0 điểm"
+          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
+          "B. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+          "C. 5 mức: Hạng A, B, C, D, E.",
+          "D. 4 mức: Xuất sắc, Khá, Trung bình, Yếu."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
         "options": [
-          "A. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "B. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "C. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2.",
-          "D. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2."
-        ],
-        "ans": 3,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 60 câu hỏi, thời gian làm bài 60 phút.",
-          "B. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "C. 60 câu hỏi, thời gian làm bài 90 phút.",
-          "D. 50 câu hỏi, thời gian làm bài 50 phút."
+          "A. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "B. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương).",
+          "C. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức."
         ],
         "ans": 0,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
         "options": [
-          "A. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1.",
-          "B. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1.",
-          "C. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1.",
-          "D. Thí sinh là đảng viên chính thức được miễn thi Vòng 1."
+          "A. Bãi nhiệm và Miễn nhiệm.",
+          "B. Chỉ có Khiển trách và Buộc thôi việc.",
+          "C. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc.",
+          "D. Chuyển sang làm viên chức sự nghiệp."
         ],
         "ans": 2,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
         "options": [
-          "A. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị.",
-          "B. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "C. Thời gian thi vấn đáp 45 phút.",
-          "D. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời)."
-        ],
-        "ans": 3,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
-        "options": [
-          "A. Thang điểm 100, đạt từ 70 điểm trở lên.",
-          "B. Thang điểm 100, đạt từ 60 điểm trở lên.",
-          "C. Thang điểm 100, đạt từ 50 điểm trở lên.",
-          "D. Thang điểm 10, đạt từ 5 điểm trở lên."
+          "A. 36 tháng đối với mọi hình thức.",
+          "B. 12 tháng đối với mọi hình thức.",
+          "C. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "D. Không giới hạn thời hiệu."
         ],
         "ans": 2,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 3] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
         "options": [
-          "A. Trong thời hạn 30 ngày",
-          "B. Trong thời hạn 60 ngày",
-          "C. Trong thời hạn 15 ngày",
-          "D. Trong thời hạn 45 ngày"
+          "A. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày.",
+          "B. Không quá 60 ngày.",
+          "C. Cố định 30 ngày.",
+          "D. Do thủ trưởng đơn vị quyết định tùy ý."
         ],
         "ans": 0,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
         "options": [
-          "A. 12 tháng",
-          "B. 24 tháng",
-          "C. 09 tháng",
-          "D. 06 tháng"
-        ],
-        "ans": 0,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
-        "options": [
-          "A. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "B. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi.",
-          "C. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương.",
-          "D. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần."
+          "A. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương.",
+          "B. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ.",
+          "C. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "D. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
         "options": [
-          "A. Là con ruột của người đứng đầu đơn vị tuyển dụng.",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "C. Có chứng chỉ tiếng Anh quốc tế C1 trở lên.",
-          "D. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng."
+          "A. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy.",
+          "B. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị.",
+          "C. Cơ quan quyền lực nhà nước cao nhất tại địa phương.",
+          "D. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên."
         ],
         "ans": 3,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
         "options": [
-          "A. 85%",
-          "B. 100%",
-          "C. 80%",
-          "D. 75%"
-        ],
-        "ans": 0,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 3] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
-        "options": [
-          "A. Được giảm 100% số tiết dạy trên lớp.",
-          "B. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "C. Được hưởng thêm 50% mức lương của người tập sự.",
-          "D. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự."
-        ],
-        "ans": 3,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
-        "options": [
-          "A. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "B. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động.",
-          "C. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng.",
-          "D. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây."
+          "A. Khoán việc, giao việc và nghiệm thu.",
+          "B. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện.",
+          "C. Phân quyền, phân cấp và ủy quyền.",
+          "D. Hiệp thương dân chủ và tự nguyện đóng góp."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
         "options": [
-          "A. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "B. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao.",
-          "C. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học.",
-          "D. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
-        "options": [
-          "A. Giáo dục trung học cơ sở.",
-          "B. Giáo dục tiểu học.",
-          "C. Giáo dục trung học phổ thông.",
-          "D. Giáo dục mầm non cho trẻ 5 tuổi."
-        ],
-        "ans": 1,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
-        "options": [
-          "A. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí.",
-          "B. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "C. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh.",
-          "D. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất."
+          "A. Phải được quy định trong luật.",
+          "B. Quy định trong quy chế nội bộ của UBND cấp dưới.",
+          "C. Do Chủ tịch UBND cấp trên phân công bằng lời nói.",
+          "D. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban."
         ],
         "ans": 0,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
         "options": [
-          "A. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp.",
-          "B. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "C. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm).",
-          "D. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
-        "options": [
-          "A. Hiệu trưởng từng trường phổ thông.",
-          "B. Hội Khuyến học tỉnh.",
-          "C. Giám đốc Sở Giáo dục và Đào tạo.",
-          "D. Ủy ban nhân dân cấp tỉnh."
+          "A. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp.",
+          "B. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "C. Được ủy quyền cho bất kỳ cá nhân công chức nào.",
+          "D. Không được ủy quyền lại cho cơ quan, tổ chức khác."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
         "options": [
-          "A. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "B. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường.",
-          "C. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh.",
-          "D. Giữ vai trò quản lý tài chính trường học."
+          "A. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "C. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy.",
+          "D. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
+        "options": [
+          "A. Thủ tướng Chính phủ.",
+          "B. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương.",
+          "C. Thường trực Hội đồng nhân dân cấp huyện.",
+          "D. Giám đốc Sở Nội vụ."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
+        "options": [
+          "A. Ít nhất 04 kỳ họp",
+          "B. Ít nhất 02 kỳ họp",
+          "C. Mỗi nhiệm kỳ chỉ họp 01 lần",
+          "D. Mỗi tháng 01 kỳ"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
+        "options": [
+          "A. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "B. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh.",
+          "C. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách.",
+          "D. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "B. Ban Tiếp công dân và Ban Quản lý trật tự đô thị.",
+          "C. Chỉ có Ban Pháp chế và Ban Kinh tế.",
+          "D. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị."
+        ],
+        "ans": 3,
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
+        "options": [
+          "A. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
+          "B. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "C. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "D. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
+        "options": [
+          "A. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "B. Chỉ được góp ý nhắc nhở mà không được bãi bỏ.",
+          "C. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố.",
+          "D. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
+        "options": [
+          "A. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương.",
+          "B. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân.",
+          "C. Phải có bằng tiến sĩ luật học.",
+          "D. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
+        "options": [
+          "A. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "B. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp.",
+          "C. Giám đốc các doanh nghiệp tư nhân trên địa bàn.",
+          "D. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 3] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
+        "options": [
+          "A. Chuyển thành mô hình ban quản lý khu kinh tế mở.",
+          "B. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương).",
+          "C. Giải thể hoàn toàn các cơ quan tư pháp cấp quận.",
+          "D. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp."
+        ],
+        "ans": 1,
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
+        "options": [
+          "A. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "B. Thông cáo báo chí của cơ quan truyền thông công quyền.",
+          "C. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày.",
+          "D. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
+        "options": [
+          "A. Nghị quyết và Thông tư.",
+          "B. Công văn hướng dẫn nghiệp vụ.",
+          "C. Quyết định.",
+          "D. Chỉ thị và Quyết định."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
         "options": [
-          "A. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "B. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế.",
-          "C. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở.",
-          "D. Phải là đảng viên Đảng Cộng sản Việt Nam."
-        ],
-        "ans": 0,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
-        "options": [
-          "A. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ.",
-          "B. Có bằng tốt nghiệp trung cấp sư phạm trở lên.",
-          "C. Có bằng cử nhân ngành đào tạo giáo viên trở lên.",
-          "D. Có bằng tốt nghiệp cao đẳng sư phạm trở lên."
+          "A. Không sớm hơn 45 ngày kể từ ngày đăng công báo.",
+          "B. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "C. Không sớm hơn 30 ngày kể từ ngày ký ban hành.",
+          "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
         ],
         "ans": 3,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
         "options": [
-          "A. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "B. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "C. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm.",
-          "D. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm)."
-        ],
-        "ans": 3,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "B. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định.",
-          "C. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh.",
-          "D. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác."
-        ],
-        "ans": 1,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
-        "options": [
-          "A. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học.",
-          "B. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học.",
-          "C. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "D. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
-        "options": [
-          "A. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền.",
-          "B. Ra bài tập về nhà phù hợp với năng lực của học sinh.",
-          "C. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "D. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
-        "options": [
-          "A. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương.",
-          "B. Không có chế độ phụ cấp thâm niên.",
-          "C. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "D. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 3] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ.",
-          "B. Đóng góp ý kiến xây dựng phong trào thi đua của lớp.",
-          "C. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên.",
-          "D. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
-        "options": [
-          "A. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học.",
-          "B. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân.",
-          "C. Giảm tải 80% thời lượng các môn khoa học cơ bản.",
-          "D. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
-        "options": [
-          "A. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "B. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "C. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân.",
-          "D. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành."
+          "A. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai.",
+          "B. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng.",
+          "C. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn.",
+          "D. Quy định bãi bỏ các thủ tục hành chính rườm rà."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
         "options": [
-          "A. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học.",
-          "B. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "C. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế.",
-          "D. Học thuộc lòng kiến thức sách giáo khoa theo mẫu."
-        ],
-        "ans": 1,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
-        "options": [
-          "A. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "B. Loại bỏ hoàn toàn việc kiểm tra định kỳ.",
-          "C. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "D. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
-        "options": [
-          "A. 4 chương, 10 điều",
-          "B. 5 chương, 15 điều",
-          "C. 4 chương, 15 điều",
-          "D. 3 chương, 12 điều"
+          "A. 9 thành phần",
+          "B. 8 thành phần",
+          "C. 7 thành phần",
+          "D. 12 thành phần"
         ],
         "ans": 0,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
         "options": [
-          "A. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp.",
-          "B. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "C. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh.",
-          "D. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn."
+          "A. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "B. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang.",
+          "C. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do.",
+          "D. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang."
+        ],
+        "ans": 1,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu chính giữa trùm lên toàn bộ chữ ký.",
+          "B. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "C. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái.",
+          "D. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
         "options": [
-          "A. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường.",
-          "B. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng.",
-          "C. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "D. Sử dụng hình phạt thể xác nghiêm khắc để răn đe."
+          "A. Tối đa 03 tờ văn bản",
+          "B. Không giới hạn số tờ",
+          "C. Tối đa 05 tờ văn bản",
+          "D. Tối đa 10 tờ văn bản"
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
+        "ans": 2,
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
         "options": [
-          "A. Xúc phạm, áp đặt, vụ lợi.",
-          "B. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "C. Kịp thời thông báo kết quả học tập của học sinh.",
-          "D. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh."
+          "A. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 3] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
         "options": [
-          "A. 5 tiêu chuẩn, 20 tiêu chí",
-          "B. 5 tiêu chuẩn, 15 tiêu chí",
-          "C. 4 tiêu chuẩn, 12 tiêu chí",
-          "D. 6 tiêu chuẩn, 18 tiêu chí"
+          "A. Ủy ban nhân dân thành phố Huế",
+          "B. Ủy Ban Nhân Dân Thành Phố Huế",
+          "C. ủy ban nhân dân Thành phố Huế",
+          "D. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)"
         ],
-        "ans": 1,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
+        "ans": 0,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 3] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
         "options": [
-          "A. Kiểm tra vở ghi và sách bài tập của học sinh.",
-          "B. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "C. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường.",
-          "D. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần."
+          "A. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính.",
+          "B. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "C. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+          "D. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Cán bộ, công chức, viên chức trong cơ quan nhà nước.",
+          "B. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước.",
+          "C. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "D. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 12 nhóm hành vi",
+          "B. 15 nhóm hành vi",
+          "C. 8 nhóm hành vi",
+          "D. 10 nhóm hành vi"
+        ],
+        "ans": 0,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình chi tiết đời sống riêng tư của người thân cán bộ.",
+          "B. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí.",
+          "C. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
+          "D. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo.",
+          "B. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "C. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận.",
+          "D. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng.",
+          "B. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên.",
+          "C. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng.",
+          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài."
+        ],
+        "ans": 3,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Vào dịp Đại hội cổ đông",
+          "B. Trước ngày 30 tháng 06 hàng năm",
+          "C. Trước ngày 31 tháng 12 của năm kê khai",
+          "D. Trước ngày 31 tháng 01 năm sau"
+        ],
+        "ans": 2,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+          "B. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "C. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác.",
+          "D. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp.",
+          "B. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "C. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã.",
+          "D. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân."
+        ],
+        "ans": 1,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "B. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính.",
+          "C. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI.",
+          "D. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng."
+        ],
+        "ans": 0,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "B. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Mở rộng trụ sở làm việc của các cơ quan hành chính.",
+          "D. Mua sắm trang thiết bị xe công vụ hiện đại."
+        ],
+        "ans": 1,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Đếm số lượng văn bản hành chính được ban hành trong năm.",
+          "B. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
+          "C. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI.",
+          "D. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương."
+        ],
+        "ans": 1,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4.",
+          "B. Dịch vụ công trong nước và Dịch vụ công quốc tế.",
+          "C. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "D. Dịch vụ công miễn phí và Dịch vụ công có thu phí."
+        ],
+        "ans": 2,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức.",
+          "B. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập.",
+          "C. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "D. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh."
+        ],
+        "ans": 3,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 3] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý.",
+          "B. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân.",
+          "C. Giảm thời gian làm việc trong ngày của công chức.",
+          "D. Tăng thu lệ phí cho ngân sách địa phương."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   },
   {
     "id": 4,
-    "title": "Đề số 04: Chuyên sâu Xử lý kỷ luật, Thời hiệu - Thời hạn & Khiếu nại",
+    "title": "Đề số 04: Chuyên sâu Luật Phòng, chống tham nhũng & Kê khai tài sản thu nhập",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "Một chuyên gia nước ngoài có trình độ Tiến sĩ xuất sắc muốn ký hợp đồng làm việc dài hạn với vai trò viên chức giảng dạy tại một trường công lập thì có được công nhận là viên chức không?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Có, nếu trường công lập đó tự chủ tài chính 100%.",
-          "B. Không, vì viên chức bắt buộc phải là công dân Việt Nam.",
-          "C. Có, chuyên gia nước ngoài được xếp chức danh viên chức đặc biệt.",
-          "D. Có, nếu được Bộ Giáo dục và Đào tạo đồng ý bằng văn bản."
+          "A. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "B. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "C. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã.",
+          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước."
         ],
-        "ans": 1,
-        "explanation": "★ Bản chất: Điều 2 Luật Viên chức khẳng định rõ: 'Viên chức là công dân Việt Nam...'. Người mang quốc tịch nước ngoài dù xuất sắc đến đâu cũng chỉ có thể ký hợp đồng lao động/chuyên gia, không thể là viên chức."
+        "ans": 3,
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "q": "Nội dung nào sau đây KHÔNG PHẢI là nguyên tắc trong hoạt động nghề nghiệp của viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. Tuân thủ quy trình, quy chuẩn chuyên môn, nghiệp vụ, đạo đức nghề nghiệp và quy tắc ứng xử.",
-          "B. Chịu sự thanh tra, kiểm tra, giám sát của cơ quan, tổ chức có thẩm quyền và của nhân dân.",
-          "C. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam.",
-          "D. Tận tụy phục vụ nhân dân."
+          "A. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao.",
+          "B. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo.",
+          "C. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "D. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng."
         ],
         "ans": 2,
-        "explanation": "★ Bản chất: 'Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam' là nguyên tắc QUẢN LÝ viên chức (Điều 6), không phải là nguyên tắc hoạt động nghề nghiệp (Điều 3)."
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Điều 6 Luật Viên chức, có bao nhiêu nguyên tắc quản lý viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
         "options": [
-          "A. 6 nguyên tắc",
+          "A. 4 nguyên tắc",
           "B. 5 nguyên tắc",
-          "C. 3 nguyên tắc",
-          "D. 4 nguyên tắc"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo nhớ: Luật Viên chức có 2 điều quy định '4 nguyên tắc': Điều 3 (4 nguyên tắc nghề nghiệp) và Điều 6 (4 nguyên tắc quản lý)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng chính sách gì về tiền lương?",
-        "options": [
-          "A. Được tự do quyết định mức lương hàng tháng.",
-          "B. Được hưởng gấp 10 lần lương cơ sở.",
-          "C. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của Chính phủ.",
-          "D. Được miễn đóng toàn bộ các khoản thuế thu nhập suốt đời."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật Viên chức: Viên chức làm việc ở vùng đặc biệt khó khăn được hưởng phụ cấp và chính sách ưu đãi của Nhà nước."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Trường hợp do nhu cầu công việc mà viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hàng năm thì được giải quyết như thế nào?",
-        "options": [
-          "A. Bị hủy bỏ toàn bộ số ngày phép mà không có bất kỳ khoản hỗ trợ nào.",
-          "B. Bắt buộc phải chuyển số ngày phép sang năm thứ mười.",
-          "C. Được thanh toán một khoản tiền cho những ngày không nghỉ theo quy định.",
-          "D. Trừ trực tiếp vào điểm thi đua cuối năm."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Viên chức: Được thanh toán tiền cho những ngày không nghỉ theo quy chế đơn vị."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Cô giáo dạy Tiếng Anh tại trường THCS công lập có được ký hợp đồng giảng dạy buổi tối tại một trung tâm ngoại ngữ tư thục không?",
-        "options": [
-          "A. Tự do dạy mà không cần thông báo hay xin phép bất kỳ ai.",
-          "B. Được ký hợp đồng vụ việc ngoài giờ làm việc nếu pháp luật không cấm và được người đứng đầu trường học đồng ý.",
-          "C. Chỉ được dạy miễn phí không được nhận thù lao.",
-          "D. Bị cấm hoàn toàn vì vi phạm đạo đức nhà giáo."
+          "C. 6 nguyên tắc",
+          "D. 7 nguyên tắc"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 14 Luật Viên chức: Được ký hợp đồng vụ việc với cơ quan, tổ chức khác mà pháp luật không cấm nhưng phải hoàn thành nhiệm vụ được giao và có sự đồng ý của người đứng đầu."
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
         "options": [
-          "A. 6 nghĩa vụ",
-          "B. 7 nghĩa vụ",
-          "C. 4 nghĩa vụ",
-          "D. 5 nghĩa vụ"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
-        "options": [
-          "A. 6 nghĩa vụ",
-          "B. 8 nghĩa vụ",
-          "C. 7 nghĩa vụ",
-          "D. 5 nghĩa vụ"
+          "A. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL.",
+          "B. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước.",
+          "C. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "D. Tự do học thuật và sáng tạo không giới hạn."
         ],
         "ans": 2,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có hành vi xúc phạm danh dự, nhân phẩm của người học là vi phạm điều khoản nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
         "options": [
-          "A. Vi phạm quyền đơn phương chấm dứt hợp đồng.",
-          "B. Vi phạm nguyên tắc bảo mật thông tin nhà nước.",
-          "C. Vi phạm những việc viên chức không được làm tại khoản 4 Điều 19 Luật Viên chức.",
-          "D. Vi phạm chế độ biệt phái viên chức."
-        ],
-        "ans": 2,
-        "explanation": "★ Trích luật: Khoản 4 Điều 19 nghiêm cấm: Xúc phạm danh dự, nhân phẩm, uy tín của người khác trong khi thực hiện hoạt động nghề nghiệp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Một trường học công lập tại TP Huế tuyển dụng giáo viên mới vào tháng 09/2025. Hiệu trưởng ký hợp đồng làm việc lần đầu với thời hạn 48 tháng thì có đúng quy định pháp luật không?",
-        "options": [
-          "A. Sai quy định, vì hợp đồng lần đầu bắt buộc phải đúng 36 tháng.",
-          "B. Đúng quy định, vì thời hạn 48 tháng nằm trong khung từ đủ 12 tháng đến 60 tháng.",
-          "C. Sai quy định, vì phải ký không xác định thời hạn ngay từ đầu.",
-          "D. Sai quy định, vì tối đa chỉ được ký 24 tháng."
+          "A. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý.",
+          "B. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "C. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân.",
+          "D. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ."
         ],
         "ans": 1,
-        "explanation": "★ Tình huống: Khung luật cho phép từ đủ 12 tháng đến 60 tháng, nên ký 48 tháng là hoàn toàn hợp pháp."
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
         "options": [
-          "A. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025.",
-          "B. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục.",
-          "C. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển.",
-          "D. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn."
+          "A. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới.",
+          "B. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "C. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành.",
+          "D. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó."
         ],
         "ans": 3,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Khi đơn phương chấm dứt hợp đồng làm việc với viên chức ký hợp đồng XÁC ĐỊNH THỜI HẠN (trừ trường hợp ốm đau), ĐVSNCL phải báo trước ít nhất bao nhiêu ngày?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
         "options": [
-          "A. Ít nhất 30 ngày.",
-          "B. Ít nhất 45 ngày.",
-          "C. Ít nhất 15 ngày.",
-          "D. Ít nhất 60 ngày."
+          "A. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật.",
+          "B. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "C. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "D. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh."
         ],
         "ans": 0,
-        "explanation": "★ Bẫy ngày báo trước: HĐ không xác định thời hạn: báo trước ít nhất 45 ngày; HĐ xác định thời hạn: báo trước ít nhất 30 ngày."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
         "options": [
-          "A. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình.",
-          "B. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ.",
-          "C. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân.",
-          "D. Cảm thấy áp lực công việc giảng dạy quá nặng nề."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
-        "options": [
-          "A. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "B. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "C. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định.",
-          "D. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động)."
+          "A. Chỉ chào hỏi những người giữ chức vụ cao hơn mình.",
+          "B. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính.",
+          "C. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "D. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức."
         ],
         "ans": 3,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
         "options": [
-          "A. Không quá 05 năm",
-          "B. Không quá 01 năm",
-          "C. Không quá 03 năm",
-          "D. Không quá 02 năm"
-        ],
-        "ans": 2,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
-        "options": [
-          "A. 2 mức: Đạt và Không đạt chuẩn viên chức.",
-          "B. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E.",
-          "C. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "D. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
-        "options": [
-          "A. Khiển trách",
-          "B. Buộc thôi việc",
-          "C. Cách chức",
-          "D. Cảnh cáo"
-        ],
-        "ans": 2,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
-        "options": [
-          "A. 02 năm (24 tháng)",
-          "B. 05 năm (60 tháng)",
-          "C. 03 năm (36 tháng)",
-          "D. 10 năm"
-        ],
-        "ans": 1,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Viên chức vi phạm quy định về đi làm muộn quá 3 lần.",
-          "B. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ.",
-          "C. Viên chức không tham gia họp hội đồng trường định kỳ.",
-          "D. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả."
-        ],
-        "ans": 3,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 4] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
-        "options": [
-          "A. Không quá 07 ngày làm việc.",
-          "B. Không quá 45 ngày cố định.",
-          "C. Không quá 30 ngày; kéo dài tối đa 60 ngày.",
-          "D. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày."
-        ],
-        "ans": 3,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển.",
-          "B. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "C. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm.",
-          "D. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
-        "options": [
-          "A. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù.",
-          "B. Người không có hộ khẩu thường trú tại thành phố Huế.",
-          "C. Người đã từng làm việc tại doanh nghiệp tư nhân.",
-          "D. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu."
+          "A. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ.",
+          "B. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân.",
+          "C. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "D. Tôn trọng phong tục tập quán của đồng bào các dân tộc."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
         "options": [
-          "A. Người dân tộc thiểu số, sĩ quan quân đội nhân dân.",
-          "B. Người tốt nghiệp đại học loại giỏi tại nước ngoài.",
-          "C. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh.",
-          "D. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học."
-        ],
-        "ans": 2,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 3,0 điểm",
-          "B. 7,5 điểm",
-          "C. 2,5 điểm",
-          "D. 5,0 điểm"
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2.",
-          "B. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "C. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "D. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2."
+          "A. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật.",
+          "B. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật.",
+          "C. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ.",
+          "D. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành."
         ],
         "ans": 0,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
         "options": [
-          "A. 60 câu hỏi, thời gian làm bài 60 phút.",
-          "B. 50 câu hỏi, thời gian làm bài 50 phút.",
-          "C. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "D. 60 câu hỏi, thời gian làm bài 90 phút."
-        ],
-        "ans": 0,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1.",
-          "B. Thí sinh là đảng viên chính thức được miễn thi Vòng 1.",
-          "C. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1.",
-          "D. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1."
-        ],
-        "ans": 3,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
-        "options": [
-          "A. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "B. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị.",
-          "C. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "D. Thời gian thi vấn đáp 45 phút."
-        ],
-        "ans": 2,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
-        "options": [
-          "A. Thang điểm 100, đạt từ 70 điểm trở lên.",
-          "B. Thang điểm 100, đạt từ 50 điểm trở lên.",
-          "C. Thang điểm 100, đạt từ 60 điểm trở lên.",
-          "D. Thang điểm 10, đạt từ 5 điểm trở lên."
+          "A. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V.",
+          "B. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ.",
+          "C. Cấp cao, Cấp trung, Cấp cơ sở.",
+          "D. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên."
         ],
         "ans": 1,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
         "options": [
-          "A. Trong thời hạn 60 ngày",
-          "B. Trong thời hạn 15 ngày",
-          "C. Trong thời hạn 30 ngày",
-          "D. Trong thời hạn 45 ngày"
+          "A. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "B. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng.",
+          "C. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "D. Số lượng hồ sơ tồn đọng từ các năm trước."
         ],
         "ans": 2,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
+        "options": [
+          "A. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương.",
+          "B. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam.",
+          "C. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "D. Đủ 22 tuổi trở lên đối với ngạch chuyên viên."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 4] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
         "options": [
           "A. 06 tháng",
           "B. 09 tháng",
-          "C. 12 tháng",
-          "D. 24 tháng"
-        ],
-        "ans": 2,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
-        "options": [
-          "A. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương.",
-          "B. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần.",
-          "C. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "D. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
-        "options": [
-          "A. Là con ruột của người đứng đầu đơn vị tuyển dụng.",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "C. Có chứng chỉ tiếng Anh quốc tế C1 trở lên.",
-          "D. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng."
+          "C. 24 tháng",
+          "D. 12 tháng"
         ],
         "ans": 3,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 4] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
         "options": [
-          "A. 80%",
-          "B. 85%",
-          "C. 100%",
-          "D. 75%"
+          "A. 100% mức lương bậc 1 trong mọi trường hợp.",
+          "B. 75% mức lương bậc 1.",
+          "C. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự).",
+          "D. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
+        "options": [
+          "A. 5 mức: Hạng A, B, C, D, E.",
+          "B. 4 mức: Xuất sắc, Khá, Trung bình, Yếu.",
+          "C. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
+          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
+        "options": [
+          "A. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "B. Khiển trách, Cảnh cáo, Giáng chức, Cách chức.",
+          "C. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương)."
+        ],
+        "ans": 2,
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
+        "options": [
+          "A. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc.",
+          "B. Bãi nhiệm và Miễn nhiệm.",
+          "C. Chuyển sang làm viên chức sự nghiệp.",
+          "D. Chỉ có Khiển trách và Buộc thôi việc."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
+        "options": [
+          "A. Không giới hạn thời hiệu.",
+          "B. 36 tháng đối với mọi hình thức.",
+          "C. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "D. 12 tháng đối với mọi hình thức."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 4] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
+        "options": [
+          "A. Cố định 30 ngày.",
+          "B. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày.",
+          "C. Do thủ trưởng đơn vị quyết định tùy ý.",
+          "D. Không quá 60 ngày."
         ],
         "ans": 1,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 4] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
         "options": [
-          "A. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự.",
-          "B. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "C. Được giảm 100% số tiết dạy trên lớp.",
-          "D. Được hưởng thêm 50% mức lương của người tập sự."
-        ],
-        "ans": 0,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
-        "options": [
-          "A. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng.",
-          "B. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây.",
-          "C. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "D. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
-        "options": [
-          "A. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội.",
-          "B. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "C. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học.",
-          "D. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
-        "options": [
-          "A. Giáo dục mầm non cho trẻ 5 tuổi.",
-          "B. Giáo dục trung học phổ thông.",
-          "C. Giáo dục trung học cơ sở.",
-          "D. Giáo dục tiểu học."
-        ],
-        "ans": 3,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
-        "options": [
-          "A. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất.",
-          "B. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh.",
-          "C. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "D. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí."
-        ],
-        "ans": 3,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
-        "options": [
-          "A. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "B. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp.",
-          "C. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm).",
-          "D. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
-        "options": [
-          "A. Giám đốc Sở Giáo dục và Đào tạo.",
-          "B. Hiệu trưởng từng trường phổ thông.",
-          "C. Hội Khuyến học tỉnh.",
-          "D. Ủy ban nhân dân cấp tỉnh."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
-        "options": [
-          "A. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường.",
-          "B. Giữ vai trò quản lý tài chính trường học.",
-          "C. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh.",
-          "D. Là người cung cấp dịch vụ đào tạo đơn thuần."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
-        "options": [
-          "A. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở.",
-          "B. Phải là đảng viên Đảng Cộng sản Việt Nam.",
-          "C. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "D. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế."
-        ],
-        "ans": 2,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
-        "options": [
-          "A. Có bằng tốt nghiệp trung cấp sư phạm trở lên.",
-          "B. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ.",
-          "C. Có bằng tốt nghiệp cao đẳng sư phạm trở lên.",
-          "D. Có bằng cử nhân ngành đào tạo giáo viên trở lên."
-        ],
-        "ans": 2,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
-        "options": [
-          "A. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm.",
-          "B. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm).",
-          "C. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "D. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm."
+          "A. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam.",
+          "B. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "C. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ.",
+          "D. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương."
         ],
         "ans": 1,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
         "options": [
-          "A. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định.",
-          "B. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác.",
-          "C. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh.",
-          "D. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT."
+          "A. Cơ quan quyền lực nhà nước cao nhất tại địa phương.",
+          "B. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị.",
+          "C. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên.",
+          "D. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
+        "options": [
+          "A. Phân quyền, phân cấp và ủy quyền.",
+          "B. Khoán việc, giao việc và nghiệm thu.",
+          "C. Hiệp thương dân chủ và tự nguyện đóng góp.",
+          "D. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện."
         ],
         "ans": 0,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
         "options": [
-          "A. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học.",
-          "B. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "C. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học.",
-          "D. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học."
+          "A. Do Chủ tịch UBND cấp trên phân công bằng lời nói.",
+          "B. Quy định trong quy chế nội bộ của UBND cấp dưới.",
+          "C. Phải được quy định trong luật.",
+          "D. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban."
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
         "options": [
-          "A. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp.",
-          "B. Ra bài tập về nhà phù hợp với năng lực của học sinh.",
-          "C. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "D. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
-        "options": [
-          "A. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ.",
-          "B. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương.",
-          "C. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "D. Không có chế độ phụ cấp thâm niên."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 4] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ.",
-          "B. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "C. Đóng góp ý kiến xây dựng phong trào thi đua của lớp.",
-          "D. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên."
+          "A. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "B. Không được ủy quyền lại cho cơ quan, tổ chức khác.",
+          "C. Được ủy quyền cho bất kỳ cá nhân công chức nào.",
+          "D. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
         "options": [
-          "A. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân.",
-          "B. Giảm tải 80% thời lượng các môn khoa học cơ bản.",
-          "C. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học.",
-          "D. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc."
+          "A. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy.",
+          "B. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân.",
+          "C. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "D. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an)."
         ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
         "options": [
-          "A. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân.",
-          "B. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "C. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "D. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành."
+          "A. Giám đốc Sở Nội vụ.",
+          "B. Thường trực Hội đồng nhân dân cấp huyện.",
+          "C. Thủ tướng Chính phủ.",
+          "D. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương."
         ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
         "options": [
-          "A. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "B. Học thuộc lòng kiến thức sách giáo khoa theo mẫu.",
-          "C. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế.",
-          "D. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học."
-        ],
-        "ans": 0,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
-        "options": [
-          "A. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "B. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "C. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn.",
-          "D. Loại bỏ hoàn toàn việc kiểm tra định kỳ."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
-        "options": [
-          "A. 3 chương, 12 điều",
-          "B. 4 chương, 15 điều",
-          "C. 4 chương, 10 điều",
-          "D. 5 chương, 15 điều"
+          "A. Ít nhất 04 kỳ họp",
+          "B. Mỗi tháng 01 kỳ",
+          "C. Ít nhất 02 kỳ họp",
+          "D. Mỗi nhiệm kỳ chỉ họp 01 lần"
         ],
         "ans": 2,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
         "options": [
-          "A. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn.",
-          "B. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh.",
-          "C. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "D. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp."
+          "A. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh.",
+          "B. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách.",
+          "C. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "D. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Chỉ có Ban Pháp chế và Ban Kinh tế.",
+          "B. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị.",
+          "C. Ban Tiếp công dân và Ban Quản lý trật tự đô thị.",
+          "D. Ban An ninh quốc phòng và Ban Đối ngoại."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
         "options": [
-          "A. Sử dụng hình phạt thể xác nghiêm khắc để răn đe.",
-          "B. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "C. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng.",
-          "D. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường."
+          "A. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn.",
+          "B. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "C. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "D. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
+        "options": [
+          "A. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ.",
+          "B. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố.",
+          "C. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "D. Chỉ được góp ý nhắc nhở mà không được bãi bỏ."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
         "options": [
-          "A. Xúc phạm, áp đặt, vụ lợi.",
-          "B. Kịp thời thông báo kết quả học tập của học sinh.",
-          "C. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh.",
-          "D. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh."
+          "A. Phải có bằng tiến sĩ luật học.",
+          "B. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương.",
+          "C. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp.",
+          "D. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
+        "options": [
+          "A. Giám đốc các doanh nghiệp tư nhân trên địa bàn.",
+          "B. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "C. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp.",
+          "D. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 4] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
+        "options": [
+          "A. Giải thể hoàn toàn các cơ quan tư pháp cấp quận.",
+          "B. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương).",
+          "C. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp.",
+          "D. Chuyển thành mô hình ban quản lý khu kinh tế mở."
+        ],
+        "ans": 1,
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
+        "options": [
+          "A. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+          "B. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày.",
+          "C. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "D. Thông cáo báo chí của cơ quan truyền thông công quyền."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
         "options": [
-          "A. 6 tiêu chuẩn, 18 tiêu chí",
-          "B. 5 tiêu chuẩn, 20 tiêu chí",
-          "C. 5 tiêu chuẩn, 15 tiêu chí",
-          "D. 4 tiêu chuẩn, 12 tiêu chí"
+          "A. Quyết định.",
+          "B. Chỉ thị và Quyết định.",
+          "C. Nghị quyết và Thông tư.",
+          "D. Công văn hướng dẫn nghiệp vụ."
         ],
-        "ans": 2,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
+        "ans": 0,
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 4] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
         "options": [
-          "A. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường.",
-          "B. Kiểm tra vở ghi và sách bài tập của học sinh.",
-          "C. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "D. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần."
+          "A. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "B. Không sớm hơn 30 ngày kể từ ngày ký ban hành.",
+          "C. Không sớm hơn 45 ngày kể từ ngày đăng công báo.",
+          "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
+        ],
+        "ans": 3,
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "options": [
+          "A. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai.",
+          "B. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng.",
+          "C. Quy định bãi bỏ các thủ tục hành chính rườm rà.",
+          "D. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn."
+        ],
+        "ans": 3,
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
+        "options": [
+          "A. 8 thành phần",
+          "B. 9 thành phần",
+          "C. 12 thành phần",
+          "D. 7 thành phần"
+        ],
+        "ans": 1,
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
+        "options": [
+          "A. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang.",
+          "B. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "C. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do.",
+          "D. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang."
+        ],
+        "ans": 0,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu chính giữa trùm lên toàn bộ chữ ký.",
+          "B. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký.",
+          "C. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "D. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái."
+        ],
+        "ans": 3,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
+        "options": [
+          "A. Không giới hạn số tờ",
+          "B. Tối đa 03 tờ văn bản",
+          "C. Tối đa 05 tờ văn bản",
+          "D. Tối đa 10 tờ văn bản"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
+        "options": [
+          "A. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
+        ],
+        "ans": 1,
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 4] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
+        "options": [
+          "A. ủy ban nhân dân Thành phố Huế",
+          "B. Ủy ban nhân dân thành phố Huế",
+          "C. Ủy Ban Nhân Dân Thành Phố Huế",
+          "D. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)"
+        ],
+        "ans": 1,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
+        "options": [
+          "A. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "B. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính.",
+          "C. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+          "D. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước.",
+          "B. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "C. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó.",
+          "D. Cán bộ, công chức, viên chức trong cơ quan nhà nước."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 15 nhóm hành vi",
+          "B. 8 nhóm hành vi",
+          "C. 12 nhóm hành vi",
+          "D. 10 nhóm hành vi"
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn.",
+          "B. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí.",
+          "C. Giải trình chi tiết đời sống riêng tư của người thân cán bộ.",
+          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi.",
+          "B. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "C. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận.",
+          "D. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài.",
+          "B. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên.",
+          "C. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng.",
+          "D. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng."
+        ],
+        "ans": 0,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Vào dịp Đại hội cổ đông",
+          "B. Trước ngày 31 tháng 01 năm sau",
+          "C. Trước ngày 30 tháng 06 hàng năm",
+          "D. Trước ngày 31 tháng 12 của năm kê khai"
+        ],
+        "ans": 3,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "B. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng.",
+          "C. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác.",
+          "D. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "B. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân.",
+          "C. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp.",
+          "D. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã."
+        ],
+        "ans": 0,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính.",
+          "B. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "C. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI.",
+          "D. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số."
+        ],
+        "ans": 3,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "B. Mua sắm trang thiết bị xe công vụ hiện đại.",
+          "C. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "D. Mở rộng trụ sở làm việc của các cơ quan hành chính."
+        ],
+        "ans": 0,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
+          "B. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương.",
+          "C. Đếm số lượng văn bản hành chính được ban hành trong năm.",
+          "D. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI."
+        ],
+        "ans": 0,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Dịch vụ công trong nước và Dịch vụ công quốc tế.",
+          "B. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "C. Dịch vụ công miễn phí và Dịch vụ công có thu phí.",
+          "D. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh.",
+          "B. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "C. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập.",
+          "D. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 4] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý.",
+          "B. Giảm thời gian làm việc trong ngày của công chức.",
+          "C. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân.",
+          "D. Tăng thu lệ phí cho ngân sách địa phương."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   },
   {
     "id": 5,
-    "title": "Đề số 05: Chuyên sâu Luật Giáo dục 2019, Chuẩn đào tạo mới & Quyền của nhà giáo",
+    "title": "Đề số 05: Chuyên sâu Cải cách hành chính (NQ 76/NQ-CP) & Đô thị thông minh Hue-S",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "Theo Luật Viên chức, 'Viên chức quản lý' là người như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Là viên chức có thâm niên từ 10 năm trở lên và giữ ngạch viên chức hạng I.",
-          "B. Là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, chịu trách nhiệm điều hành, tổ chức thực hiện một hoặc một số công việc trong ĐVSNCL và được hưởng phụ cấp chức vụ quản lý.",
-          "C. Là người đại diện vốn nhà nước tại doanh nghiệp công ích.",
-          "D. Là viên chức giữ vị trí bí thư đoàn thanh niên trong cơ sở đào tạo."
+          "A. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "B. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước.",
+          "C. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "D. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã."
         ],
         "ans": 1,
-        "explanation": "★ Bản chất: Khoản 1 Điều 3 Luật Viên chức định nghĩa viên chức quản lý là người được bổ nhiệm chức vụ quản lý có thời hạn, chịu trách nhiệm điều hành trong ĐVSNCL nhưng không phải là công chức và được hưởng phụ cấp chức vụ quản lý."
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "q": "Khi thực hiện nhiệm vụ giảng dạy, một giáo viên bỏ qua quy trình ra đề và chấm thi theo quy định của trường. Giáo viên này đã vi phạm nguyên tắc nào trong hoạt động nghề nghiệp?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. Nguyên tắc bình đẳng giới trong giáo dục.",
-          "B. Nguyên tắc tự do học thuật của nhà giáo.",
-          "C. Tuân thủ quy trình, quy chuẩn chuyên môn, nghiệp vụ, đạo đức nghề nghiệp và quy tắc ứng xử (khoản 3 Điều 3).",
-          "D. Nguyên tắc giữ bí mật nhà nước."
-        ],
-        "ans": 2,
-        "explanation": "★ Tình huống thực tế: Việc không tuân theo các bước ra đề, duyệt đề, đáp án chấm thi là vi phạm nguyên tắc 'Tuân thủ quy trình, quy chuẩn chuyên môn nghiệp vụ'."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Nguyên tắc nào sau đây là nguyên tắc quản lý viên chức theo Điều 6 Luật Viên chức?",
-        "options": [
-          "A. Tuân thủ quy trình nghiệp vụ.",
-          "B. Tận tụy phục vụ nhân dân.",
-          "C. Độc lập tác chiến không cần kiểm tra.",
-          "D. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam và sự thống nhất quản lý của Nhà nước."
-        ],
-        "ans": 3,
-        "explanation": "★ Phân tích: Sự lãnh đạo của Đảng là nguyên tắc quản lý hàng đầu (khoản 1 Điều 6). Các đáp án khác là nguyên tắc nghề nghiệp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Khi làm việc thêm giờ hoặc làm việc vào ban đêm, viên chức được hưởng chế độ gì?",
-        "options": [
-          "A. Không được nhận bất kỳ khoản thù lao nào vì thuộc trách nhiệm cống hiến.",
-          "B. Nhận gấp 5 lần tiền lương ngày thường.",
-          "C. Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm theo quy định của pháp luật.",
-          "D. Chỉ được bù giờ nghỉ mà không được nhận tiền."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 12 Luật Viên chức: Viên chức được trả tiền làm thêm giờ, tiền làm việc vào ban đêm theo quy định pháp luật lao động."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có quyền nghỉ không hưởng lương trong trường hợp nào?",
-        "options": [
-          "A. Chỉ áp dụng cho viên chức nữ sinh con.",
-          "B. Không bao giờ được phép nghỉ không hưởng lương.",
-          "C. Tự ý nghỉ bất kỳ lúc nào chỉ cần gửi tin nhắn thông báo.",
-          "D. Có lý do chính đáng và được sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 13 Luật Viên chức: Được nghỉ không hưởng lương trong trường hợp có lý do chính đáng và được người đứng đầu đồng ý."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức được phép tham gia góp vốn vào doanh nghiệp theo hình thức nào?",
-        "options": [
-          "A. Được giữ chức danh Tổng giám đốc điều hành công ty cổ phần ngoài giờ làm việc.",
-          "B. Được lập doanh nghiệp tư nhân đứng tên chính mình làm chủ.",
-          "C. Được góp vốn nhưng không được tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh...",
-          "D. Tuyệt đối không được góp vốn vào bất kỳ doanh nghiệp nào."
-        ],
-        "ans": 2,
-        "explanation": "★ Bẫy trắc nghiệm: Viên chức ĐƯỢC GÓP VỐN nhưng KHÔNG ĐƯỢC QUẢN LÝ, ĐIỀU HÀNH doanh nghiệp (khoản 3 Điều 14 Luật Viên chức)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 6 nghĩa vụ",
-          "B. 7 nghĩa vụ",
-          "C. 5 nghĩa vụ",
-          "D. 4 nghĩa vụ"
-        ],
-        "ans": 2,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
-        "options": [
-          "A. 6 nghĩa vụ",
-          "B. 7 nghĩa vụ",
-          "C. 5 nghĩa vụ",
-          "D. 8 nghĩa vụ"
-        ],
-        "ans": 1,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Đâu KHÔNG PHẢI là việc viên chức không được làm theo Điều 19 Luật Viên chức 2010?",
-        "options": [
-          "A. Trốn tránh trách nhiệm, thoái thác công việc hoặc nhiệm vụ được giao.",
-          "B. Tham gia các hoạt động thiện nguyện ngoài giờ giảng dạy.",
-          "C. Sử dụng tài sản của cơ quan, tổ chức và của nhân dân trái với quy định của pháp luật.",
-          "D. Phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức."
-        ],
-        "ans": 1,
-        "explanation": "★ Phân tích: Tham gia thiện nguyện ngoài giờ là hoạt động khuyến khích. Các hành vi B, C, D đều thuộc 6 điều cấm tại Điều 19."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Theo Luật sửa đổi 2019, từ ngày 01/7/2020, hợp đồng làm việc xác định thời hạn áp dụng cho người trúng tuyển mới có khoảng thời gian là:",
-        "options": [
-          "A. Từ đủ 12 tháng đến 60 tháng.",
-          "B. Từ đủ 12 tháng đến 36 tháng.",
-          "C. Từ đủ 24 tháng đến 60 tháng.",
-          "D. Không quá 24 tháng."
+          "A. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "B. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng.",
+          "C. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo.",
+          "D. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao."
         ],
         "ans": 0,
-        "explanation": "★ Bẫy thời gian cực hay gặp: Luật cũ 2010 là từ đủ 12 đến 36 tháng. Luật sửa đổi 2019 mở rộng thành TỪ ĐỦ 12 THÁNG ĐẾN 60 THÁNG (Khoản 2 Điều 25). Nhớ kỹ mốc 60 tháng!"
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
         "options": [
-          "A. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục.",
-          "B. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn.",
-          "C. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025.",
-          "D. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển."
-        ],
-        "ans": 1,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Đơn vị sự nghiệp công lập được quyền đơn phương chấm dứt hợp đồng làm việc với viên chức trong trường hợp nào?",
-        "options": [
-          "A. Viên chức bị đánh giá hoàn thành nhiệm vụ nhưng hiệu trưởng không thích.",
-          "B. Viên chức từ chối tham gia đội văn nghệ của trường.",
-          "C. Viên chức có 01 tháng không đạt chỉ tiêu dạy giỏi.",
-          "D. Viên chức có 02 năm liên tiếp bị xếp loại chất lượng ở mức không hoàn thành nhiệm vụ."
+          "A. 4 nguyên tắc",
+          "B. 6 nguyên tắc",
+          "C. 7 nguyên tắc",
+          "D. 5 nguyên tắc"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 29 Luật Viên chức: Có 02 NĂM LIÊN TIẾP bị đánh giá không hoàn thành nhiệm vụ. Nếu chỉ 1 năm thì chưa được đơn phương chấm dứt!"
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
         "options": [
-          "A. Cảm thấy áp lực công việc giảng dạy quá nặng nề.",
-          "B. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ.",
-          "C. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình.",
-          "D. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân."
+          "A. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "B. Tự do học thuật và sáng tạo không giới hạn.",
+          "C. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL.",
+          "D. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước."
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
         "options": [
-          "A. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "B. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "C. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động).",
-          "D. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định."
-        ],
-        "ans": 2,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
-        "options": [
-          "A. Không quá 02 năm",
-          "B. Không quá 03 năm",
-          "C. Không quá 05 năm",
-          "D. Không quá 01 năm"
-        ],
-        "ans": 1,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
-        "options": [
-          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
-          "B. 2 mức: Đạt và Không đạt chuẩn viên chức.",
-          "C. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "D. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
-        "options": [
-          "A. Buộc thôi việc",
-          "B. Cảnh cáo",
-          "C. Cách chức",
-          "D. Khiển trách"
-        ],
-        "ans": 2,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
-        "options": [
-          "A. 02 năm (24 tháng)",
-          "B. 03 năm (36 tháng)",
-          "C. 10 năm",
-          "D. 05 năm (60 tháng)"
+          "A. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ.",
+          "B. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân.",
+          "C. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý.",
+          "D. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân."
         ],
         "ans": 3,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
         "options": [
-          "A. Viên chức vi phạm quy định về đi làm muộn quá 3 lần.",
-          "B. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "C. Viên chức không tham gia họp hội đồng trường định kỳ.",
-          "D. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ."
-        ],
-        "ans": 1,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 5] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
-        "options": [
-          "A. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày.",
-          "B. Không quá 07 ngày làm việc.",
-          "C. Không quá 30 ngày; kéo dài tối đa 60 ngày.",
-          "D. Không quá 45 ngày cố định."
-        ],
-        "ans": 0,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "B. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm.",
-          "C. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "D. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
-        "options": [
-          "A. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù.",
-          "B. Người đã từng làm việc tại doanh nghiệp tư nhân.",
-          "C. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu.",
-          "D. Người không có hộ khẩu thường trú tại thành phố Huế."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
-        "options": [
-          "A. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học.",
-          "B. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh.",
-          "C. Người tốt nghiệp đại học loại giỏi tại nước ngoài.",
-          "D. Người dân tộc thiểu số, sĩ quan quân đội nhân dân."
-        ],
-        "ans": 1,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 2,5 điểm",
-          "B. 5,0 điểm",
-          "C. 3,0 điểm",
-          "D. 7,5 điểm"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "B. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "C. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2.",
-          "D. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2."
-        ],
-        "ans": 2,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 60 câu hỏi, thời gian làm bài 60 phút.",
-          "B. 60 câu hỏi, thời gian làm bài 90 phút.",
-          "C. 50 câu hỏi, thời gian làm bài 50 phút.",
-          "D. 100 câu hỏi, thời gian làm bài 60 phút."
-        ],
-        "ans": 0,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1.",
-          "B. Thí sinh là đảng viên chính thức được miễn thi Vòng 1.",
-          "C. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1.",
-          "D. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1."
-        ],
-        "ans": 0,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
-        "options": [
-          "A. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "B. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "C. Thời gian thi vấn đáp 45 phút.",
-          "D. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị."
-        ],
-        "ans": 1,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
-        "options": [
-          "A. Thang điểm 10, đạt từ 5 điểm trở lên.",
-          "B. Thang điểm 100, đạt từ 70 điểm trở lên.",
-          "C. Thang điểm 100, đạt từ 60 điểm trở lên.",
-          "D. Thang điểm 100, đạt từ 50 điểm trở lên."
+          "A. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "B. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới.",
+          "C. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành.",
+          "D. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó."
         ],
         "ans": 3,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
         "options": [
-          "A. Trong thời hạn 60 ngày",
-          "B. Trong thời hạn 45 ngày",
-          "C. Trong thời hạn 15 ngày",
-          "D. Trong thời hạn 30 ngày"
+          "A. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "B. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "C. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật.",
+          "D. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
+        "options": [
+          "A. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính.",
+          "B. Chỉ chào hỏi những người giữ chức vụ cao hơn mình.",
+          "C. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "D. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức."
         ],
         "ans": 3,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
         "options": [
-          "A. 12 tháng",
-          "B. 09 tháng",
-          "C. 06 tháng",
-          "D. 24 tháng"
-        ],
-        "ans": 0,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
-        "options": [
-          "A. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "B. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương.",
-          "C. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần.",
-          "D. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi."
+          "A. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "B. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ.",
+          "C. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân.",
+          "D. Tôn trọng phong tục tập quán của đồng bào các dân tộc."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
         "options": [
-          "A. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng.",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "C. Là con ruột của người đứng đầu đơn vị tuyển dụng.",
-          "D. Có chứng chỉ tiếng Anh quốc tế C1 trở lên."
+          "A. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật.",
+          "B. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật.",
+          "C. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành.",
+          "D. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ."
         ],
         "ans": 0,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
         "options": [
-          "A. 100%",
-          "B. 75%",
-          "C. 80%",
-          "D. 85%"
+          "A. Cấp cao, Cấp trung, Cấp cơ sở.",
+          "B. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V.",
+          "C. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên.",
+          "D. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ."
         ],
         "ans": 3,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 5] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
         "options": [
-          "A. Được hưởng thêm 50% mức lương của người tập sự.",
-          "B. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự.",
-          "C. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "D. Được giảm 100% số tiết dạy trên lớp."
+          "A. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "B. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng.",
+          "C. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "D. Số lượng hồ sơ tồn đọng từ các năm trước."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
+        "options": [
+          "A. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "B. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "C. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam.",
+          "D. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 5] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
+        "options": [
+          "A. 09 tháng",
+          "B. 24 tháng",
+          "C. 12 tháng",
+          "D. 06 tháng"
+        ],
+        "ans": 2,
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 5] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
+        "options": [
+          "A. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "B. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự).",
+          "C. 100% mức lương bậc 1 trong mọi trường hợp.",
+          "D. 75% mức lương bậc 1."
         ],
         "ans": 1,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
         "options": [
-          "A. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động.",
-          "B. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "C. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây.",
-          "D. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng."
+          "A. 4 mức: Xuất sắc, Khá, Trung bình, Yếu.",
+          "B. 5 mức: Hạng A, B, C, D, E.",
+          "C. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
+          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
         "options": [
-          "A. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học.",
-          "B. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội.",
-          "C. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao.",
-          "D. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
-        "options": [
-          "A. Giáo dục trung học phổ thông.",
-          "B. Giáo dục mầm non cho trẻ 5 tuổi.",
-          "C. Giáo dục tiểu học.",
-          "D. Giáo dục trung học cơ sở."
-        ],
-        "ans": 2,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
-        "options": [
-          "A. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh.",
-          "B. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "C. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất.",
-          "D. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí."
+          "A. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương).",
+          "B. Khiển trách, Cảnh cáo, Giáng chức, Cách chức.",
+          "C. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "D. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc."
         ],
         "ans": 3,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
         "options": [
-          "A. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp.",
-          "B. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "C. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học.",
-          "D. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm)."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
-        "options": [
-          "A. Hiệu trưởng từng trường phổ thông.",
-          "B. Ủy ban nhân dân cấp tỉnh.",
-          "C. Hội Khuyến học tỉnh.",
-          "D. Giám đốc Sở Giáo dục và Đào tạo."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
-        "options": [
-          "A. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "B. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường.",
-          "C. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh.",
-          "D. Giữ vai trò quản lý tài chính trường học."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
-        "options": [
-          "A. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế.",
-          "B. Phải là đảng viên Đảng Cộng sản Việt Nam.",
-          "C. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "D. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở."
-        ],
-        "ans": 2,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
-        "options": [
-          "A. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ.",
-          "B. Có bằng cử nhân ngành đào tạo giáo viên trở lên.",
-          "C. Có bằng tốt nghiệp cao đẳng sư phạm trở lên.",
-          "D. Có bằng tốt nghiệp trung cấp sư phạm trở lên."
-        ],
-        "ans": 2,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
-        "options": [
-          "A. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "B. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm.",
-          "C. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "D. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm)."
-        ],
-        "ans": 3,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định.",
-          "B. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác.",
-          "C. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "D. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh."
+          "A. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc.",
+          "B. Chuyển sang làm viên chức sự nghiệp.",
+          "C. Chỉ có Khiển trách và Buộc thôi việc.",
+          "D. Bãi nhiệm và Miễn nhiệm."
         ],
         "ans": 0,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
         "options": [
-          "A. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học.",
-          "B. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học.",
-          "C. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "D. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học."
+          "A. 12 tháng đối với mọi hình thức.",
+          "B. Không giới hạn thời hiệu.",
+          "C. 36 tháng đối với mọi hình thức.",
+          "D. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 5] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
         "options": [
-          "A. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền.",
-          "B. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "C. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp.",
-          "D. Ra bài tập về nhà phù hợp với năng lực của học sinh."
+          "A. Cố định 30 ngày.",
+          "B. Do thủ trưởng đơn vị quyết định tùy ý.",
+          "C. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày.",
+          "D. Không quá 60 ngày."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
+        "options": [
+          "A. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "B. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ.",
+          "C. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương.",
+          "D. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
         "options": [
-          "A. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ.",
-          "B. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương.",
-          "C. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "D. Không có chế độ phụ cấp thâm niên."
+          "A. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị.",
+          "B. Cơ quan quyền lực nhà nước cao nhất tại địa phương.",
+          "C. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy.",
+          "D. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên."
         ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 5] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
         "options": [
-          "A. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên.",
-          "B. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "C. Đóng góp ý kiến xây dựng phong trào thi đua của lớp.",
-          "D. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ."
+          "A. Hiệp thương dân chủ và tự nguyện đóng góp.",
+          "B. Phân quyền, phân cấp và ủy quyền.",
+          "C. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện.",
+          "D. Khoán việc, giao việc và nghiệm thu."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
         "options": [
-          "A. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học.",
-          "B. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân.",
-          "C. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc.",
-          "D. Giảm tải 80% thời lượng các môn khoa học cơ bản."
+          "A. Quy định trong quy chế nội bộ của UBND cấp dưới.",
+          "B. Phải được quy định trong luật.",
+          "C. Do Chủ tịch UBND cấp trên phân công bằng lời nói.",
+          "D. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
         "options": [
-          "A. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân.",
-          "B. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "C. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "D. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành."
+          "A. Được ủy quyền cho bất kỳ cá nhân công chức nào.",
+          "B. Không được ủy quyền lại cho cơ quan, tổ chức khác.",
+          "C. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp.",
+          "D. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối."
         ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
+        "ans": 1,
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
         "options": [
-          "A. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học.",
-          "B. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế.",
-          "C. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "D. Học thuộc lòng kiến thức sách giáo khoa theo mẫu."
-        ],
-        "ans": 2,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
-        "options": [
-          "A. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn.",
-          "B. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "C. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "D. Loại bỏ hoàn toàn việc kiểm tra định kỳ."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
-        "options": [
-          "A. 4 chương, 15 điều",
-          "B. 3 chương, 12 điều",
-          "C. 4 chương, 10 điều",
-          "D. 5 chương, 15 điều"
-        ],
-        "ans": 2,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
-        "options": [
-          "A. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "B. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn.",
-          "C. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp.",
-          "D. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh."
+          "A. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân.",
+          "B. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "C. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy.",
+          "D. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
         "options": [
-          "A. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường.",
-          "B. Sử dụng hình phạt thể xác nghiêm khắc để răn đe.",
-          "C. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "D. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng."
+          "A. Giám đốc Sở Nội vụ.",
+          "B. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương.",
+          "C. Thủ tướng Chính phủ.",
+          "D. Thường trực Hội đồng nhân dân cấp huyện."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
+        "options": [
+          "A. Mỗi tháng 01 kỳ",
+          "B. Mỗi nhiệm kỳ chỉ họp 01 lần",
+          "C. Ít nhất 04 kỳ họp",
+          "D. Ít nhất 02 kỳ họp"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
         "options": [
-          "A. Xúc phạm, áp đặt, vụ lợi.",
-          "B. Kịp thời thông báo kết quả học tập của học sinh.",
-          "C. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "D. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh."
+          "A. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh.",
+          "B. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "C. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh.",
+          "D. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
         "options": [
-          "A. 6 tiêu chuẩn, 18 tiêu chí",
-          "B. 5 tiêu chuẩn, 20 tiêu chí",
-          "C. 5 tiêu chuẩn, 15 tiêu chí",
-          "D. 4 tiêu chuẩn, 12 tiêu chí"
+          "A. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "B. Chỉ có Ban Pháp chế và Ban Kinh tế.",
+          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị.",
+          "D. Ban Tiếp công dân và Ban Quản lý trật tự đô thị."
         ],
         "ans": 2,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 5] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
         "options": [
-          "A. Kiểm tra vở ghi và sách bài tập của học sinh.",
-          "B. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần.",
-          "C. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "D. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường."
+          "A. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
+          "B. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "C. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "D. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
+        "options": [
+          "A. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố.",
+          "B. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "C. Chỉ được góp ý nhắc nhở mà không được bãi bỏ.",
+          "D. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
+        "options": [
+          "A. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp.",
+          "B. Phải có bằng tiến sĩ luật học.",
+          "C. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân.",
+          "D. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
+        "options": [
+          "A. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "B. Giám đốc các doanh nghiệp tư nhân trên địa bàn.",
+          "C. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp.",
+          "D. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 5] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
+        "options": [
+          "A. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương).",
+          "B. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp.",
+          "C. Chuyển thành mô hình ban quản lý khu kinh tế mở.",
+          "D. Giải thể hoàn toàn các cơ quan tư pháp cấp quận."
+        ],
+        "ans": 0,
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
+        "options": [
+          "A. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày.",
+          "B. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "C. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+          "D. Thông cáo báo chí của cơ quan truyền thông công quyền."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
+        "options": [
+          "A. Công văn hướng dẫn nghiệp vụ.",
+          "B. Nghị quyết và Thông tư.",
+          "C. Quyết định.",
+          "D. Chỉ thị và Quyết định."
+        ],
+        "ans": 2,
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
+        "options": [
+          "A. Không sớm hơn 45 ngày kể từ ngày đăng công báo.",
+          "B. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành.",
+          "C. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "D. Không sớm hơn 30 ngày kể từ ngày ký ban hành."
+        ],
+        "ans": 1,
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "options": [
+          "A. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai.",
+          "B. Quy định bãi bỏ các thủ tục hành chính rườm rà.",
+          "C. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn.",
+          "D. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng."
+        ],
+        "ans": 2,
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
+        "options": [
+          "A. 12 thành phần",
+          "B. 7 thành phần",
+          "C. 9 thành phần",
+          "D. 8 thành phần"
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
+        "options": [
+          "A. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "B. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do.",
+          "C. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang.",
+          "D. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang."
+        ],
+        "ans": 2,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "B. Đóng dấu chính giữa trùm lên toàn bộ chữ ký.",
+          "C. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái.",
+          "D. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký."
+        ],
+        "ans": 2,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
+        "options": [
+          "A. Tối đa 03 tờ văn bản",
+          "B. Không giới hạn số tờ",
+          "C. Tối đa 05 tờ văn bản",
+          "D. Tối đa 10 tờ văn bản"
+        ],
+        "ans": 2,
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
+        "options": [
+          "A. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
+        ],
+        "ans": 3,
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 5] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
+        "options": [
+          "A. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)",
+          "B. Ủy ban nhân dân thành phố Huế",
+          "C. Ủy Ban Nhân Dân Thành Phố Huế",
+          "D. ủy ban nhân dân Thành phố Huế"
+        ],
+        "ans": 1,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
+        "options": [
+          "A. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+          "B. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính.",
+          "C. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức.",
+          "D. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "B. Cán bộ, công chức, viên chức trong cơ quan nhà nước.",
+          "C. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó.",
+          "D. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 15 nhóm hành vi",
+          "B. 12 nhóm hành vi",
+          "C. 8 nhóm hành vi",
+          "D. 10 nhóm hành vi"
+        ],
+        "ans": 1,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
+          "B. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn.",
+          "C. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí.",
+          "D. Giải trình chi tiết đời sống riêng tư của người thân cán bộ."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận.",
+          "B. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "C. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo.",
+          "D. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên.",
+          "B. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng.",
+          "C. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng.",
+          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài."
+        ],
+        "ans": 3,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Trước ngày 31 tháng 12 của năm kê khai",
+          "B. Vào dịp Đại hội cổ đông",
+          "C. Trước ngày 31 tháng 01 năm sau",
+          "D. Trước ngày 30 tháng 06 hàng năm"
+        ],
+        "ans": 0,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng.",
+          "B. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+          "D. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã.",
+          "B. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "C. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân.",
+          "D. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp."
+        ],
+        "ans": 1,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "B. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "C. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI.",
+          "D. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính."
+        ],
+        "ans": 0,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Mua sắm trang thiết bị xe công vụ hiện đại.",
+          "B. Mở rộng trụ sở làm việc của các cơ quan hành chính.",
+          "C. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "D. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số."
+        ],
+        "ans": 3,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương.",
+          "B. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI.",
+          "C. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
+          "D. Đếm số lượng văn bản hành chính được ban hành trong năm."
+        ],
+        "ans": 2,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Dịch vụ công trong nước và Dịch vụ công quốc tế.",
+          "B. Dịch vụ công miễn phí và Dịch vụ công có thu phí.",
+          "C. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "D. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4."
+        ],
+        "ans": 2,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "B. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh.",
+          "C. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức.",
+          "D. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 5] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Giảm thời gian làm việc trong ngày của công chức.",
+          "B. Tăng thu lệ phí cho ngân sách địa phương.",
+          "C. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân.",
+          "D. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   },
   {
     "id": 6,
-    "title": "Đề số 06: Chuyên sâu Đổi mới giáo dục (NQ 29) & Đạo đức, Quy tắc ứng xử nhà giáo",
+    "title": "Đề số 06: Chuyên sâu Quyền hạn, Nghĩa vụ, Đạo đức & Văn hóa giao tiếp công vụ",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "Tại các bệnh viện công lập tự bảo đảm chi thường xuyên và chi đầu tư, các bác sĩ được tuyển dụng vào làm việc theo vị trí việc làm có thuộc đối tượng điều chỉnh của Luật Viên chức không?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Không, chỉ có Giám đốc bệnh viện mới được giữ biên chế viên chức.",
-          "B. Có, họ vẫn là viên chức vì bệnh viện công lập tự chủ vẫn là đơn vị sự nghiệp công lập.",
-          "C. Không, khi bệnh viện tự chủ thì toàn bộ nhân viên chuyển thành người lao động theo hợp đồng dân sự.",
-          "D. Tùy thuộc vào việc bác sĩ đó có tham gia đóng góp vốn vào bệnh viện hay không."
-        ],
-        "ans": 1,
-        "explanation": "★ Bản chất: Đơn vị sự nghiệp công lập dù tự chủ 100% tài chính thì bản chất tổ chức vẫn là đơn vị sự nghiệp công lập, người trúng tuyển theo vị trí việc làm vẫn là viên chức và được bảo đảm các quyền lợi của viên chức."
-      },
-      {
-        "q": "Theo Điều 3 Luật Viên chức, trong hoạt động nghề nghiệp, viên chức chịu sự giám sát của những chủ thể nào?",
-        "options": [
-          "A. Chỉ chịu sự giám sát của tổ chuyên môn.",
-          "B. Cơ quan, tổ chức có thẩm quyền và của nhân dân.",
-          "C. Duy nhất chỉ người đứng đầu đơn vị sự nghiệp công lập.",
-          "D. Chỉ chịu sự giám sát của thanh tra Sở Giáo dục và Đào tạo."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 3 Luật Viên chức: 'Chịu sự thanh tra, kiểm tra, giám sát của cơ quan, tổ chức có thẩm quyền VÀ CỦA NHÂN DÂN'."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Theo Luật Viên chức, việc tuyển dụng, sử dụng, quản lý, đánh giá viên chức được thực hiện trên cơ sở nào?",
-        "options": [
-          "A. Bằng khen và huy chương qua các năm.",
-          "B. Quan hệ thân quen và ý chí chủ quan của thủ trưởng.",
-          "C. Tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và căn cứ vào hợp đồng làm việc.",
-          "D. Mức độ đóng góp tài chính cho đơn vị."
-        ],
-        "ans": 2,
-        "explanation": "★ Trích luật: Khoản 3 Điều 6 Luật Viên chức: Căn cứ tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và hợp đồng làm việc."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Quyền của viên chức về tiền lương bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được tự định đoạt bảng lương của đồng nghiệp.",
-          "B. Được nhận lương trực tiếp bằng ngoại tệ không qua tài khoản.",
-          "C. Được tự giữ lại một phần nguồn thu viện phí, học phí.",
-          "D. Được hưởng tiền thưởng, được xét nâng lương theo quy định của pháp luật và quy chế của đơn vị sự nghiệp công lập."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 12 Luật Viên chức."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Trường hợp do nhu cầu công việc mà viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hàng năm thì được giải quyết như thế nào?",
-        "options": [
-          "A. Bắt buộc phải chuyển số ngày phép sang năm thứ mười.",
-          "B. Bị hủy bỏ toàn bộ số ngày phép mà không có bất kỳ khoản hỗ trợ nào.",
-          "C. Trừ trực tiếp vào điểm thi đua cuối năm.",
-          "D. Được thanh toán một khoản tiền cho những ngày không nghỉ theo quy định."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Viên chức: Được thanh toán tiền cho những ngày không nghỉ theo quy chế đơn vị."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Cô giáo dạy Tiếng Anh tại trường THCS công lập có được ký hợp đồng giảng dạy buổi tối tại một trung tâm ngoại ngữ tư thục không?",
-        "options": [
-          "A. Bị cấm hoàn toàn vì vi phạm đạo đức nhà giáo.",
-          "B. Tự do dạy mà không cần thông báo hay xin phép bất kỳ ai.",
-          "C. Chỉ được dạy miễn phí không được nhận thù lao.",
-          "D. Được ký hợp đồng vụ việc ngoài giờ làm việc nếu pháp luật không cấm và được người đứng đầu trường học đồng ý."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 14 Luật Viên chức: Được ký hợp đồng vụ việc với cơ quan, tổ chức khác mà pháp luật không cấm nhưng phải hoàn thành nhiệm vụ được giao và có sự đồng ý của người đứng đầu."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 7 nghĩa vụ",
-          "B. 4 nghĩa vụ",
-          "C. 5 nghĩa vụ",
-          "D. 6 nghĩa vụ"
-        ],
-        "ans": 2,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
-        "options": [
-          "A. 7 nghĩa vụ",
-          "B. 6 nghĩa vụ",
-          "C. 5 nghĩa vụ",
-          "D. 8 nghĩa vụ"
+          "A. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước.",
+          "B. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "C. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã.",
+          "D. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập."
         ],
         "ans": 0,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có hành vi xúc phạm danh dự, nhân phẩm của người học là vi phạm điều khoản nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. Vi phạm nguyên tắc bảo mật thông tin nhà nước.",
-          "B. Vi phạm quyền đơn phương chấm dứt hợp đồng.",
-          "C. Vi phạm những việc viên chức không được làm tại khoản 4 Điều 19 Luật Viên chức.",
-          "D. Vi phạm chế độ biệt phái viên chức."
+          "A. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng.",
+          "B. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo.",
+          "C. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao.",
+          "D. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý."
         ],
-        "ans": 2,
-        "explanation": "★ Trích luật: Khoản 4 Điều 19 nghiêm cấm: Xúc phạm danh dự, nhân phẩm, uy tín của người khác trong khi thực hiện hoạt động nghề nghiệp."
+        "ans": 3,
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Một trường học công lập tại TP Huế tuyển dụng giáo viên mới vào tháng 09/2025. Hiệu trưởng ký hợp đồng làm việc lần đầu với thời hạn 48 tháng thì có đúng quy định pháp luật không?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
         "options": [
-          "A. Sai quy định, vì phải ký không xác định thời hạn ngay từ đầu.",
-          "B. Sai quy định, vì hợp đồng lần đầu bắt buộc phải đúng 36 tháng.",
-          "C. Đúng quy định, vì thời hạn 48 tháng nằm trong khung từ đủ 12 tháng đến 60 tháng.",
-          "D. Sai quy định, vì tối đa chỉ được ký 24 tháng."
-        ],
-        "ans": 2,
-        "explanation": "★ Tình huống: Khung luật cho phép từ đủ 12 tháng đến 60 tháng, nên ký 48 tháng là hoàn toàn hợp pháp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển.",
-          "B. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn.",
-          "C. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025.",
-          "D. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục."
-        ],
-        "ans": 1,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Khi đơn phương chấm dứt hợp đồng làm việc với viên chức ký hợp đồng XÁC ĐỊNH THỜI HẠN (trừ trường hợp ốm đau), ĐVSNCL phải báo trước ít nhất bao nhiêu ngày?",
-        "options": [
-          "A. Ít nhất 30 ngày.",
-          "B. Ít nhất 45 ngày.",
-          "C. Ít nhất 15 ngày.",
-          "D. Ít nhất 60 ngày."
+          "A. 5 nguyên tắc",
+          "B. 7 nguyên tắc",
+          "C. 4 nguyên tắc",
+          "D. 6 nguyên tắc"
         ],
         "ans": 0,
-        "explanation": "★ Bẫy ngày báo trước: HĐ không xác định thời hạn: báo trước ít nhất 45 ngày; HĐ xác định thời hạn: báo trước ít nhất 30 ngày."
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
         "options": [
-          "A. Cảm thấy áp lực công việc giảng dạy quá nặng nề.",
-          "B. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân.",
-          "C. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ.",
-          "D. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình."
+          "A. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước.",
+          "B. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "C. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL.",
+          "D. Tự do học thuật và sáng tạo không giới hạn."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
+        "options": [
+          "A. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "B. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý.",
+          "C. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ.",
+          "D. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
+        "options": [
+          "A. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó.",
+          "B. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới.",
+          "C. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "D. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
+        "options": [
+          "A. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "B. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "C. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh.",
+          "D. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
+        "options": [
+          "A. Chỉ chào hỏi những người giữ chức vụ cao hơn mình.",
+          "B. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "C. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính.",
+          "D. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
+        "options": [
+          "A. Tôn trọng phong tục tập quán của đồng bào các dân tộc.",
+          "B. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "C. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ.",
+          "D. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
         "options": [
-          "A. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "B. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động).",
-          "C. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "D. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định."
+          "A. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ.",
+          "B. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật.",
+          "C. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành.",
+          "D. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật."
         ],
         "ans": 1,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
         "options": [
-          "A. Không quá 01 năm",
-          "B. Không quá 05 năm",
-          "C. Không quá 02 năm",
-          "D. Không quá 03 năm"
+          "A. Cấp cao, Cấp trung, Cấp cơ sở.",
+          "B. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên.",
+          "C. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V.",
+          "D. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ."
         ],
         "ans": 3,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
         "options": [
-          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
-          "B. 2 mức: Đạt và Không đạt chuẩn viên chức.",
-          "C. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E.",
-          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
-        "options": [
-          "A. Buộc thôi việc",
-          "B. Cách chức",
-          "C. Khiển trách",
-          "D. Cảnh cáo"
-        ],
-        "ans": 1,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
-        "options": [
-          "A. 05 năm (60 tháng)",
-          "B. 10 năm",
-          "C. 02 năm (24 tháng)",
-          "D. 03 năm (36 tháng)"
-        ],
-        "ans": 0,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Viên chức vi phạm quy định về đi làm muộn quá 3 lần.",
-          "B. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "C. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ.",
-          "D. Viên chức không tham gia họp hội đồng trường định kỳ."
-        ],
-        "ans": 1,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 6] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
-        "options": [
-          "A. Không quá 45 ngày cố định.",
-          "B. Không quá 30 ngày; kéo dài tối đa 60 ngày.",
-          "C. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày.",
-          "D. Không quá 07 ngày làm việc."
+          "A. Số lượng hồ sơ tồn đọng từ các năm trước.",
+          "B. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "C. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "D. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng."
         ],
         "ans": 2,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
         "options": [
-          "A. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "B. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển.",
-          "C. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "D. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
-        "options": [
-          "A. Người không có hộ khẩu thường trú tại thành phố Huế.",
-          "B. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù.",
-          "C. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu.",
-          "D. Người đã từng làm việc tại doanh nghiệp tư nhân."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
-        "options": [
-          "A. Người dân tộc thiểu số, sĩ quan quân đội nhân dân.",
-          "B. Người tốt nghiệp đại học loại giỏi tại nước ngoài.",
-          "C. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học.",
-          "D. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh."
+          "A. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "B. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương.",
+          "C. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "D. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam."
         ],
         "ans": 3,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 5,0 điểm",
-          "B. 3,0 điểm",
-          "C. 2,5 điểm",
-          "D. 7,5 điểm"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "B. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "C. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2.",
-          "D. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2."
-        ],
-        "ans": 3,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 60 câu hỏi, thời gian làm bài 90 phút.",
-          "B. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "C. 50 câu hỏi, thời gian làm bài 50 phút.",
-          "D. 60 câu hỏi, thời gian làm bài 60 phút."
-        ],
-        "ans": 3,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1.",
-          "B. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1.",
-          "C. Thí sinh là đảng viên chính thức được miễn thi Vòng 1.",
-          "D. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1."
-        ],
-        "ans": 1,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
-        "options": [
-          "A. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "B. Thời gian thi vấn đáp 45 phút.",
-          "C. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "D. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị."
-        ],
-        "ans": 0,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
-        "options": [
-          "A. Thang điểm 100, đạt từ 70 điểm trở lên.",
-          "B. Thang điểm 10, đạt từ 5 điểm trở lên.",
-          "C. Thang điểm 100, đạt từ 50 điểm trở lên.",
-          "D. Thang điểm 100, đạt từ 60 điểm trở lên."
-        ],
-        "ans": 2,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
-        "options": [
-          "A. Trong thời hạn 15 ngày",
-          "B. Trong thời hạn 60 ngày",
-          "C. Trong thời hạn 45 ngày",
-          "D. Trong thời hạn 30 ngày"
-        ],
-        "ans": 3,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 6] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
         "options": [
           "A. 24 tháng",
-          "B. 12 tháng",
-          "C. 09 tháng",
-          "D. 06 tháng"
-        ],
-        "ans": 1,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
-        "options": [
-          "A. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "B. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi.",
-          "C. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần.",
-          "D. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương."
+          "B. 09 tháng",
+          "C. 06 tháng",
+          "D. 12 tháng"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 6] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
         "options": [
-          "A. Là con ruột của người đứng đầu đơn vị tuyển dụng.",
-          "B. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng.",
-          "C. Có chứng chỉ tiếng Anh quốc tế C1 trở lên.",
-          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc."
-        ],
-        "ans": 1,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
-        "options": [
-          "A. 85%",
-          "B. 100%",
-          "C. 75%",
-          "D. 80%"
+          "A. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự).",
+          "B. 100% mức lương bậc 1 trong mọi trường hợp.",
+          "C. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "D. 75% mức lương bậc 1."
         ],
         "ans": 0,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 6] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
         "options": [
-          "A. Được hưởng thêm 50% mức lương của người tập sự.",
-          "B. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "C. Được giảm 100% số tiết dạy trên lớp.",
-          "D. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự."
+          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
+          "B. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+          "C. 4 mức: Xuất sắc, Khá, Trung bình, Yếu.",
+          "D. 5 mức: Hạng A, B, C, D, E."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
+        "options": [
+          "A. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "B. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "C. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương).",
+          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức."
+        ],
+        "ans": 1,
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
+        "options": [
+          "A. Chuyển sang làm viên chức sự nghiệp.",
+          "B. Bãi nhiệm và Miễn nhiệm.",
+          "C. Chỉ có Khiển trách và Buộc thôi việc.",
+          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
         ],
         "ans": 3,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
         "options": [
-          "A. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng.",
-          "B. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động.",
-          "C. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "D. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
-        "options": [
-          "A. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học.",
-          "B. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "C. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao.",
-          "D. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
-        "options": [
-          "A. Giáo dục trung học phổ thông.",
-          "B. Giáo dục mầm non cho trẻ 5 tuổi.",
-          "C. Giáo dục trung học cơ sở.",
-          "D. Giáo dục tiểu học."
-        ],
-        "ans": 3,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
-        "options": [
-          "A. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "B. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh.",
-          "C. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí.",
-          "D. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất."
+          "A. Không giới hạn thời hiệu.",
+          "B. 36 tháng đối với mọi hình thức.",
+          "C. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "D. 12 tháng đối với mọi hình thức."
         ],
         "ans": 2,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 6] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
         "options": [
-          "A. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "B. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học.",
-          "C. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm).",
-          "D. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
-        "options": [
-          "A. Hiệu trưởng từng trường phổ thông.",
-          "B. Ủy ban nhân dân cấp tỉnh.",
-          "C. Giám đốc Sở Giáo dục và Đào tạo.",
-          "D. Hội Khuyến học tỉnh."
+          "A. Không quá 60 ngày.",
+          "B. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày.",
+          "C. Cố định 30 ngày.",
+          "D. Do thủ trưởng đơn vị quyết định tùy ý."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
         "options": [
-          "A. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "B. Giữ vai trò quản lý tài chính trường học.",
-          "C. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường.",
-          "D. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh."
+          "A. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam.",
+          "B. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "C. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương.",
+          "D. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ."
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
         "options": [
-          "A. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "B. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế.",
-          "C. Phải là đảng viên Đảng Cộng sản Việt Nam.",
-          "D. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở."
+          "A. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên.",
+          "B. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị.",
+          "C. Cơ quan quyền lực nhà nước cao nhất tại địa phương.",
+          "D. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy."
         ],
         "ans": 0,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
         "options": [
-          "A. Có bằng cử nhân ngành đào tạo giáo viên trở lên.",
-          "B. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ.",
-          "C. Có bằng tốt nghiệp trung cấp sư phạm trở lên.",
-          "D. Có bằng tốt nghiệp cao đẳng sư phạm trở lên."
+          "A. Phân quyền, phân cấp và ủy quyền.",
+          "B. Hiệp thương dân chủ và tự nguyện đóng góp.",
+          "C. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện.",
+          "D. Khoán việc, giao việc và nghiệm thu."
         ],
-        "ans": 3,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
+        "ans": 0,
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
         "options": [
-          "A. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "B. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "C. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm).",
-          "D. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm."
+          "A. Phải được quy định trong luật.",
+          "B. Do Chủ tịch UBND cấp trên phân công bằng lời nói.",
+          "C. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban.",
+          "D. Quy định trong quy chế nội bộ của UBND cấp dưới."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
+        "options": [
+          "A. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "B. Không được ủy quyền lại cho cơ quan, tổ chức khác.",
+          "C. Được ủy quyền cho bất kỳ cá nhân công chức nào.",
+          "D. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp."
+        ],
+        "ans": 1,
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
+        "options": [
+          "A. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "C. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy.",
+          "D. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
+        "options": [
+          "A. Thủ tướng Chính phủ.",
+          "B. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương.",
+          "C. Thường trực Hội đồng nhân dân cấp huyện.",
+          "D. Giám đốc Sở Nội vụ."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
+        "options": [
+          "A. Mỗi nhiệm kỳ chỉ họp 01 lần",
+          "B. Ít nhất 02 kỳ họp",
+          "C. Ít nhất 04 kỳ họp",
+          "D. Mỗi tháng 01 kỳ"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
+        "options": [
+          "A. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh.",
+          "B. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh.",
+          "C. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "D. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Chỉ có Ban Pháp chế và Ban Kinh tế.",
+          "B. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị.",
+          "C. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "D. Ban Tiếp công dân và Ban Quản lý trật tự đô thị."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
+        "options": [
+          "A. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "B. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "C. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
+          "D. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn."
         ],
         "ans": 2,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
         "options": [
-          "A. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh.",
-          "B. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "C. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác.",
-          "D. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định."
-        ],
-        "ans": 3,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
-        "options": [
-          "A. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học.",
-          "B. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học.",
-          "C. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "D. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
-        "options": [
-          "A. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền.",
-          "B. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp.",
-          "C. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "D. Ra bài tập về nhà phù hợp với năng lực của học sinh."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
-        "options": [
-          "A. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương.",
-          "B. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ.",
-          "C. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "D. Không có chế độ phụ cấp thâm niên."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 6] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "B. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ.",
-          "C. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên.",
-          "D. Đóng góp ý kiến xây dựng phong trào thi đua của lớp."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
-        "options": [
-          "A. Giảm tải 80% thời lượng các môn khoa học cơ bản.",
-          "B. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân.",
-          "C. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc.",
-          "D. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
-        "options": [
-          "A. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "B. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân.",
-          "C. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "D. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
-        "options": [
-          "A. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế.",
-          "B. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "C. Học thuộc lòng kiến thức sách giáo khoa theo mẫu.",
-          "D. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học."
-        ],
-        "ans": 1,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
-        "options": [
-          "A. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "B. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "C. Loại bỏ hoàn toàn việc kiểm tra định kỳ.",
-          "D. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
-        "options": [
-          "A. 4 chương, 15 điều",
-          "B. 3 chương, 12 điều",
-          "C. 4 chương, 10 điều",
-          "D. 5 chương, 15 điều"
+          "A. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố.",
+          "B. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ.",
+          "C. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "D. Chỉ được góp ý nhắc nhở mà không được bãi bỏ."
         ],
         "ans": 2,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
         "options": [
-          "A. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "B. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh.",
-          "C. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn.",
-          "D. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp."
+          "A. Phải có bằng tiến sĩ luật học.",
+          "B. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân.",
+          "C. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương.",
+          "D. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
         "options": [
-          "A. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường.",
-          "B. Sử dụng hình phạt thể xác nghiêm khắc để răn đe.",
-          "C. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "D. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
-        "options": [
-          "A. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh.",
-          "B. Kịp thời thông báo kết quả học tập của học sinh.",
-          "C. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "D. Xúc phạm, áp đặt, vụ lợi."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
-        "options": [
-          "A. 5 tiêu chuẩn, 15 tiêu chí",
-          "B. 5 tiêu chuẩn, 20 tiêu chí",
-          "C. 4 tiêu chuẩn, 12 tiêu chí",
-          "D. 6 tiêu chuẩn, 18 tiêu chí"
+          "A. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp.",
+          "B. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương.",
+          "C. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "D. Giám đốc các doanh nghiệp tư nhân trên địa bàn."
         ],
         "ans": 0,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 6] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 6] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
         "options": [
-          "A. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần.",
-          "B. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "C. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường.",
-          "D. Kiểm tra vở ghi và sách bài tập của học sinh."
+          "A. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương).",
+          "B. Giải thể hoàn toàn các cơ quan tư pháp cấp quận.",
+          "C. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp.",
+          "D. Chuyển thành mô hình ban quản lý khu kinh tế mở."
+        ],
+        "ans": 0,
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
+        "options": [
+          "A. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "B. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày.",
+          "C. Thông cáo báo chí của cơ quan truyền thông công quyền.",
+          "D. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
+        "options": [
+          "A. Nghị quyết và Thông tư.",
+          "B. Quyết định.",
+          "C. Chỉ thị và Quyết định.",
+          "D. Công văn hướng dẫn nghiệp vụ."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
+        "options": [
+          "A. Không sớm hơn 45 ngày kể từ ngày đăng công báo.",
+          "B. Không sớm hơn 30 ngày kể từ ngày ký ban hành.",
+          "C. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
+        ],
+        "ans": 3,
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "options": [
+          "A. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai.",
+          "B. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn.",
+          "C. Quy định bãi bỏ các thủ tục hành chính rườm rà.",
+          "D. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng."
+        ],
+        "ans": 1,
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
+        "options": [
+          "A. 7 thành phần",
+          "B. 12 thành phần",
+          "C. 8 thành phần",
+          "D. 9 thành phần"
+        ],
+        "ans": 3,
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
+        "options": [
+          "A. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang.",
+          "B. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang.",
+          "C. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "D. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do."
+        ],
+        "ans": 1,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "B. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký.",
+          "C. Đóng dấu chính giữa trùm lên toàn bộ chữ ký.",
+          "D. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái."
+        ],
+        "ans": 3,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
+        "options": [
+          "A. Không giới hạn số tờ",
+          "B. Tối đa 05 tờ văn bản",
+          "C. Tối đa 03 tờ văn bản",
+          "D. Tối đa 10 tờ văn bản"
+        ],
+        "ans": 1,
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
+        "options": [
+          "A. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
+        ],
+        "ans": 3,
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 6] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
+        "options": [
+          "A. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)",
+          "B. ủy ban nhân dân Thành phố Huế",
+          "C. Ủy Ban Nhân Dân Thành Phố Huế",
+          "D. Ủy ban nhân dân thành phố Huế"
+        ],
+        "ans": 3,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
+        "options": [
+          "A. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+          "B. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức.",
+          "C. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "D. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Cán bộ, công chức, viên chức trong cơ quan nhà nước.",
+          "B. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "C. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước.",
+          "D. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 8 nhóm hành vi",
+          "B. 12 nhóm hành vi",
+          "C. 10 nhóm hành vi",
+          "D. 15 nhóm hành vi"
+        ],
+        "ans": 1,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí.",
+          "B. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
+          "C. Giải trình chi tiết đời sống riêng tư của người thân cán bộ.",
+          "D. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi.",
+          "B. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "C. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận.",
+          "D. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng.",
+          "B. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng.",
+          "C. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên.",
+          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài."
+        ],
+        "ans": 3,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Trước ngày 31 tháng 12 của năm kê khai",
+          "B. Vào dịp Đại hội cổ đông",
+          "C. Trước ngày 31 tháng 01 năm sau",
+          "D. Trước ngày 30 tháng 06 hàng năm"
+        ],
+        "ans": 0,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác.",
+          "B. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "C. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng.",
+          "D. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp.",
+          "B. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân.",
+          "C. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "D. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã."
+        ],
+        "ans": 2,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI.",
+          "B. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "C. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính.",
+          "D. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số."
+        ],
+        "ans": 3,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Mở rộng trụ sở làm việc của các cơ quan hành chính.",
+          "B. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "C. Mua sắm trang thiết bị xe công vụ hiện đại.",
+          "D. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số."
+        ],
+        "ans": 3,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
+          "B. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI.",
+          "C. Đếm số lượng văn bản hành chính được ban hành trong năm.",
+          "D. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương."
+        ],
+        "ans": 0,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Dịch vụ công miễn phí và Dịch vụ công có thu phí.",
+          "B. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "C. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4.",
+          "D. Dịch vụ công trong nước và Dịch vụ công quốc tế."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh.",
+          "B. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức.",
+          "C. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập.",
+          "D. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 6] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân.",
+          "B. Tăng thu lệ phí cho ngân sách địa phương.",
+          "C. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý.",
+          "D. Giảm thời gian làm việc trong ngày của công chức."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   },
   {
     "id": 7,
-    "title": "Đề số 07: Chuyên sâu Chuẩn nghề nghiệp giáo viên & Điều lệ trường học các cấp",
+    "title": "Đề số 07: Chuyên sâu Quy chế tuyển dụng, Tập sự & Ngạch công chức (NĐ 138/2020)",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "Đối tượng nào dưới đây KHÔNG PHẢI là viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Chánh Văn phòng Ủy ban nhân dân thành phố Huế.",
-          "B. Giảng viên bộ môn tại Trường Đại học Sư phạm - Đại học Huế.",
-          "C. Bác sĩ chuyên khoa tại Trung tâm Y tế quận/huyện công lập.",
-          "D. Giáo viên dạy toán tại trường THPT Hai Bà Trưng, TP Huế."
+          "A. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã.",
+          "B. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "C. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước."
         ],
-        "ans": 0,
-        "explanation": "★ Bản chất: Chánh Văn phòng UBND thành phố làm việc trong cơ quan hành chính nhà nước, được xếp ngạch công chức (hưởng lương ngân sách nhà nước). Giáo viên trường công, bác sĩ bệnh viện công, giảng viên trường ĐH công lập đều là viên chức."
+        "ans": 3,
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "q": "Cụm từ nào còn thiếu trong nguyên tắc nghề nghiệp: 'Tuân thủ pháp luật, ... trong quá trình thực hiện hoạt động nghề nghiệp'?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. chịu sự chi phối của lãnh đạo",
-          "B. chịu trách nhiệm trước cấp trên",
-          "C. chịu trách nhiệm trước pháp luật",
-          "D. bảo đảm tính linh hoạt"
+          "A. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "B. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo.",
+          "C. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng.",
+          "D. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. 7 nguyên tắc",
+          "B. 5 nguyên tắc",
+          "C. 4 nguyên tắc",
+          "D. 6 nguyên tắc"
+        ],
+        "ans": 1,
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
+        "options": [
+          "A. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "B. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước.",
+          "C. Tự do học thuật và sáng tạo không giới hạn.",
+          "D. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
+        "options": [
+          "A. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý.",
+          "B. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân.",
+          "C. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "D. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ."
         ],
         "ans": 2,
-        "explanation": "★ Điền từ chuẩn luật: Khoản 1 Điều 3 Luật Viên chức: 'Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật trong quá trình thực hiện hoạt động nghề nghiệp'."
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Điều 6 Luật Viên chức, có bao nhiêu nguyên tắc quản lý viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
         "options": [
-          "A. 6 nguyên tắc",
-          "B. 3 nguyên tắc",
-          "C. 5 nguyên tắc",
-          "D. 4 nguyên tắc"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo nhớ: Luật Viên chức có 2 điều quy định '4 nguyên tắc': Điều 3 (4 nguyên tắc nghề nghiệp) và Điều 6 (4 nguyên tắc quản lý)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng chính sách gì về tiền lương?",
-        "options": [
-          "A. Được hưởng gấp 10 lần lương cơ sở.",
-          "B. Được tự do quyết định mức lương hàng tháng.",
-          "C. Được miễn đóng toàn bộ các khoản thuế thu nhập suốt đời.",
-          "D. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của Chính phủ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật Viên chức: Viên chức làm việc ở vùng đặc biệt khó khăn được hưởng phụ cấp và chính sách ưu đãi của Nhà nước."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có quyền nghỉ không hưởng lương trong trường hợp nào?",
-        "options": [
-          "A. Chỉ áp dụng cho viên chức nữ sinh con.",
-          "B. Tự ý nghỉ bất kỳ lúc nào chỉ cần gửi tin nhắn thông báo.",
-          "C. Không bao giờ được phép nghỉ không hưởng lương.",
-          "D. Có lý do chính đáng và được sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 13 Luật Viên chức: Được nghỉ không hưởng lương trong trường hợp có lý do chính đáng và được người đứng đầu đồng ý."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức được phép tham gia góp vốn vào doanh nghiệp theo hình thức nào?",
-        "options": [
-          "A. Tuyệt đối không được góp vốn vào bất kỳ doanh nghiệp nào.",
-          "B. Được lập doanh nghiệp tư nhân đứng tên chính mình làm chủ.",
-          "C. Được giữ chức danh Tổng giám đốc điều hành công ty cổ phần ngoài giờ làm việc.",
-          "D. Được góp vốn nhưng không được tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh..."
-        ],
-        "ans": 3,
-        "explanation": "★ Bẫy trắc nghiệm: Viên chức ĐƯỢC GÓP VỐN nhưng KHÔNG ĐƯỢC QUẢN LÝ, ĐIỀU HÀNH doanh nghiệp (khoản 3 Điều 14 Luật Viên chức)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 5 nghĩa vụ",
-          "B. 4 nghĩa vụ",
-          "C. 6 nghĩa vụ",
-          "D. 7 nghĩa vụ"
-        ],
-        "ans": 0,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
-        "options": [
-          "A. 6 nghĩa vụ",
-          "B. 5 nghĩa vụ",
-          "C. 8 nghĩa vụ",
-          "D. 7 nghĩa vụ"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Đâu KHÔNG PHẢI là việc viên chức không được làm theo Điều 19 Luật Viên chức 2010?",
-        "options": [
-          "A. Trốn tránh trách nhiệm, thoái thác công việc hoặc nhiệm vụ được giao.",
-          "B. Sử dụng tài sản của cơ quan, tổ chức và của nhân dân trái với quy định của pháp luật.",
-          "C. Tham gia các hoạt động thiện nguyện ngoài giờ giảng dạy.",
-          "D. Phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức."
+          "A. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "B. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới.",
+          "C. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó.",
+          "D. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành."
         ],
         "ans": 2,
-        "explanation": "★ Phân tích: Tham gia thiện nguyện ngoài giờ là hoạt động khuyến khích. Các hành vi B, C, D đều thuộc 6 điều cấm tại Điều 19."
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Luật sửa đổi 2019, từ ngày 01/7/2020, hợp đồng làm việc xác định thời hạn áp dụng cho người trúng tuyển mới có khoảng thời gian là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
         "options": [
-          "A. Không quá 24 tháng.",
-          "B. Từ đủ 12 tháng đến 36 tháng.",
-          "C. Từ đủ 12 tháng đến 60 tháng.",
-          "D. Từ đủ 24 tháng đến 60 tháng."
+          "A. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh.",
+          "B. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "C. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "D. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
+        "options": [
+          "A. Chỉ chào hỏi những người giữ chức vụ cao hơn mình.",
+          "B. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "C. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức.",
+          "D. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính."
         ],
         "ans": 2,
-        "explanation": "★ Bẫy thời gian cực hay gặp: Luật cũ 2010 là từ đủ 12 đến 36 tháng. Luật sửa đổi 2019 mở rộng thành TỪ ĐỦ 12 THÁNG ĐẾN 60 THÁNG (Khoản 2 Điều 25). Nhớ kỹ mốc 60 tháng!"
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
         "options": [
-          "A. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển.",
-          "B. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn.",
-          "C. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025.",
-          "D. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục."
+          "A. Tôn trọng phong tục tập quán của đồng bào các dân tộc.",
+          "B. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ.",
+          "C. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "D. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân."
         ],
         "ans": 1,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Đơn vị sự nghiệp công lập được quyền đơn phương chấm dứt hợp đồng làm việc với viên chức trong trường hợp nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
         "options": [
-          "A. Viên chức có 02 năm liên tiếp bị xếp loại chất lượng ở mức không hoàn thành nhiệm vụ.",
-          "B. Viên chức có 01 tháng không đạt chỉ tiêu dạy giỏi.",
-          "C. Viên chức từ chối tham gia đội văn nghệ của trường.",
-          "D. Viên chức bị đánh giá hoàn thành nhiệm vụ nhưng hiệu trưởng không thích."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 29 Luật Viên chức: Có 02 NĂM LIÊN TIẾP bị đánh giá không hoàn thành nhiệm vụ. Nếu chỉ 1 năm thì chưa được đơn phương chấm dứt!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
-        "options": [
-          "A. Cảm thấy áp lực công việc giảng dạy quá nặng nề.",
-          "B. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ.",
-          "C. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình.",
-          "D. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
-        "options": [
-          "A. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định.",
-          "B. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "C. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "D. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động)."
+          "A. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật.",
+          "B. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ.",
+          "C. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành.",
+          "D. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật."
         ],
         "ans": 3,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
         "options": [
-          "A. Không quá 03 năm",
-          "B. Không quá 02 năm",
-          "C. Không quá 01 năm",
-          "D. Không quá 05 năm"
-        ],
-        "ans": 0,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
-        "options": [
-          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
-          "B. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E.",
-          "C. 2 mức: Đạt và Không đạt chuẩn viên chức.",
-          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
-        "options": [
-          "A. Cách chức",
-          "B. Cảnh cáo",
-          "C. Khiển trách",
-          "D. Buộc thôi việc"
-        ],
-        "ans": 0,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
-        "options": [
-          "A. 02 năm (24 tháng)",
-          "B. 05 năm (60 tháng)",
-          "C. 03 năm (36 tháng)",
-          "D. 10 năm"
+          "A. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên.",
+          "B. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ.",
+          "C. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V.",
+          "D. Cấp cao, Cấp trung, Cấp cơ sở."
         ],
         "ans": 1,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
         "options": [
-          "A. Viên chức không tham gia họp hội đồng trường định kỳ.",
-          "B. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "C. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ.",
-          "D. Viên chức vi phạm quy định về đi làm muộn quá 3 lần."
+          "A. Số lượng hồ sơ tồn đọng từ các năm trước.",
+          "B. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "C. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "D. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng."
         ],
         "ans": 1,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 7] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
         "options": [
-          "A. Không quá 45 ngày cố định.",
-          "B. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày.",
-          "C. Không quá 07 ngày làm việc.",
-          "D. Không quá 30 ngày; kéo dài tối đa 60 ngày."
-        ],
-        "ans": 1,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "B. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm.",
-          "C. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "D. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển."
+          "A. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "B. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "C. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam.",
+          "D. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 7] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
         "options": [
-          "A. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù.",
-          "B. Người đã từng làm việc tại doanh nghiệp tư nhân.",
-          "C. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu.",
-          "D. Người không có hộ khẩu thường trú tại thành phố Huế."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
-        "options": [
-          "A. Người tốt nghiệp đại học loại giỏi tại nước ngoài.",
-          "B. Người dân tộc thiểu số, sĩ quan quân đội nhân dân.",
-          "C. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học.",
-          "D. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh."
-        ],
-        "ans": 3,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 3,0 điểm",
-          "B. 5,0 điểm",
-          "C. 2,5 điểm",
-          "D. 7,5 điểm"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "B. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2.",
-          "C. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2.",
-          "D. Được cộng dồn tất cả các mức ưu tiên lại với nhau."
-        ],
-        "ans": 2,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 60 câu hỏi, thời gian làm bài 90 phút.",
-          "B. 50 câu hỏi, thời gian làm bài 50 phút.",
-          "C. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "D. 60 câu hỏi, thời gian làm bài 60 phút."
-        ],
-        "ans": 3,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1.",
-          "B. Thí sinh là đảng viên chính thức được miễn thi Vòng 1.",
-          "C. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1.",
-          "D. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1."
-        ],
-        "ans": 3,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
-        "options": [
-          "A. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị.",
-          "B. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "C. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "D. Thời gian thi vấn đáp 45 phút."
-        ],
-        "ans": 1,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
-        "options": [
-          "A. Thang điểm 100, đạt từ 50 điểm trở lên.",
-          "B. Thang điểm 100, đạt từ 70 điểm trở lên.",
-          "C. Thang điểm 10, đạt từ 5 điểm trở lên.",
-          "D. Thang điểm 100, đạt từ 60 điểm trở lên."
-        ],
-        "ans": 0,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
-        "options": [
-          "A. Trong thời hạn 30 ngày",
-          "B. Trong thời hạn 60 ngày",
-          "C. Trong thời hạn 15 ngày",
-          "D. Trong thời hạn 45 ngày"
-        ],
-        "ans": 0,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
-        "options": [
-          "A. 09 tháng",
-          "B. 24 tháng",
+          "A. 24 tháng",
+          "B. 09 tháng",
           "C. 06 tháng",
           "D. 12 tháng"
         ],
         "ans": 3,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 7] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
         "options": [
-          "A. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi.",
-          "B. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "C. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương.",
-          "D. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần."
+          "A. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "B. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự).",
+          "C. 100% mức lương bậc 1 trong mọi trường hợp.",
+          "D. 75% mức lương bậc 1."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
+        "options": [
+          "A. 4 mức: Xuất sắc, Khá, Trung bình, Yếu.",
+          "B. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+          "C. 5 mức: Hạng A, B, C, D, E.",
+          "D. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
+        "options": [
+          "A. Khiển trách, Cảnh cáo, Giáng chức, Cách chức.",
+          "B. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "C. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương)."
+        ],
+        "ans": 1,
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
+        "options": [
+          "A. Chuyển sang làm viên chức sự nghiệp.",
+          "B. Chỉ có Khiển trách và Buộc thôi việc.",
+          "C. Bãi nhiệm và Miễn nhiệm.",
+          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
+        "options": [
+          "A. 36 tháng đối với mọi hình thức.",
+          "B. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "C. 12 tháng đối với mọi hình thức.",
+          "D. Không giới hạn thời hiệu."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 7] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
+        "options": [
+          "A. Do thủ trưởng đơn vị quyết định tùy ý.",
+          "B. Không quá 60 ngày.",
+          "C. Cố định 30 ngày.",
+          "D. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
+        "options": [
+          "A. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "B. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ.",
+          "C. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương.",
+          "D. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
+        "options": [
+          "A. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy.",
+          "B. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên.",
+          "C. Cơ quan quyền lực nhà nước cao nhất tại địa phương.",
+          "D. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
+        "options": [
+          "A. Phân quyền, phân cấp và ủy quyền.",
+          "B. Hiệp thương dân chủ và tự nguyện đóng góp.",
+          "C. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện.",
+          "D. Khoán việc, giao việc và nghiệm thu."
+        ],
+        "ans": 0,
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
+        "options": [
+          "A. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban.",
+          "B. Phải được quy định trong luật.",
+          "C. Quy định trong quy chế nội bộ của UBND cấp dưới.",
+          "D. Do Chủ tịch UBND cấp trên phân công bằng lời nói."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
+        "options": [
+          "A. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp.",
+          "B. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "C. Không được ủy quyền lại cho cơ quan, tổ chức khác.",
+          "D. Được ủy quyền cho bất kỳ cá nhân công chức nào."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
         "options": [
-          "A. Là con ruột của người đứng đầu đơn vị tuyển dụng.",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "C. Có chứng chỉ tiếng Anh quốc tế C1 trở lên.",
-          "D. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng."
-        ],
-        "ans": 3,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
-        "options": [
-          "A. 100%",
-          "B. 75%",
-          "C. 80%",
-          "D. 85%"
-        ],
-        "ans": 3,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 7] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
-        "options": [
-          "A. Được giảm 100% số tiết dạy trên lớp.",
-          "B. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "C. Được hưởng thêm 50% mức lương của người tập sự.",
-          "D. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự."
-        ],
-        "ans": 3,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
-        "options": [
-          "A. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây.",
-          "B. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động.",
-          "C. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "D. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
-        "options": [
-          "A. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội.",
-          "B. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao.",
-          "C. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "D. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
-        "options": [
-          "A. Giáo dục mầm non cho trẻ 5 tuổi.",
-          "B. Giáo dục trung học cơ sở.",
-          "C. Giáo dục tiểu học.",
-          "D. Giáo dục trung học phổ thông."
+          "A. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân.",
+          "B. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "C. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "D. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy."
         ],
         "ans": 2,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
         "options": [
-          "A. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí.",
-          "B. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất.",
-          "C. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh.",
-          "D. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo."
+          "A. Giám đốc Sở Nội vụ.",
+          "B. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương.",
+          "C. Thường trực Hội đồng nhân dân cấp huyện.",
+          "D. Thủ tướng Chính phủ."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
+        "options": [
+          "A. Ít nhất 02 kỳ họp",
+          "B. Mỗi nhiệm kỳ chỉ họp 01 lần",
+          "C. Ít nhất 04 kỳ họp",
+          "D. Mỗi tháng 01 kỳ"
         ],
         "ans": 0,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
         "options": [
-          "A. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học.",
-          "B. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm).",
-          "C. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "D. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp."
+          "A. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách.",
+          "B. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "C. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh.",
+          "D. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị.",
+          "B. Chỉ có Ban Pháp chế và Ban Kinh tế.",
+          "C. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "D. Ban Tiếp công dân và Ban Quản lý trật tự đô thị."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
+        "options": [
+          "A. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "B. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
+          "C. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "D. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
+        "options": [
+          "A. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ.",
+          "B. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố.",
+          "C. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "D. Chỉ được góp ý nhắc nhở mà không được bãi bỏ."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
         "options": [
-          "A. Hội Khuyến học tỉnh.",
-          "B. Ủy ban nhân dân cấp tỉnh.",
-          "C. Hiệu trưởng từng trường phổ thông.",
-          "D. Giám đốc Sở Giáo dục và Đào tạo."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
-        "options": [
-          "A. Giữ vai trò quản lý tài chính trường học.",
-          "B. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh.",
-          "C. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "D. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
-        "options": [
-          "A. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế.",
-          "B. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "C. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở.",
-          "D. Phải là đảng viên Đảng Cộng sản Việt Nam."
-        ],
-        "ans": 1,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
-        "options": [
-          "A. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ.",
-          "B. Có bằng tốt nghiệp trung cấp sư phạm trở lên.",
-          "C. Có bằng cử nhân ngành đào tạo giáo viên trở lên.",
-          "D. Có bằng tốt nghiệp cao đẳng sư phạm trở lên."
-        ],
-        "ans": 3,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
-        "options": [
-          "A. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "B. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm.",
-          "C. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "D. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm)."
-        ],
-        "ans": 3,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "B. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định.",
-          "C. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác.",
-          "D. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh."
-        ],
-        "ans": 1,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
-        "options": [
-          "A. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học.",
-          "B. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "C. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học.",
-          "D. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học."
+          "A. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân.",
+          "B. Phải có bằng tiến sĩ luật học.",
+          "C. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp.",
+          "D. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
         "options": [
-          "A. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền.",
-          "B. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp.",
-          "C. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "D. Ra bài tập về nhà phù hợp với năng lực của học sinh."
+          "A. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "B. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương.",
+          "C. Giám đốc các doanh nghiệp tư nhân trên địa bàn.",
+          "D. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp."
         ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 7] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
         "options": [
-          "A. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "B. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ.",
-          "C. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương.",
-          "D. Không có chế độ phụ cấp thâm niên."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 7] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Đóng góp ý kiến xây dựng phong trào thi đua của lớp.",
-          "B. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ.",
-          "C. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "D. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên."
+          "A. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp.",
+          "B. Giải thể hoàn toàn các cơ quan tư pháp cấp quận.",
+          "C. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương).",
+          "D. Chuyển thành mô hình ban quản lý khu kinh tế mở."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
         "options": [
-          "A. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học.",
-          "B. Giảm tải 80% thời lượng các môn khoa học cơ bản.",
-          "C. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc.",
-          "D. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân."
+          "A. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+          "B. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "C. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày.",
+          "D. Thông cáo báo chí của cơ quan truyền thông công quyền."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
+        "options": [
+          "A. Quyết định.",
+          "B. Chỉ thị và Quyết định.",
+          "C. Nghị quyết và Thông tư.",
+          "D. Công văn hướng dẫn nghiệp vụ."
+        ],
+        "ans": 0,
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
+        "options": [
+          "A. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "B. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành.",
+          "C. Không sớm hơn 30 ngày kể từ ngày ký ban hành.",
+          "D. Không sớm hơn 45 ngày kể từ ngày đăng công báo."
+        ],
+        "ans": 1,
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "options": [
+          "A. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai.",
+          "B. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn.",
+          "C. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng.",
+          "D. Quy định bãi bỏ các thủ tục hành chính rườm rà."
+        ],
+        "ans": 1,
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
+        "options": [
+          "A. 12 thành phần",
+          "B. 7 thành phần",
+          "C. 9 thành phần",
+          "D. 8 thành phần"
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
+        "options": [
+          "A. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do.",
+          "B. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "C. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang.",
+          "D. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang."
+        ],
+        "ans": 2,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu chính giữa trùm lên toàn bộ chữ ký.",
+          "B. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "C. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái.",
+          "D. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký."
+        ],
+        "ans": 2,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
+        "options": [
+          "A. Tối đa 10 tờ văn bản",
+          "B. Tối đa 03 tờ văn bản",
+          "C. Không giới hạn số tờ",
+          "D. Tối đa 05 tờ văn bản"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
         "options": [
-          "A. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân.",
-          "B. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành.",
-          "C. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "D. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do."
+          "A. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
+        ],
+        "ans": 3,
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 7] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
+        "options": [
+          "A. Ủy Ban Nhân Dân Thành Phố Huế",
+          "B. Ủy ban nhân dân thành phố Huế",
+          "C. ủy ban nhân dân Thành phố Huế",
+          "D. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)"
+        ],
+        "ans": 1,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
+        "options": [
+          "A. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "B. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức.",
+          "C. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+          "D. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó.",
+          "B. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước.",
+          "C. Cán bộ, công chức, viên chức trong cơ quan nhà nước.",
+          "D. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 8 nhóm hành vi",
+          "B. 15 nhóm hành vi",
+          "C. 12 nhóm hành vi",
+          "D. 10 nhóm hành vi"
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
+          "B. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí.",
+          "C. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn.",
+          "D. Giải trình chi tiết đời sống riêng tư của người thân cán bộ."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
         "options": [
-          "A. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "B. Học thuộc lòng kiến thức sách giáo khoa theo mẫu.",
-          "C. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học.",
-          "D. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế."
+          "A. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo.",
+          "B. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi.",
+          "C. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận.",
+          "D. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng.",
+          "B. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng.",
+          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài.",
+          "D. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên."
+        ],
+        "ans": 2,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Vào dịp Đại hội cổ đông",
+          "B. Trước ngày 30 tháng 06 hàng năm",
+          "C. Trước ngày 31 tháng 01 năm sau",
+          "D. Trước ngày 31 tháng 12 của năm kê khai"
+        ],
+        "ans": 3,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác.",
+          "B. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng.",
+          "C. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "D. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp.",
+          "B. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "C. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã.",
+          "D. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân."
+        ],
+        "ans": 1,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính.",
+          "B. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "C. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI.",
+          "D. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số."
+        ],
+        "ans": 3,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "B. Mở rộng trụ sở làm việc của các cơ quan hành chính.",
+          "C. Mua sắm trang thiết bị xe công vụ hiện đại.",
+          "D. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài."
         ],
         "ans": 0,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
         "options": [
-          "A. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn.",
-          "B. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "C. Loại bỏ hoàn toàn việc kiểm tra định kỳ.",
-          "D. Tăng độ khó của đề thi để sàng lọc tối đa học sinh."
+          "A. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương.",
+          "B. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI.",
+          "C. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
+          "D. Đếm số lượng văn bản hành chính được ban hành trong năm."
+        ],
+        "ans": 2,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Dịch vụ công trong nước và Dịch vụ công quốc tế.",
+          "B. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "C. Dịch vụ công miễn phí và Dịch vụ công có thu phí.",
+          "D. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
         "options": [
-          "A. 5 chương, 15 điều",
-          "B. 4 chương, 10 điều",
-          "C. 3 chương, 12 điều",
-          "D. 4 chương, 15 điều"
+          "A. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập.",
+          "B. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức.",
+          "C. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "D. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh."
         ],
-        "ans": 1,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
+        "ans": 3,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 7] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
         "options": [
-          "A. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh.",
-          "B. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp.",
-          "C. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "D. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn."
+          "A. Giảm thời gian làm việc trong ngày của công chức.",
+          "B. Tăng thu lệ phí cho ngân sách địa phương.",
+          "C. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý.",
+          "D. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân."
         ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
-        "options": [
-          "A. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "B. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng.",
-          "C. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường.",
-          "D. Sử dụng hình phạt thể xác nghiêm khắc để răn đe."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
-        "options": [
-          "A. Xúc phạm, áp đặt, vụ lợi.",
-          "B. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "C. Kịp thời thông báo kết quả học tập của học sinh.",
-          "D. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
-        "options": [
-          "A. 5 tiêu chuẩn, 20 tiêu chí",
-          "B. 5 tiêu chuẩn, 15 tiêu chí",
-          "C. 6 tiêu chuẩn, 18 tiêu chí",
-          "D. 4 tiêu chuẩn, 12 tiêu chí"
-        ],
-        "ans": 1,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 7] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Kiểm tra vở ghi và sách bài tập của học sinh.",
-          "B. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "C. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường.",
-          "D. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "ans": 3,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   },
   {
     "id": 8,
-    "title": "Đề số 08: Đề tình huống thực tiễn sư phạm & Pháp luật viên chức ứng dụng",
+    "title": "Đề số 08: Chuyên sâu Xử lý kỷ luật công chức, Thời hiệu - Thời hạn & Khiếu nại",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "Theo quy định, 'Chức danh nghề nghiệp' của viên chức phản ánh điều gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Chức vụ hành chính mà viên chức được bầu trong đại hội công đoàn.",
-          "B. Mức lương cơ sở mà người lao động nhận được tại thời điểm thi tuyển.",
-          "C. Tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp.",
-          "D. Cấp bậc quân hàm và vị trí thâm niên của người lao động."
-        ],
-        "ans": 2,
-        "explanation": "★ Bản chất: Khoản 2 Điều 8 Luật Viên chức quy định: Chức danh nghề nghiệp là tên gọi thể hiện trình độ và năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp."
-      },
-      {
-        "q": "Viên chức phát hiện lệnh của cấp trên trái pháp luật thì phải xử lý như thế nào để đảm bảo nguyên tắc hoạt động nghề nghiệp?",
-        "options": [
-          "A. Tự ý bỏ việc không thực hiện lệnh mà không cần báo cáo.",
-          "B. Phải báo cáo ngay với người ra quyết định; trường hợp người ra quyết định vẫn quyết định thực hiện thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả.",
-          "C. Lập tức chấp hành ngay và chịu toàn bộ trách nhiệm cá nhân nếu xảy ra hậu quả.",
-          "D. Đăng tải thông tin lên mạng xã hội để xin ý kiến cộng đồng."
-        ],
-        "ans": 1,
-        "explanation": "★ Bản chất: Khoản 6 Điều 17 Luật Viên chức quy định rõ: Khi có căn cứ lệnh trái pháp luật, báo cáo người ra lệnh; nếu vẫn buộc thi hành thì thi hành nhưng báo cấp trên trực tiếp của người ra lệnh, bảo lưu ý kiến và được miễn trừ trách nhiệm."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Nguyên tắc nào sau đây là nguyên tắc quản lý viên chức theo Điều 6 Luật Viên chức?",
-        "options": [
-          "A. Tuân thủ quy trình nghiệp vụ.",
-          "B. Tận tụy phục vụ nhân dân.",
-          "C. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam và sự thống nhất quản lý của Nhà nước.",
-          "D. Độc lập tác chiến không cần kiểm tra."
-        ],
-        "ans": 2,
-        "explanation": "★ Phân tích: Sự lãnh đạo của Đảng là nguyên tắc quản lý hàng đầu (khoản 1 Điều 6). Các đáp án khác là nguyên tắc nghề nghiệp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Khi làm việc thêm giờ hoặc làm việc vào ban đêm, viên chức được hưởng chế độ gì?",
-        "options": [
-          "A. Nhận gấp 5 lần tiền lương ngày thường.",
-          "B. Không được nhận bất kỳ khoản thù lao nào vì thuộc trách nhiệm cống hiến.",
-          "C. Chỉ được bù giờ nghỉ mà không được nhận tiền.",
-          "D. Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm theo quy định của pháp luật."
+          "A. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "B. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã.",
+          "C. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 12 Luật Viên chức: Viên chức được trả tiền làm thêm giờ, tiền làm việc vào ban đêm theo quy định pháp luật lao động."
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Trường hợp do nhu cầu công việc mà viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hàng năm thì được giải quyết như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. Được thanh toán một khoản tiền cho những ngày không nghỉ theo quy định.",
-          "B. Bắt buộc phải chuyển số ngày phép sang năm thứ mười.",
-          "C. Bị hủy bỏ toàn bộ số ngày phép mà không có bất kỳ khoản hỗ trợ nào.",
-          "D. Trừ trực tiếp vào điểm thi đua cuối năm."
+          "A. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo.",
+          "B. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "C. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng.",
+          "D. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
+        "options": [
+          "A. 5 nguyên tắc",
+          "B. 6 nguyên tắc",
+          "C. 7 nguyên tắc",
+          "D. 4 nguyên tắc"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Viên chức: Được thanh toán tiền cho những ngày không nghỉ theo quy chế đơn vị."
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Cô giáo dạy Tiếng Anh tại trường THCS công lập có được ký hợp đồng giảng dạy buổi tối tại một trung tâm ngoại ngữ tư thục không?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
         "options": [
-          "A. Được ký hợp đồng vụ việc ngoài giờ làm việc nếu pháp luật không cấm và được người đứng đầu trường học đồng ý.",
-          "B. Chỉ được dạy miễn phí không được nhận thù lao.",
-          "C. Bị cấm hoàn toàn vì vi phạm đạo đức nhà giáo.",
-          "D. Tự do dạy mà không cần thông báo hay xin phép bất kỳ ai."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 14 Luật Viên chức: Được ký hợp đồng vụ việc với cơ quan, tổ chức khác mà pháp luật không cấm nhưng phải hoàn thành nhiệm vụ được giao và có sự đồng ý của người đứng đầu."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 5 nghĩa vụ",
-          "B. 4 nghĩa vụ",
-          "C. 6 nghĩa vụ",
-          "D. 7 nghĩa vụ"
-        ],
-        "ans": 0,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
-        "options": [
-          "A. 8 nghĩa vụ",
-          "B. 6 nghĩa vụ",
-          "C. 5 nghĩa vụ",
-          "D. 7 nghĩa vụ"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có hành vi xúc phạm danh dự, nhân phẩm của người học là vi phạm điều khoản nào?",
-        "options": [
-          "A. Vi phạm nguyên tắc bảo mật thông tin nhà nước.",
-          "B. Vi phạm những việc viên chức không được làm tại khoản 4 Điều 19 Luật Viên chức.",
-          "C. Vi phạm chế độ biệt phái viên chức.",
-          "D. Vi phạm quyền đơn phương chấm dứt hợp đồng."
+          "A. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước.",
+          "B. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "C. Tự do học thuật và sáng tạo không giới hạn.",
+          "D. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL."
         ],
         "ans": 1,
-        "explanation": "★ Trích luật: Khoản 4 Điều 19 nghiêm cấm: Xúc phạm danh dự, nhân phẩm, uy tín của người khác trong khi thực hiện hoạt động nghề nghiệp."
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Một trường học công lập tại TP Huế tuyển dụng giáo viên mới vào tháng 09/2025. Hiệu trưởng ký hợp đồng làm việc lần đầu với thời hạn 48 tháng thì có đúng quy định pháp luật không?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
         "options": [
-          "A. Đúng quy định, vì thời hạn 48 tháng nằm trong khung từ đủ 12 tháng đến 60 tháng.",
-          "B. Sai quy định, vì phải ký không xác định thời hạn ngay từ đầu.",
-          "C. Sai quy định, vì hợp đồng lần đầu bắt buộc phải đúng 36 tháng.",
-          "D. Sai quy định, vì tối đa chỉ được ký 24 tháng."
-        ],
-        "ans": 0,
-        "explanation": "★ Tình huống: Khung luật cho phép từ đủ 12 tháng đến 60 tháng, nên ký 48 tháng là hoàn toàn hợp pháp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn.",
-          "B. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục.",
-          "C. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025.",
-          "D. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển."
-        ],
-        "ans": 0,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Khi đơn phương chấm dứt hợp đồng làm việc với viên chức ký hợp đồng XÁC ĐỊNH THỜI HẠN (trừ trường hợp ốm đau), ĐVSNCL phải báo trước ít nhất bao nhiêu ngày?",
-        "options": [
-          "A. Ít nhất 15 ngày.",
-          "B. Ít nhất 30 ngày.",
-          "C. Ít nhất 60 ngày.",
-          "D. Ít nhất 45 ngày."
-        ],
-        "ans": 1,
-        "explanation": "★ Bẫy ngày báo trước: HĐ không xác định thời hạn: báo trước ít nhất 45 ngày; HĐ xác định thời hạn: báo trước ít nhất 30 ngày."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
-        "options": [
-          "A. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân.",
-          "B. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình.",
-          "C. Cảm thấy áp lực công việc giảng dạy quá nặng nề.",
-          "D. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
-        "options": [
-          "A. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "B. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định.",
-          "C. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "D. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động)."
-        ],
-        "ans": 3,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
-        "options": [
-          "A. Không quá 01 năm",
-          "B. Không quá 02 năm",
-          "C. Không quá 03 năm",
-          "D. Không quá 05 năm"
+          "A. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý.",
+          "B. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ.",
+          "C. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "D. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân."
         ],
         "ans": 2,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
         "options": [
-          "A. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "B. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E.",
-          "C. 2 mức: Đạt và Không đạt chuẩn viên chức.",
-          "D. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu."
+          "A. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành.",
+          "B. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó.",
+          "C. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới.",
+          "D. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
+        "options": [
+          "A. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "B. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "C. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh.",
+          "D. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
+        "options": [
+          "A. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "B. Chỉ chào hỏi những người giữ chức vụ cao hơn mình.",
+          "C. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức.",
+          "D. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
+        "options": [
+          "A. Tôn trọng phong tục tập quán của đồng bào các dân tộc.",
+          "B. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "C. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân.",
+          "D. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
+        "options": [
+          "A. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật.",
+          "B. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành.",
+          "C. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật.",
+          "D. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
         "options": [
-          "A. Cảnh cáo",
-          "B. Khiển trách",
-          "C. Cách chức",
-          "D. Buộc thôi việc"
-        ],
-        "ans": 2,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
-        "options": [
-          "A. 03 năm (36 tháng)",
-          "B. 10 năm",
-          "C. 02 năm (24 tháng)",
-          "D. 05 năm (60 tháng)"
+          "A. Cấp cao, Cấp trung, Cấp cơ sở.",
+          "B. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên.",
+          "C. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V.",
+          "D. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ."
         ],
         "ans": 3,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
         "options": [
-          "A. Viên chức không tham gia họp hội đồng trường định kỳ.",
-          "B. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ.",
-          "C. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "D. Viên chức vi phạm quy định về đi làm muộn quá 3 lần."
-        ],
-        "ans": 2,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 8] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
-        "options": [
-          "A. Không quá 07 ngày làm việc.",
-          "B. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày.",
-          "C. Không quá 45 ngày cố định.",
-          "D. Không quá 30 ngày; kéo dài tối đa 60 ngày."
-        ],
-        "ans": 1,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "B. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "C. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm.",
-          "D. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
-        "options": [
-          "A. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu.",
-          "B. Người đã từng làm việc tại doanh nghiệp tư nhân.",
-          "C. Người không có hộ khẩu thường trú tại thành phố Huế.",
-          "D. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
-        "options": [
-          "A. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học.",
-          "B. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh.",
-          "C. Người tốt nghiệp đại học loại giỏi tại nước ngoài.",
-          "D. Người dân tộc thiểu số, sĩ quan quân đội nhân dân."
-        ],
-        "ans": 1,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 2,5 điểm",
-          "B. 3,0 điểm",
-          "C. 7,5 điểm",
-          "D. 5,0 điểm"
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "B. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2.",
-          "C. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "D. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2."
-        ],
-        "ans": 1,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 60 câu hỏi, thời gian làm bài 90 phút.",
-          "B. 60 câu hỏi, thời gian làm bài 60 phút.",
-          "C. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "D. 50 câu hỏi, thời gian làm bài 50 phút."
-        ],
-        "ans": 1,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1.",
-          "B. Thí sinh là đảng viên chính thức được miễn thi Vòng 1.",
-          "C. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1.",
-          "D. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1."
+          "A. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "B. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng.",
+          "C. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "D. Số lượng hồ sơ tồn đọng từ các năm trước."
         ],
         "ans": 0,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
         "options": [
-          "A. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "B. Thời gian thi vấn đáp 45 phút.",
-          "C. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "D. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị."
+          "A. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "B. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam.",
+          "C. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "D. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương."
         ],
-        "ans": 2,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
-        "options": [
-          "A. Thang điểm 100, đạt từ 70 điểm trở lên.",
-          "B. Thang điểm 10, đạt từ 5 điểm trở lên.",
-          "C. Thang điểm 100, đạt từ 60 điểm trở lên.",
-          "D. Thang điểm 100, đạt từ 50 điểm trở lên."
-        ],
-        "ans": 3,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
-        "options": [
-          "A. Trong thời hạn 45 ngày",
-          "B. Trong thời hạn 60 ngày",
-          "C. Trong thời hạn 30 ngày",
-          "D. Trong thời hạn 15 ngày"
-        ],
-        "ans": 2,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 8] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
         "options": [
           "A. 09 tháng",
-          "B. 06 tháng",
-          "C. 12 tháng",
-          "D. 24 tháng"
-        ],
-        "ans": 2,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
-        "options": [
-          "A. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương.",
-          "B. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần.",
-          "C. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "D. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
-        "options": [
-          "A. Có chứng chỉ tiếng Anh quốc tế C1 trở lên.",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "C. Là con ruột của người đứng đầu đơn vị tuyển dụng.",
-          "D. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng."
-        ],
-        "ans": 3,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
-        "options": [
-          "A. 80%",
-          "B. 75%",
-          "C. 100%",
-          "D. 85%"
-        ],
-        "ans": 3,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 8] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
-        "options": [
-          "A. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "B. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự.",
-          "C. Được hưởng thêm 50% mức lương của người tập sự.",
-          "D. Được giảm 100% số tiết dạy trên lớp."
+          "B. 12 tháng",
+          "C. 24 tháng",
+          "D. 06 tháng"
         ],
         "ans": 1,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 8] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
         "options": [
-          "A. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "B. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây.",
-          "C. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng.",
-          "D. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
-        "options": [
-          "A. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao.",
-          "B. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học.",
-          "C. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "D. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội."
+          "A. 100% mức lương bậc 1 trong mọi trường hợp.",
+          "B. 75% mức lương bậc 1.",
+          "C. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "D. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
         "options": [
-          "A. Giáo dục trung học cơ sở.",
-          "B. Giáo dục mầm non cho trẻ 5 tuổi.",
-          "C. Giáo dục tiểu học.",
-          "D. Giáo dục trung học phổ thông."
-        ],
-        "ans": 2,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
-        "options": [
-          "A. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí.",
-          "B. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất.",
-          "C. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "D. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh."
+          "A. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+          "B. 4 mức: Xuất sắc, Khá, Trung bình, Yếu.",
+          "C. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
+          "D. 5 mức: Hạng A, B, C, D, E."
         ],
         "ans": 0,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
         "options": [
-          "A. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm).",
-          "B. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "C. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp.",
-          "D. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
-        "options": [
-          "A. Giám đốc Sở Giáo dục và Đào tạo.",
-          "B. Hiệu trưởng từng trường phổ thông.",
-          "C. Ủy ban nhân dân cấp tỉnh.",
-          "D. Hội Khuyến học tỉnh."
+          "A. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương).",
+          "B. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "C. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
         "options": [
-          "A. Giữ vai trò quản lý tài chính trường học.",
-          "B. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường.",
-          "C. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "D. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh."
+          "A. Chỉ có Khiển trách và Buộc thôi việc.",
+          "B. Bãi nhiệm và Miễn nhiệm.",
+          "C. Chuyển sang làm viên chức sự nghiệp.",
+          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
         "options": [
-          "A. Phải là đảng viên Đảng Cộng sản Việt Nam.",
-          "B. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "C. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở.",
-          "D. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế."
-        ],
-        "ans": 1,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
-        "options": [
-          "A. Có bằng cử nhân ngành đào tạo giáo viên trở lên.",
-          "B. Có bằng tốt nghiệp trung cấp sư phạm trở lên.",
-          "C. Có bằng tốt nghiệp cao đẳng sư phạm trở lên.",
-          "D. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ."
+          "A. 12 tháng đối với mọi hình thức.",
+          "B. Không giới hạn thời hiệu.",
+          "C. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "D. 36 tháng đối với mọi hình thức."
         ],
         "ans": 2,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 8] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
         "options": [
-          "A. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "B. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm.",
-          "C. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "D. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm)."
-        ],
-        "ans": 3,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "B. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định.",
-          "C. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác.",
-          "D. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh."
+          "A. Không quá 60 ngày.",
+          "B. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày.",
+          "C. Cố định 30 ngày.",
+          "D. Do thủ trưởng đơn vị quyết định tùy ý."
         ],
         "ans": 1,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
         "options": [
-          "A. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học.",
-          "B. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học.",
-          "C. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "D. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
-        "options": [
-          "A. Ra bài tập về nhà phù hợp với năng lực của học sinh.",
-          "B. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền.",
-          "C. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "D. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
-        "options": [
-          "A. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ.",
-          "B. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương.",
-          "C. Không có chế độ phụ cấp thâm niên.",
-          "D. Được miễn toàn bộ tiền điện thoại và internet gia đình."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 8] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên.",
-          "B. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "C. Đóng góp ý kiến xây dựng phong trào thi đua của lớp.",
-          "D. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
-        "options": [
-          "A. Giảm tải 80% thời lượng các môn khoa học cơ bản.",
-          "B. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc.",
-          "C. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân.",
-          "D. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học."
+          "A. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương.",
+          "B. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam.",
+          "C. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "D. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
         "options": [
-          "A. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành.",
-          "B. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "C. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "D. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
-        "options": [
-          "A. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "B. Học thuộc lòng kiến thức sách giáo khoa theo mẫu.",
-          "C. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế.",
-          "D. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học."
+          "A. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên.",
+          "B. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị.",
+          "C. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy.",
+          "D. Cơ quan quyền lực nhà nước cao nhất tại địa phương."
         ],
         "ans": 0,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
         "options": [
-          "A. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "B. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn.",
-          "C. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "D. Loại bỏ hoàn toàn việc kiểm tra định kỳ."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
-        "options": [
-          "A. 3 chương, 12 điều",
-          "B. 4 chương, 15 điều",
-          "C. 5 chương, 15 điều",
-          "D. 4 chương, 10 điều"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
-        "options": [
-          "A. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh.",
-          "B. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "C. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp.",
-          "D. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
-        "options": [
-          "A. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng.",
-          "B. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "C. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường.",
-          "D. Sử dụng hình phạt thể xác nghiêm khắc để răn đe."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
-        "options": [
-          "A. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "B. Kịp thời thông báo kết quả học tập của học sinh.",
-          "C. Xúc phạm, áp đặt, vụ lợi.",
-          "D. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
-        "options": [
-          "A. 5 tiêu chuẩn, 15 tiêu chí",
-          "B. 5 tiêu chuẩn, 20 tiêu chí",
-          "C. 4 tiêu chuẩn, 12 tiêu chí",
-          "D. 6 tiêu chuẩn, 18 tiêu chí"
-        ],
-        "ans": 0,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 8] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần.",
-          "B. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "C. Kiểm tra vở ghi và sách bài tập của học sinh.",
-          "D. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường."
+          "A. Khoán việc, giao việc và nghiệm thu.",
+          "B. Phân quyền, phân cấp và ủy quyền.",
+          "C. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện.",
+          "D. Hiệp thương dân chủ và tự nguyện đóng góp."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
+        "options": [
+          "A. Do Chủ tịch UBND cấp trên phân công bằng lời nói.",
+          "B. Phải được quy định trong luật.",
+          "C. Quy định trong quy chế nội bộ của UBND cấp dưới.",
+          "D. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
+        "options": [
+          "A. Không được ủy quyền lại cho cơ quan, tổ chức khác.",
+          "B. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp.",
+          "C. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "D. Được ủy quyền cho bất kỳ cá nhân công chức nào."
+        ],
+        "ans": 0,
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
+        "options": [
+          "A. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "B. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân.",
+          "C. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy.",
+          "D. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
+        "options": [
+          "A. Giám đốc Sở Nội vụ.",
+          "B. Thủ tướng Chính phủ.",
+          "C. Thường trực Hội đồng nhân dân cấp huyện.",
+          "D. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
+        "options": [
+          "A. Mỗi tháng 01 kỳ",
+          "B. Mỗi nhiệm kỳ chỉ họp 01 lần",
+          "C. Ít nhất 04 kỳ họp",
+          "D. Ít nhất 02 kỳ họp"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
+        "options": [
+          "A. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách.",
+          "B. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "C. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh.",
+          "D. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Ban Tiếp công dân và Ban Quản lý trật tự đô thị.",
+          "B. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "C. Chỉ có Ban Pháp chế và Ban Kinh tế.",
+          "D. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị."
+        ],
+        "ans": 3,
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
+        "options": [
+          "A. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "B. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "C. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn.",
+          "D. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
+        "options": [
+          "A. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ.",
+          "B. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "C. Chỉ được góp ý nhắc nhở mà không được bãi bỏ.",
+          "D. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
+        "options": [
+          "A. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp.",
+          "B. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương.",
+          "C. Phải có bằng tiến sĩ luật học.",
+          "D. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
+        "options": [
+          "A. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp.",
+          "B. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương.",
+          "C. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "D. Giám đốc các doanh nghiệp tư nhân trên địa bàn."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 8] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
+        "options": [
+          "A. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp.",
+          "B. Chuyển thành mô hình ban quản lý khu kinh tế mở.",
+          "C. Giải thể hoàn toàn các cơ quan tư pháp cấp quận.",
+          "D. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương)."
+        ],
+        "ans": 3,
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
+        "options": [
+          "A. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "B. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+          "C. Thông cáo báo chí của cơ quan truyền thông công quyền.",
+          "D. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
+        "options": [
+          "A. Nghị quyết và Thông tư.",
+          "B. Chỉ thị và Quyết định.",
+          "C. Quyết định.",
+          "D. Công văn hướng dẫn nghiệp vụ."
+        ],
+        "ans": 2,
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
+        "options": [
+          "A. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành.",
+          "B. Không sớm hơn 45 ngày kể từ ngày đăng công báo.",
+          "C. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "D. Không sớm hơn 30 ngày kể từ ngày ký ban hành."
+        ],
+        "ans": 0,
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "options": [
+          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn.",
+          "B. Quy định bãi bỏ các thủ tục hành chính rườm rà.",
+          "C. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng.",
+          "D. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai."
+        ],
+        "ans": 0,
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
+        "options": [
+          "A. 8 thành phần",
+          "B. 12 thành phần",
+          "C. 7 thành phần",
+          "D. 9 thành phần"
+        ],
+        "ans": 3,
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
+        "options": [
+          "A. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang.",
+          "B. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang.",
+          "C. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do.",
+          "D. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng."
+        ],
+        "ans": 1,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký.",
+          "B. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "C. Đóng dấu chính giữa trùm lên toàn bộ chữ ký.",
+          "D. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái."
+        ],
+        "ans": 3,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
+        "options": [
+          "A. Tối đa 03 tờ văn bản",
+          "B. Tối đa 05 tờ văn bản",
+          "C. Tối đa 10 tờ văn bản",
+          "D. Không giới hạn số tờ"
+        ],
+        "ans": 1,
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
+        "options": [
+          "A. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
+        ],
+        "ans": 3,
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 8] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
+        "options": [
+          "A. Ủy ban nhân dân thành phố Huế",
+          "B. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)",
+          "C. Ủy Ban Nhân Dân Thành Phố Huế",
+          "D. ủy ban nhân dân Thành phố Huế"
+        ],
+        "ans": 0,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
+        "options": [
+          "A. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính.",
+          "B. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức.",
+          "C. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "D. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước.",
+          "B. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "C. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó.",
+          "D. Cán bộ, công chức, viên chức trong cơ quan nhà nước."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 15 nhóm hành vi",
+          "B. 10 nhóm hành vi",
+          "C. 12 nhóm hành vi",
+          "D. 8 nhóm hành vi"
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
+          "B. Giải trình chi tiết đời sống riêng tư của người thân cán bộ.",
+          "C. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn.",
+          "D. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận.",
+          "B. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo.",
+          "C. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "D. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài.",
+          "B. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng.",
+          "C. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên.",
+          "D. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng."
+        ],
+        "ans": 0,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Trước ngày 31 tháng 01 năm sau",
+          "B. Trước ngày 31 tháng 12 của năm kê khai",
+          "C. Trước ngày 30 tháng 06 hàng năm",
+          "D. Vào dịp Đại hội cổ đông"
+        ],
+        "ans": 1,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác.",
+          "B. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật.",
+          "D. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "B. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã.",
+          "C. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp.",
+          "D. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân."
+        ],
+        "ans": 0,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính.",
+          "B. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "D. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI."
+        ],
+        "ans": 1,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Mở rộng trụ sở làm việc của các cơ quan hành chính.",
+          "B. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Mua sắm trang thiết bị xe công vụ hiện đại.",
+          "D. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài."
+        ],
+        "ans": 1,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương.",
+          "B. Đếm số lượng văn bản hành chính được ban hành trong năm.",
+          "C. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI.",
+          "D. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước."
+        ],
+        "ans": 3,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Dịch vụ công trong nước và Dịch vụ công quốc tế.",
+          "B. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4.",
+          "C. Dịch vụ công miễn phí và Dịch vụ công có thu phí.",
+          "D. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình."
+        ],
+        "ans": 3,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh.",
+          "B. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "C. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập.",
+          "D. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 8] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Giảm thời gian làm việc trong ngày của công chức.",
+          "B. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân.",
+          "C. Tăng thu lệ phí cho ngân sách địa phương.",
+          "D. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   },
   {
     "id": 9,
-    "title": "Đề số 09: Tổng hợp các câu hỏi bẫy trắc nghiệm & Các mốc thời gian dễ sai",
+    "title": "Đề số 09: Tổng hợp bẫy trắc nghiệm, thẩm quyền hành chính & Các mốc thời gian",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "'Vị trí việc làm' theo Luật Viên chức được hiểu là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Chỉ tiêu biên chế cố định suốt đời do cơ quan tài chính cấp ngân sách.",
-          "B. Phòng làm việc được cấp riêng cho viên chức quản lý.",
-          "C. Công việc hoặc nhiệm vụ gắn với chức danh nghề nghiệp hoặc chức vụ quản lý tương ứng, là căn cứ xác định số lượng người làm việc, cơ cấu viên chức để thực hiện việc tuyển dụng, sử dụng và quản lý viên chức trong ĐVSNCL.",
-          "D. Địa chỉ trụ sở nơi viên chức đặt bàn làm việc hàng ngày."
-        ],
-        "ans": 2,
-        "explanation": "★ Bản chất: Điều 7 Luật Viên chức: Vị trí việc làm là công việc hoặc nhiệm vụ gắn với chức danh nghề nghiệp hoặc chức vụ quản lý, làm căn cứ tuyển dụng, sử dụng và quản lý viên chức."
-      },
-      {
-        "q": "Nguyên tắc nghề nghiệp nào yêu cầu viên chức không được hách dịch, cửa quyền, gây phiền hà cho học sinh và phụ huynh?",
-        "options": [
-          "A. Nguyên tắc thi đua khen thưởng.",
-          "B. Nguyên tắc bình đẳng xã hội.",
-          "C. Nguyên tắc công khai minh bạch tài chính.",
-          "D. Tận tụy phục vụ nhân dân (khoản 2 Điều 3)."
+          "A. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "B. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã.",
+          "C. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước."
         ],
         "ans": 3,
-        "explanation": "★ Bản chất: Phục vụ nhân dân đòi hỏi tinh thần tận tụy, tôn trọng người học, người dân, chống bệnh quan liêu, cửa quyền."
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Luật Viên chức, việc tuyển dụng, sử dụng, quản lý, đánh giá viên chức được thực hiện trên cơ sở nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. Tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và căn cứ vào hợp đồng làm việc.",
-          "B. Quan hệ thân quen và ý chí chủ quan của thủ trưởng.",
-          "C. Bằng khen và huy chương qua các năm.",
-          "D. Mức độ đóng góp tài chính cho đơn vị."
-        ],
-        "ans": 0,
-        "explanation": "★ Trích luật: Khoản 3 Điều 6 Luật Viên chức: Căn cứ tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và hợp đồng làm việc."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Quyền của viên chức về tiền lương bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được tự định đoạt bảng lương của đồng nghiệp.",
-          "B. Được nhận lương trực tiếp bằng ngoại tệ không qua tài khoản.",
-          "C. Được hưởng tiền thưởng, được xét nâng lương theo quy định của pháp luật và quy chế của đơn vị sự nghiệp công lập.",
-          "D. Được tự giữ lại một phần nguồn thu viện phí, học phí."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 12 Luật Viên chức."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có quyền nghỉ không hưởng lương trong trường hợp nào?",
-        "options": [
-          "A. Chỉ áp dụng cho viên chức nữ sinh con.",
-          "B. Không bao giờ được phép nghỉ không hưởng lương.",
-          "C. Tự ý nghỉ bất kỳ lúc nào chỉ cần gửi tin nhắn thông báo.",
-          "D. Có lý do chính đáng và được sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 13 Luật Viên chức: Được nghỉ không hưởng lương trong trường hợp có lý do chính đáng và được người đứng đầu đồng ý."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức được phép tham gia góp vốn vào doanh nghiệp theo hình thức nào?",
-        "options": [
-          "A. Tuyệt đối không được góp vốn vào bất kỳ doanh nghiệp nào.",
-          "B. Được giữ chức danh Tổng giám đốc điều hành công ty cổ phần ngoài giờ làm việc.",
-          "C. Được góp vốn nhưng không được tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh...",
-          "D. Được lập doanh nghiệp tư nhân đứng tên chính mình làm chủ."
-        ],
-        "ans": 2,
-        "explanation": "★ Bẫy trắc nghiệm: Viên chức ĐƯỢC GÓP VỐN nhưng KHÔNG ĐƯỢC QUẢN LÝ, ĐIỀU HÀNH doanh nghiệp (khoản 3 Điều 14 Luật Viên chức)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 5 nghĩa vụ",
-          "B. 6 nghĩa vụ",
-          "C. 7 nghĩa vụ",
-          "D. 4 nghĩa vụ"
-        ],
-        "ans": 0,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
-        "options": [
-          "A. 5 nghĩa vụ",
-          "B. 6 nghĩa vụ",
-          "C. 8 nghĩa vụ",
-          "D. 7 nghĩa vụ"
-        ],
-        "ans": 3,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Đâu KHÔNG PHẢI là việc viên chức không được làm theo Điều 19 Luật Viên chức 2010?",
-        "options": [
-          "A. Trốn tránh trách nhiệm, thoái thác công việc hoặc nhiệm vụ được giao.",
-          "B. Tham gia các hoạt động thiện nguyện ngoài giờ giảng dạy.",
-          "C. Phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức.",
-          "D. Sử dụng tài sản của cơ quan, tổ chức và của nhân dân trái với quy định của pháp luật."
+          "A. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao.",
+          "B. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "C. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng.",
+          "D. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo."
         ],
         "ans": 1,
-        "explanation": "★ Phân tích: Tham gia thiện nguyện ngoài giờ là hoạt động khuyến khích. Các hành vi B, C, D đều thuộc 6 điều cấm tại Điều 19."
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Luật sửa đổi 2019, từ ngày 01/7/2020, hợp đồng làm việc xác định thời hạn áp dụng cho người trúng tuyển mới có khoảng thời gian là:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
         "options": [
-          "A. Không quá 24 tháng.",
-          "B. Từ đủ 12 tháng đến 60 tháng.",
-          "C. Từ đủ 24 tháng đến 60 tháng.",
-          "D. Từ đủ 12 tháng đến 36 tháng."
-        ],
-        "ans": 1,
-        "explanation": "★ Bẫy thời gian cực hay gặp: Luật cũ 2010 là từ đủ 12 đến 36 tháng. Luật sửa đổi 2019 mở rộng thành TỪ ĐỦ 12 THÁNG ĐẾN 60 THÁNG (Khoản 2 Điều 25). Nhớ kỹ mốc 60 tháng!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển.",
-          "B. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục.",
-          "C. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn.",
-          "D. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025."
+          "A. 4 nguyên tắc",
+          "B. 7 nguyên tắc",
+          "C. 5 nguyên tắc",
+          "D. 6 nguyên tắc"
         ],
         "ans": 2,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Đơn vị sự nghiệp công lập được quyền đơn phương chấm dứt hợp đồng làm việc với viên chức trong trường hợp nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
         "options": [
-          "A. Viên chức có 01 tháng không đạt chỉ tiêu dạy giỏi.",
-          "B. Viên chức bị đánh giá hoàn thành nhiệm vụ nhưng hiệu trưởng không thích.",
-          "C. Viên chức từ chối tham gia đội văn nghệ của trường.",
-          "D. Viên chức có 02 năm liên tiếp bị xếp loại chất lượng ở mức không hoàn thành nhiệm vụ."
+          "A. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL.",
+          "B. Tự do học thuật và sáng tạo không giới hạn.",
+          "C. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước.",
+          "D. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 29 Luật Viên chức: Có 02 NĂM LIÊN TIẾP bị đánh giá không hoàn thành nhiệm vụ. Nếu chỉ 1 năm thì chưa được đơn phương chấm dứt!"
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
         "options": [
-          "A. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân.",
-          "B. Cảm thấy áp lực công việc giảng dạy quá nặng nề.",
-          "C. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ.",
-          "D. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
-        "options": [
-          "A. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động).",
-          "B. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định.",
-          "C. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "D. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên."
+          "A. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "B. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân.",
+          "C. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ.",
+          "D. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý."
         ],
         "ans": 0,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
         "options": [
-          "A. Không quá 02 năm",
-          "B. Không quá 03 năm",
-          "C. Không quá 01 năm",
-          "D. Không quá 05 năm"
+          "A. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "B. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó.",
+          "C. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành.",
+          "D. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới."
         ],
         "ans": 1,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
         "options": [
-          "A. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E.",
+          "A. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "B. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh.",
+          "C. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "D. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
+        "options": [
+          "A. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "B. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính.",
+          "C. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức.",
+          "D. Chỉ chào hỏi những người giữ chức vụ cao hơn mình."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
+        "options": [
+          "A. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân.",
+          "B. Tôn trọng phong tục tập quán của đồng bào các dân tộc.",
+          "C. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "D. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
+        "options": [
+          "A. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật.",
+          "B. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật.",
+          "C. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành.",
+          "D. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
+        "options": [
+          "A. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ.",
+          "B. Cấp cao, Cấp trung, Cấp cơ sở.",
+          "C. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên.",
+          "D. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V."
+        ],
+        "ans": 0,
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
+        "options": [
+          "A. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "B. Số lượng hồ sơ tồn đọng từ các năm trước.",
+          "C. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "D. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
+        "options": [
+          "A. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "B. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "C. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam.",
+          "D. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 9] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
+        "options": [
+          "A. 06 tháng",
+          "B. 24 tháng",
+          "C. 09 tháng",
+          "D. 12 tháng"
+        ],
+        "ans": 3,
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 9] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
+        "options": [
+          "A. 75% mức lương bậc 1.",
+          "B. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "C. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự).",
+          "D. 100% mức lương bậc 1 trong mọi trường hợp."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
+        "options": [
+          "A. 5 mức: Hạng A, B, C, D, E.",
           "B. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "C. 2 mức: Đạt và Không đạt chuẩn viên chức.",
+          "C. 4 mức: Xuất sắc, Khá, Trung bình, Yếu.",
           "D. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
         "options": [
-          "A. Buộc thôi việc",
-          "B. Cảnh cáo",
-          "C. Cách chức",
-          "D. Khiển trách"
+          "A. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "B. Khiển trách, Cảnh cáo, Giáng chức, Cách chức.",
+          "C. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương)."
         ],
         "ans": 2,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
         "options": [
-          "A. 10 năm",
-          "B. 02 năm (24 tháng)",
-          "C. 03 năm (36 tháng)",
-          "D. 05 năm (60 tháng)"
-        ],
-        "ans": 3,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "B. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ.",
-          "C. Viên chức không tham gia họp hội đồng trường định kỳ.",
-          "D. Viên chức vi phạm quy định về đi làm muộn quá 3 lần."
-        ],
-        "ans": 0,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 9] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
-        "options": [
-          "A. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày.",
-          "B. Không quá 07 ngày làm việc.",
-          "C. Không quá 45 ngày cố định.",
-          "D. Không quá 30 ngày; kéo dài tối đa 60 ngày."
-        ],
-        "ans": 0,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "B. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm.",
-          "C. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "D. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển."
+          "A. Chỉ có Khiển trách và Buộc thôi việc.",
+          "B. Bãi nhiệm và Miễn nhiệm.",
+          "C. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc.",
+          "D. Chuyển sang làm viên chức sự nghiệp."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
         "options": [
-          "A. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù.",
-          "B. Người đã từng làm việc tại doanh nghiệp tư nhân.",
-          "C. Người không có hộ khẩu thường trú tại thành phố Huế.",
-          "D. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
-        "options": [
-          "A. Người dân tộc thiểu số, sĩ quan quân đội nhân dân.",
-          "B. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học.",
-          "C. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh.",
-          "D. Người tốt nghiệp đại học loại giỏi tại nước ngoài."
-        ],
-        "ans": 2,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 2,5 điểm",
-          "B. 7,5 điểm",
-          "C. 5,0 điểm",
-          "D. 3,0 điểm"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2.",
-          "B. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "C. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "D. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2."
-        ],
-        "ans": 0,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 50 câu hỏi, thời gian làm bài 50 phút.",
-          "B. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "C. 60 câu hỏi, thời gian làm bài 60 phút.",
-          "D. 60 câu hỏi, thời gian làm bài 90 phút."
-        ],
-        "ans": 2,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1.",
-          "B. Thí sinh là đảng viên chính thức được miễn thi Vòng 1.",
-          "C. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1.",
-          "D. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1."
-        ],
-        "ans": 2,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
-        "options": [
-          "A. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "B. Thời gian thi vấn đáp 45 phút.",
-          "C. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị.",
-          "D. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi."
-        ],
-        "ans": 0,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
-        "options": [
-          "A. Thang điểm 10, đạt từ 5 điểm trở lên.",
-          "B. Thang điểm 100, đạt từ 50 điểm trở lên.",
-          "C. Thang điểm 100, đạt từ 60 điểm trở lên.",
-          "D. Thang điểm 100, đạt từ 70 điểm trở lên."
+          "A. Không giới hạn thời hiệu.",
+          "B. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "C. 12 tháng đối với mọi hình thức.",
+          "D. 36 tháng đối với mọi hình thức."
         ],
         "ans": 1,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 9] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
         "options": [
-          "A. Trong thời hạn 30 ngày",
-          "B. Trong thời hạn 45 ngày",
-          "C. Trong thời hạn 15 ngày",
-          "D. Trong thời hạn 60 ngày"
+          "A. Cố định 30 ngày.",
+          "B. Không quá 60 ngày.",
+          "C. Do thủ trưởng đơn vị quyết định tùy ý.",
+          "D. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày."
         ],
-        "ans": 0,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
         "options": [
-          "A. 24 tháng",
-          "B. 09 tháng",
-          "C. 12 tháng",
-          "D. 06 tháng"
+          "A. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam.",
+          "B. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương.",
+          "C. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ.",
+          "D. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
+        "options": [
+          "A. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy.",
+          "B. Cơ quan quyền lực nhà nước cao nhất tại địa phương.",
+          "C. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên.",
+          "D. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị."
         ],
         "ans": 2,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
         "options": [
-          "A. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "B. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi.",
-          "C. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần.",
-          "D. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương."
+          "A. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện.",
+          "B. Khoán việc, giao việc và nghiệm thu.",
+          "C. Hiệp thương dân chủ và tự nguyện đóng góp.",
+          "D. Phân quyền, phân cấp và ủy quyền."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
         "options": [
-          "A. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "B. Có chứng chỉ tiếng Anh quốc tế C1 trở lên.",
-          "C. Là con ruột của người đứng đầu đơn vị tuyển dụng.",
-          "D. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng."
-        ],
-        "ans": 3,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
-        "options": [
-          "A. 75%",
-          "B. 100%",
-          "C. 85%",
-          "D. 80%"
+          "A. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban.",
+          "B. Quy định trong quy chế nội bộ của UBND cấp dưới.",
+          "C. Phải được quy định trong luật.",
+          "D. Do Chủ tịch UBND cấp trên phân công bằng lời nói."
         ],
         "ans": 2,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 9] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
         "options": [
-          "A. Được hưởng thêm 50% mức lương của người tập sự.",
-          "B. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "C. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự.",
-          "D. Được giảm 100% số tiết dạy trên lớp."
+          "A. Được ủy quyền cho bất kỳ cá nhân công chức nào.",
+          "B. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "C. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp.",
+          "D. Không được ủy quyền lại cho cơ quan, tổ chức khác."
+        ],
+        "ans": 3,
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
+        "options": [
+          "A. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "B. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "C. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân.",
+          "D. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
+        "options": [
+          "A. Thủ tướng Chính phủ.",
+          "B. Giám đốc Sở Nội vụ.",
+          "C. Thường trực Hội đồng nhân dân cấp huyện.",
+          "D. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
+        "options": [
+          "A. Mỗi nhiệm kỳ chỉ họp 01 lần",
+          "B. Ít nhất 04 kỳ họp",
+          "C. Mỗi tháng 01 kỳ",
+          "D. Ít nhất 02 kỳ họp"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
+        "options": [
+          "A. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách.",
+          "B. Bí thư Tỉnh ủy và các Trưởng ban đảng.",
+          "C. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh.",
+          "D. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh."
         ],
         "ans": 2,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
         "options": [
-          "A. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động.",
-          "B. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối.",
-          "C. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng.",
-          "D. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây."
+          "A. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị.",
+          "B. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "C. Ban Tiếp công dân và Ban Quản lý trật tự đô thị.",
+          "D. Chỉ có Ban Pháp chế và Ban Kinh tế."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
+        "options": [
+          "A. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
+          "B. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "C. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn.",
+          "D. Ban hành các văn bản luật áp dụng cho địa phương."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
+        "options": [
+          "A. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ.",
+          "B. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện.",
+          "C. Chỉ được góp ý nhắc nhở mà không được bãi bỏ.",
+          "D. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
+        "options": [
+          "A. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương.",
+          "B. Phải có bằng tiến sĩ luật học.",
+          "C. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân.",
+          "D. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
         "options": [
-          "A. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao.",
-          "B. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học.",
-          "C. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "D. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
-        "options": [
-          "A. Giáo dục trung học cơ sở.",
-          "B. Giáo dục mầm non cho trẻ 5 tuổi.",
-          "C. Giáo dục trung học phổ thông.",
-          "D. Giáo dục tiểu học."
-        ],
-        "ans": 3,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
-        "options": [
-          "A. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "B. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất.",
-          "C. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh.",
-          "D. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí."
-        ],
-        "ans": 3,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
-        "options": [
-          "A. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "B. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm).",
-          "C. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học.",
-          "D. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp."
+          "A. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp.",
+          "B. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND.",
+          "C. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương.",
+          "D. Giám đốc các doanh nghiệp tư nhân trên địa bàn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 9] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
         "options": [
-          "A. Ủy ban nhân dân cấp tỉnh.",
-          "B. Hội Khuyến học tỉnh.",
-          "C. Giám đốc Sở Giáo dục và Đào tạo.",
-          "D. Hiệu trưởng từng trường phổ thông."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
-        "options": [
-          "A. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "B. Giữ vai trò quản lý tài chính trường học.",
-          "C. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường.",
-          "D. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
-        "options": [
-          "A. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế.",
-          "B. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng.",
-          "C. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở.",
-          "D. Phải là đảng viên Đảng Cộng sản Việt Nam."
-        ],
-        "ans": 1,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
-        "options": [
-          "A. Có bằng tốt nghiệp cao đẳng sư phạm trở lên.",
-          "B. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ.",
-          "C. Có bằng cử nhân ngành đào tạo giáo viên trở lên.",
-          "D. Có bằng tốt nghiệp trung cấp sư phạm trở lên."
-        ],
-        "ans": 0,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
-        "options": [
-          "A. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "B. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm).",
-          "C. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "D. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm."
-        ],
-        "ans": 1,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác.",
-          "B. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định.",
-          "C. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "D. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh."
-        ],
-        "ans": 1,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
-        "options": [
-          "A. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học.",
-          "B. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học.",
-          "C. Tìm kiếm tài trợ thương mại cho các sự kiện của trường.",
-          "D. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
-        "options": [
-          "A. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp.",
-          "B. Ra bài tập về nhà phù hợp với năng lực của học sinh.",
-          "C. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "D. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
-        "options": [
-          "A. Không có chế độ phụ cấp thâm niên.",
-          "B. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "C. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ.",
-          "D. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương."
+          "A. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp.",
+          "B. Chuyển thành mô hình ban quản lý khu kinh tế mở.",
+          "C. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương).",
+          "D. Giải thể hoàn toàn các cơ quan tư pháp cấp quận."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 9] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
         "options": [
-          "A. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ.",
-          "B. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "C. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên.",
-          "D. Đóng góp ý kiến xây dựng phong trào thi đua của lớp."
+          "A. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+          "B. Thông cáo báo chí của cơ quan truyền thông công quyền.",
+          "C. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "D. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày."
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
         "options": [
-          "A. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc.",
-          "B. Giảm tải 80% thời lượng các môn khoa học cơ bản.",
-          "C. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân.",
-          "D. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
-        "options": [
-          "A. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "B. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành.",
-          "C. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "D. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân."
+          "A. Chỉ thị và Quyết định.",
+          "B. Nghị quyết và Thông tư.",
+          "C. Công văn hướng dẫn nghiệp vụ.",
+          "D. Quyết định."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
         "options": [
-          "A. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học.",
-          "B. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn.",
-          "C. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế.",
-          "D. Học thuộc lòng kiến thức sách giáo khoa theo mẫu."
-        ],
-        "ans": 1,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
-        "options": [
-          "A. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "B. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn.",
-          "C. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "D. Loại bỏ hoàn toàn việc kiểm tra định kỳ."
+          "A. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành.",
+          "B. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "C. Không sớm hơn 45 ngày kể từ ngày đăng công báo.",
+          "D. Không sớm hơn 30 ngày kể từ ngày ký ban hành."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
         "options": [
-          "A. 5 chương, 15 điều",
-          "B. 4 chương, 10 điều",
-          "C. 3 chương, 12 điều",
-          "D. 4 chương, 15 điều"
-        ],
-        "ans": 1,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
-        "options": [
-          "A. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh.",
-          "B. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp.",
-          "C. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "D. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
-        "options": [
-          "A. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng.",
-          "B. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học.",
-          "C. Sử dụng hình phạt thể xác nghiêm khắc để răn đe.",
-          "D. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
-        "options": [
-          "A. Kịp thời thông báo kết quả học tập của học sinh.",
-          "B. Xúc phạm, áp đặt, vụ lợi.",
-          "C. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "D. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh."
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
-        "options": [
-          "A. 5 tiêu chuẩn, 15 tiêu chí",
-          "B. 5 tiêu chuẩn, 20 tiêu chí",
-          "C. 4 tiêu chuẩn, 12 tiêu chí",
-          "D. 6 tiêu chuẩn, 18 tiêu chí"
-        ],
-        "ans": 0,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 9] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
-        "options": [
-          "A. Kiểm tra vở ghi và sách bài tập của học sinh.",
-          "B. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường.",
-          "C. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "D. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần."
+          "A. Quy định bãi bỏ các thủ tục hành chính rườm rà.",
+          "B. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng.",
+          "C. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn.",
+          "D. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
+        "options": [
+          "A. 12 thành phần",
+          "B. 9 thành phần",
+          "C. 7 thành phần",
+          "D. 8 thành phần"
+        ],
+        "ans": 1,
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
+        "options": [
+          "A. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "B. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang.",
+          "C. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang.",
+          "D. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do."
+        ],
+        "ans": 2,
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
+        "options": [
+          "A. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký.",
+          "B. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "C. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái.",
+          "D. Đóng dấu chính giữa trùm lên toàn bộ chữ ký."
+        ],
+        "ans": 2,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
+        "options": [
+          "A. Không giới hạn số tờ",
+          "B. Tối đa 05 tờ văn bản",
+          "C. Tối đa 10 tờ văn bản",
+          "D. Tối đa 03 tờ văn bản"
+        ],
+        "ans": 1,
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
+        "options": [
+          "A. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
+        ],
+        "ans": 0,
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 9] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
+        "options": [
+          "A. Ủy ban nhân dân thành phố Huế",
+          "B. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)",
+          "C. ủy ban nhân dân Thành phố Huế",
+          "D. Ủy Ban Nhân Dân Thành Phố Huế"
+        ],
+        "ans": 0,
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
+        "options": [
+          "A. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+          "B. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính.",
+          "C. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "D. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
+        "options": [
+          "A. Cán bộ, công chức, viên chức trong cơ quan nhà nước.",
+          "B. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó.",
+          "C. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "D. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 15 nhóm hành vi",
+          "B. 8 nhóm hành vi",
+          "C. 10 nhóm hành vi",
+          "D. 12 nhóm hành vi"
+        ],
+        "ans": 3,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
+          "B. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí.",
+          "C. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn.",
+          "D. Giải trình chi tiết đời sống riêng tư của người thân cán bộ."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận.",
+          "B. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo.",
+          "C. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "D. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng.",
+          "B. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài.",
+          "C. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên.",
+          "D. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng."
+        ],
+        "ans": 1,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Trước ngày 31 tháng 01 năm sau",
+          "B. Trước ngày 30 tháng 06 hàng năm",
+          "C. Trước ngày 31 tháng 12 của năm kê khai",
+          "D. Vào dịp Đại hội cổ đông"
+        ],
+        "ans": 2,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng.",
+          "B. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "C. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác.",
+          "D. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp.",
+          "B. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân.",
+          "C. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "D. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã."
+        ],
+        "ans": 2,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "B. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính.",
+          "C. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "D. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI."
+        ],
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "B. Mua sắm trang thiết bị xe công vụ hiện đại.",
+          "C. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "D. Mở rộng trụ sở làm việc của các cơ quan hành chính."
+        ],
+        "ans": 0,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI.",
+          "B. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
+          "C. Đếm số lượng văn bản hành chính được ban hành trong năm.",
+          "D. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương."
+        ],
+        "ans": 1,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4.",
+          "B. Dịch vụ công miễn phí và Dịch vụ công có thu phí.",
+          "C. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "D. Dịch vụ công trong nước và Dịch vụ công quốc tế."
+        ],
+        "ans": 2,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh.",
+          "B. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức.",
+          "C. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "D. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 9] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý.",
+          "B. Tăng thu lệ phí cho ngân sách địa phương.",
+          "C. Giảm thời gian làm việc trong ngày của công chức.",
+          "D. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   },
   {
     "id": 10,
-    "title": "Đề số 10: Đề tổng hợp sát hạch toàn diện - Phân hóa cao chuẩn kỳ thi Huế 2025",
+    "title": "Đề số 10: Đề thi tổng hợp VIP - Sát hạch toàn diện chuẩn kỳ thi Công chức TP Huế 2025",
     "totalQuestions": 60,
     "timeMinutes": 60,
     "questions": [
       {
-        "q": "Nhận định nào sau đây là ĐÚNG NHẤT về địa vị pháp lý của viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Theo Luật Cán bộ, công chức sửa đổi 2019, đối tượng nào sau đây được xác định là 'Công chức'?",
         "options": [
-          "A. Viên chức không phải chịu sự điều chỉnh của Bộ luật Lao động trong mọi trường hợp.",
-          "B. Viên chức chỉ cần thực hiện chỉ đạo của thủ trưởng đơn vị mà không cần tuân theo quy trình kỹ thuật chuyên môn.",
-          "C. Mọi viên chức đều được tuyển dụng theo chế độ biên chế suốt đời không cần hợp đồng.",
-          "D. Viên chức làm việc theo chế độ hợp đồng làm việc, được tuyển dụng vào các vị trí việc làm cụ thể trong đơn vị sự nghiệp công lập."
+          "A. Công dân Việt Nam làm việc tại đơn vị sự nghiệp công lập theo hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập.",
+          "B. Người lao động làm việc theo chế độ hợp đồng lao động tại các cơ quan hành chính nhà nước.",
+          "C. Người được bầu cử giữ chức vụ theo nhiệm kỳ trong cơ quan của Đảng, Nhà nước từ trung ương đến cấp xã.",
+          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ, chức danh trong cơ quan của Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện; trong biên chế và hưởng lương từ ngân sách nhà nước."
         ],
         "ans": 3,
-        "explanation": "★ Bản chất: Viên chức làm việc theo hợp đồng làm việc (xác định thời hạn hoặc không xác định thời hạn). Những nội dung mà Luật Viên chức không quy định thì áp dụng quy định của pháp luật lao động."
+        "explanation": "★ Bản chất phân biệt Công chức vs Viên chức: Công chức bắt buộc (1) là công dân VN; (2) bổ nhiệm vào ngạch/chức vụ/chức danh trong cơ quan Đảng, Nhà nước, đoàn thể; (3) trong BIÊN CHẾ; (4) hưởng lương từ NGÂN SÁCH NHÀ NƯỚC. Phương án B là Viên chức (theo Luật Viên chức); Phương án C là Cán bộ (theo khoản 1 Điều 4)."
       },
       {
-        "q": "So sánh giữa nguyên tắc nghề nghiệp của viên chức (Điều 3) và cán bộ, công chức (Điều 3 Luật CBCC), điểm chung nổi bật nhất là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Điểm thay đổi căn bản của Luật sửa đổi 2019 về khái niệm công chức so với Luật 2008 là gì?",
         "options": [
-          "A. Đều áp dụng hình thức thi tuyển trắc nghiệm 60 câu.",
-          "B. Đều có nguyên tắc ký kết hợp đồng làm việc xác định thời hạn.",
-          "C. Đều quy định việc bổ nhiệm chức danh nghề nghiệp theo 5 hạng.",
-          "D. Đều đề cao sự tuân thủ pháp luật và phục vụ nhân dân, chịu sự giám sát của nhân dân."
+          "A. Cho phép tuyển dụng người nước ngoài vào làm công chức tại các cơ quan ngoại giao.",
+          "B. Bổ sung chức danh cán sự vào diện cán bộ lãnh đạo.",
+          "C. Không còn xác định người đứng đầu đơn vị sự nghiệp công lập là công chức mà chuyển toàn bộ sang viên chức quản lý.",
+          "D. Mọi công chức đều phải ký hợp đồng làm việc có thời hạn từ 12 đến 60 tháng."
         ],
-        "ans": 3,
-        "explanation": "★ Bản chất: Cốt lõi của nền công vụ và dịch vụ công nhà nước là thượng tôn pháp luật và phụng sự nhân dân."
+        "ans": 2,
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2008 trước đây coi người đứng đầu đơn vị sự nghiệp công lập do ngân sách bảo đảm kinh phí là công chức. Luật 2019 đã bãi bỏ quy định này, chuyển họ sang diện VIÊN CHỨC QUẢN LÝ để tách bạch giữa quản lý nhà nước và cung ứng dịch vụ công."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Theo Điều 6 Luật Viên chức, có bao nhiêu nguyên tắc quản lý viên chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Theo Điều 3 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc trong thi hành công vụ?",
         "options": [
-          "A. 3 nguyên tắc",
-          "B. 5 nguyên tắc",
-          "C. 6 nguyên tắc",
+          "A. 7 nguyên tắc",
+          "B. 6 nguyên tắc",
+          "C. 5 nguyên tắc",
           "D. 4 nguyên tắc"
         ],
-        "ans": 3,
-        "explanation": "★ Mẹo nhớ: Luật Viên chức có 2 điều quy định '4 nguyên tắc': Điều 3 (4 nguyên tắc nghề nghiệp) và Điều 6 (4 nguyên tắc quản lý)."
+        "ans": 2,
+        "explanation": "★ Mẹo nhớ: Công chức thi hành công vụ có đúng 5 NGUYÊN TẮC: (1) Tuân thủ Hiến pháp và pháp luật; (2) Bảo vệ lợi ích của Nhà nước, quyền của nhân dân; (3) Công khai, minh bạch, đúng thẩm quyền; (4) Bảo đảm tính hệ thống, liên tục, thông suốt; (5) Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng chính sách gì về tiền lương?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Nguyên tắc nào sau đây là nguyên tắc trong thi hành công vụ của cán bộ, công chức?",
         "options": [
-          "A. Được hưởng gấp 10 lần lương cơ sở.",
-          "B. Được tự do quyết định mức lương hàng tháng.",
-          "C. Được miễn đóng toàn bộ các khoản thuế thu nhập suốt đời.",
-          "D. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của Chính phủ."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật Viên chức: Viên chức làm việc ở vùng đặc biệt khó khăn được hưởng phụ cấp và chính sách ưu đãi của Nhà nước."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Trường hợp do nhu cầu công việc mà viên chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hàng năm thì được giải quyết như thế nào?",
-        "options": [
-          "A. Bắt buộc phải chuyển số ngày phép sang năm thứ mười.",
-          "B. Bị hủy bỏ toàn bộ số ngày phép mà không có bất kỳ khoản hỗ trợ nào.",
-          "C. Được thanh toán một khoản tiền cho những ngày không nghỉ theo quy định.",
-          "D. Trừ trực tiếp vào điểm thi đua cuối năm."
+          "A. Tự do học thuật và sáng tạo không giới hạn.",
+          "B. Bảo đảm quyền chủ động và đề cao trách nhiệm người đứng đầu ĐVSNCL.",
+          "C. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ.",
+          "D. Ưu tiên lợi nhuận tài chính của cơ quan nhà nước."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Viên chức: Được thanh toán tiền cho những ngày không nghỉ theo quy chế đơn vị."
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cơ quan hành chính vận hành theo nguyên tắc chỉ huy, cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Cô giáo dạy Tiếng Anh tại trường THCS công lập có được ký hợp đồng giảng dạy buổi tối tại một trung tâm ngoại ngữ tư thục không?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Theo Điều 8 Luật Cán bộ, công chức, đâu là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
         "options": [
-          "A. Chỉ được dạy miễn phí không được nhận thù lao.",
-          "B. Bị cấm hoàn toàn vì vi phạm đạo đức nhà giáo.",
-          "C. Được ký hợp đồng vụ việc ngoài giờ làm việc nếu pháp luật không cấm và được người đứng đầu trường học đồng ý.",
-          "D. Tự do dạy mà không cần thông báo hay xin phép bất kỳ ai."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 14 Luật Viên chức: Được ký hợp đồng vụ việc với cơ quan, tổ chức khác mà pháp luật không cấm nhưng phải hoàn thành nhiệm vụ được giao và có sự đồng ý của người đứng đầu."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Theo Điều 16 Luật Viên chức, có bao nhiêu nghĩa vụ chung của viên chức?",
-        "options": [
-          "A. 5 nghĩa vụ",
-          "B. 7 nghĩa vụ",
-          "C. 6 nghĩa vụ",
-          "D. 4 nghĩa vụ"
+          "A. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa XHCN Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia; liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+          "B. Đóng góp tối thiểu 20% lương vào quỹ bảo trợ công vụ.",
+          "C. Được tự ý phát ngôn quan điểm trái với chủ trương chính sách của Đảng nếu thấy hợp lý.",
+          "D. Chỉ chịu sự giám sát của thủ trưởng trực tiếp mà không cần chịu sự giám sát của nhân dân."
         ],
         "ans": 0,
-        "explanation": "★ Mẹo nhớ: Điều 16 quy định 5 NGHĨA VỤ CHUNG: (1) Chấp hành đường lối; (2) Có nếp sống lành mạnh, cần kiệm liêm chính; (3) Ý thức tổ chức kỷ luật; (4) Bảo vệ tài sản nhà nước; (5) Tu dưỡng đạo đức, học tập nâng cao trình độ. Đừng nhầm với 7 nghĩa vụ nghề nghiệp tại Điều 17."
+        "explanation": "★ Căn cứ: Điều 8 Luật CBCC quy định 4 nghĩa vụ đối với Đảng, Nhà nước và Nhân dân: Trung thành tuyệt đối; Chấp hành nghiêm chỉnh đường lối; Tôn trọng nhân dân, tận tụy phục vụ; Giữ gìn đoàn kết nội bộ."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Theo Luật Viên chức 2010, có bao nhiêu nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Khi có căn cứ cho rằng quyết định của cấp trên là trái pháp luật thì công chức phải xử lý như thế nào theo Điều 9 Luật CBCC?",
         "options": [
-          "A. 5 nghĩa vụ",
-          "B. 7 nghĩa vụ",
-          "C. 8 nghĩa vụ",
-          "D. 6 nghĩa vụ"
-        ],
-        "ans": 1,
-        "explanation": "★ Mẹo ghi nhớ: Nghĩa vụ chung = 5 (Điều 16); Nghĩa vụ nghề nghiệp = 7 (Điều 17); Việc không được làm = 6 (Điều 19). Bộ ba số thần thánh: 5 - 7 - 6!"
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Viên chức có hành vi xúc phạm danh dự, nhân phẩm của người học là vi phạm điều khoản nào?",
-        "options": [
-          "A. Vi phạm chế độ biệt phái viên chức.",
-          "B. Vi phạm những việc viên chức không được làm tại khoản 4 Điều 19 Luật Viên chức.",
-          "C. Vi phạm nguyên tắc bảo mật thông tin nhà nước.",
-          "D. Vi phạm quyền đơn phương chấm dứt hợp đồng."
-        ],
-        "ans": 1,
-        "explanation": "★ Trích luật: Khoản 4 Điều 19 nghiêm cấm: Xúc phạm danh dự, nhân phẩm, uy tín của người khác trong khi thực hiện hoạt động nghề nghiệp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "Một trường học công lập tại TP Huế tuyển dụng giáo viên mới vào tháng 09/2025. Hiệu trưởng ký hợp đồng làm việc lần đầu với thời hạn 48 tháng thì có đúng quy định pháp luật không?",
-        "options": [
-          "A. Sai quy định, vì tối đa chỉ được ký 24 tháng.",
-          "B. Sai quy định, vì phải ký không xác định thời hạn ngay từ đầu.",
-          "C. Đúng quy định, vì thời hạn 48 tháng nằm trong khung từ đủ 12 tháng đến 60 tháng.",
-          "D. Sai quy định, vì hợp đồng lần đầu bắt buộc phải đúng 36 tháng."
-        ],
-        "ans": 2,
-        "explanation": "★ Tình huống: Khung luật cho phép từ đủ 12 tháng đến 60 tháng, nên ký 48 tháng là hoàn toàn hợp pháp."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Đối tượng nào sau đây được ký hợp đồng làm việc KHÔNG xác định thời hạn theo Luật Viên chức sửa đổi 2019?",
-        "options": [
-          "A. Viên chức được tuyển dụng trước ngày 01/7/2020; cán bộ, công chức chuyển thành viên chức; viên chức trúng tuyển làm việc tại vùng có điều kiện KTXH đặc biệt khó khăn.",
-          "B. Viên chức có trình độ từ Tiến sĩ trở lên tại mọi cơ sở giáo dục.",
-          "C. Toàn bộ viên chức trúng tuyển kỳ thi tuyển viên chức TP Huế năm 2025.",
-          "D. Tất cả mọi người tốt nghiệp thủ khoa đại học sư phạm khi trúng tuyển."
+          "A. Báo cáo ngay bằng văn bản với người ra quyết định; nếu người ra quyết định vẫn quyết định thi hành thì phải chấp hành nhưng có quyền bảo lưu ý kiến và không phải chịu trách nhiệm về hậu quả của việc thi hành đó.",
+          "B. Lập tức từ chối thi hành và tố cáo thủ trưởng lên cơ quan công an.",
+          "C. Chấp hành ngay lập tức mà không cần báo cáo, sau này cùng chịu trách nhiệm liên đới.",
+          "D. Tự ý sửa đổi nội dung quyết định cho đúng luật rồi mới thi hành."
         ],
         "ans": 0,
-        "explanation": "★ 3 trường hợp duy nhất được ký HĐLV không xác định thời hạn theo luật mới: (1) Tuyển trước 01/7/2020; (2) Cán bộ, công chức chuyển sang làm viên chức; (3) Người trúng tuyển làm việc tại vùng ĐKTK-XH đặc biệt khó khăn."
+        "explanation": "★ Điểm bẫy trắc nghiệm kinh điển: Khoản 5 Điều 9: Phải báo cáo NGAY BẰNG VĂN BẢN. Nếu người ra quyết định vẫn buộc thi hành thì thi hành nhưng đồng thời báo cáo cấp trên trực tiếp, được bảo lưu ý kiến và KHÔNG PHẢI CHỊU TRÁCH NHIỆM về hậu quả."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "Khi đơn phương chấm dứt hợp đồng làm việc với viên chức ký hợp đồng XÁC ĐỊNH THỜI HẠN (trừ trường hợp ốm đau), ĐVSNCL phải báo trước ít nhất bao nhiêu ngày?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền gì về tiền lương?",
         "options": [
-          "A. Ít nhất 45 ngày.",
-          "B. Ít nhất 30 ngày.",
-          "C. Ít nhất 60 ngày.",
-          "D. Ít nhất 15 ngày."
-        ],
-        "ans": 1,
-        "explanation": "★ Bẫy ngày báo trước: HĐ không xác định thời hạn: báo trước ít nhất 45 ngày; HĐ xác định thời hạn: báo trước ít nhất 30 ngày."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng và phải báo trước ít nhất 03 ngày trong trường hợp nào?",
-        "options": [
-          "A. Muốn chuyển sang sinh sống tại thành phố khác vì lý do gia đình.",
-          "B. Tìm được công việc mới có mức lương cao hơn ở doanh nghiệp tư nhân.",
-          "C. Cảm thấy áp lực công việc giảng dạy quá nặng nề.",
-          "D. Bị ốm đau, tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục; hoặc bị ngược đãi, không được trả lương đầy đủ."
+          "A. Được miễn toàn bộ thuế thu nhập cá nhân vô thời hạn.",
+          "B. Được hưởng gấp đôi hệ số lương hiện hưởng.",
+          "C. Được tự thỏa thuận mức lương trực tiếp với Chủ tịch UBND tỉnh.",
+          "D. Được hưởng phụ cấp và chính sách ưu đãi theo quy định của pháp luật."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 29 Luật Viên chức: Báo trước ít nhất 03 ngày khi: không được bố trí đúng vị trí, không được trả lương đầy đủ, bị ngược đãi, hoặc bị ốm đau tai nạn đã điều trị 6 tháng liên tục."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 12 Luật CBCC: Được hưởng tiền làm thêm giờ, tiền làm việc ban đêm, phụ cấp và chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Người đứng đầu ĐVSNCL KHÔNG ĐƯỢC đơn phương chấm dứt hợp đồng làm việc với đối tượng nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Theo Điều 16 Luật Cán bộ, công chức, trong giao tiếp ở công sở, cán bộ, công chức phải:",
         "options": [
-          "A. Viên chức đang trong thời gian nghỉ cuối tuần theo quy định.",
-          "B. Viên chức đã công tác tại đơn vị từ đủ 15 năm trở lên.",
-          "C. Viên chức nam đang nuôi con nhỏ 12 tháng tuổi có vợ đi làm bình thường.",
-          "D. Viên chức nữ đang có thai hoặc nghỉ thai sản, nuôi con dưới 36 tháng tuổi (trừ trường hợp đơn vị chấm dứt hoạt động)."
-        ],
-        "ans": 3,
-        "explanation": "★ Quy định bảo vệ thai sản: Điểm b khoản 3 Điều 29 Luật Viên chức cấm người đứng đầu đơn phương chấm dứt HĐLV với viên chức nữ đang mang thai, nghỉ thai sản hoặc nuôi con dưới 36 tháng tuổi."
-      },
-      {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Thời hạn biệt phái viên chức theo quy định của Luật Viên chức tối đa là bao lâu?",
-        "options": [
-          "A. Không quá 01 năm",
-          "B. Không quá 03 năm",
-          "C. Không quá 02 năm",
-          "D. Không quá 05 năm"
+          "A. Chỉ chào hỏi những người giữ chức vụ cao hơn mình.",
+          "B. Có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng, mạch lạc; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức.",
+          "C. Tự do sử dụng trang phục cá nhân theo phong cách thời trang riêng.",
+          "D. Giữ khoảng cách tuyệt đối và không trao đổi công việc ngoài giờ hành chính."
         ],
         "ans": 1,
-        "explanation": "★ Con số cốt lõi: Khoản 2 Điều 36 Luật Viên chức: Thời hạn biệt phái viên chức KHÔNG QUÁ 03 NĂM. Không biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở đòi hỏi lịch sự, tôn trọng, trang phục gọn gàng, đeo thẻ công chức, ngôn ngữ chuẩn mực."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Theo Luật Viên chức sửa đổi 2019, kết quả đánh giá viên chức được xếp thành mấy mức chất lượng?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Trong giao tiếp với nhân dân, cán bộ, công chức KHÔNG ĐƯỢC có thái độ nào sau đây?",
+        "options": [
+          "A. Giải thích cặn kẽ các quy định pháp luật cho người dân hiểu.",
+          "B. Hách dịch, cửa quyền, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ.",
+          "C. Tôn trọng phong tục tập quán của đồng bào các dân tộc.",
+          "D. Nhã nhặn, lắng nghe ý kiến đóng góp của người dân."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC: Khi tiếp xúc với nhân dân, phải gần gũi, nhã nhặn; tuyệt đối không hách dịch, cửa quyền, quan liêu, vòi vĩnh, gây phiền hà."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Theo Luật Cán bộ, công chức, hành vi nào sau đây bị NGHIÊM CẤM đối với cán bộ, công chức?",
+        "options": [
+          "A. Đăng ký tham gia các khóa bồi dưỡng chuyên môn nghiệp vụ.",
+          "B. Góp vốn mua cổ phần phổ thông của công ty đại chúng niêm yết mà không tham gia quản lý điều hành.",
+          "C. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần...; sử dụng tài sản công trái pháp luật.",
+          "D. Khiếu nại quyết định kỷ luật không đúng quy định pháp luật."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 18, 19, 20 Luật CBCC: Cấm trốn tránh trách nhiệm; cấm tự thành lập hoặc quản lý điều hành doanh nghiệp (theo Luật Phòng chống tham nhũng); cấm tiết lộ bí mật nhà nước."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Theo Luật Cán bộ, công chức sửa đổi 2019, ngạch công chức gồm những ngạch nào?",
+        "options": [
+          "A. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định của Chính phủ.",
+          "B. Giám đốc, Phó Giám đốc, Trưởng phòng, Chuyên viên.",
+          "C. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V.",
+          "D. Cấp cao, Cấp trung, Cấp cơ sở."
+        ],
+        "ans": 0,
+        "explanation": "★ Bẫy trắc nghiệm Công chức vs Viên chức: Công chức phân theo NGẠCH: Chuyên viên cao cấp -> Chuyên viên chính -> Chuyên viên -> Cán sự -> Nhân viên. Trong khi Viên chức phân theo HẠNG (Hạng I, II, III, IV, V)."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Việc tuyển dụng công chức phải căn cứ vào yếu tố nào theo Điều 35 Luật Cán bộ, công chức?",
+        "options": [
+          "A. Khả năng tự cân đối tài chính từ nguồn thu phí hành chính.",
+          "B. Số lượng hồ sơ tồn đọng từ các năm trước.",
+          "C. Yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+          "D. Đề xuất cá nhân của thủ trưởng cơ quan tuyển dụng."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 35 Luật CBCC: 'Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế'."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Người có độ tuổi nào sau đây đủ điều kiện đăng ký dự tuyển công chức theo quy định chung?",
+        "options": [
+          "A. Đủ 22 tuổi trở lên đối với ngạch chuyên viên.",
+          "B. Đủ 20 tuổi trở lên và có hộ khẩu thường trú tại địa phương.",
+          "C. Từ đủ 16 tuổi trở lên có người giám hộ đồng ý.",
+          "D. Đủ 18 tuổi trở lên, có một quốc tịch là quốc tịch Việt Nam."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 36 Luật CBCC: Đủ 18 tuổi trở lên, có MỘT QUỐC TỊCH là quốc tịch Việt Nam, có đơn dự tuyển, lý lịch rõ ràng, văn bằng chứng chỉ phù hợp, đủ sức khỏe."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 10] Theo Nghị định 138/2020/NĐ-CP, thời gian tập sự đối với người trúng tuyển công chức ngạch Chuyên viên (yêu cầu trình độ đại học) là bao lâu?",
+        "options": [
+          "A. 24 tháng",
+          "B. 09 tháng",
+          "C. 06 tháng",
+          "D. 12 tháng"
+        ],
+        "ans": 3,
+        "explanation": "★ Thời gian tập sự công chức (Điều 20 NĐ 138): 12 tháng đối với ngạch Chuyên viên và tương đương; 06 tháng đối với ngạch Cán sự, Nhân viên."
+      },
+      {
+        "topic": "Nghị định 138/2020/NĐ-CP",
+        "q": "[Đề 10] Trong thời gian tập sự, người tập sự công chức được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
+        "options": [
+          "A. 85% mức lương bậc 1 (hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn hoặc đã hoàn thành nghĩa vụ quân sự).",
+          "B. 75% mức lương bậc 1.",
+          "C. Hưởng phụ cấp sinh hoạt phí cố định 3 triệu đồng/tháng.",
+          "D. 100% mức lương bậc 1 trong mọi trường hợp."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 22 Nghị định 138/2020/NĐ-CP: Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% đối với vùng đặc biệt khó khăn hoặc người đã hoàn thành nghĩa vụ quân sự/công an."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Theo Luật Cán bộ, công chức sửa đổi 2019, kết quả đánh giá công chức được xếp thành mấy mức?",
         "options": [
           "A. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
           "B. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu.",
-          "C. 5 mức: Loại A, Loại B, Loại C, Loại D, Loại E.",
-          "D. 2 mức: Đạt và Không đạt chuẩn viên chức."
+          "C. 5 mức: Hạng A, B, C, D, E.",
+          "D. 4 mức: Xuất sắc, Khá, Trung bình, Yếu."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 42 Luật Viên chức sửa đổi 2019 quy định chuẩn 4 mức xếp loại chất lượng viên chức. Từ ngữ 'Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực' trong luật cũ 2010 đã được bỏ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 58 Luật CBCC sửa đổi 2019: Căn cứ kết quả đánh giá, công chức được xếp loại theo 4 mức chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Hình thức kỷ luật nào sau đây CHỈ ÁP DỤNG đối với viên chức quản lý mà KHÔNG áp dụng đối với viên chức không giữ chức vụ quản lý?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý bị áp dụng các hình thức kỷ luật nào sau đây?",
         "options": [
-          "A. Khiển trách",
-          "B. Cảnh cáo",
-          "C. Cách chức",
-          "D. Buộc thôi việc"
+          "A. Khiển trách, Cảnh cáo, Giáng chức, Cách chức.",
+          "B. Khiển trách, Phạt tiền, Tước danh hiệu công chức.",
+          "C. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc.",
+          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có hạ bậc lương)."
         ],
         "ans": 2,
-        "explanation": "★ Phân biệt mấu chốt: Viên chức quản lý có 4 hình thức: Khiển trách, Cảnh cáo, CÁCH CHỨC, Buộc thôi việc. Viên chức thường chỉ có 3 hình thức (không có chức vụ thì không thể cách chức). Đặc biệt: Viên chức KHÔNG CÓ hình thức hạ bậc lương hay giáng chức!"
+        "explanation": "★ Phân biệt cực kỳ quan trọng: Công chức thường có 4 hình thức: Khiển trách, Cảnh cáo, HẠ BẬC LƯƠNG, Buộc thôi việc (Khác với viên chức không có hạ bậc lương). Giáng chức và Cách chức CHỈ ÁP DỤNG cho công chức lãnh đạo, quản lý!"
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Theo Luật Viên chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi vi phạm đến mức phải áp dụng hình thức cảnh cáo là bao lâu?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Công chức GIỮ CHỨC VỤ lãnh đạo, quản lý vi phạm kỷ luật có thể bị áp dụng các hình thức kỷ luật nào?",
         "options": [
-          "A. 02 năm (24 tháng)",
-          "B. 05 năm (60 tháng)",
-          "C. 10 năm",
-          "D. 03 năm (36 tháng)"
+          "A. Chuyển sang làm viên chức sự nghiệp.",
+          "B. Bãi nhiệm và Miễn nhiệm.",
+          "C. Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc.",
+          "D. Chỉ có Khiển trách và Buộc thôi việc."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC sửa đổi 2019: Áp dụng: Khiển trách, Cảnh cáo, Giáng chức, Cách chức, Buộc thôi việc."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Theo Luật Cán bộ, công chức sửa đổi 2019, thời hiệu xử lý kỷ luật đối với hành vi khiển trách là bao lâu?",
+        "options": [
+          "A. Không giới hạn thời hiệu.",
+          "B. 02 năm (24 tháng); các hình thức khác là 05 năm (60 tháng).",
+          "C. 12 tháng đối với mọi hình thức.",
+          "D. 36 tháng đối với mọi hình thức."
         ],
         "ans": 1,
-        "explanation": "★ Mốc thời hiệu: Khiển trách = 02 năm (24 tháng); Các hình thức còn lại (Cảnh cáo, Cách chức, Buộc thôi việc) = 05 năm (60 tháng). (Khoản 1 Điều 53 Luật sửa đổi 2019)."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 80 Luật CBCC sửa đổi 2019: Thời hiệu là 02 năm đối với hành vi khiển trách; 05 năm đối với các hành vi còn lại."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Trường hợp nào sau đây KHÔNG ÁP DỤNG thời hiệu xử lý kỷ luật theo Luật Viên chức sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "[Đề 10] Thời hạn tạm đình chỉ công tác đối với công chức được quy định như thế nào?",
         "options": [
-          "A. Viên chức có hành vi vi phạm đến mức phải kỷ luật khai trừ ra khỏi Đảng; vi phạm quy định về bảo vệ chính trị nội bộ; xâm phạm an ninh quốc gia; sử dụng văn bằng chứng chỉ giả.",
-          "B. Viên chức không tham gia họp hội đồng trường định kỳ.",
-          "C. Viên chức vi phạm quy định về đi làm muộn quá 3 lần.",
-          "D. Viên chức từ chối làm thêm giờ trong đợt thi học kỳ."
+          "A. Không quá 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày.",
+          "B. Cố định 30 ngày.",
+          "C. Do thủ trưởng đơn vị quyết định tùy ý.",
+          "D. Không quá 60 ngày."
         ],
         "ans": 0,
-        "explanation": "★ 4 trường hợp đặc biệt không tính thời hiệu (xử lý bất kỳ lúc nào): (1) Khai trừ Đảng; (2) Vi phạm chính trị nội bộ; (3) Xâm phạm an ninh quốc gia; (4) Sử dụng văn bằng, chứng chỉ, giấy chứng nhận giả hợp thức hóa điều kiện tuyển dụng."
+        "explanation": "★ Căn cứ: Điều 81 Luật CBCC: Thời hạn tạm đình chỉ không quá 15 ngày, trường hợp phức tạp kéo dài thêm nhưng không quá 30 ngày. Được tạm ứng 50% lương."
       },
       {
-        "topic": "Luật Viên chức",
-        "q": "[Đề 10] Thời hạn tạm đình chỉ công tác đối với viên chức được quy định như thế nào?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Theo Luật Tổ chức chính quyền địa phương 2015, Hội đồng nhân dân là:",
         "options": [
-          "A. Không quá 07 ngày làm việc.",
-          "B. Không quá 30 ngày; kéo dài tối đa 60 ngày.",
-          "C. Không quá 45 ngày cố định.",
-          "D. Không quá 15 ngày; trường hợp cần thiết có thể kéo dài thêm nhưng không quá 30 ngày."
-        ],
-        "ans": 3,
-        "explanation": "★ Con số cần nhớ: Tạm đình chỉ công tác tối đa 15 ngày, gia hạn thêm tối đa 30 ngày (Điều 54 Luật Viên chức). Trong thời gian này, viên chức được tạm ứng 50% tiền lương theo quy định."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Theo Nghị định 115/2020/NĐ-CP, việc tuyển dụng viên chức phải căn cứ vào những yếu tố nào?",
-        "options": [
-          "A. Đề xuất của Ban đại diện cha mẹ học sinh và Đoàn thanh niên.",
-          "B. Nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
-          "C. Khả năng đóng góp tài chính và cơ sở vật chất của người dự tuyển.",
-          "D. Số lượng ứng viên nộp hồ sơ tại Phòng Nội vụ trong năm."
+          "A. Cơ quan hành chính nhà nước ở địa phương, chấp hành các nghị quyết của Đảng bộ.",
+          "B. Cơ quan quyền lực nhà nước ở địa phương, đại diện cho ý chí, nguyện vọng và quyền làm chủ của Nhân dân, do Nhân dân địa phương bầu ra, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên.",
+          "C. Cơ quan hiệp thương chính trị thuộc Mặt trận Tổ quốc Việt Nam.",
+          "D. Cơ quan tư pháp thực hiện xét xử và kiểm sát tại địa phương."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Nghị định 115/2020/NĐ-CP: Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
+        "explanation": "★ Căn cứ: Điều 6 Luật Tổ chức CQĐP 2015: HĐND là CƠ QUAN QUYỀN LỰC NHÀ NƯỚC Ở ĐỊA PHƯƠNG, đại diện cho ý chí nguyện vọng nhân dân, do nhân dân bầu ra."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Đối tượng nào sau đây KHÔNG ĐƯỢC đăng ký dự tuyển viên chức theo Nghị định 115/2020/NĐ-CP?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Theo Luật Tổ chức chính quyền địa phương, Ủy ban nhân dân có vị trí pháp lý là:",
         "options": [
-          "A. Người mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành án phạt tù.",
-          "B. Người có độ tuổi trên 35 tuổi nhưng vẫn dưới tuổi nghỉ hưu.",
-          "C. Người đã từng làm việc tại doanh nghiệp tư nhân.",
-          "D. Người không có hộ khẩu thường trú tại thành phố Huế."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 5 Nghị định 115/2020/NĐ-CP. Pháp luật hiện hành KHÔNG phân biệt hộ khẩu thường trú, không giới hạn độ tuổi tối đa nếu còn trong độ tuổi lao động."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Theo Nghị định 115/2020/NĐ-CP, đối tượng nào được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2?",
-        "options": [
-          "A. Người tốt nghiệp đại học loại giỏi tại nước ngoài.",
-          "B. Con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học.",
-          "C. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, Thương binh, người hưởng chính sách như thương binh.",
-          "D. Người dân tộc thiểu số, sĩ quan quân đội nhân dân."
-        ],
-        "ans": 2,
-        "explanation": "★ Bảng điểm ưu tiên: Nhóm 1: +7.5 điểm (Anh hùng LLVT, Anh hùng Lao động, Thương binh); Nhóm 2: +5.0 điểm (Dân tộc thiểu số, quân nhân/công an xuất ngũ); Nhóm 3: +2.5 điểm (Con liệt sĩ, con thương binh, con bệnh binh...)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Thí sinh là người dân tộc thiểu số hoặc sĩ quan quân đội phục viên được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
-        "options": [
-          "A. 3,0 điểm",
-          "B. 7,5 điểm",
-          "C. 2,5 điểm",
-          "D. 5,0 điểm"
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điểm b khoản 1 Điều 6 Nghị định 115/2020/NĐ-CP: Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu... được cộng 5 điểm vào Vòng 2."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Trường hợp người dự thi tuyển viên chức thuộc nhiều diện ưu tiên khác nhau thì cách tính điểm ưu tiên như thế nào?",
-        "options": [
-          "A. Lấy điểm ưu tiên trung bình cộng của các diện.",
-          "B. Được cộng một nửa số điểm vào Vòng 1 và một nửa vào Vòng 2.",
-          "C. Được cộng dồn tất cả các mức ưu tiên lại với nhau.",
-          "D. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm Vòng 2."
-        ],
-        "ans": 3,
-        "explanation": "★ Nguyên tắc bất di bất dịch: Khoản 2 Điều 6 Nghị định 115: 'Trường hợp người dự thi tuyển hoặc xét tuyển thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm vòng 2'."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Theo Nghị định 115/2020/NĐ-CP, thi trắc nghiệm trên máy tính ở Vòng 1 môn Kiến thức chung gồm bao nhiêu câu hỏi và thời gian làm bài là bao lâu?",
-        "options": [
-          "A. 100 câu hỏi, thời gian làm bài 60 phút.",
-          "B. 60 câu hỏi, thời gian làm bài 90 phút.",
-          "C. 60 câu hỏi, thời gian làm bài 60 phút.",
-          "D. 50 câu hỏi, thời gian làm bài 50 phút."
-        ],
-        "ans": 2,
-        "explanation": "★ Quy chuẩn Vòng 1: Đúng 60 câu hỏi trong 60 phút trên máy tính. Trả lời đúng từ 30 câu (50%) trở lên là ĐẠT."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Điểm mới nổi bật của Nghị định 85/2023/NĐ-CP về việc miễn thi môn Kiến thức chung ở Vòng 1 là gì?",
-        "options": [
-          "A. Tất cả thí sinh có bằng tốt nghiệp loại Giỏi đều được miễn thi Vòng 1.",
-          "B. Thí sinh từng làm giáo viên hợp đồng trên 3 năm được miễn thi Vòng 1.",
-          "C. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức/viên chức theo quy định thì được miễn thi Vòng 1.",
-          "D. Thí sinh là đảng viên chính thức được miễn thi Vòng 1."
-        ],
-        "ans": 2,
-        "explanation": "★ Điểm mới Nghị định 85/2023: Bổ sung quy định công nhận kết quả kiểm định chất lượng đầu vào công chức, viên chức quốc gia để miễn thi Vòng 1 môn kiến thức chung."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Theo Nghị định 85/2023/NĐ-CP, thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức VẤN ĐÁP được quy định như thế nào?",
-        "options": [
-          "A. Thời gian thi vấn đáp 45 phút.",
-          "B. Thời gian thi vấn đáp 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
-          "C. Tùy thuộc vào giám khảo hỏi đến khi nào hết câu hỏi.",
-          "D. Thời gian thi vấn đáp 15 phút không có thời gian chuẩn bị."
+          "A. Cơ quan quyền lực nhà nước cao nhất tại địa phương.",
+          "B. Do Hội đồng nhân dân cùng cấp bầu, là cơ quan chấp hành của Hội đồng nhân dân, cơ quan hành chính nhà nước ở địa phương, chịu trách nhiệm trước Nhân dân địa phương, Hội đồng nhân dân cùng cấp và cơ quan hành chính nhà nước cấp trên.",
+          "C. Cơ quan tham mưu chính trị trực thuộc Tỉnh ủy/Thành ủy.",
+          "D. Tổ chức xã hội nghề nghiệp tự quản tại địa bàn đô thị."
         ],
         "ans": 1,
-        "explanation": "★ Chuẩn hóa thời gian vấn đáp NĐ 85/2023: Đúng 30 phút thi vấn đáp, thời gian chuẩn bị tối đa 15 phút KHÔNG TÍNH vào thời gian thi."
+        "explanation": "★ Căn cứ: Điều 8 Luật Tổ chức CQĐP 2015: UBND có 2 vai trò: (1) Cơ quan chấp hành của HĐND cùng cấp; (2) Cơ quan hành chính nhà nước ở địa phương."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Điểm thi môn nghiệp vụ chuyên ngành tại Vòng 2 được tính theo thang điểm nào và đạt bao nhiêu điểm thì đủ điều kiện xét trúng tuyển?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Việc phân định thẩm quyền của chính quyền địa phương các cấp được thực hiện thông qua những phương thức nào?",
         "options": [
-          "A. Thang điểm 10, đạt từ 5 điểm trở lên.",
-          "B. Thang điểm 100, đạt từ 50 điểm trở lên.",
-          "C. Thang điểm 100, đạt từ 60 điểm trở lên.",
-          "D. Thang điểm 100, đạt từ 70 điểm trở lên."
+          "A. Hiệp thương dân chủ và tự nguyện đóng góp.",
+          "B. Chỉ đạo hành chính trực tiếp và bao cấp toàn diện.",
+          "C. Khoán việc, giao việc và nghiệm thu.",
+          "D. Phân quyền, phân cấp và ủy quyền."
+        ],
+        "ans": 3,
+        "explanation": "★ 3 phương thức phân định thẩm quyền cốt lõi (Điều 11, 12, 13, 14 Luật Tổ chức CQĐP): Phân quyền (quy định trong luật) - Phân cấp (cơ quan cấp trên giao cấp dưới) - Ủy quyền (giao việc cụ thể bằng văn bản)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Theo Điều 12 Luật Tổ chức chính quyền địa phương, việc 'Phân quyền' cho chính quyền địa phương phải được quy định ở đâu?",
+        "options": [
+          "A. Phải được quy định trong luật.",
+          "B. Quy định trong quy chế nội bộ của UBND cấp dưới.",
+          "C. Chỉ cần quy định trong thông báo kết luận của cuộc họp giao ban.",
+          "D. Do Chủ tịch UBND cấp trên phân công bằng lời nói."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 1 Điều 12: 'Việc phân quyền cho các cấp chính quyền địa phương phải được quy định trong luật'. Chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện nhiệm vụ được phân quyền."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Trong trường hợp được cơ quan nhà nước cấp trên ủy quyền thực hiện nhiệm vụ, cơ quan nhận ủy quyền có được ủy quyền tiếp cho cơ quan khác không?",
+        "options": [
+          "A. Được ủy quyền tiếp nếu cấp trên không có ý kiến phản đối.",
+          "B. Không được ủy quyền lại cho cơ quan, tổ chức khác.",
+          "C. Được tự do ủy quyền tiếp cho cấp dưới trực tiếp.",
+          "D. Được ủy quyền cho bất kỳ cá nhân công chức nào."
         ],
         "ans": 1,
-        "explanation": "★ Thang điểm Vòng 2: Chấm theo thang điểm 100. Điểm sàn tối thiểu phải đạt từ 50 điểm trở lên mới được tham gia xét điểm từ cao xuống thấp."
+        "explanation": "★ Nguyên tắc ủy quyền (khoản 2 Điều 14): 'Cơ quan, tổ chức nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI cho cơ quan, tổ chức khác' và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Sau khi nhận thông báo trúng tuyển, người trúng tuyển viên chức phải đến cơ quan có thẩm quyền để hoàn thiện hồ sơ trong thời hạn bao lâu?",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Cơ cấu thành viên của Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những ai?",
         "options": [
-          "A. Trong thời hạn 15 ngày",
-          "B. Trong thời hạn 30 ngày",
-          "C. Trong thời hạn 60 ngày",
-          "D. Trong thời hạn 45 ngày"
+          "A. Chủ tịch HĐND, Chủ tịch UBND và Chánh án Tòa án nhân dân.",
+          "B. Chỉ bao gồm Chủ tịch và 01 Phó Chủ tịch thường trực.",
+          "C. Chủ tịch, các Phó Chủ tịch và các Ủy viên (gồm người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "D. Toàn bộ các Giám đốc Sở và Bí thư Quận/Huyện ủy."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP sửa đổi 2019: Thành viên UBND gồm Chủ tịch, Phó Chủ tịch và các Ủy viên. Các Ủy viên là Giám đốc các Sở, Chỉ huy trưởng Quân sự và Giám đốc Công an cấp tỉnh."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Thẩm quyền phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện thuộc về ai?",
+        "options": [
+          "A. Thủ tướng Chính phủ.",
+          "B. Giám đốc Sở Nội vụ.",
+          "C. Chủ tịch Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc trung ương.",
+          "D. Thường trực Hội đồng nhân dân cấp huyện."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điểm d khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Hội đồng nhân dân họp thường lệ mỗi năm ít nhất mấy kỳ?",
+        "options": [
+          "A. Ít nhất 02 kỳ họp",
+          "B. Mỗi nhiệm kỳ chỉ họp 01 lần",
+          "C. Mỗi tháng 01 kỳ",
+          "D. Ít nhất 04 kỳ họp"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP 2015: 'HĐND họp mỗi năm ít nhất hai kỳ'. HĐND họp chuyên đề hoặc họp giải quyết công việc phát sinh đột xuất khi cần thiết."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Thường trực Hội đồng nhân dân cấp tỉnh/thành phố trực thuộc trung ương gồm những thành viên nào?",
+        "options": [
+          "A. Chủ tịch HĐND, Phó Chủ tịch HĐND, các Ủy viên là Trưởng các Ban của HĐND cấp tỉnh.",
+          "B. Chủ tịch HĐND và toàn bộ đại biểu HĐND chuyên trách.",
+          "C. Chủ tịch HĐND, Chủ tịch UBND và Chủ tịch Ủy ban MTTQ cấp tỉnh.",
+          "D. Bí thư Tỉnh ủy và các Trưởng ban đảng."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP sửa đổi 2019: Thường trực HĐND cấp tỉnh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên là Trưởng ban của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] HĐND thành phố trực thuộc trung ương thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội, Ban Đô thị.",
+          "B. Ban An ninh quốc phòng và Ban Đối ngoại.",
+          "C. Chỉ có Ban Pháp chế và Ban Kinh tế.",
+          "D. Ban Tiếp công dân và Ban Quản lý trật tự đô thị."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm đặc thù của Thành phố trực thuộc Trung ương: Thành lập 4 Ban: Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và BAN ĐÔ THỊ (tỉnh thông thường chỉ có 3 ban, nơi có đông đồng bào dân tộc thiểu số thì có thêm Ban Dân tộc)."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh (các Sở) có chức năng gì?",
+        "options": [
+          "A. Độc lập tự chủ tài chính hoàn toàn và không chịu sự quản lý của UBND.",
+          "B. Ban hành các văn bản luật áp dụng cho địa phương.",
+          "C. Thực hiện chức năng xét xử và truy tố tội phạm trên địa bàn.",
+          "D. Tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 9 Nghị định 24/2014/NĐ-CP (sửa đổi tại NĐ 107/2020/NĐ-CP): Cơ quan chuyên môn thuộc UBND cấp tỉnh là cơ quan tham mưu, giúp UBND quản lý nhà nước theo ngành, lĩnh vực."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Chủ tịch UBND thành phố có thẩm quyền xử lý quyết định trái pháp luật của UBND quận/huyện như thế nào?",
+        "options": [
+          "A. Chỉ được góp ý nhắc nhở mà không được bãi bỏ.",
+          "B. Chuyển hồ sơ cho Viện kiểm sát nhân dân khởi tố.",
+          "C. Yêu cầu HĐND cấp xã ra quyết định hủy bỏ.",
+          "D. Đình chỉ việc thi hành hoặc bãi bỏ một phần hoặc toàn bộ quyết định trái pháp luật của UBND quận/huyện."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điểm g khoản 2 Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp trên có quyền đình chỉ thi hành hoặc bãi bỏ văn bản trái pháp luật của UBND cấp dưới."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Tiêu chuẩn của đại biểu Hội đồng nhân dân theo quy định tại Điều 7 Luật Tổ chức chính quyền địa phương bao gồm:",
+        "options": [
+          "A. Trung thành với Tổ quốc, Nhân dân và Hiến pháp; có phẩm chất đạo đức tốt, gương mẫu chấp hành pháp luật; có trình độ văn hóa, chuyên môn, đủ năng lực; liên hệ chặt chẽ với Nhân dân.",
+          "B. Phải là công chức nhà nước giữ ngạch chuyên viên cao cấp.",
+          "C. Bắt buộc phải là doanh nhân thành đạt có đóng góp tài chính lớn cho địa phương.",
+          "D. Phải có bằng tiến sĩ luật học."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 7 Luật Tổ chức CQĐP 2015: Trung thành Tổ quốc, phẩm chất đạo đức, trình độ chuyên môn, liên hệ mật thiết với nhân dân, có điều kiện tham gia các hoạt động của HĐND."
+      },
+      {
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Đại biểu Hội đồng nhân dân có quyền chất vấn những chức danh nào sau đây?",
+        "options": [
+          "A. Tổng Kiểm toán Nhà nước và Bộ trưởng các bộ ngành trung ương.",
+          "B. Chủ tịch UBND, Phó Chủ tịch UBND, Ủy viên UBND, Chánh án TAND, Viện trưởng VKSND cùng cấp.",
+          "C. Giám đốc các doanh nghiệp tư nhân trên địa bàn.",
+          "D. Toàn bộ các chuyên viên công tác tại Văn phòng Đoàn ĐBQH & HĐND."
         ],
         "ans": 1,
-        "explanation": "★ Mốc thời gian hoàn thiện hồ sơ: Điều 16 Nghị định 115 quy định đúng 30 ngày kể từ ngày nhận được thông báo trúng tuyển."
+        "explanation": "★ Căn cứ: Điều 96 Luật Tổ chức CQĐP: Đại biểu HĐND có quyền chất vấn Chủ tịch, thành viên UBND, Chánh án TAND, Viện trưởng VKSND, Thủ trưởng cơ quan chuyên môn thuộc UBND cùng cấp."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Thời gian tập sự đối với viên chức được tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học (Hạng III) là:",
+        "topic": "Tổ chức chính quyền địa phương",
+        "q": "[Đề 10] Khi thành phố Huế trở thành Thành phố trực thuộc Trung ương, mô hình tổ chức chính quyền địa phương ở các quận nội thành sẽ được thiết lập là:",
         "options": [
-          "A. 09 tháng",
-          "B. 24 tháng",
-          "C. 12 tháng",
-          "D. 06 tháng"
-        ],
-        "ans": 2,
-        "explanation": "★ Quy tắc nhớ thời gian tập sự: Trình độ Đại học (Hạng III) = 12 tháng; Cao đẳng (Hạng IV) = 09 tháng; Trung cấp/sơ cấp = 06 tháng. (Điều 21 Nghị định 115)."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Khoảng thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của viên chức?",
-        "options": [
-          "A. Thời gian tham gia các hoạt động tập huấn bồi dưỡng chuyên môn do trường cử đi.",
-          "B. Thời gian nghỉ lễ, tết theo quy định của Nhà nước.",
-          "C. Thời gian sinh hoạt chuyên môn định kỳ hàng tuần.",
-          "D. Thời gian nghỉ sinh con theo chế độ thai sản, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương."
+          "A. Chỉ có UBND quận mà không có HĐND quận trong mọi trường hợp.",
+          "B. Giải thể hoàn toàn các cơ quan tư pháp cấp quận.",
+          "C. Chuyển thành mô hình ban quản lý khu kinh tế mở.",
+          "D. Cấp chính quyền địa phương gồm Hội đồng nhân dân quận và Ủy ban nhân dân quận (theo quy định của Luật Tổ chức chính quyền địa phương)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 21 Nghị định 115/2020: Nghỉ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ KHÔNG tính vào thời gian tập sự."
+        "explanation": "★ Bản chất pháp lý đô thị: Chính quyền địa phương ở quận gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận theo quy định chuẩn của Luật Tổ chức chính quyền địa phương."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Trường hợp nào người trúng tuyển viên chức được MIỄN thực hiện chế độ tập sự?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Theo Luật Ban hành văn bản quy phạm pháp luật 2015, văn bản quy phạm pháp luật là gì?",
         "options": [
-          "A. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
-          "B. Có chứng chỉ tiếng Anh quốc tế C1 trở lên.",
-          "C. Đã có thời gian công tác có đóng BHXH bắt buộc theo quy định, bằng hoặc lớn hơn thời gian tập sự và làm công việc chuyên môn phù hợp với vị trí việc làm tuyển dụng.",
-          "D. Là con ruột của người đứng đầu đơn vị tuyển dụng."
-        ],
-        "ans": 2,
-        "explanation": "★ Điều kiện miễn tập sự: Khoản 5 Điều 21 Nghị định 115: Phải có thời gian đóng BHXH bắt buộc từ đủ thời gian tập sự trở lên VÀ làm công việc đúng chuyên môn vị trí tuyển dụng."
-      },
-      {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Trong thời gian tập sự ở điều kiện bình thường, người tập sự được hưởng bao nhiêu % mức lương bậc 1 của chức danh tuyển dụng?",
-        "options": [
-          "A. 75%",
-          "B. 80%",
-          "C. 100%",
-          "D. 85%"
+          "A. Thông cáo báo chí của cơ quan truyền thông công quyền.",
+          "B. Biên bản cuộc họp giải quyết tranh chấp đất đai tại phường/xã.",
+          "C. Mọi công văn, giấy tờ do thủ trưởng cơ quan hành chính ký ban hành hàng ngày.",
+          "D. Văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này."
         ],
         "ans": 3,
-        "explanation": "★ Mức lương tập sự thông thường: Hưởng 85% lương bậc 1. Trường hợp đặc biệt (vùng sâu xa ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại...) mới được hưởng 100% (Điều 23 NĐ 115)."
+        "explanation": "★ Căn cứ: Điều 2 Luật Ban hành VBQPPL: Văn bản quy phạm pháp luật bắt buộc phải chứa đựng 'quy phạm pháp luật' (quy tắc xử sự chung, có hiệu lực bắt buộc chung, áp dụng lặp đi lặp lại nhiều lần)."
       },
       {
-        "topic": "Nghị định 115 & 85",
-        "q": "[Đề 10] Viên chức được phân công hướng dẫn tập sự được hưởng chế độ phụ cấp trách nhiệm như thế nào?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Theo Luật Ban hành văn bản quy phạm pháp luật, Ủy ban nhân dân cấp tỉnh/thành phố ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
         "options": [
-          "A. Không được hưởng phụ cấp vì đây là nghĩa vụ bắt buộc của giáo viên đi trước.",
-          "B. Được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn tập sự.",
-          "C. Được hưởng thêm 50% mức lương của người tập sự.",
-          "D. Được giảm 100% số tiết dạy trên lớp."
+          "A. Nghị quyết và Thông tư.",
+          "B. Quyết định.",
+          "C. Chỉ thị và Quyết định.",
+          "D. Công văn hướng dẫn nghiệp vụ."
         ],
         "ans": 1,
-        "explanation": "★ Chế độ người hướng dẫn: Khoản 3 Điều 24 Nghị định 115/2020: Được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
+        "explanation": "★ Bẫy trắc nghiệm cực hay gặp: Theo Luật 2015, UBND cấp tỉnh CHỈ BAN HÀNH QUYẾT ĐỊNH là VBQPPL (Hình thức 'Chỉ thị' của UBND đã bị bãi bỏ tư cách VBQPPL từ Luật 2015). HĐND ban hành Nghị quyết."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Theo Điều 3 Luật Giáo dục 2019, nền giáo dục Việt Nam mang tính chất gì?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Thời điểm có hiệu lực của văn bản quy phạm pháp luật của HĐND và UBND cấp tỉnh/thành phố được quy định như thế nào?",
         "options": [
-          "A. Nền giáo dục đào tạo nghề nghiệp thực dụng gắn với chỉ tiêu xuất khẩu lao động.",
-          "B. Nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng.",
-          "C. Nền giáo dục học thuật hàn lâm theo tiêu chuẩn phương Tây.",
-          "D. Nền giáo dục phát triển theo định hướng kinh tế thị trường tự do tuyệt đối."
+          "A. Không sớm hơn 30 ngày kể từ ngày ký ban hành.",
+          "B. Có hiệu lực ngay lập tức trong ngày ký ban hành.",
+          "C. Không sớm hơn 45 ngày kể từ ngày đăng công báo.",
+          "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
+        ],
+        "ans": 3,
+        "explanation": "★ Con số cốt lõi: Khoản 1 Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL của HĐND, UBND cấp tỉnh KHÔNG SỚM HƠN 10 NGÀY kể từ ngày thông qua hoặc ký ban hành (cấp huyện và cấp xã là không sớm hơn 07 ngày)."
+      },
+      {
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Trường hợp nào sau đây TUYỆT ĐỐI KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "options": [
+          "A. Quy định bãi bỏ các thủ tục hành chính rườm rà.",
+          "B. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; hoặc quy định trách nhiệm pháp lý nặng hơn.",
+          "C. Quy định tăng mức trợ cấp ưu đãi cho gia đình có công với cách mạng.",
+          "D. Quy định chính sách miễn giảm thuế hỗ trợ người dân bị thiên tai."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Giáo dục 2019: 'Nền giáo dục Việt Nam là nền giáo dục xã hội chủ nghĩa có tính nhân dân, dân tộc, khoa học, hiện đại, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng'."
+        "explanation": "★ Nguyên tắc nhân văn của pháp luật (Khoản 2 Điều 152): Không hồi tố nếu áp đặt trách nhiệm pháp lý mới hoặc quy định trách nhiệm pháp lý NẶNG HƠN."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Nguyên lý giáo dục của nước ta theo Luật Giáo dục 2019 được xác định là:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Theo Nghị định số 30/2020/NĐ-CP của Chính phủ về công tác văn thư, văn bản hành chính có bao nhiêu thành phần thể thức chính (bắt buộc)?",
         "options": [
-          "A. Học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội.",
-          "B. Học theo năng khiếu cá nhân và hoàn toàn tự do không cần kiểm tra đánh giá.",
-          "C. Học tập lý thuyết chuyên sâu kết hợp thi cử lấy điểm số cao.",
-          "D. Giáo dục nhà trường là yếu tố duy nhất quyết định sự thành đạt của người học."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 3 Luật Giáo dục 2019: 'Hoạt động giáo dục được thực hiện theo nguyên lý học đi đôi với hành, lý luận gắn liền với thực tiễn, giáo dục nhà trường kết hợp với giáo dục gia đình và giáo dục xã hội'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Cấp học nào sau đây là 'Giáo dục bắt buộc' theo quy định tại Luật Giáo dục 2019?",
-        "options": [
-          "A. Giáo dục tiểu học.",
-          "B. Giáo dục mầm non cho trẻ 5 tuổi.",
-          "C. Giáo dục trung học cơ sở.",
-          "D. Giáo dục trung học phổ thông."
-        ],
-        "ans": 0,
-        "explanation": "★ Phân biệt mấu chốt: Khoản 2 Điều 14 Luật Giáo dục: Giáo dục tiểu học là GIÁO DỤC BẮT BUỘC. Nhà nước phổ cập giáo dục mầm non cho trẻ 5 tuổi và phổ cập giáo dục THCS."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Luật Giáo dục 2019 quy định về việc đóng học phí của học sinh tiểu học trường công lập như thế nào?",
-        "options": [
-          "A. Chỉ miễn học phí cho học sinh tiểu học là con hộ nghèo.",
-          "B. Phải đóng 50% mức học phí quy định để duy trì cơ sở vật chất.",
-          "C. Học sinh tiểu học trong cơ sở giáo dục công lập không phải đóng học phí.",
-          "D. Đóng toàn bộ học phí theo quy định của Hội đồng nhân dân tỉnh."
-        ],
-        "ans": 2,
-        "explanation": "★ Chính sách an sinh giáo dục: Khoản 3 Điều 99 Luật Giáo dục: Học sinh tiểu học trong cơ sở giáo dục công lập KHÔNG PHẢI ĐÓNG HỌC PHÍ."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Giáo dục phổ thông được chia thành các cấp học nào sau đây?",
-        "options": [
-          "A. Giáo dục tiểu học (5 năm), giáo dục trung học cơ sở (4 năm), giáo dục trung học phổ thông (3 năm).",
-          "B. Giáo dục mầm non, giáo dục tiểu học, giáo dục trung học.",
-          "C. Giáo dục cơ bản và giáo dục định hướng nghề nghiệp.",
-          "D. Cấp 1 (4 năm), Cấp 2 (4 năm), Cấp 3 (4 năm)."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 28 Luật Giáo dục 2019. Lớp 1 vào học khi đủ 6 tuổi tính theo năm."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Cơ quan nào có thẩm quyền quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong các cơ sở giáo dục phổ thông trên địa bàn tỉnh/thành phố?",
-        "options": [
-          "A. Giám đốc Sở Giáo dục và Đào tạo.",
-          "B. Hội Khuyến học tỉnh.",
-          "C. Ủy ban nhân dân cấp tỉnh.",
-          "D. Hiệu trưởng từng trường phổ thông."
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 3 Điều 32 Luật Giáo dục 2019: 'Ủy ban nhân dân cấp tỉnh quyết định việc lựa chọn sách giáo khoa sử dụng ổn định trong cơ sở giáo dục phổ thông trên địa bàn theo quy định của Bộ trưởng Bộ GD&ĐT'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Luật Giáo dục 2019 khẳng định nhà giáo giữ vai trò gì trong sự nghiệp giáo dục?",
-        "options": [
-          "A. Giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh.",
-          "B. Là người cung cấp dịch vụ đào tạo đơn thuần.",
-          "C. Giữ vai trò quản lý tài chính trường học.",
-          "D. Giữ vai trò hỗ trợ phụ trợ cho ban giám hiệu nhà trường."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 66 Luật Giáo dục: 'Nhà giáo có vị trí quan trọng trong xã hội, giữ vai trò quyết định trong việc bảo đảm chất lượng giáo dục, được xã hội tôn vinh'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Tiêu chuẩn của nhà giáo theo quy định tại Điều 67 Luật Giáo dục 2019 bao gồm:",
-        "options": [
-          "A. Phải có hộ khẩu thường trú tại địa phương nơi cơ sở giáo dục đặt trụ sở.",
-          "B. Phải là đảng viên Đảng Cộng sản Việt Nam.",
-          "C. Phải có bằng tiến sĩ và công bố bài báo khoa học quốc tế.",
-          "D. Có phẩm chất, tư tưởng, đạo đức tốt; đạt trình độ chuẩn được đào tạo về chuyên môn, nghiệp vụ; có sức khỏe theo yêu cầu nghề nghiệp; có lý lịch rõ ràng."
-        ],
-        "ans": 3,
-        "explanation": "★ 4 tiêu chuẩn của nhà giáo tại Điều 67: Phẩm chất đạo đức tốt - Đạt trình độ chuẩn đào tạo - Có sức khỏe - Lý lịch rõ ràng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên mầm non là gì?",
-        "options": [
-          "A. Có bằng tốt nghiệp cao đẳng sư phạm trở lên.",
-          "B. Có bằng tốt nghiệp THPT và chứng chỉ trông trẻ.",
-          "C. Có bằng cử nhân ngành đào tạo giáo viên trở lên.",
-          "D. Có bằng tốt nghiệp trung cấp sư phạm trở lên."
-        ],
-        "ans": 0,
-        "explanation": "★ Điểm mới tăng chuẩn trình độ (Điều 72): Giáo viên mầm non: Nâng từ Trung cấp lên CAO ĐẲNG SƯ PHẠM TRỞ LÊN."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Theo Luật Giáo dục 2019, trình độ chuẩn được đào tạo của giáo viên tiểu học, THCS và THPT là:",
-        "options": [
-          "A. Có bằng cử nhân thuộc ngành đào tạo giáo viên trở lên (hoặc có bằng cử nhân chuyên ngành phù hợp và có chứng chỉ bồi dưỡng nghiệp vụ sư phạm).",
-          "B. Bắt buộc phải có bằng thạc sĩ chuyên ngành giảng dạy.",
-          "C. Giáo viên tiểu học chỉ cần bằng trung cấp sư phạm; THCS cần cao đẳng sư phạm.",
-          "D. Chỉ cần bằng đại học bất kỳ không cần nghiệp vụ sư phạm."
-        ],
-        "ans": 0,
-        "explanation": "★ Điểm mới tăng chuẩn đào tạo: Cả Tiểu học, THCS và THPT hiện nay đều yêu cầu bằng CỬ NHÂN (Đại học) trở lên. Luật cũ Tiểu học chỉ cần Trung cấp, THCS chỉ cần Cao đẳng."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Quyền của nhà giáo theo quy định tại Điều 70 Luật Giáo dục 2019 bao gồm quyền nào sau đây?",
-        "options": [
-          "A. Được tự do thu các khoản tiền tự nguyện từ phụ huynh học sinh.",
-          "B. Được ưu tiên sở hữu nhà công vụ suốt đời sau 5 năm công tác.",
-          "C. Được tự ý ra đề thi kiểm tra theo ý muốn chủ quan mà không cần bám sát chương trình GDPT.",
-          "D. Được giảng dạy theo chuyên môn đào tạo; được đào tạo bồi dưỡng nâng cao trình độ; được tôn trọng, bảo vệ nhân phẩm, danh dự và thân thể; được nghỉ hè có hưởng lương và các ngày nghỉ khác theo quy định."
-        ],
-        "ans": 3,
-        "explanation": "★ Điều 70 quy định 5 quyền của nhà giáo. Chú ý quyền rất đặc thù: 'Được nghỉ hè theo quy định của Chính phủ và các ngày nghỉ khác theo quy định của pháp luật'."
-      },
-      {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Đâu là một trong những nghĩa vụ của nhà giáo được quy định tại Điều 69 Luật Giáo dục 2019?",
-        "options": [
-          "A. Đóng góp tối thiểu 10% thu nhập hàng tháng vào quỹ khuyến học.",
-          "B. Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học.",
-          "C. Tự chịu trách nhiệm trang trải toàn bộ chi phí mua sắm thiết bị dạy học.",
-          "D. Tìm kiếm tài trợ thương mại cho các sự kiện của trường."
+          "A. 8 thành phần",
+          "B. 9 thành phần",
+          "C. 7 thành phần",
+          "D. 12 thành phần"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 4 Điều 69: 'Tôn trọng và đối xử công bằng với người học, bảo vệ các quyền, lợi ích chính đáng của người học'."
+        "explanation": "★ Mẹo nhớ: Điều 8 Nghị định 30/2020/NĐ-CP quy định đúng 9 THÀNH PHẦN THỂ THỨC CHÍNH của văn bản hành chính (Quốc hiệu tiêu ngữ; Tên cơ quan; Số ký hiệu; Địa danh ngày tháng; Tên loại & trích yếu; Nội dung; Chức vụ họ tên chữ ký; Dấu/chữ ký số; Nơi nhận)."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Hành vi nào sau đây bị NGHIÊM CẤM đối với nhà giáo theo Điều 73 Luật Giáo dục 2019?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Quy định về cỡ chữ và kiểu chữ của Tiêu ngữ 'Độc lập - Tự do - Hạnh phúc' trong văn bản hành chính là:",
         "options": [
-          "A. Ra bài tập về nhà phù hợp với năng lực của học sinh.",
-          "B. Nhận xét thẳng thắn về khuyết điểm rèn luyện của học sinh trên lớp.",
-          "C. Đề nghị phụ huynh cùng phối hợp quản lý giờ học của con ở nhà.",
-          "D. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học; gian lận trong học tập, kiểm tra, thi, tuyển sinh; ép buộc học sinh học thêm để thu tiền."
+          "A. Tùy thuộc vào người soạn thảo văn bản lựa chọn tự do.",
+          "B. Cỡ chữ 12, chữ in hoa toàn bộ, kiểu chữ nghiêng.",
+          "C. Cỡ chữ 16, chữ in hoa, không có đường kẻ ngang.",
+          "D. Cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 73 Luật Giáo dục: Nghiêm cấm xúc phạm nhân phẩm, thân thể học sinh; gian lận kiểm tra; xuyên tạc nội dung; ép buộc học sinh học thêm để thu tiền; hút thuốc, uống rượu bia trong trường."
+        "explanation": "★ Tiêu chuẩn Nghị định 30/2020: Tiêu ngữ: cỡ 13-14, đứng, đậm, chữ cái đầu viết hoa, có gạch nối, phía dưới có đường kẻ ngang có độ dài bằng độ dài dòng chữ."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Theo Luật Giáo dục 2019, tiền lương và chính sách đãi ngộ đối với nhà giáo được ưu tiên như thế nào?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Khi đóng dấu của cơ quan, tổ chức lên chữ ký của người có thẩm quyền trên văn bản giấy, dấu phải trùm lên chữ ký như thế nào?",
         "options": [
-          "A. Được miễn toàn bộ tiền điện thoại và internet gia đình.",
-          "B. Không có chế độ phụ cấp thâm niên.",
-          "C. Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp ưu đãi nghề và các phụ cấp khác theo quy định của Chính phủ.",
-          "D. Luôn được hưởng mức lương gấp 3 lần mức lương của công chức tương đương."
+          "A. Đóng dấu chính giữa trùm lên toàn bộ chữ ký.",
+          "B. Đóng dấu trùm lên 1/2 chữ ký về phía bên phải.",
+          "C. Đóng dấu lệch hoàn toàn về phía bên phải không chạm vào chữ ký.",
+          "D. Đóng dấu trùm lên khoảng 1/3 chữ ký về phía bên trái."
         ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 76 Luật Giáo dục: Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên phụ cấp ưu đãi nghề."
+        "ans": 3,
+        "explanation": "★ Quy tắc đóng dấu chuẩn (khoản 2 Điều 33 NĐ 30/2020): Đóng dấu trùm lên khoảng 1/3 chữ ký VỀ PHÍA BÊN TRÁI, dấu đóng rõ ràng, ngay ngắn, dùng mực đỏ."
       },
       {
-        "topic": "Luật Giáo dục 2019",
-        "q": "[Đề 10] Theo Điều 88 Luật Giáo dục 2019, người học KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Theo Nghị định 30/2020/NĐ-CP, việc đóng dấu giáp lai trên văn bản giấy được thực hiện đối với tối đa bao nhiêu tờ văn bản cho mỗi dấu?",
         "options": [
-          "A. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể nhà giáo, cán bộ, người lao động của cơ sở giáo dục và người học khác; gian lận trong học tập, kiểm tra, thi cử.",
-          "B. Đặt câu hỏi thắc mắc bài học trong giờ giảng của giáo viên.",
-          "C. Đóng góp ý kiến xây dựng phong trào thi đua của lớp.",
-          "D. Đăng ký tham gia câu lạc bộ năng khiếu ngoài giờ."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 88 Luật Giáo dục quy định các hành vi người học không được làm, trong đó cấm xúc phạm nhân phẩm, thân thể nhà giáo và gian lận trong học tập, thi cử."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Mục tiêu tổng quát của Nghị quyết số 29-NQ/TW của Ban Chấp hành Trung ương Đảng là:",
-        "options": [
-          "A. Đạt chỉ tiêu 100% học sinh tốt nghiệp THPT đều đỗ vào các trường đại học.",
-          "B. Tạo chuyển biến căn bản, mạnh mẽ về chất lượng, hiệu quả giáo dục, đào tạo; đáp ứng ngày càng tốt hơn công cuộc xây dựng, bảo vệ Tổ quốc và nhu cầu học tập của nhân dân.",
-          "C. Giảm tải 80% thời lượng các môn khoa học cơ bản.",
-          "D. Tư nhân hóa toàn bộ hệ thống trường phổ thông công lập trên toàn quốc."
+          "A. Tối đa 10 tờ văn bản",
+          "B. Tối đa 05 tờ văn bản",
+          "C. Không giới hạn số tờ",
+          "D. Tối đa 03 tờ văn bản"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Mục tiêu tổng quát tại Nghị quyết 29-NQ/TW về đổi mới căn bản, toàn diện giáo dục và đào tạo."
+        "explanation": "★ Con số văn thư: Điểm d khoản 2 Điều 33 NĐ 30/2020: Dấu giáp lai đóng vào mép phải văn bản, trùm lên một phần các tờ giấy, mỗi dấu đóng TỐI ĐA 05 TỜ VĂN BẢN."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Quan điểm chỉ đạo hàng đầu của Nghị quyết số 29-NQ/TW khẳng định:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Trường hợp Phó Chủ tịch UBND ký văn bản theo sự phân công của Chủ tịch UBND thì ghi chức vụ ký như thế nào?",
         "options": [
-          "A. Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân.",
-          "B. Giáo dục và đào tạo chỉ tập trung phục vụ cho các thành phố lớn.",
-          "C. Giáo dục là ngành dịch vụ thương mại chịu sự điều tiết của cơ chế thị trường tự do.",
-          "D. Giáo dục và đào tạo là nhiệm vụ riêng của đội ngũ cán bộ, giáo viên trong ngành."
+          "A. Ghi 'KT. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "B. Ghi 'TUQ. CHỦ TỊCH / PHÓ CHỦ TỊCH'.",
+          "C. Ghi 'TM. ỦY BAN NHÂN DÂN / PHÓ CHỦ TỊCH'.",
+          "D. Ghi 'TL. CHỦ TỊCH / PHÓ CHỦ TỊCH'."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Quan điểm chỉ đạo số 1 tại Nghị quyết 29-NQ/TW: 'Giáo dục và đào tạo là quốc sách hàng đầu, là sự nghiệp của Đảng, Nhà nước và của toàn dân'."
+        "explanation": "★ Phân biệt mấu chốt thể thức ký: Chủ tịch ký thay mặt tập thể UBND ghi: TM. ỦY BAN NHÂN DÂN / CHỦ TỊCH. Cấp phó ký thay cấp trưởng ghi: KT. CHỦ TỊCH / PHÓ CHỦ TỊCH."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Nghị quyết 29-NQ/TW yêu cầu chuyển mạnh quá trình giáo dục từ chủ yếu trang bị kiến thức sang:",
+        "topic": "VBQPPL & Nghị định 30/2020",
+        "q": "[Đề 10] Cách viết hoa tên cơ quan hành chính nhà nước nào sau đây là ĐÚNG quy định tại Nghị định số 30/2020/NĐ-CP?",
         "options": [
-          "A. Luyện thi học sinh giỏi để đạt các giải thưởng quốc tế.",
-          "B. Đào tạo chuyên môn nghề nghiệp thật sớm từ bậc tiểu học.",
-          "C. Học thuộc lòng kiến thức sách giáo khoa theo mẫu.",
-          "D. Phát triển toàn diện năng lực và phẩm chất người học; học đi đôi với hành; lý luận gắn với thực tiễn."
-        ],
-        "ans": 3,
-        "explanation": "★ Tinh thần cốt lõi của Chương trình GDPT 2018: Nghị quyết 29 yêu cầu chuyển mạnh từ truyền thụ kiến thức một chiều sang phát triển toàn diện phẩm chất và năng lực người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Theo Nghị quyết 29-NQ/TW, đổi mới hình thức, phương pháp thi, kiểm tra và đánh giá kết quả giáo dục nhằm mục đích gì?",
-        "options": [
-          "A. Đánh giá phải bảo đảm trung thực, khách quan; phối hợp đánh giá trong quá trình học tập với đánh giá cuối kỳ; coi trọng đánh giá sự tiến bộ của người học.",
-          "B. Tăng độ khó của đề thi để sàng lọc tối đa học sinh.",
-          "C. Loại bỏ hoàn toàn việc kiểm tra định kỳ.",
-          "D. Chỉ áp dụng một hình thức thi viết tự luận duy nhất cho tất cả các môn."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Nhiệm vụ giải pháp số 2 Nghị quyết 29: Đánh giá phải trung thực, khách quan, coi trọng đánh giá vì sự tiến bộ của người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Quy định về đạo đức nhà giáo ban hành kèm theo Quyết định số 16/2008/QĐ-BGDĐT của Bộ GD&ĐT gồm có mấy chương và mấy điều?",
-        "options": [
-          "A. 4 chương, 10 điều",
-          "B. 4 chương, 15 điều",
-          "C. 5 chương, 15 điều",
-          "D. 3 chương, 12 điều"
-        ],
-        "ans": 0,
-        "explanation": "★ Mẹo nhớ: Quyết định 16/2008/QĐ-BGDĐT về đạo đức nhà giáo gồm 4 CHƯƠNG, 10 ĐIỀU."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Theo Điều 6 Quyết định số 16/2008/QĐ-BGDĐT, việc giữ gìn, bảo vệ truyền thống đạo đức nhà giáo NGHIÊM CẤM hành vi nào sau đây?",
-        "options": [
-          "A. Tặng quà lưu niệm mang tính kỷ niệm cho học sinh cuối cấp.",
-          "B. Góp ý phê bình mang tính xây dựng trong cuộc họp chi bộ.",
-          "C. Tham gia giảng dạy phụ đạo miễn phí cho học sinh có hoàn cảnh khó khăn.",
-          "D. Ép buộc học sinh học thêm để thu tiền; gian lận, thiếu trung thực trong học tập, kiểm tra, đánh giá; trù dập học sinh."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 6 Quyết định 16/2008/QĐ-BGDĐT cấm tuyệt đối ép học sinh học thêm thu tiền, gian lận thi cử, bao che tiêu cực hoặc trù dập người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Theo Thông tư số 06/2019/TT-BGDĐT quy định quy tắc ứng xử trong cơ sở giáo dục, giáo viên khi ứng xử với người học phải đảm bảo:",
-        "options": [
-          "A. Ngôn ngữ chuẩn mực, dễ hiểu; khen ngợi hoặc phê bình phù hợp; không xúc phạm, gây tổn thương, không trù dập, không định kiến, đối xử công bằng.",
-          "B. Công khai các khuyết điểm cá nhân của học sinh trước toàn trường.",
-          "C. Sử dụng hình phạt thể xác nghiêm khắc để răn đe.",
-          "D. Giữ khoảng cách tuyệt đối và không bao giờ trò chuyện riêng ngoài giờ học."
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT quy định chuẩn mực ứng xử của cán bộ quản lý, giáo viên đối với người học."
-      },
-      {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Trong mối quan hệ ứng xử với cha mẹ người học theo Thông tư 06/2019/TT-BGDĐT, giáo viên KHÔNG ĐƯỢC làm điều nào sau đây?",
-        "options": [
-          "A. Kịp thời thông báo kết quả học tập của học sinh.",
-          "B. Lắng nghe, chia sẻ thông tin rèn luyện của học sinh.",
-          "C. Xúc phạm, áp đặt, vụ lợi.",
-          "D. Tôn trọng ý kiến đóng góp mang tính xây dựng của phụ huynh."
+          "A. Ủy Ban Nhân Dân Thành Phố Huế",
+          "B. ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ (khi viết trong đoạn văn xuôi)",
+          "C. Ủy ban nhân dân thành phố Huế",
+          "D. ủy ban nhân dân Thành phố Huế"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điểm c khoản 1 Điều 4 Thông tư 06/2019/TT-BGDĐT: Ứng xử với cha mẹ người học phải tôn trọng, lắng nghe; KHÔNG XÚC PHẠM, ÁP ĐẶT, VỤ LỢI."
+        "explanation": "★ Quy tắc viết hoa tên cơ quan (Phụ lục II NĐ 30/2020): Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan, chức năng và tên riêng: 'Ủy ban nhân dân thành phố Huế'. Không viết hoa từng chữ cái đầu như phương án C."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông theo Thông tư số 20/2018/TT-BGDĐT gồm bao nhiêu tiêu chuẩn và tiêu chí?",
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Theo Luật Phòng, chống tham nhũng 2018, 'Tham nhũng' được hiểu là hành vi như thế nào?",
         "options": [
-          "A. 6 tiêu chuẩn, 18 tiêu chí",
-          "B. 5 tiêu chuẩn, 20 tiêu chí",
-          "C. 4 tiêu chuẩn, 12 tiêu chí",
-          "D. 5 tiêu chuẩn, 15 tiêu chí"
+          "A. Mọi sai sót chuyên môn kỹ thuật trong quá trình giải quyết thủ tục hành chính.",
+          "B. Việc đi làm muộn hoặc vắng mặt không phép của cán bộ công chức.",
+          "C. Hành vi trộm cắp tài sản của tổ chức, cá nhân ngoài xã hội.",
+          "D. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
         ],
         "ans": 3,
-        "explanation": "★ Mẹo nhớ chuẩn nghề nghiệp GV (Thông tư 20/2018): Đúng 5 TIÊU CHUẨN và 15 TIÊU CHÍ (mỗi tiêu chuẩn có 3 tiêu chí, 5 x 3 = 15)."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
-        "topic": "NQ 29 & Chuẩn nghề nghiệp",
-        "q": "[Đề 10] Theo Điều lệ trường trung học (Thông tư 32/2020/TT-BGDĐT) và trường tiểu học (Thông tư 28/2020/TT-BGDĐT), giáo viên KHÔNG ĐƯỢC thực hiện hành vi nào sau đây?",
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Ai trong số các đối tượng sau đây KHÔNG PHẢI là người có chức vụ, quyền hạn theo Luật Phòng, chống tham nhũng 2018?",
         "options": [
-          "A. Tổ chức các hoạt động trải nghiệm thực tế theo kế hoạch giáo dục của nhà trường.",
-          "B. Tham gia sinh hoạt tổ chuyên môn định kỳ hai tuần một lần.",
-          "C. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể học sinh và đồng nghiệp; gian lận trong kiểm tra; ép buộc học sinh học thêm thu tiền; hút thuốc lá, sử dụng rượu bia trong nhà trường.",
-          "D. Kiểm tra vở ghi và sách bài tập của học sinh."
+          "A. Người giữ chức danh, chức vụ quản lý trong doanh nghiệp nhà nước.",
+          "B. Cán bộ, công chức, viên chức trong cơ quan nhà nước.",
+          "C. Người được giao thực hiện nhiệm vụ, công vụ có quyền hạn trong khi thực hiện nhiệm vụ đó.",
+          "D. Người lao động làm công việc tạp vụ, bảo vệ theo hợp đồng khoán việc tại doanh nghiệp tư nhân không có vốn nhà nước."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 2 Luật PCTN 2018 quy định các nhóm người có chức vụ quyền hạn (bao gồm cả cán bộ, công chức, viên chức, người quản lý DN nhà nước...). Người lao động thuần túy trong doanh nghiệp tư nhân không thuộc diện này."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Theo Luật Phòng, chống tham nhũng 2018, có bao nhiêu nhóm hành vi tham nhũng trong khu vực nhà nước?",
+        "options": [
+          "A. 8 nhóm hành vi",
+          "B. 15 nhóm hành vi",
+          "C. 10 nhóm hành vi",
+          "D. 12 nhóm hành vi"
+        ],
+        "ans": 3,
+        "explanation": "★ Mẹo nhớ: Khoản 1 Điều 2 Luật PCTN 2018 quy định đúng 12 HÀNH VI THAM NHŨNG trong khu vực nhà nước (tham ô, nhận hối lộ, lạm dụng chức vụ, đưa hối lộ để giải quyết việc cho cơ quan...)."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Theo Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình về vấn đề gì?",
+        "options": [
+          "A. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
+          "B. Giải trình kế hoạch kinh doanh của các doanh nghiệp trên địa bàn.",
+          "C. Giải trình chi tiết đời sống riêng tư của người thân cán bộ.",
+          "D. Giải trình toàn bộ bí mật quân sự cho cơ quan báo chí."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Cơ quan có trách nhiệm giải trình về quyết định, hành vi trong thực hiện nhiệm vụ khi có yêu cầu của đối tượng chịu tác động trực tiếp."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Quy định về tặng quà và nhận quà tặng của người có chức vụ, quyền hạn theo Luật PCTN là:",
+        "options": [
+          "A. Được nhận quà thoải mái vào các dịp lễ tết miễn là không ký văn bản trong ngày đó.",
+          "B. Được nhận tiền mặt dưới 20 triệu đồng mà không cần báo cáo.",
+          "C. Cơ quan, tổ chức, đơn vị, người có chức vụ, quyền hạn không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức để vụ lợi.",
+          "D. Chỉ cấm cấp phó nhận quà, cấp trưởng được quyền nhận."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều lệ trường tiểu học (Điều 31 TT 28/2020) và Điều lệ trường trung học (Điều 31 TT 32/2020) quy định chi tiết các hành vi giáo viên không được làm."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN 2018: Nghiêm cấm sử dụng công quỹ làm quà tặng trái pháp luật và cấm nhận quà tặng dưới mọi hình thức để vụ lợi."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Loại tài sản nào sau đây thuộc diện BẮT BUỘC phải kê khai tài sản, thu nhập theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "options": [
+          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm có giá trị từ 50.000.000 đồng trở lên; tài sản ở nước ngoài.",
+          "B. Xe máy và đồ gia dụng có giá trị từ 5 triệu đồng trở lên.",
+          "C. Tiền mừng tuổi của con nhỏ dưới 1 triệu đồng.",
+          "D. Quần áo và trang sức cá nhân giá trị dưới 10 triệu đồng."
+        ],
+        "ans": 0,
+        "explanation": "★ Mốc tiền kê khai tài sản (Điều 35 Luật PCTN): Kim khí quý, đá quý, tiền mặt, sổ tiết kiệm, cổ phiếu... CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN phải kê khai bắt buộc."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Việc kê khai tài sản, thu nhập hằng năm đối với đối tượng có nghĩa vụ kê khai phải hoàn thành trước thời điểm nào?",
+        "options": [
+          "A. Trước ngày 31 tháng 12 của năm kê khai",
+          "B. Vào dịp Đại hội cổ đông",
+          "C. Trước ngày 30 tháng 06 hàng năm",
+          "D. Trước ngày 31 tháng 01 năm sau"
+        ],
+        "ans": 0,
+        "explanation": "★ Con số thời hạn: Điểm b khoản 2 Điều 36 Luật PCTN 2018: Kê khai hằng năm được thực hiện hoàn thành TRƯỚC NGÀY 31 THÁNG 12 của năm kê khai."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Cán bộ, công chức bị Tòa án kết án về hành vi tham nhũng mà bản án đã có hiệu lực pháp luật thì bị xử lý như thế nào?",
+        "options": [
+          "A. Tạm đình chỉ công tác 06 tháng chờ bố trí việc mới.",
+          "B. Chỉ bị kỷ luật cảnh cáo và điều chuyển sang cơ quan khác.",
+          "C. Được tiếp tục công tác nếu nộp lại toàn bộ số tiền tham nhũng.",
+          "D. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định có hiệu lực pháp luật."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Khoản 2 Điều 92 Luật PCTN: Người bị kết án về tội phạm tham nhũng thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực pháp luật."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
+        "options": [
+          "A. Xóa bỏ hoàn toàn việc tiếp công dân trực tiếp.",
+          "B. Chuyển toàn bộ các thủ tục hành chính sang hình thức thu phí tư nhân.",
+          "C. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân, trên cơ sở những quan điểm, chủ trương, đường lối của Đảng về đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới.",
+          "D. Cắt giảm 100% biên chế công chức tại cấp huyện và cấp xã."
+        ],
+        "ans": 2,
+        "explanation": "★ Trích Nghị quyết 76/NQ-CP: Mục tiêu bao quát xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, liêm chính, phục vụ nhân dân."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm có bao nhiêu nội dung trọng tâm?",
+        "options": [
+          "A. 6 nội dung: Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "B. 3 nội dung: Giảm biên chế, Tăng lương và Ứng dụng AI.",
+          "C. 5 nội dung: Văn thư, Lưu trữ, Thanh tra, Kiểm tra và Khen thưởng.",
+          "D. 4 nội dung: Thể chế, Con người, Cơ sở vật chất và Tài chính."
+        ],
+        "ans": 0,
+        "explanation": "★ Mẹo nhớ: NQ 76/NQ-CP có đúng 6 TRỤ CỘT: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ điện tử/Chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Trọng tâm cải cách hành chính trong giai đoạn 10 năm tới (2021–2030) theo Nghị quyết 76/NQ-CP được xác định là gì?",
+        "options": [
+          "A. Tăng cường thanh tra đột xuất các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "B. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Mở rộng trụ sở làm việc của các cơ quan hành chính.",
+          "D. Mua sắm trang thiết bị xe công vụ hiện đại."
+        ],
+        "ans": 1,
+        "explanation": "★ 3 trọng tâm đột phá của CCHC (Mục II NQ 76/NQ-CP): (1) Cải cách thể chế; (2) Nâng cao chất lượng đội ngũ công chức; (3) Chuyển đổi số, chính quyền số."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Chỉ số SIPAS được các bộ ngành và địa phương đo lường hàng năm nhằm mục đích gì?",
+        "options": [
+          "A. Đếm số lượng văn bản hành chính được ban hành trong năm.",
+          "B. Xếp hạng mức độ thu hút vốn đầu tư nước ngoài FDI.",
+          "C. Đánh giá tốc độ tăng trưởng kinh tế GDP của địa phương.",
+          "D. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước."
+        ],
+        "ans": 3,
+        "explanation": "★ Phân biệt chỉ số: SIPAS (Satisfaction Index of Public Administrative Services) = Chỉ số hài lòng của người dân, tổ chức; PAR INDEX = Chỉ số cải cách hành chính; PAPI = Chỉ số hiệu quả quản trị và hành chính công."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Theo Nghị định số 42/2022/NĐ-CP của Chính phủ, dịch vụ công trực tuyến của cơ quan nhà nước được cung cấp theo 2 mức độ nào?",
+        "options": [
+          "A. Dịch vụ công miễn phí và Dịch vụ công có thu phí.",
+          "B. Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến toàn trình.",
+          "C. Dịch vụ công trong nước và Dịch vụ công quốc tế.",
+          "D. Mức độ 1, Mức độ 2, Mức độ 3 và Mức độ 4."
+        ],
+        "ans": 1,
+        "explanation": "★ Điểm mới Nghị định 42/2022: Đã thay thế cách phân loại 4 mức độ cũ (mức 1, 2, 3, 4) bằng 2 MỨC ĐỘ CHUẨN MỚI: Dịch vụ công trực tuyến một phần và Dịch vụ công trực tuyến TOÀN TRÌNH."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Ứng dụng Hue-S và Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của thành phố Huế đóng vai trò nổi bật nào trong xây dựng chính quyền điện tử?",
+        "options": [
+          "A. Là kênh tương tác số trực tiếp giữa người dân và chính quyền; tiếp nhận và xử lý phản ánh hiện trường; cung cấp dịch vụ công trực tuyến và các tiện ích đô thị thông minh.",
+          "B. Chỉ dùng để gửi tin nhắn chúc mừng sinh nhật cán bộ công chức.",
+          "C. Là sàn giao dịch chứng khoán trực tuyến riêng của tỉnh.",
+          "D. Ứng dụng nội bộ chỉ lãnh đạo cấp sở mới có quyền đăng nhập."
+        ],
+        "ans": 0,
+        "explanation": "★ Điểm sáng cải cách hành chính của TP Huế: Hue-S là mô hình kiểu mẫu toàn quốc về chuyển đổi số và dịch vụ đô thị thông minh, kết nối trực tiếp phản ánh của nhân dân tới chính quyền xử lý công khai, minh bạch."
+      },
+      {
+        "topic": "Luật PCTN & Cải cách hành chính",
+        "q": "[Đề 10] Mục tiêu cốt lõi của việc giải quyết thủ tục hành chính theo cơ chế 'Một cửa, Một cửa liên thông' là gì?",
+        "options": [
+          "A. Giảm thời gian làm việc trong ngày của công chức.",
+          "B. Chuyển toàn bộ hồ sơ cho doanh nghiệp tư nhân thụ lý.",
+          "C. Công khai, minh bạch, giảm đầu mối tiếp xúc, chống phiền hà, sách nhiễu và nâng cao mức độ hài lòng của tổ chức, cá nhân.",
+          "D. Tăng thu lệ phí cho ngân sách địa phương."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Nghị định 61/2018/NĐ-CP (sửa đổi tại NĐ 107/2021/NĐ-CP): Bộ phận Một cửa giúp công khai, minh bạch quy trình, giảm phiền hà, người dân chỉ cần nộp hồ sơ tại một đầu mối duy nhất."
       }
     ]
   }
