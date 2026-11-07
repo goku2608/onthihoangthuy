@@ -4,423 +4,423 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 01 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, việc phân định thẩm quyền của chính quyền địa phương được thực hiện trên cơ sở nào?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Việc phân định thẩm quyền của chính quyền địa phương được thực hiện trên cơ sở nào?",
         "options": [
-          "A. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 1)",
-          "B. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 1)",
+          "A. Mọi công việc địa phương đều phải do Thủ tướng Chính phủ trực tiếp phê duyệt bằng văn bản.",
+          "B. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu cơ quan cấp trên.",
           "C. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
-          "D. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 1)"
+          "D. Xóa bỏ hoàn toàn ranh giới quản lý giữa các cấp chính quyền địa phương."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về phân định thẩm quyền chính quyền địa phương (điều 11)?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về phân định thẩm quyền chính quyền địa phương (điều 11)?",
         "options": [
-          "A. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 2)",
+          "A. Để chính quyền cấp xã tự quyết định toàn bộ chính sách đối ngoại và quốc phòng.",
           "B. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
-          "C. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 2)",
-          "D. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 2)"
+          "C. Chuyển toàn bộ thẩm quyền tư pháp về cho Ủy ban nhân dân cấp tỉnh thực hiện.",
+          "D. Phân quyền tùy tiện bằng công văn hành chính không cần căn cứ vào quy định của luật."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Việc phân định thẩm quyền của chính quyền địa phương được thực hiện trên cơ sở nào?",
+        "options": [
+          "A. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
+          "B. Chính quyền cấp trên không được phép kiểm tra hoạt động của chính quyền cấp dưới.",
+          "C. Xóa bỏ hoàn toàn ranh giới quản lý giữa các cấp chính quyền địa phương.",
+          "D. Giao nhiệm vụ mà không cần bảo đảm các điều kiện về tài chính và nguồn nhân lực."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về phân định thẩm quyền chính quyền địa phương (điều 11), cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
+        "options": [
+          "A. Mọi công việc địa phương đều phải do Thủ tướng Chính phủ trực tiếp phê duyệt bằng văn bản.",
+          "B. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
+          "C. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu cơ quan cấp trên.",
+          "D. Chuyển toàn bộ thẩm quyền tư pháp về cho Ủy ban nhân dân cấp tỉnh thực hiện."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về phân định thẩm quyền chính quyền địa phương (điều 11) là gì?",
+        "options": [
+          "A. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
+          "B. Chính quyền cấp trên không được phép kiểm tra hoạt động của chính quyền cấp dưới.",
+          "C. Để chính quyền cấp xã tự quyết định toàn bộ chính sách đối ngoại và quốc phòng.",
+          "D. Phân quyền tùy tiện bằng công văn hành chính không cần căn cứ vào quy định của luật."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
         "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Việc phân định thẩm quyền của chính quyền địa phương được thực hiện trên cơ sở nào?",
         "options": [
-          "A. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
-          "B. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 3)",
-          "C. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 3)",
-          "D. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 3)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề phân định thẩm quyền chính quyền địa phương (điều 11) theo nguyên tắc nào sau đây?",
-        "options": [
-          "A. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 4)",
+          "A. Xóa bỏ hoàn toàn ranh giới quản lý giữa các cấp chính quyền địa phương.",
           "B. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
-          "C. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 4)",
-          "D. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 4)"
+          "C. Mọi công việc địa phương đều phải do Thủ tướng Chính phủ trực tiếp phê duyệt bằng văn bản.",
+          "D. Giao nhiệm vụ mà không cần bảo đảm các điều kiện về tài chính và nguồn nhân lực."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện phân định thẩm quyền chính quyền địa phương (điều 11) là gì?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về phân định thẩm quyền chính quyền địa phương (điều 11) được áp dụng như thế nào?",
         "options": [
-          "A. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
-          "B. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 5)",
-          "C. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 5)",
-          "D. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 5)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với phân định thẩm quyền chính quyền địa phương (điều 11) như thế nào?",
-        "options": [
-          "A. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 6)",
-          "B. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
-          "C. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 6)",
-          "D. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 6)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về phân định thẩm quyền chính quyền địa phương (điều 11) được áp dụng ra sao?",
-        "options": [
-          "A. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 7)",
-          "B. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 7)",
+          "A. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu cơ quan cấp trên.",
+          "B. Chuyển toàn bộ thẩm quyền tư pháp về cho Ủy ban nhân dân cấp tỉnh thực hiện.",
           "C. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
-          "D. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 7)"
+          "D. Phân quyền tùy tiện bằng công văn hành chính không cần căn cứ vào quy định của luật."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến phân định thẩm quyền chính quyền địa phương (điều 11)?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến phân định thẩm quyền chính quyền địa phương (điều 11) theo Luật số 72/2025/QH15:",
         "options": [
-          "A. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 8)",
-          "B. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 8)",
-          "C. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 8)",
+          "A. Giao nhiệm vụ mà không cần bảo đảm các điều kiện về tài chính và nguồn nhân lực.",
+          "B. Chính quyền cấp trên không được phép kiểm tra hoạt động của chính quyền cấp dưới.",
+          "C. Để chính quyền cấp xã tự quyết định toàn bộ chính sách đối ngoại và quốc phòng.",
           "D. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về phân định thẩm quyền chính quyền địa phương (điều 11) đòi hỏi điều gì?",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về phân định thẩm quyền chính quyền địa phương (điều 11)?",
         "options": [
-          "A. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 9)",
-          "B. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 9)",
-          "C. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 9)",
+          "A. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu cơ quan cấp trên.",
+          "B. Xóa bỏ hoàn toàn ranh giới quản lý giữa các cấp chính quyền địa phương.",
+          "C. Mọi công việc địa phương đều phải do Thủ tướng Chính phủ trực tiếp phê duyệt bằng văn bản.",
           "D. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về phân định thẩm quyền chính quyền địa phương (điều 11)?",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với phân định thẩm quyền chính quyền địa phương (điều 11)?",
         "options": [
-          "A. Tập trung toàn bộ quyền lực về một cá nhân người đứng đầu. (sai quy định 10)",
+          "A. Để chính quyền cấp xã tự quyết định toàn bộ chính sách đối ngoại và quốc phòng.",
           "B. Bảo đảm quản lý nhà nước thống nhất; phát huy tính tự chủ, tự chịu trách nhiệm của chính quyền địa phương; phân định rõ nhiệm vụ của từng cấp.",
-          "C. Để chính quyền cấp xã tự quyết định chính sách đối ngoại. (không đúng thẩm quyền 10)",
-          "D. Xóa bỏ ranh giới quản lý giữa các cấp chính quyền. (vi phạm nguyên tắc 10)"
+          "C. Chuyển toàn bộ thẩm quyền tư pháp về cho Ủy ban nhân dân cấp tỉnh thực hiện.",
+          "D. Phân quyền tùy tiện bằng công văn hành chính không cần căn cứ vào quy định của luật."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực."
+        "explanation": "★ Căn cứ: Điều 11 Luật Tổ chức CQĐP: Phân định thẩm quyền bảo đảm thống nhất quản lý, phân định rõ nhiệm vụ từng cấp, không trùng lặp, bảo đảm nguồn lực thực hiện."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Đối tượng nào sau đây được xác định là công chức trong hệ thống hành chính?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo Luật Cán bộ, công chức sửa đổi 2019, người nào sau đây được xác định là công chức?",
         "options": [
-          "A. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 1)",
-          "B. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước.",
-          "C. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 1)",
-          "D. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 1)"
+          "A. Chuyên gia tư vấn nước ngoài ký hợp đồng với Bộ Ngoại giao.",
+          "B. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước.",
+          "C. Viên chức giảng dạy tại các trường đại học công lập trên địa bàn thành phố Huế.",
+          "D. Người lao động làm việc theo hợp đồng lao động không xác định thời hạn tại Văn phòng UBND tỉnh."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Bản chất: Điều 4 Luật Cán bộ, công chức quy định 4 tiêu chí bắt buộc của công chức: là công dân VN, tuyển dụng bổ nhiệm vào ngạch/chức vụ trong cơ quan Đảng/Nhà nước/đoàn thể, trong biên chế, hưởng lương từ ngân sách nhà nước."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về khái niệm và phạm vi công chức (điều 4)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Luật Cán bộ, công chức sửa đổi năm 2019 đã bãi bỏ đối tượng nào sau đây khỏi phạm vi điều chỉnh của khái niệm công chức?",
         "options": [
-          "A. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 2)",
-          "B. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước.",
-          "C. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 2)",
-          "D. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 2)"
+          "A. Trưởng phòng Tư pháp thuộc Ủy ban nhân dân cấp huyện.",
+          "B. Người đứng đầu đơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm kinh phí.",
+          "C. Chánh Văn phòng Ủy ban nhân dân cấp tỉnh.",
+          "D. Chuyên viên phòng Kế hoạch - Tài chính."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Điểm mới sửa đổi 2019: Luật 2019 đã bãi bỏ quy định người đứng đầu ĐVSNCL là công chức, chuyển nhóm này hoàn toàn sang viên chức quản lý để phân định rõ quản lý nhà nước và dịch vụ công."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Đối tượng nào sau đây được xác định là công chức trong hệ thống hành chính?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Căn cứ Điều 3 Luật Cán bộ, công chức, nguyên tắc nào sau đây thể hiện đặc thù chỉ huy của nền hành chính nhà nước?",
         "options": [
-          "A. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 3)",
-          "B. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 3)",
-          "C. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 3)",
-          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước."
+          "A. Tự do thảo luận và biểu quyết theo đa số trong mọi trường hợp.",
+          "B. Mọi quyết định phải được thông qua sự đồng thuận của công đoàn.",
+          "C. Ưu tiên tuyệt đối quyền tự chủ của chuyên viên cấp dưới.",
+          "D. Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Căn cứ: Khoản 5 Điều 3 Luật CBCC: 'Bảo đảm thứ bậc hành chính và sự phục tùng chặt chẽ'. Cấp dưới phải phục tùng mệnh lệnh cấp trên hợp pháp để bảo đảm sự thông suốt của bộ máy."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về khái niệm và phạm vi công chức (điều 4) như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Đâu KHÔNG PHẢI là nguyên tắc trong thi hành công vụ theo quy định tại Điều 3 Luật Cán bộ, công chức?",
         "options": [
-          "A. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 4)",
-          "B. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 4)",
-          "C. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 4)",
-          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước."
+          "A. Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát.",
+          "B. Tuân thủ Hiến pháp và pháp luật.",
+          "C. Bảo vệ lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, công dân.",
+          "D. Tận tụy phục vụ nhân dân theo quy định của Luật Viên chức."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Phân tích: 'Tận tụy phục vụ nhân dân' là nguyên tắc hoạt động nghề nghiệp của viên chức (Luật Viên chức). 5 nguyên tắc công vụ của công chức quy định tại Điều 3 Luật CBCC."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về khái niệm và phạm vi công chức (điều 4) yêu cầu công chức phải tuân thủ nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo Điều 5 Luật Cán bộ, công chức, có bao nhiêu nguyên tắc quản lý cán bộ, công chức?",
         "options": [
-          "A. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 5)",
-          "B. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 5)",
-          "C. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 5)",
-          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước."
+          "A. 6 nguyên tắc",
+          "B. 7 nguyên tắc",
+          "C. 4 nguyên tắc",
+          "D. 5 nguyên tắc"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Mẹo nhớ: Luật CBCC quy định 5 nguyên tắc thi hành công vụ (Điều 3) và 5 nguyên tắc quản lý cán bộ, công chức (Điều 5)."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng khái niệm và phạm vi công chức (điều 4) là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Nguyên tắc quản lý cán bộ, công chức nào thể hiện sự thống nhất chính trị trong công tác cán bộ?",
         "options": [
-          "A. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 6)",
-          "B. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước.",
-          "C. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 6)",
-          "D. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 6)"
+          "A. Thực hiện nguyên tắc tập trung dân chủ.",
+          "B. Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam.",
+          "C. Thực hiện bình đẳng giới.",
+          "D. Kết hợp giữa tiêu chuẩn chức danh với vị trí việc làm."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 5 Luật CBCC: 'Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam' là nguyên tắc lãnh đạo bao trùm trong quản lý cán bộ, công chức."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về khái niệm và phạm vi công chức (điều 4) khi nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Nội dung nào sau đây là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
         "options": [
-          "A. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 7)",
-          "B. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 7)",
-          "C. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 7)",
-          "D. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước."
+          "A. Được hưởng tiền làm thêm giờ theo quy định.",
+          "B. Được cử đi đào tạo bồi dưỡng nâng cao trình độ.",
+          "C. Được pháp luật bảo vệ khi thi hành công vụ.",
+          "D. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Phân tích: Phương án A là nghĩa vụ tại Điều 8 Luật CBCC. Các phương án B, C, D là quyền của cán bộ, công chức."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến khái niệm và phạm vi công chức (điều 4)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Trong thi hành công vụ, khi phát hiện quyết định của cấp trên trái pháp luật, cán bộ, công chức phải làm gì đầu tiên?",
         "options": [
-          "A. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 8)",
-          "B. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 8)",
-          "C. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước.",
-          "D. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 8)"
+          "A. Gửi đơn tố cáo lên mạng xã hội.",
+          "B. Tự ý đình chỉ thi hành quyết định mà không cần thông báo.",
+          "C. Báo cáo ngay bằng văn bản với người ra quyết định.",
+          "D. Lập tức gọi điện phản ánh lên cơ quan công an."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Căn cứ: Khoản 5 Điều 9 Luật CBCC: Bắt buộc phải 'báo cáo ngay bằng văn bản với người ra quyết định'."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về khái niệm và phạm vi công chức (điều 4) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Trường hợp người ra quyết định vẫn yêu cầu thi hành quyết định trái pháp luật, công chức có trách nhiệm gì?",
         "options": [
-          "A. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước.",
-          "B. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 9)",
-          "C. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 9)",
-          "D. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 9)"
+          "A. Phải chấp hành nhưng có quyền bảo lưu ý kiến, báo cáo lên cấp trên trực tiếp của người ra quyết định và không phải chịu trách nhiệm về hậu quả.",
+          "B. Tự ý xin nghỉ việc ngay trong ngày.",
+          "C. Chấp hành và phải cùng chịu trách nhiệm hình sự liên đới.",
+          "D. Tuyệt đối từ chối thi hành kể cả khi bị đe dọa kỷ luật."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Bản chất: Công chức được miễn trừ trách nhiệm về hậu quả nếu đã báo cáo bằng văn bản, có bảo lưu ý kiến và báo cáo cấp trên của người ra quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về khái niệm và phạm vi công chức (điều 4)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Quyền của cán bộ, công chức được bảo đảm các điều kiện thi hành công vụ bao gồm quyền nào?",
         "options": [
-          "A. Công dân Việt Nam, được tuyển dụng, bổ nhiệm vào ngạch, chức vụ trong cơ quan Đảng, Nhà nước, đoàn thể ở trung ương, cấp tỉnh, cấp huyện, trong biên chế và hưởng lương từ ngân sách nhà nước.",
-          "B. Người lao động làm việc theo hợp đồng khoán việc tại sở, ban ngành. (sai quy định 10)",
-          "C. Viên chức làm việc tại trung tâm giáo dục nghề nghiệp. (không chính xác 10)",
-          "D. Người đại diện phần vốn nhà nước tại ngân hàng thương mại. (trái luật 10)"
+          "A. Được giao quyền hạn tương xứng với nhiệm vụ; được bảo đảm trang thiết bị và các điều kiện làm việc khác theo quy định của pháp luật.",
+          "B. Được sử dụng xe công vụ cho mục đích việc riêng gia đình.",
+          "C. Được miễn kiểm tra an ninh khi đi công tác nước ngoài.",
+          "D. Được tự quyết định mức chi công tác phí hàng tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 4 Luật Cán bộ, công chức: Công chức là công dân VN, tuyển dụng vào ngạch/chức vụ trong biên chế, hưởng lương ngân sách nhà nước."
+        "explanation": "★ Căn cứ: Điều 11 Luật CBCC quy định quyền được giao quyền hạn tương xứng, cung cấp trang thiết bị, phương tiện làm việc, bảo vệ tính mạng sức khỏe."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH): Tham nhũng theo quy định tại khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018 được định nghĩa là:",
+        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (VBHN số 65/VBHN-VPQH): Tham nhũng theo quy định tại khoản 1 Điều 3 Luật Phòng, chống tham nhũng số 36/2018/QH14 được định nghĩa là:",
         "options": [
-          "A. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 1)",
+          "A. Mọi hành vi trộm cắp, lừa đảo tài sản ngoài xã hội không liên quan đến công quyền.",
           "B. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
-          "C. Việc khiếu nại quyết định hành chính của người dân. (trái luật 1)",
-          "D. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 1)"
+          "C. Mọi vi phạm hợp đồng kinh tế giữa các thương nhân ngoài khu vực nhà nước.",
+          "D. Việc người dân gửi đơn khiếu nại quyết định hành chính của chính quyền lên cấp trên."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước, nhận định nào sau đây là ĐÚNG về khái niệm và bản chất của tham nhũng (điều 3)?",
+        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước theo Luật PCTN: Tham nhũng theo quy định tại khoản 1 Điều 3 Luật Phòng, chống tham nhũng số 36/2018/QH14 được định nghĩa là:",
         "options": [
-          "A. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 2)",
+          "A. Các sai sót kỹ thuật hành chính thuần túy trong quá trình nhập liệu hồ sơ công dân.",
           "B. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
-          "C. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 2)",
-          "D. Việc khiếu nại quyết định hành chính của người dân. (trái luật 2)"
+          "C. Hành vi vi phạm quy định về trật tự an toàn giao thông đường bộ ngoài giờ hành chính.",
+          "D. Việc cơ quan cấp phép yêu cầu bổ sung giấy tờ còn thiếu trong hồ sơ đất đai."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng (VBHN số 65/VBHN-VPQH): Tham nhũng theo quy định tại khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018 được định nghĩa là:",
+        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng: Tham nhũng theo quy định tại khoản 1 Điều 3 Luật Phòng, chống tham nhũng số 36/2018/QH14 được định nghĩa là:",
         "options": [
           "A. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
-          "B. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 3)",
-          "C. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 3)",
-          "D. Việc khiếu nại quyết định hành chính của người dân. (trái luật 3)"
+          "B. Việc cơ quan nhà nước từ chối tiếp nhận hồ sơ chưa hợp lệ theo quy định.",
+          "C. Việc người dân gửi đơn khiếu nại quyết định hành chính của chính quyền lên cấp trên.",
+          "D. Hành vi chậm trễ trong việc giải quyết thủ tục do sự cố mất điện lưới quốc gia."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Tình huống công vụ: Công chức xử lý đúng quy định về khái niệm và bản chất của tham nhũng (điều 3) như thế nào?",
+        "q": "Quy định pháp lý hiện hành về phòng, chống tham nhũng xác định nội dung nào sau đây về khái niệm và bản chất tham nhũng (điều 3)?",
         "options": [
-          "A. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 4)",
-          "B. Việc khiếu nại quyết định hành chính của người dân. (trái luật 4)",
-          "C. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 4)",
+          "A. Mọi vi phạm hợp đồng kinh tế giữa các thương nhân ngoài khu vực nhà nước.",
+          "B. Mọi hành vi trộm cắp, lừa đảo tài sản ngoài xã hội không liên quan đến công quyền.",
+          "C. Hành vi vi phạm quy định về trật tự an toàn giao thông đường bộ ngoài giờ hành chính.",
           "D. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Quy định pháp lý về khái niệm và bản chất của tham nhũng (điều 3) yêu cầu người có chức vụ, quyền hạn phải tuân thủ điều gì?",
+        "q": "Tình huống công vụ: Người có chức vụ, quyền hạn phải xử lý đúng quy định pháp luật về khái niệm và bản chất tham nhũng (điều 3) như thế nào?",
         "options": [
-          "A. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 5)",
-          "B. Việc khiếu nại quyết định hành chính của người dân. (trái luật 5)",
-          "C. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 5)",
+          "A. Việc cơ quan cấp phép yêu cầu bổ sung giấy tờ còn thiếu trong hồ sơ đất đai.",
+          "B. Các sai sót kỹ thuật hành chính thuần túy trong quá trình nhập liệu hồ sơ công dân.",
+          "C. Việc cơ quan nhà nước từ chối tiếp nhận hồ sơ chưa hợp lệ theo quy định.",
           "D. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi nào sau đây vi phạm quy định về khái niệm và bản chất của tham nhũng (điều 3)?",
+        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi hoặc nhận định nào sau đây là ĐÚNG về khái niệm và bản chất tham nhũng (điều 3)?",
         "options": [
-          "A. Việc khiếu nại quyết định hành chính của người dân. (trái luật 6)",
-          "B. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 6)",
-          "C. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 6)",
+          "A. Việc người dân gửi đơn khiếu nại quyết định hành chính của chính quyền lên cấp trên.",
+          "B. Mọi vi phạm hợp đồng kinh tế giữa các thương nhân ngoài khu vực nhà nước.",
+          "C. Hành vi chậm trễ trong việc giải quyết thủ tục do sự cố mất điện lưới quốc gia.",
           "D. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Biện pháp phòng ngừa tham nhũng nào sau đây được áp dụng đối với khái niệm và bản chất của tham nhũng (điều 3)?",
+        "q": "Biện pháp phòng ngừa và xử lý nghiêm minh theo quy định của Luật PCTN đối với khái niệm và bản chất tham nhũng (điều 3) là:",
         "options": [
-          "A. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 7)",
+          "A. Việc cơ quan cấp phép yêu cầu bổ sung giấy tờ còn thiếu trong hồ sơ đất đai.",
           "B. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
-          "C. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 7)",
-          "D. Việc khiếu nại quyết định hành chính của người dân. (trái luật 7)"
+          "C. Mọi hành vi trộm cắp, lừa đảo tài sản ngoài xã hội không liên quan đến công quyền.",
+          "D. Hành vi vi phạm quy định về trật tự an toàn giao thông đường bộ ngoài giờ hành chính."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng, cơ quan tổ chức đơn vị có trách nhiệm gì đối với khái niệm và bản chất của tham nhũng (điều 3)?",
+        "q": "Cơ quan, tổ chức, đơn vị có trách nhiệm gì đối với việc thực hiện quy định về khái niệm và bản chất tham nhũng (điều 3)?",
         "options": [
-          "A. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 8)",
-          "B. Việc khiếu nại quyết định hành chính của người dân. (trái luật 8)",
+          "A. Hành vi chậm trễ trong việc giải quyết thủ tục do sự cố mất điện lưới quốc gia.",
+          "B. Việc cơ quan nhà nước từ chối tiếp nhận hồ sơ chưa hợp lệ theo quy định.",
           "C. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
-          "D. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 8)"
+          "D. Các sai sót kỹ thuật hành chính thuần túy trong quá trình nhập liệu hồ sơ công dân."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15): Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
+        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15: Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
         "options": [
           "A. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
-          "B. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 1)",
-          "C. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 1)",
-          "D. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 1)"
+          "B. Cả hai cơ quan đều ban hành Pháp lệnh theo ủy quyền của Quốc hội.",
+          "C. Hội đồng nhân dân ban hành Chỉ thị; Ủy ban nhân dân ban hành Thông tư.",
+          "D. Cả Hội đồng nhân dân và Ủy ban nhân dân đều chỉ ban hành Công văn hành chính."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
-      },
-      {
-        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Nhận định nào sau đây là ĐÚNG quy định về khái niệm và hình thức vbqppl của chính quyền địa phương (điều 4)?",
-        "options": [
-          "A. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
-          "B. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 2)",
-          "C. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 2)",
-          "D. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 2)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
         "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
         "options": [
-          "A. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 3)",
-          "B. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
-          "C. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 3)",
-          "D. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 3)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
-      },
-      {
-        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Trong xây dựng thể chế hành chính nhà nước: Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
-        "options": [
-          "A. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 4)",
-          "B. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 4)",
-          "C. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 4)",
-          "D. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
-      },
-      {
-        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Quy định pháp lý về khái niệm và hình thức vbqppl của chính quyền địa phương (điều 4) khẳng định điều gì?",
-        "options": [
           "A. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
-          "B. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 5)",
-          "C. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 5)",
-          "D. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 5)"
+          "B. Hội đồng nhân dân ban hành Quyết định; Ủy ban nhân dân ban hành Nghị quyết.",
+          "C. Hội đồng nhân dân ban hành Thông tư liên tịch; Ủy ban nhân dân ban hành Lệnh.",
+          "D. Hội đồng nhân dân ban hành Nghị định; Ủy ban nhân dân ban hành Chỉ thị cá biệt."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo quy định hiện hành, việc áp dụng khái niệm và hình thức vbqppl của chính quyền địa phương (điều 4) được thực hiện như thế nào?",
+        "q": "Trong xây dựng thể chế và áp dụng pháp luật theo Luật số 64/2025/QH15: Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh ban hành văn bản quy phạm pháp luật dưới hình thức nào?",
         "options": [
-          "A. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 6)",
-          "B. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 6)",
-          "C. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 6)",
+          "A. Cả Hội đồng nhân dân và Ủy ban nhân dân đều chỉ ban hành Công văn hành chính.",
+          "B. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
+          "C. Hội đồng nhân dân ban hành Điều lệ; Ủy ban nhân dân ban hành Quy chế nội bộ.",
+          "D. Không được ban hành bất kỳ văn bản quy phạm pháp luật nào ở cấp địa phương."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
+      },
+      {
+        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
+        "q": "Quy định pháp lý về khái niệm vbqppl và hình thức văn bản của cqđp (điều 4) khẳng định nội dung nào sau đây?",
+        "options": [
+          "A. Cả hai cơ quan đều ban hành Pháp lệnh theo ủy quyền của Quốc hội.",
+          "B. Hội đồng nhân dân ban hành Thông tư liên tịch; Ủy ban nhân dân ban hành Lệnh.",
+          "C. Hội đồng nhân dân ban hành Chỉ thị; Ủy ban nhân dân ban hành Thông tư.",
           "D. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
+      },
+      {
+        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
+        "q": "Khi cơ quan có thẩm quyền tại thành phố Huế ban hành văn bản, quy định về khái niệm vbqppl và hình thức văn bản của cqđp (điều 4) được áp dụng ra sao?",
+        "options": [
+          "A. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
+          "B. Hội đồng nhân dân ban hành Nghị định; Ủy ban nhân dân ban hành Chỉ thị cá biệt.",
+          "C. Hội đồng nhân dân ban hành Điều lệ; Ủy ban nhân dân ban hành Quy chế nội bộ.",
+          "D. Hội đồng nhân dân ban hành Quyết định; Ủy ban nhân dân ban hành Nghị quyết."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
+      },
+      {
+        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
+        "q": "Nhận định nào sau đây là CHUẨN XÁC theo quy định của Luật Ban hành văn bản quy phạm pháp luật về khái niệm vbqppl và hình thức văn bản của cqđp (điều 4)?",
+        "options": [
+          "A. Không được ban hành bất kỳ văn bản quy phạm pháp luật nào ở cấp địa phương.",
+          "B. Cả Hội đồng nhân dân và Ủy ban nhân dân đều chỉ ban hành Công văn hành chính.",
+          "C. Cả hai cơ quan đều ban hành Pháp lệnh theo ủy quyền của Quốc hội.",
+          "D. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP): Nghị định số 150/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về nội dung gì?",
         "options": [
-          "A. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 1)",
-          "B. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 1)",
-          "C. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 1)",
+          "A. Quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông đường bộ.",
+          "B. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân trên toàn quốc.",
+          "C. Quy định về thủ tục cấp giấy phép xuất nhập khẩu vũ khí và vật liệu nổ công nghiệp.",
           "D. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương."
         ],
         "ans": 3,
@@ -430,10 +430,10 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Nhận định nào sau đây là ĐÚNG quy định tại Nghị định 150/2025/NĐ-CP về phạm vi và đối tượng điều chỉnh của nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 2)",
-          "B. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 2)",
+          "A. Quy định về chế độ bảo hiểm y tế toàn dân và chính sách khám chữa bệnh viện phí.",
+          "B. Quy định về quản lý ngân sách quốc phòng và hoạt động của các quân khu quân sự.",
           "C. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương.",
-          "D. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 2)"
+          "D. Quy định về tiêu chuẩn kỹ thuật thiết kế các công trình thủy điện và năng lượng tái tạo."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP ngày 12/06/2025 quy định cơ cấu tổ chức, chức năng, nhiệm vụ cơ quan chuyên môn thuộc UBND cấp tỉnh và cấp xã, phường."
@@ -442,22 +442,22 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Căn cứ Nghị định số 150/2025/NĐ-CP của Chính phủ: Nghị định số 150/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về nội dung gì?",
         "options": [
-          "A. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 3)",
+          "A. Quy định về điều kiện thành lập và giải thể các trường đại học quốc tế tại Việt Nam.",
           "B. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương.",
-          "C. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 3)",
-          "D. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 3)"
+          "C. Quy định về điều phối nguồn vốn đầu tư công trung hạn của các tập đoàn kinh tế nhà nước.",
+          "D. Quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông đường bộ."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP ngày 12/06/2025 quy định cơ cấu tổ chức, chức năng, nhiệm vụ cơ quan chuyên môn thuộc UBND cấp tỉnh và cấp xã, phường."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
-        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn: Nghị định số 150/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về nội dung gì?",
+        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn theo NĐ 150/2025/NĐ-CP: Nghị định số 150/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về nội dung gì?",
         "options": [
           "A. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương.",
-          "B. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 4)",
-          "C. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 4)",
-          "D. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 4)"
+          "B. Quy định về thủ tục cấp giấy phép xuất nhập khẩu vũ khí và vật liệu nổ công nghiệp.",
+          "C. Quy định về chế độ bảo hiểm y tế toàn dân và chính sách khám chữa bệnh viện phí.",
+          "D. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân trên toàn quốc."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP ngày 12/06/2025 quy định cơ cấu tổ chức, chức năng, nhiệm vụ cơ quan chuyên môn thuộc UBND cấp tỉnh và cấp xã, phường."
@@ -466,10 +466,10 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Quy định pháp lý tại Nghị định 150/2025/NĐ-CP khẳng định nội dung nào về phạm vi và đối tượng điều chỉnh của nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 5)",
+          "A. Quy định về tiêu chuẩn kỹ thuật thiết kế các công trình thủy điện và năng lượng tái tạo.",
           "B. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương.",
-          "C. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 5)",
-          "D. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 5)"
+          "C. Quy định về điều kiện thành lập và giải thể các trường đại học quốc tế tại Việt Nam.",
+          "D. Quy định về quản lý ngân sách quốc phòng và hoạt động của các quân khu quân sự."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP ngày 12/06/2025 quy định cơ cấu tổ chức, chức năng, nhiệm vụ cơ quan chuyên môn thuộc UBND cấp tỉnh và cấp xã, phường."
@@ -478,142 +478,142 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo quy định hiện hành, việc quản lý tổ chức bộ máy liên quan đến phạm vi và đối tượng điều chỉnh của nghị định 150/2025/nđ-cp được thực hiện ra sao?",
         "options": [
-          "A. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 6)",
-          "B. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 6)",
+          "A. Quy định về thủ tục cấp giấy phép xuất nhập khẩu vũ khí và vật liệu nổ công nghiệp.",
+          "B. Quy định về điều phối nguồn vốn đầu tư công trung hạn của các tập đoàn kinh tế nhà nước.",
           "C. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương.",
-          "D. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 6)"
+          "D. Quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông đường bộ."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP ngày 12/06/2025 quy định cơ cấu tổ chức, chức năng, nhiệm vụ cơ quan chuyên môn thuộc UBND cấp tỉnh và cấp xã, phường."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Theo Nghị định số 170/2025/NĐ-CP, căn cứ tuyển dụng công chức là gì?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Nghị định số 170/2025/NĐ-CP của Chính phủ có hiệu lực thi hành từ ngày nào và quy định về nội dung gì?",
         "options": [
-          "A. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao.",
-          "B. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 1)",
-          "C. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 1)",
-          "D. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 1)"
+          "A. Có hiệu lực từ ngày 01/7/2025, quy định chi tiết về tuyển dụng, sử dụng và quản lý công chức.",
+          "B. Có hiệu lực từ ngày 01/12/2025, quy định về đào tạo cán bộ lãnh đạo cấp cao.",
+          "C. Có hiệu lực từ ngày 01/10/2025, quy định về tiền lương công chức vùng sâu vùng xa.",
+          "D. Có hiệu lực từ ngày 01/01/2025, quy định về biên chế công chức cấp xã."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Nghị định số 170/2025/NĐ-CP được Chính phủ ban hành ngày 30/06/2025, có hiệu lực từ 01/7/2025, thay thế và hoàn thiện các quy định về tuyển dụng, sử dụng và quản lý công chức."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về căn cứ và nguyên tắc tuyển dụng công chức (nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, việc tuyển dụng công chức bắt buộc phải căn cứ vào những yếu tố nào?",
         "options": [
-          "A. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 2)",
-          "B. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 2)",
-          "C. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 2)",
-          "D. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao."
+          "A. Đề xuất của hội phụ huynh và đoàn thể thanh niên.",
+          "B. Nguồn ngân sách thu được từ xử phạt vi phạm hành chính.",
+          "C. Số lượng sinh viên tốt nghiệp đại học tại địa phương trong năm.",
+          "D. Nhu cầu sử dụng, chỉ tiêu biên chế được giao và yêu cầu của từng vị trí việc làm."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, chỉ tiêu biên chế được cấp thẩm quyền giao và yêu cầu vị trí việc làm."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Theo Nghị định số 170/2025/NĐ-CP, căn cứ tuyển dụng công chức là gì?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, nhân sự được đề nghị kéo dài thời gian giữ chức vụ lãnh đạo, quản lý phải đạt tỷ lệ đồng ý như thế nào?",
         "options": [
-          "A. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 3)",
-          "B. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao.",
-          "C. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 3)",
-          "D. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 3)"
+          "A. Chỉ cần đạt từ 30% số thành viên đồng ý trở lên.",
+          "B. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định.",
+          "C. Chỉ cần có đơn tự nguyện kéo dài nhiệm kỳ mà không cần bỏ phiếu.",
+          "D. Bắt buộc phải đạt 100% số phiếu tuyệt đối của tập thể lãnh đạo."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Điểm mới nổi bật NĐ 170/2025/NĐ-CP: Quy định tỷ lệ đồng ý kéo dài chức vụ lãnh đạo phải đạt TRÊN 50% tổng số thành viên lãnh đạo; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Theo Nghị định số 170/2025/NĐ-CP, căn cứ tuyển dụng công chức là gì?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Điều 57 Nghị định 170/2025/NĐ-CP, thẩm quyền giải quyết thôi việc đối với công chức thuộc về ai?",
         "options": [
-          "A. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao.",
-          "B. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 4)",
-          "C. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 4)",
-          "D. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 4)"
+          "A. Người đứng đầu cơ quan quản lý công chức hoặc cơ quan được phân cấp thẩm quyền tuyển dụng, sử dụng công chức.",
+          "B. Viện trưởng Viện kiểm sát nhân dân cấp tỉnh.",
+          "C. Chủ tịch Hội đồng nhân dân cùng cấp.",
+          "D. Bí thư chi bộ nơi công chức sinh hoạt."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Điều 57 Nghị định 170/2025/NĐ-CP: Người đứng đầu cơ quan quản lý công chức hoặc người đứng đầu cơ quan được phân cấp có thẩm quyền ra quyết định thôi việc."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Theo Nghị định số 170/2025/NĐ-CP, căn cứ tuyển dụng công chức là gì?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Điều 58 Nghị định 170/2025/NĐ-CP, trong thời hạn bao lâu kể từ ngày nhận đơn xin thôi việc của công chức, cơ quan có thẩm quyền phải trả lời?",
         "options": [
-          "A. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 5)",
-          "B. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 5)",
-          "C. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 5)",
-          "D. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao."
+          "A. Trong thời hạn 45 ngày.",
+          "B. Trong thời hạn 15 ngày làm việc.",
+          "C. Trong thời hạn 60 ngày.",
+          "D. Trong thời hạn 30 ngày kể từ ngày nhận đơn, cơ quan phải ra quyết định đồng ý hoặc trả lời bằng văn bản nêu rõ lý do nếu không đồng ý."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn xin thôi việc hợp lệ, cơ quan có thẩm quyền phải ra quyết định hoặc trả lời lý do không đồng ý."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến căn cứ và nguyên tắc tuyển dụng công chức (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Trường hợp nào sau đây cơ quan nhà nước CHƯA HOẶC KHÔNG GIẢI QUYẾT thôi việc cho công chức theo Điều 59 NĐ 170/2025/NĐ-CP?",
         "options": [
-          "A. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 6)",
-          "B. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 6)",
-          "C. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao.",
-          "D. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 6)"
+          "A. Công chức đang trong thời gian nghỉ phép năm theo chế độ.",
+          "B. Công chức có hoàn cảnh gia đình chuyển nơi cư trú sang tỉnh khác.",
+          "C. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính cá nhân; do yêu cầu công tác đột xuất chưa có người thay thế.",
+          "D. Công chức đã đủ tuổi nghỉ hưu theo quy định."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc để bảo đảm kỷ cương công vụ và tài sản nhà nước."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về căn cứ và nguyên tắc tuyển dụng công chức (nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ, văn bản này ban hành quy định về nội dung gì?",
         "options": [
-          "A. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 7)",
-          "B. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 7)",
-          "C. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 7)",
-          "D. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao."
+          "A. Quy định về mức phụ cấp thâm niên nghề thanh tra.",
+          "B. Quy định về quản lý hồ sơ cán bộ điện tử.",
+          "C. Quy định về đào tạo lý luận chính trị cao cấp.",
+          "D. Ban hành Nội quy và Quy chế tuyển dụng, nâng ngạch, xét thăng hạng công chức, viên chức."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Thông tư 001/2025/TT-BNV ngày 17/03/2025 ban hành Nội quy và Quy chế tuyển dụng, nâng ngạch, xét thăng hạng công chức, viên chức áp dụng thống nhất toàn quốc."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với căn cứ và nguyên tắc tuyển dụng công chức (nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, thí sinh mang điện thoại hoặc thiết bị truyền tin vào phòng thi tuyển công chức (kể cả chưa sử dụng) sẽ bị xử lý kỷ luật thế nào?",
         "options": [
-          "A. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 8)",
-          "B. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 8)",
-          "C. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao.",
-          "D. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 8)"
+          "A. Bị trừ 25% điểm số của môn thi đó.",
+          "B. Bị trừ 50% điểm số và cho tiếp tục làm bài.",
+          "C. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó.",
+          "D. Chỉ bị lập biên bản nhắc nhở lần đầu."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại di động vào phòng thi (dù tắt nguồn hay chưa sử dụng) đều bị ĐÌNH CHỈ THI và hủy kết quả."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến căn cứ và nguyên tắc tuyển dụng công chức (nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, hành vi trao đổi bài, quay cóp lần đầu sau khi đã bị giám thị nhắc nhở sẽ bị xử lý mức độ nào?",
         "options": [
-          "A. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 9)",
-          "B. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao.",
-          "C. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 9)",
-          "D. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 9)"
+          "A. Đình chỉ thi ngay lập tức.",
+          "B. Khiển trách và trừ 25% số điểm của môn thi đó.",
+          "C. Cảnh cáo và trừ 50% số điểm.",
+          "D. Không bị trừ điểm nếu tự giác nộp tài liệu."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Quy chế thi TT 001/2025/TT-BNV: Nhắc nhở -> Tái phạm lần 1: Khiển trách và trừ 25% điểm; Tái phạm lần 2: Cảnh cáo và trừ 50% điểm; Tái phạm tiếp: Đình chỉ thi."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về căn cứ và nguyên tắc tuyển dụng công chức (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, đối với bài thi Vòng 1 trắc nghiệm trên máy tính, quy định về phúc khảo điểm thi là:",
         "options": [
-          "A. Căn cứ vào quỹ tài chính thu được từ phí và lệ phí. (không đúng 10)",
-          "B. Căn cứ vào mối quan hệ họ hàng của người dự tuyển. (trái luật 10)",
-          "C. Căn cứ vào nhu cầu sử dụng, vị trí việc làm và chỉ tiêu biên chế được cấp có thẩm quyền giao.",
-          "D. Căn cứ vào số lượng đơn xin việc của công dân trong quý. (sai quy định 10)"
+          "A. Mọi thí sinh đều được yêu cầu máy tính chấm lại tự động.",
+          "B. Chỉ phúc khảo cho các thí sinh đạt từ 28 đến 29 câu đúng.",
+          "C. Không thực hiện phúc khảo đối với kết quả thi trắc nghiệm trên máy vi tính.",
+          "D. Được nộp đơn phúc khảo trong vòng 15 ngày và mất phí 200.000 đồng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Tuyển dụng phải căn cứ trực tiếp vào nhu cầu công việc, vị trí việc làm và chỉ tiêu biên chế được giao."
+        "explanation": "★ Căn cứ: Thông tư 001/2025/TT-BNV: Máy tính chấm tự động và thí sinh biết kết quả ngay khi nộp bài nên KHÔNG THỰC HIỆN PHÚC KHẢO đối với bài thi trắc nghiệm máy vi tính."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo Nghị quyết số 76/NQ-CP và Chỉ thị 23/CT-TTg: Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
         "options": [
           "A. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân.",
-          "B. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 1)",
-          "C. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 1)",
-          "D. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 1)"
+          "B. Đưa toàn bộ cán bộ công chức sang ký hợp đồng thời vụ ngắn hạn dưới 01 năm.",
+          "C. Xóa bỏ hoàn toàn hệ thống cơ quan tư pháp và tòa án các cấp ở địa phương.",
+          "D. Cắt giảm 100% biên chế công chức tại toàn bộ các địa phương trên cả nước."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Nghị quyết số 76/NQ-CP ngày 15/7/2021: Mục tiêu tổng quát là nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, liêm chính, phục vụ nhân dân."
@@ -622,9 +622,9 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Trong Chương trình tổng thể cải cách hành chính nhà nước: Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
         "options": [
-          "A. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 2)",
-          "B. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 2)",
-          "C. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 2)",
+          "A. Tư nhân hóa toàn bộ việc cấp các loại giấy tờ tùy thân và hộ tịch cho công dân.",
+          "B. Chuyển toàn bộ trụ sở làm việc của cơ quan hành chính nhà nước sang thuê mượn.",
+          "C. Chuyển giao toàn bộ hoạt động hành chính công cho các tập đoàn tư nhân quản lý.",
           "D. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân."
         ],
         "ans": 3,
@@ -634,10 +634,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Căn cứ Nghị quyết 76/NQ-CP của Chính phủ về CCHC: Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
         "options": [
-          "A. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 3)",
-          "B. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 3)",
+          "A. Xóa bỏ hoàn toàn hệ thống cơ quan tư pháp và tòa án các cấp ở địa phương.",
+          "B. Bãi bỏ hoàn toàn các thủ tục thẩm định và thanh tra tài chính công của nhà nước.",
           "C. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân.",
-          "D. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 3)"
+          "D. Xóa bỏ chế độ thi tuyển công chức và chỉ thực hiện tuyển dụng theo giới thiệu cá nhân."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Nghị quyết số 76/NQ-CP ngày 15/7/2021: Mục tiêu tổng quát là nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, liêm chính, phục vụ nhân dân."
@@ -646,10 +646,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Mục tiêu, nhiệm vụ của công cuộc cải cách hành chính liên quan đến mục tiêu tổng quát của nghị quyết 76/nq-cp đòi hỏi điều gì?",
         "options": [
-          "A. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 4)",
-          "B. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 4)",
+          "A. Đưa toàn bộ cán bộ công chức sang ký hợp đồng thời vụ ngắn hạn dưới 01 năm.",
+          "B. Cắt giảm 100% biên chế công chức tại toàn bộ các địa phương trên cả nước.",
           "C. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân.",
-          "D. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 4)"
+          "D. Tư nhân hóa toàn bộ việc cấp các loại giấy tờ tùy thân và hộ tịch cho công dân."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Nghị quyết số 76/NQ-CP ngày 15/7/2021: Mục tiêu tổng quát là nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, liêm chính, phục vụ nhân dân."
@@ -658,10 +658,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo Chỉ thị 23/CT-TTg của Thủ tướng Chính phủ về CCHC: Mục tiêu tổng quát của Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 (NQ 76/NQ-CP) là:",
         "options": [
-          "A. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 5)",
-          "B. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 5)",
+          "A. Bãi bỏ hoàn toàn các thủ tục thẩm định và thanh tra tài chính công của nhà nước.",
+          "B. Chuyển toàn bộ trụ sở làm việc của cơ quan hành chính nhà nước sang thuê mượn.",
           "C. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân.",
-          "D. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 5)"
+          "D. Chuyển giao toàn bộ hoạt động hành chính công cho các tập đoàn tư nhân quản lý."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Nghị quyết số 76/NQ-CP ngày 15/7/2021: Mục tiêu tổng quát là nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, liêm chính, phục vụ nhân dân."
@@ -670,10 +670,10 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Theo các văn bản quy định của UBND thành phố Huế: Theo Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND thành phố Huế, tổng số chỉ tiêu tuyển dụng công chức năm 2025 là bao nhiêu?",
         "options": [
-          "A. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 1)",
+          "A. Tổng số 150 chỉ tiêu giáo viên mầm non và tiểu học các trường công lập.",
           "B. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện.",
-          "C. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 1)",
-          "D. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 1)"
+          "C. Tổng số 100 chỉ tiêu thanh tra viên giao thông đường bộ và bến thủy nội địa.",
+          "D. Tổng số 10 chỉ tiêu cán sự văn phòng công tác tại kho lưu trữ thành phố."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND TP Huế: Tuyển dụng 50 công chức hành chính cho các sở ngành năm 2025."
@@ -682,10 +682,10 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Căn cứ Quyết định số 2626/QĐ-UBND của UBND thành phố Huế: Theo Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND thành phố Huế, tổng số chỉ tiêu tuyển dụng công chức năm 2025 là bao nhiêu?",
         "options": [
-          "A. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 2)",
-          "B. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 2)",
+          "A. Tổng số 200 chỉ tiêu nhân viên y tế công tác tại các trung tâm y tế dự phòng.",
+          "B. Tổng số 500 chỉ tiêu công nhân môi trường đô thị trên địa bàn thành phố.",
           "C. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện.",
-          "D. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 2)"
+          "D. Tổng số 20 chỉ tiêu kiểm lâm viên tại các ban quản lý rừng phòng hộ."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND TP Huế: Tuyển dụng 50 công chức hành chính cho các sở ngành năm 2025."
@@ -694,21 +694,21 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Trong công tác cải cách hành chính gắn với đô thị thông minh TP Huế: Theo Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND thành phố Huế, tổng số chỉ tiêu tuyển dụng công chức năm 2025 là bao nhiêu?",
         "options": [
-          "A. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 3)",
+          "A. Tuyển dụng không giới hạn chỉ tiêu số lượng đối với mọi đối tượng nộp đơn.",
           "B. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện.",
-          "C. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 3)",
-          "D. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 3)"
+          "C. Tổng số 30 chỉ tiêu kế toán viên các đơn vị sự nghiệp văn hóa thể thao.",
+          "D. Tổng số 10 chỉ tiêu cán sự văn phòng công tác tại kho lưu trữ thành phố."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND TP Huế: Tuyển dụng 50 công chức hành chính cho các sở ngành năm 2025."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Căn cứ Quyết định số 2243/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Theo Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND thành phố Huế, tổng số chỉ tiêu tuyển dụng công chức năm 2025 là bao nhiêu?",
+        "q": "Căn cứ Quyết định số 1026/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Theo Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND thành phố Huế, tổng số chỉ tiêu tuyển dụng công chức năm 2025 là bao nhiêu?",
         "options": [
-          "A. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 4)",
-          "B. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 4)",
-          "C. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 4)",
+          "A. Tổng số 500 chỉ tiêu công nhân môi trường đô thị trên địa bàn thành phố.",
+          "B. Tổng số 100 chỉ tiêu thanh tra viên giao thông đường bộ và bến thủy nội địa.",
+          "C. Tổng số 150 chỉ tiêu giáo viên mầm non và tiểu học các trường công lập.",
           "D. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện."
         ],
         "ans": 3,
@@ -718,10 +718,10 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Ứng dụng chuyển đổi số và công nghệ thông tin tại thành phố Huế khẳng định vai trò của kế hoạch tuyển dụng công chức tp huế năm 2025 (qđ 2626/qđ-ubnd) như thế nào?",
         "options": [
-          "A. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 5)",
-          "B. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 5)",
+          "A. Tổng số 30 chỉ tiêu kế toán viên các đơn vị sự nghiệp văn hóa thể thao.",
+          "B. Tổng số 200 chỉ tiêu nhân viên y tế công tác tại các trung tâm y tế dự phòng.",
           "C. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện.",
-          "D. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 5)"
+          "D. Tổng số 20 chỉ tiêu kiểm lâm viên tại các ban quản lý rừng phòng hộ."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND TP Huế: Tuyển dụng 50 công chức hành chính cho các sở ngành năm 2025."
@@ -733,423 +733,423 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 02 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhiệm vụ, quyền hạn nào sau đây được coi là nhiệm vụ được phân quyền cho chính quyền địa phương?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Nhiệm vụ, quyền hạn nào sau đây được coi là nhiệm vụ được PHÂN QUYỀN cho chính quyền địa phương?",
         "options": [
-          "A. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 1)",
-          "B. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 1)",
-          "C. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 1)",
+          "A. Nhiệm vụ được giao qua thông báo miệng của thủ trưởng cơ quan cấp trên.",
+          "B. Công việc phát sinh ngoài luật do công chức tự ý thỏa thuận với người dân.",
+          "C. Nhiệm vụ do các doanh nghiệp tư nhân chuyển giao cho cơ quan nhà nước.",
           "D. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về bản chất của phân quyền (điều 12)?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về bản chất của phân quyền (điều 12)?",
         "options": [
           "A. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "B. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 2)",
-          "C. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 2)",
-          "D. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 2)"
+          "B. Nhiệm vụ chỉ được giao tạm thời trong các dịp lễ tết nguyên đán.",
+          "C. Nhiệm vụ được phân công qua tin nhắn điện thoại không có giá trị pháp lý.",
+          "D. Công việc làm thêm tự nguyện ngoài giờ hành chính của công chức chuyên môn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Nhiệm vụ, quyền hạn nào sau đây được coi là nhiệm vụ được PHÂN QUYỀN cho chính quyền địa phương?",
+        "options": [
+          "A. Nhiệm vụ do Tòa án nhân dân ủy quyền cho Ủy ban nhân dân cấp xã.",
+          "B. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
+          "C. Nhiệm vụ do các doanh nghiệp tư nhân chuyển giao cho cơ quan nhà nước.",
+          "D. Các hoạt động phong trào quần chúng không thuộc chức năng quản lý nhà nước."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về bản chất của phân quyền (điều 12), cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
+        "options": [
+          "A. Nhiệm vụ được giao qua thông báo miệng của thủ trưởng cơ quan cấp trên.",
+          "B. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
+          "C. Công việc phát sinh ngoài luật do công chức tự ý thỏa thuận với người dân.",
+          "D. Nhiệm vụ chỉ được giao tạm thời trong các dịp lễ tết nguyên đán."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về bản chất của phân quyền (điều 12) là gì?",
+        "options": [
+          "A. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
+          "B. Công việc làm thêm tự nguyện ngoài giờ hành chính của công chức chuyên môn.",
+          "C. Nhiệm vụ được phân công qua tin nhắn điện thoại không có giá trị pháp lý.",
+          "D. Nhiệm vụ do Tòa án nhân dân ủy quyền cho Ủy ban nhân dân cấp xã."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
         "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Nhiệm vụ, quyền hạn nào sau đây được coi là nhiệm vụ được PHÂN QUYỀN cho chính quyền địa phương?",
         "options": [
-          "A. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 3)",
-          "B. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "C. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 3)",
-          "D. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 3)"
+          "A. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
+          "B. Nhiệm vụ do các doanh nghiệp tư nhân chuyển giao cho cơ quan nhà nước.",
+          "C. Công việc phát sinh ngoài luật do công chức tự ý thỏa thuận với người dân.",
+          "D. Các hoạt động phong trào quần chúng không thuộc chức năng quản lý nhà nước."
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề bản chất của phân quyền (điều 12) theo nguyên tắc nào sau đây?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về bản chất của phân quyền (điều 12) được áp dụng như thế nào?",
         "options": [
-          "A. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 4)",
+          "A. Nhiệm vụ được giao qua thông báo miệng của thủ trưởng cơ quan cấp trên.",
           "B. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "C. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 4)",
-          "D. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 4)"
+          "C. Nhiệm vụ chỉ được giao tạm thời trong các dịp lễ tết nguyên đán.",
+          "D. Nhiệm vụ được phân công qua tin nhắn điện thoại không có giá trị pháp lý."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện bản chất của phân quyền (điều 12) là gì?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến bản chất của phân quyền (điều 12) theo Luật số 72/2025/QH15:",
         "options": [
           "A. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "B. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 5)",
-          "C. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 5)",
-          "D. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 5)"
+          "B. Nhiệm vụ do Tòa án nhân dân ủy quyền cho Ủy ban nhân dân cấp xã.",
+          "C. Công việc làm thêm tự nguyện ngoài giờ hành chính của công chức chuyên môn.",
+          "D. Các hoạt động phong trào quần chúng không thuộc chức năng quản lý nhà nước."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với bản chất của phân quyền (điều 12) như thế nào?",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về bản chất của phân quyền (điều 12)?",
         "options": [
           "A. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "B. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 6)",
-          "C. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 6)",
-          "D. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 6)"
+          "B. Công việc phát sinh ngoài luật do công chức tự ý thỏa thuận với người dân.",
+          "C. Nhiệm vụ được giao qua thông báo miệng của thủ trưởng cơ quan cấp trên.",
+          "D. Nhiệm vụ do các doanh nghiệp tư nhân chuyển giao cho cơ quan nhà nước."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về bản chất của phân quyền (điều 12) được áp dụng ra sao?",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với bản chất của phân quyền (điều 12)?",
         "options": [
-          "A. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 7)",
+          "A. Công việc làm thêm tự nguyện ngoài giờ hành chính của công chức chuyên môn.",
           "B. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "C. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 7)",
-          "D. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 7)"
+          "C. Nhiệm vụ được phân công qua tin nhắn điện thoại không có giá trị pháp lý.",
+          "D. Nhiệm vụ chỉ được giao tạm thời trong các dịp lễ tết nguyên đán."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền cho chính quyền địa phương phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
       },
       {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến bản chất của phân quyền (điều 12)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Cán bộ, công chức có quyền gì về tiền lương theo Điều 12 Luật Cán bộ, công chức?",
         "options": [
-          "A. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "B. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 8)",
-          "C. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 8)",
-          "D. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 8)"
+          "A. Được giữ lại 50% tiền lệ phí cấp giấy phép để chi tiêu nội bộ.",
+          "B. Được Nhà nước bảo đảm tiền lương tương xứng với nhiệm vụ, quyền hạn; được hưởng phụ cấp và các chính sách ưu đãi khi làm việc ở vùng đặc biệt khó khăn.",
+          "C. Được nhận toàn bộ tiền phạt vi phạm hành chính do mình xử phạt.",
+          "D. Được tự quy định bảng lương riêng phù hợp với năng lực cá nhân."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Lương ngân sách bảo đảm, hưởng phụ cấp thâm niên, ưu đãi vùng khó khăn."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Cán bộ, công chức có quyền nghỉ những ngày nào theo quy định tại Điều 13 Luật CBCC?",
+        "options": [
+          "A. Được tự ý nghỉ không lương tối đa 6 tháng không cần sự đồng ý của thủ trưởng.",
+          "B. Được nghỉ hàng năm, nghỉ lễ, nghỉ để giải quyết việc riêng theo quy định của pháp luật về lao động.",
+          "C. Chỉ được nghỉ 1 ngày Tết Nguyên Đán duy nhất.",
+          "D. Được nghỉ bất kỳ ngày nào trong tuần nếu cơ quan không có lịch tiếp công dân."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 13 Luật CBCC: Chế độ nghỉ phép năm, nghỉ lễ tết thực hiện theo Bộ luật Lao động."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Trong giao tiếp ở công sở, cán bộ, công chức phải tuân thủ quy định nào theo Điều 16 Luật CBCC?",
+        "options": [
+          "A. Được hút thuốc lá trong phòng làm việc nếu đồng nghiệp không phản đối.",
+          "B. Phải có thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ giao tiếp phải chuẩn mực, rõ ràng; lắng nghe ý kiến của đồng nghiệp; đeo thẻ công chức.",
+          "C. Được tùy ý sử dụng đại từ xưng hô đời thường trong giao dịch hành chính.",
+          "D. Chỉ cần tôn trọng lãnh đạo, không cần lắng nghe đồng nghiệp cùng cấp."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 16 Luật CBCC: Văn hóa giao tiếp công sở văn minh, lịch sự, chuẩn mực ngôn ngữ, đeo thẻ công chức."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Trong giao tiếp với nhân dân, hành vi nào sau đây của công chức bị nghiêm cấm theo Điều 17 Luật CBCC?",
+        "options": [
+          "A. Giải thích cặn kẽ các bước làm hồ sơ thủ tục hành chính.",
+          "B. Cửa quyền, hách dịch, gây khó khăn, phiền hà cho nhân dân khi thi hành công vụ.",
+          "C. Nhã nhặn, lắng nghe ý kiến phản ánh của công dân.",
+          "D. Hướng dẫn người dân nộp hồ sơ trực tuyến qua Cổng dịch vụ công."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 17 Luật CBCC cấm cửa quyền, hách dịch, phiền hà, vòi vĩnh."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo Điều 18 Luật Cán bộ, công chức, việc nào sau đây công chức KHÔNG ĐƯỢC LÀM liên quan đến đạo đức công vụ?",
+        "options": [
+          "A. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công.",
+          "B. Tham gia sinh hoạt câu lạc bộ thể thao ngoài giờ làm việc.",
+          "C. Tham gia giảng dạy các lớp bồi dưỡng chính trị do cơ quan cử.",
+          "D. Đóng góp ý kiến cho văn kiện Đại hội Đảng bộ các cấp."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Cấm trốn tránh trách nhiệm, gây bè phái, tự ý bỏ việc, tham gia đình công."
       },
       {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về bản chất của phân quyền (điều 12) đòi hỏi điều gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo Điều 19 Luật CBCC, công chức không được làm những việc gì liên quan đến bí mật nhà nước?",
         "options": [
-          "A. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "B. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 9)",
-          "C. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 9)",
-          "D. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 9)"
+          "A. Không được tiết lộ thông tin liên quan đến bí mật nhà nước dưới mọi hình thức; công chức làm việc ở ngành nghề bí mật trong thời hạn nhất định không được làm việc cho tổ chức nước ngoài cùng ngành nghề.",
+          "B. Được bán thông tin quy hoạch đô thị chưa công bố để lấy tiền tài trợ công vụ.",
+          "C. Được chia sẻ tài liệu mật cho người thân trong gia đình nếu cam kết không phát tán.",
+          "D. Được sao chép tài liệu mật mang về nhà nghiên cứu mà không cần phê duyệt."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 19 Luật CBCC: Bảo vệ tuyệt đối bí mật nhà nước và giới hạn làm việc sau khi thôi công vụ đối với ngành nghề bí mật."
       },
       {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về bản chất của phân quyền (điều 12)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo Điều 20 Luật CBCC và Luật Phòng chống tham nhũng, công chức KHÔNG ĐƯỢC thực hiện hành vi nào?",
         "options": [
-          "A. Nhiệm vụ được giao qua tin nhắn thoại của lãnh đạo. (sai quy định 10)",
-          "B. Nhiệm vụ, quyền hạn được quy định cụ thể trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm trong việc thực hiện.",
-          "C. Nhiệm vụ do doanh nghiệp tư nhân chuyển giao. (vi phạm nguyên tắc 10)",
-          "D. Công việc làm thêm tự nguyện ngoài giờ của công chức. (không đúng thẩm quyền 10)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 12 Luật Tổ chức CQĐP: Việc phân quyền phải được quy định trong luật; chính quyền địa phương tự chủ, tự chịu trách nhiệm."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Theo Điều 8 Luật Cán bộ, công chức, nghĩa vụ nào sau đây thể hiện mối quan hệ gắn bó với nhân dân?",
-        "options": [
-          "A. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 1)",
-          "B. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "C. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 1)",
-          "D. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 1)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về nghĩa vụ của cán bộ, công chức đối với đảng, nhà nước và nhân dân (điều 8)?",
-        "options": [
-          "A. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 2)",
-          "B. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "C. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 2)",
-          "D. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 2)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Theo Điều 8 Luật Cán bộ, công chức, nghĩa vụ nào sau đây thể hiện mối quan hệ gắn bó với nhân dân?",
-        "options": [
-          "A. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 3)",
-          "B. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "C. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 3)",
-          "D. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 3)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về nghĩa vụ của cán bộ, công chức đối với đảng, nhà nước và nhân dân (điều 8) như thế nào?",
-        "options": [
-          "A. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 4)",
-          "B. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "C. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 4)",
-          "D. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 4)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về nghĩa vụ của cán bộ, công chức đối với đảng, nhà nước và nhân dân (điều 8) yêu cầu công chức phải tuân thủ nội dung nào?",
-        "options": [
-          "A. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "B. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 5)",
-          "C. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 5)",
-          "D. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 5)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng nghĩa vụ của cán bộ, công chức đối với đảng, nhà nước và nhân dân (điều 8) là gì?",
-        "options": [
-          "A. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "B. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 6)",
-          "C. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 6)",
-          "D. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 6)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về nghĩa vụ của cán bộ, công chức đối với đảng, nhà nước và nhân dân (điều 8) khi nào?",
-        "options": [
-          "A. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 7)",
-          "B. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 7)",
-          "C. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "D. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 7)"
+          "A. Gửi tiền tiết kiệm tại các ngân hàng thương mại cổ phần.",
+          "B. Đứng tên chủ sở hữu tài sản thừa kế hợp pháp từ cha mẹ.",
+          "C. Thành lập, tham gia thành lập hoặc tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
+          "D. Mua bảo hiểm nhân thọ cho bản thân và gia đình."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
+        "explanation": "★ Căn cứ: Điều 20 Luật CBCC: Công chức không được thành lập, quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, công ty CP."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến nghĩa vụ của cán bộ, công chức đối với đảng, nhà nước và nhân dân (điều 8)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Ngạch công chức theo quy định tại khoản 1 Điều 34 Luật Cán bộ, công chức bao gồm các ngạch nào?",
         "options": [
-          "A. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 8)",
-          "B. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "C. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 8)",
-          "D. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 8)"
+          "A. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5.",
+          "B. Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Nhân viên; ngạch khác theo quy định.",
+          "C. Trưởng phòng, Phó Trưởng phòng, Chuyên viên, Nhân viên.",
+          "D. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
+        "explanation": "★ Căn cứ: Điều 34 Luật CBCC sửa đổi 2019: 5 ngạch công chức chuẩn quốc gia."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về nghĩa vụ của cán bộ, công chức đối với đảng, nhà nước và nhân dân (điều 8) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Ngạch Chuyên viên và tương đương yêu cầu trình độ đào tạo tối thiểu là gì?",
         "options": [
-          "A. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 9)",
-          "B. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 9)",
-          "C. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "D. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 9)"
+          "A. Chỉ cần bằng tốt nghiệp trung học phổ thông và có chứng chỉ tin học.",
+          "B. Có bằng tốt nghiệp cao đẳng chuyên nghiệp.",
+          "C. Có bằng tốt nghiệp đại học trở lên với ngành hoặc chuyên ngành đào tạo phù hợp.",
+          "D. Có bằng tốt nghiệp trung cấp chuyên nghiệp."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
+        "explanation": "★ Căn cứ: Tiêu chuẩn ngạch Chuyên viên (Nghị định Chính phủ): Bắt buộc tốt nghiệp đại học trở lên."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về nghĩa vụ của cán bộ, công chức đối với đảng, nhà nước và nhân dân (điều 8)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Ngạch Cán sự và tương đương yêu cầu trình độ đào tạo tối thiểu là gì?",
         "options": [
-          "A. Tự ý tiếp xúc báo chí để cung cấp thông tin chưa kiểm chứng. (sai quy định 10)",
-          "B. Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; tôn trọng và tận tụy phục vụ nhân dân.",
-          "C. Chỉ tiếp công dân khi có đơn thư phản ánh tiêu cực. (không chính xác 10)",
-          "D. Từ chối giải quyết các yêu cầu chính đáng của người dân nghèo. (trái luật 10)"
+          "A. Bắt buộc phải có bằng thạc sĩ.",
+          "B. Có bằng tốt nghiệp cao đẳng trở lên với ngành đào tạo phù hợp.",
+          "C. Có bằng trung cấp nghề sơ cấp.",
+          "D. Không yêu cầu bằng cấp chuyên môn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 8 Luật CBCC: Nghĩa vụ liên hệ chặt chẽ, lắng nghe và chịu sự giám sát của nhân dân."
+        "explanation": "★ Căn cứ: Tiêu chuẩn ngạch Cán sự theo quy định hiện hành: Có bằng tốt nghiệp cao đẳng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Yêu cầu về tính công khai, minh bạch trong khái niệm và bản chất của tham nhũng (điều 3) được quy định ra sao?",
+        "q": "Yêu cầu về tính liêm chính, công khai, minh bạch theo Luật PCTN khẳng định nguyên tắc nào về khái niệm và bản chất tham nhũng (điều 3)?",
         "options": [
           "A. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
-          "B. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 9)",
-          "C. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 9)",
-          "D. Việc khiếu nại quyết định hành chính của người dân. (trái luật 9)"
+          "B. Việc người dân gửi đơn khiếu nại quyết định hành chính của chính quyền lên cấp trên.",
+          "C. Mọi hành vi trộm cắp, lừa đảo tài sản ngoài xã hội không liên quan đến công quyền.",
+          "D. Mọi vi phạm hợp đồng kinh tế giữa các thương nhân ngoài khu vực nhà nước."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Văn bản pháp luật về phòng, chống tham nhũng khẳng định nội dung nào sau đây về khái niệm và bản chất của tham nhũng (điều 3)?",
+        "q": "Văn bản pháp luật về phòng, chống tham nhũng quy định rõ ràng nội dung nào sau đây liên quan đến khái niệm và bản chất tham nhũng (điều 3)?",
         "options": [
-          "A. Mọi sai sót kỹ thuật hành chính trong xử lý hồ sơ một cửa. (không chính xác 10)",
-          "B. Hành vi trộm cắp tài sản ngoài xã hội không liên quan đến công quyền. (sai quy định 10)",
-          "C. Việc khiếu nại quyết định hành chính của người dân. (trái luật 10)",
+          "A. Hành vi vi phạm quy định về trật tự an toàn giao thông đường bộ ngoài giờ hành chính.",
+          "B. Các sai sót kỹ thuật hành chính thuần túy trong quá trình nhập liệu hồ sơ công dân.",
+          "C. Việc cơ quan cấp phép yêu cầu bổ sung giấy tờ còn thiếu trong hồ sơ đất đai.",
           "D. Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật Phòng, chống tham nhũng 2018: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
+        "explanation": "★ Căn cứ: Khoản 1 Điều 3 Luật PCTN: Tham nhũng là hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH): Ai trong số các đối tượng sau đây thuộc diện 'Người có chức vụ, quyền hạn' theo Luật PCTN?",
+        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (VBHN số 65/VBHN-VPQH): Đối tượng nào sau đây thuộc diện 'Người có chức vụ, quyền hạn' theo Luật PCTN?",
         "options": [
           "A. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "B. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 1)",
-          "C. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 1)",
-          "D. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 1)"
+          "B. Người lao động tự do kinh doanh buôn bán nhỏ lẻ tại các chợ dân sinh.",
+          "C. Chủ hộ kinh doanh gia đình kinh doanh dịch vụ ăn uống nhỏ lẻ.",
+          "D. Công nhân làm việc tại phân xưởng sản xuất của công ty may 100% vốn nước ngoài."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước, nhận định nào sau đây là ĐÚNG về người có chức vụ, quyền hạn (điều 2)?",
+        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước theo Luật PCTN: Đối tượng nào sau đây thuộc diện 'Người có chức vụ, quyền hạn' theo Luật PCTN?",
         "options": [
           "A. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "B. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 2)",
-          "C. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 2)",
-          "D. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 2)"
+          "B. Học sinh, sinh viên các trường đại học tham gia hoạt động tình nguyện tại địa phương.",
+          "C. Khách du lịch quốc tế đến tham quan di tích lịch sử Cố đô Huế.",
+          "D. Bảo vệ do công ty dịch vụ bảo vệ tư nhân cử đến trông coi công trường xây dựng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng (VBHN số 65/VBHN-VPQH): Ai trong số các đối tượng sau đây thuộc diện 'Người có chức vụ, quyền hạn' theo Luật PCTN?",
+        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng: Đối tượng nào sau đây thuộc diện 'Người có chức vụ, quyền hạn' theo Luật PCTN?",
         "options": [
           "A. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "B. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 3)",
-          "C. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 3)",
-          "D. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 3)"
+          "B. Người nghỉ hưu không tham gia bất kỳ tổ chức đoàn thể chính trị nào.",
+          "C. Công nhân làm việc tại phân xưởng sản xuất của công ty may 100% vốn nước ngoài.",
+          "D. Người hành nghề lái xe taxi tư nhân chở khách trên địa bàn thành phố."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Tình huống công vụ: Công chức xử lý đúng quy định về người có chức vụ, quyền hạn (điều 2) như thế nào?",
+        "q": "Quy định pháp lý hiện hành về phòng, chống tham nhũng xác định nội dung nào sau đây về người có chức vụ, quyền hạn (điều 2)?",
         "options": [
-          "A. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 4)",
-          "B. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 4)",
+          "A. Người lao động tự do kinh doanh buôn bán nhỏ lẻ tại các chợ dân sinh.",
+          "B. Khách du lịch quốc tế đến tham quan di tích lịch sử Cố đô Huế.",
           "C. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "D. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 4)"
+          "D. Chủ hộ kinh doanh gia đình kinh doanh dịch vụ ăn uống nhỏ lẻ."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Quy định pháp lý về người có chức vụ, quyền hạn (điều 2) yêu cầu người có chức vụ, quyền hạn phải tuân thủ điều gì?",
+        "q": "Tình huống công vụ: Người có chức vụ, quyền hạn phải xử lý đúng quy định pháp luật về người có chức vụ, quyền hạn (điều 2) như thế nào?",
         "options": [
-          "A. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 5)",
+          "A. Người hành nghề lái xe taxi tư nhân chở khách trên địa bàn thành phố.",
           "B. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "C. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 5)",
-          "D. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 5)"
+          "C. Bảo vệ do công ty dịch vụ bảo vệ tư nhân cử đến trông coi công trường xây dựng.",
+          "D. Học sinh, sinh viên các trường đại học tham gia hoạt động tình nguyện tại địa phương."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi nào sau đây vi phạm quy định về người có chức vụ, quyền hạn (điều 2)?",
+        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi hoặc nhận định nào sau đây là ĐÚNG về người có chức vụ, quyền hạn (điều 2)?",
         "options": [
-          "A. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 6)",
-          "B. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 6)",
+          "A. Chủ hộ kinh doanh gia đình kinh doanh dịch vụ ăn uống nhỏ lẻ.",
+          "B. Người nghỉ hưu không tham gia bất kỳ tổ chức đoàn thể chính trị nào.",
           "C. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "D. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 6)"
+          "D. Công nhân làm việc tại phân xưởng sản xuất của công ty may 100% vốn nước ngoài."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Cơ quan soạn thảo văn bản của thành phố Huế phải tuân thủ quy định nào về khái niệm và hình thức vbqppl của chính quyền địa phương (điều 4)?",
+        "q": "Tình huống xây dựng văn bản: Cơ quan soạn thảo phải tuân thủ đúng nguyên tắc nào về khái niệm vbqppl và hình thức văn bản của cqđp (điều 4)?",
         "options": [
-          "A. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 7)",
+          "A. Hội đồng nhân dân ban hành Nghị định; Ủy ban nhân dân ban hành Chỉ thị cá biệt.",
           "B. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
-          "C. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 7)",
-          "D. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 7)"
+          "C. Hội đồng nhân dân ban hành Chỉ thị; Ủy ban nhân dân ban hành Thông tư.",
+          "D. Hội đồng nhân dân ban hành Thông tư liên tịch; Ủy ban nhân dân ban hành Lệnh."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Xác định nguyên tắc chuẩn xác của pháp luật liên quan đến khái niệm và hình thức vbqppl của chính quyền địa phương (điều 4):",
+        "q": "Xác định quy định pháp lý bắt buộc đối với khái niệm vbqppl và hình thức văn bản của cqđp (điều 4) theo Luật Ban hành VBQPPL hiện hành:",
         "options": [
-          "A. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 8)",
-          "B. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 8)",
-          "C. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 8)",
+          "A. Hội đồng nhân dân ban hành Điều lệ; Ủy ban nhân dân ban hành Quy chế nội bộ.",
+          "B. Hội đồng nhân dân ban hành Quyết định; Ủy ban nhân dân ban hành Nghị quyết.",
+          "C. Không được ban hành bất kỳ văn bản quy phạm pháp luật nào ở cấp địa phương.",
           "D. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP đối với khái niệm và hình thức vbqppl của chính quyền địa phương (điều 4)?",
+        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP liên quan đến khái niệm vbqppl và hình thức văn bản của cqđp (điều 4)?",
         "options": [
           "A. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
-          "B. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 9)",
-          "C. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 9)",
-          "D. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 9)"
+          "B. Cả Hội đồng nhân dân và Ủy ban nhân dân đều chỉ ban hành Công văn hành chính.",
+          "C. Cả hai cơ quan đều ban hành Pháp lệnh theo ủy quyền của Quốc hội.",
+          "D. Hội đồng nhân dân ban hành Chỉ thị; Ủy ban nhân dân ban hành Thông tư."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định nội dung nào về khái niệm và hình thức vbqppl của chính quyền địa phương (điều 4)?",
+        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định cụ thể nội dung nào đối với khái niệm vbqppl và hình thức văn bản của cqđp (điều 4)?",
         "options": [
-          "A. HĐND ban hành Quyết định; UBND ban hành Nghị quyết. (không đúng 10)",
+          "A. Hội đồng nhân dân ban hành Thông tư liên tịch; Ủy ban nhân dân ban hành Lệnh.",
           "B. Hội đồng nhân dân ban hành Nghị quyết; Ủy ban nhân dân ban hành Quyết định.",
-          "C. HĐND ban hành Chỉ thị; UBND ban hành Thông tư. (sai quy định 10)",
-          "D. Cả HĐND và UBND đều chỉ ban hành Công văn hành chính. (trái luật 10)"
+          "C. Hội đồng nhân dân ban hành Quyết định; Ủy ban nhân dân ban hành Nghị quyết.",
+          "D. Hội đồng nhân dân ban hành Nghị định; Ủy ban nhân dân ban hành Chỉ thị cá biệt."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định. Không có Chỉ thị là VBQPPL."
+        "explanation": "★ Căn cứ: Điều 4 Luật Ban hành VBQPPL: HĐND cấp tỉnh ban hành Nghị quyết; UBND cấp tỉnh ban hành Quyết định."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15): Nguyên tắc nào sau đây là nguyên tắc bắt buộc trong xây dựng, ban hành văn bản quy phạm pháp luật?",
+        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15: Nguyên tắc nào sau đây là nguyên tắc bắt buộc trong xây dựng, ban hành văn bản quy phạm pháp luật?",
         "options": [
           "A. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "B. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 1)",
-          "C. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 1)",
-          "D. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 1)"
+          "B. Bãi bỏ toàn bộ quy trình đánh giá tác động kinh tế - xã hội của chính sách.",
+          "C. Ban hành theo ý muốn chủ quan của thủ trưởng cơ quan trực tiếp soạn thảo văn bản.",
+          "D. Ưu tiên ban hành văn bản nhanh chóng, bỏ qua khâu thẩm định của cơ quan tư pháp."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Nhận định nào sau đây là ĐÚNG quy định về nguyên tắc xây dựng, ban hành vbqppl (điều 5)?",
+        "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Nguyên tắc nào sau đây là nguyên tắc bắt buộc trong xây dựng, ban hành văn bản quy phạm pháp luật?",
         "options": [
           "A. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "B. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 2)",
-          "C. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 2)",
-          "D. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 2)"
+          "B. Chỉ ban hành văn bản khi có sự đồng thuận 100% của toàn bộ các hộ gia đình.",
+          "C. Bảo đảm tính bí mật tuyệt đối, không lấy ý kiến nhân dân và đối tượng chịu tác động.",
+          "D. Ưu tiên bảo vệ tối đa lợi ích cục bộ của ngành mình hơn lợi ích chung của xã hội."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Đối với thành phố Huế trực thuộc Trung ương, quy định của Nghị định 150/2025/NĐ-CP về phạm vi và đối tượng điều chỉnh của nghị định 150/2025/nđ-cp được triển khai như thế nào?",
         "options": [
-          "A. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 7)",
-          "B. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 7)",
-          "C. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 7)",
+          "A. Quy định về chế độ bảo hiểm y tế toàn dân và chính sách khám chữa bệnh viện phí.",
+          "B. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân trên toàn quốc.",
+          "C. Quy định về tiêu chuẩn kỹ thuật thiết kế các công trình thủy điện và năng lượng tái tạo.",
           "D. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương."
         ],
         "ans": 3,
@@ -1159,9 +1159,9 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Xác định nguyên tắc chuẩn xác của Nghị định 150/2025/NĐ-CP về phạm vi và đối tượng điều chỉnh của nghị định 150/2025/nđ-cp:",
         "options": [
-          "A. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 8)",
-          "B. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 8)",
-          "C. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 8)",
+          "A. Quy định về điều phối nguồn vốn đầu tư công trung hạn của các tập đoàn kinh tế nhà nước.",
+          "B. Quy định về điều kiện thành lập và giải thể các trường đại học quốc tế tại Việt Nam.",
+          "C. Quy định về quản lý ngân sách quốc phòng và hoạt động của các quân khu quân sự.",
           "D. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương."
         ],
         "ans": 3,
@@ -1171,9 +1171,9 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Trách nhiệm, thẩm quyền của cơ quan hành chính theo Nghị định 150/2025/NĐ-CP đối với phạm vi và đối tượng điều chỉnh của nghị định 150/2025/nđ-cp là:",
         "options": [
-          "A. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 9)",
-          "B. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 9)",
-          "C. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 9)",
+          "A. Quy định về thủ tục cấp giấy phép xuất nhập khẩu vũ khí và vật liệu nổ công nghiệp.",
+          "B. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân trên toàn quốc.",
+          "C. Quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông đường bộ.",
           "D. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương."
         ],
         "ans": 3,
@@ -1184,9 +1184,9 @@ window.EXAMS_DATA = [
         "q": "Văn bản pháp luật Nghị định 150/2025/NĐ-CP quy định cụ thể nội dung nào về phạm vi và đối tượng điều chỉnh của nghị định 150/2025/nđ-cp?",
         "options": [
           "A. Quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương.",
-          "B. Quy định về mức lương tối thiểu vùng cho các doanh nghiệp tư nhân. (sai quy định 10)",
-          "C. Quy định về xử phạt vi phạm an toàn giao thông đường bộ. (trái luật 10)",
-          "D. Quy định về quản lý ngân sách quân sự địa phương. (không đúng 10)"
+          "B. Quy định về quản lý ngân sách quốc phòng và hoạt động của các quân khu quân sự.",
+          "C. Quy định về tiêu chuẩn kỹ thuật thiết kế các công trình thủy điện và năng lượng tái tạo.",
+          "D. Quy định về chế độ bảo hiểm y tế toàn dân và chính sách khám chữa bệnh viện phí."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP ngày 12/06/2025 quy định cơ cấu tổ chức, chức năng, nhiệm vụ cơ quan chuyên môn thuộc UBND cấp tỉnh và cấp xã, phường."
@@ -1195,153 +1195,153 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP): Cơ quan chuyên môn thuộc UBND tỉnh, thành phố trực thuộc trung ương (các Sở) có vị trí, chức năng là gì?",
         "options": [
-          "A. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 1)",
+          "A. Là cơ quan quyền lực nhà nước cao nhất tại địa phương có quyền ban hành luật.",
           "B. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
-          "C. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 1)",
-          "D. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 1)"
+          "C. Là đơn vị kinh doanh dịch vụ công nhằm mục đích tối đa hóa lợi nhuận tài chính.",
+          "D. Là cơ quan thanh tra độc lập chịu sự chỉ đạo duy nhất của Thanh tra Chính phủ."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Nhận định nào sau đây là ĐÚNG quy định tại Nghị định 150/2025/NĐ-CP về vị trí, chức năng của cơ quan chuyên môn thuộc ubnd cấp tỉnh (sở ngành)?",
         "options": [
-          "A. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 2)",
+          "A. Là cơ quan độc lập thực hiện quyền xét xử các vụ án hành chính và hình sự.",
           "B. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
-          "C. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 2)",
-          "D. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 2)"
+          "C. Là cơ quan đại diện theo ủy quyền của các tổ chức quốc tế phi chính phủ.",
+          "D. Là đơn vị hành chính lâm thời chỉ được thành lập khi có dịch bệnh, thiên tai."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Theo Nghị định 170/2025/NĐ-CP, bài thi trắc nghiệm môn Kiến thức chung ở Vòng 1 gồm bao nhiêu câu hỏi và thời gian làm bài là bao nhiêu?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, thời hạn nộp đơn phúc khảo đối với bài thi VIẾT ở Vòng 2 là bao nhiêu ngày?",
         "options": [
-          "A. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 1)",
-          "B. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "C. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 1)",
-          "D. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 1)"
+          "A. Trong thời hạn 60 ngày.",
+          "B. Trong thời hạn 15 ngày kể từ ngày thông báo công khai kết quả điểm thi trên cổng thông tin điện tử.",
+          "C. Trong thời hạn 30 ngày kể từ ngày thi.",
+          "D. Trong thời hạn 07 ngày làm việc."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: Quy chế thi TT 001/2025/TT-BNV: Thời hạn nhận đơn phúc khảo bài thi viết Vòng 2 là 15 ngày kể từ ngày công bố điểm."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về cấu trúc thi trắc nghiệm môn kiến thức chung vòng 1 (nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo quy chế tuyển dụng, người có hành vi nhờ người khác thi hộ hoặc thi hộ cho thí sinh khác sẽ bị xử lý như thế nào?",
         "options": [
-          "A. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 2)",
-          "B. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 2)",
-          "C. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 2)",
-          "D. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2."
+          "A. Chỉ bị phạt tiền 500.000 đồng tại chỗ.",
+          "B. Được tiếp tục thi môn tiếp theo nếu có người bảo lãnh.",
+          "C. Bị cấm thi trong thời hạn 01 tháng.",
+          "D. Bị hủy kết quả thi và thông báo bằng văn bản về cơ quan, đơn vị nơi người đó công tác để xem xét xử lý kỷ luật hoặc đề nghị xử lý hình sự."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: Thông tư 001/2025/TT-BNV: Hành vi thi hộ hoặc nhờ thi hộ bị hủy kết quả, thông báo về cơ quan công tác xử lý nghiêm khắc, cấm thi nhiều năm."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Theo Nghị định 170/2025/NĐ-CP, bài thi trắc nghiệm môn Kiến thức chung ở Vòng 1 gồm bao nhiêu câu hỏi và thời gian làm bài là bao nhiêu?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, đối tượng Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động, Thương binh được cộng bao nhiêu điểm ưu tiên tại Vòng 2?",
         "options": [
-          "A. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 3)",
-          "B. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 3)",
-          "C. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "D. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 3)"
+          "A. Cộng 10,0 điểm trực tiếp vào tổng điểm trúng tuyển.",
+          "B. Được tuyển thẳng không cần thi tuyển.",
+          "C. Cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2.",
+          "D. Cộng 5,0 điểm vào kết quả Vòng 1."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Đối tượng 1 (Anh hùng LLVT, Anh hùng Lao động, Thương binh) được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Theo Nghị định 170/2025/NĐ-CP, bài thi trắc nghiệm môn Kiến thức chung ở Vòng 1 gồm bao nhiêu câu hỏi và thời gian làm bài là bao nhiêu?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thí sinh là người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an được cộng bao nhiêu điểm ưu tiên theo Nghị định 170/2025/NĐ-CP?",
         "options": [
-          "A. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "B. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 4)",
-          "C. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 4)",
-          "D. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 4)"
+          "A. Cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
+          "B. Cộng 2,5 điểm vào kết quả Vòng 2.",
+          "C. Cộng 7,5 điểm vào kết quả Vòng 2.",
+          "D. Cộng 3,0 điểm vào kết quả Vòng 1."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, sĩ quan quân đội, công an...) được cộng 5,0 điểm vào kết quả Vòng 2."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Theo Nghị định 170/2025/NĐ-CP, bài thi trắc nghiệm môn Kiến thức chung ở Vòng 1 gồm bao nhiêu câu hỏi và thời gian làm bài là bao nhiêu?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Trường hợp người dự tuyển công chức thuộc nhiều diện ưu tiên thì được tính điểm ưu tiên như thế nào theo Nghị định 170/2025/NĐ-CP?",
         "options": [
-          "A. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 5)",
-          "B. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "C. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 5)",
-          "D. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 5)"
+          "A. Được chia đều điểm ưu tiên cho cả Vòng 1 và Vòng 2.",
+          "B. Chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm thi tại Vòng 2.",
+          "C. Lấy điểm trung bình cộng của các mức ưu tiên.",
+          "D. Được cộng dồn tất cả các điểm ưu tiên của các diện."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Nguyên tắc bất biến: Thuộc nhiều diện ưu tiên thì CHỈ ĐƯỢC CỘNG ĐIỂM ƯU TIÊN CAO NHẤT vào kết quả điểm thi Vòng 2."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến cấu trúc thi trắc nghiệm môn kiến thức chung vòng 1 (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Nội dung thi trắc nghiệm môn Kiến thức chung Vòng 1 theo Nghị định 170/2025/NĐ-CP gồm bao nhiêu câu hỏi và thời gian làm bài là bao nhiêu?",
         "options": [
-          "A. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 6)",
-          "B. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "C. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 6)",
-          "D. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 6)"
+          "A. Gồm 100 câu hỏi, thời gian 60 phút.",
+          "B. Gồm 60 câu hỏi, thời gian làm bài 60 phút, trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
+          "C. Gồm 50 câu hỏi, thời gian 50 phút.",
+          "D. Gồm 60 câu hỏi, thời gian 90 phút."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 có đúng 60 câu trong 60 phút, đạt từ 50% số câu đúng (>= 30 câu) mới đủ điều kiện vào Vòng 2."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về cấu trúc thi trắc nghiệm môn kiến thức chung vòng 1 (nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Trường hợp nào người dự thi tuyển công chức được MIỄN thi môn Ngoại ngữ ở Vòng 1?",
         "options": [
-          "A. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "B. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 7)",
-          "C. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 7)",
-          "D. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 7)"
+          "A. Có bằng tốt nghiệp đại học trở lên chuyên ngành ngoại ngữ; hoặc có bằng đại học, sau đại học ở nước ngoài học bằng tiếng nước ngoài; hoặc có chứng chỉ tiếng dân tộc thiểu số khi dự tuyển vào vùng dân tộc.",
+          "B. Tất cả công chức đăng ký ngạch cán sự.",
+          "C. Đã từng đi du lịch nước ngoài trên 3 tháng.",
+          "D. Có điểm tổng kết môn Tiếng Anh cấp 3 đạt loại Giỏi."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP quy định rõ các trường hợp miễn thi ngoại ngữ theo chuẩn văn bằng quốc tế hoặc chuyên ngành."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với cấu trúc thi trắc nghiệm môn kiến thức chung vòng 1 (nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức THI VIẾT theo Nghị định 170/2025/NĐ-CP là bao lâu?",
         "options": [
-          "A. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "B. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 8)",
-          "C. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 8)",
-          "D. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 8)"
+          "A. Thời gian thi viết là 180 phút (không kể thời gian phát đề).",
+          "B. Thời gian thi viết là 90 phút.",
+          "C. Thời gian thi viết là 240 phút.",
+          "D. Thời gian thi viết là 120 phút."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thi viết chuyên ngành Vòng 2 có thời gian làm bài là 180 phút, chấm theo thang điểm 100."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến cấu trúc thi trắc nghiệm môn kiến thức chung vòng 1 (nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian thi môn nghiệp vụ chuyên ngành Vòng 2 theo hình thức PHỎNG VẤN theo Nghị định 170/2025/NĐ-CP được quy định là:",
         "options": [
-          "A. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 9)",
-          "B. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "C. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 9)",
-          "D. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 9)"
+          "A. Thời gian phỏng vấn là 15 phút không có thời gian chuẩn bị.",
+          "B. Thời gian phỏng vấn là 30 phút (thí sinh có không quá 15 phút chuẩn bị trước khi trả lời).",
+          "C. Thời gian phỏng vấn là 45 phút.",
+          "D. Thời gian phỏng vấn tối đa 60 phút."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Phỏng vấn 30 phút, thí sinh có tối đa 15 phút chuẩn bị đề cương trả lời (không tính vào thời gian thi)."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về cấu trúc thi trắc nghiệm môn kiến thức chung vòng 1 (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Để được xác định là trúng tuyển công chức, thí sinh phải đáp ứng đủ các điều kiện nào sau đây?",
         "options": [
-          "A. Gồm 60 câu hỏi, thời gian 90 phút. (không đúng 10)",
-          "B. Gồm 60 câu hỏi, thời gian làm bài 60 phút, thí sinh trả lời đúng từ 30 câu trở lên thì được thi tiếp Vòng 2.",
-          "C. Gồm 100 câu hỏi, thời gian 60 phút. (trái luật 10)",
-          "D. Gồm 50 câu hỏi, thời gian làm bài 50 phút. (sai quy định 10)"
+          "A. Đạt điểm tuyệt đối 100 điểm ở Vòng 1.",
+          "B. Có kết quả điểm thi tại Vòng 2 đạt từ 50 điểm trở lên; có số điểm Vòng 2 cộng điểm ưu tiên cao hơn lấy theo thứ tự từ cao xuống thấp trong chỉ tiêu.",
+          "C. Có thư giới thiệu của lãnh đạo cơ quan tuyển dụng.",
+          "D. Chỉ cần thi đủ 2 vòng không bị điểm 0."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Môn Kiến thức chung Vòng 1 đúng 60 câu trong 60 phút, đạt từ 30 câu (50%) trở lên là qua vòng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Điều kiện trúng tuyển: Vòng 2 đạt >= 50 điểm và lấy theo điểm tổng (điểm Vòng 2 + điểm ưu tiên) từ cao xuống thấp đến hết chỉ tiêu."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Nhận định nào sau đây là ĐÚNG về mục tiêu tổng quát của nghị quyết 76/nq-cp theo Nghị quyết 76/NQ-CP?",
         "options": [
-          "A. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 6)",
-          "B. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 6)",
-          "C. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 6)",
+          "A. Xóa bỏ hoàn toàn hệ thống cơ quan tư pháp và tòa án các cấp ở địa phương.",
+          "B. Xóa bỏ chế độ thi tuyển công chức và chỉ thực hiện tuyển dụng theo giới thiệu cá nhân.",
+          "C. Đưa toàn bộ cán bộ công chức sang ký hợp đồng thời vụ ngắn hạn dưới 01 năm.",
           "D. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân."
         ],
         "ans": 3,
@@ -1352,9 +1352,9 @@ window.EXAMS_DATA = [
         "q": "Yêu cầu về xây dựng nền hành chính phục vụ nhân dân gắn liền với mục tiêu tổng quát của nghị quyết 76/nq-cp như thế nào?",
         "options": [
           "A. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân.",
-          "B. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 7)",
-          "C. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 7)",
-          "D. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 7)"
+          "B. Tư nhân hóa toàn bộ việc cấp các loại giấy tờ tùy thân và hộ tịch cho công dân.",
+          "C. Cắt giảm 100% biên chế công chức tại toàn bộ các địa phương trên cả nước.",
+          "D. Chuyển toàn bộ trụ sở làm việc của cơ quan hành chính nhà nước sang thuê mượn."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Nghị quyết số 76/NQ-CP ngày 15/7/2021: Mục tiêu tổng quát là nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, liêm chính, phục vụ nhân dân."
@@ -1364,9 +1364,9 @@ window.EXAMS_DATA = [
         "q": "Thước đo đánh giá hiệu quả của nền hành chính nhà nước trong mục tiêu tổng quát của nghị quyết 76/nq-cp là:",
         "options": [
           "A. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân.",
-          "B. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 8)",
-          "C. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 8)",
-          "D. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 8)"
+          "B. Xóa bỏ chế độ thi tuyển công chức và chỉ thực hiện tuyển dụng theo giới thiệu cá nhân.",
+          "C. Bãi bỏ hoàn toàn các thủ tục thẩm định và thanh tra tài chính công của nhà nước.",
+          "D. Chuyển giao toàn bộ hoạt động hành chính công cho các tập đoàn tư nhân quản lý."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Nghị quyết số 76/NQ-CP ngày 15/7/2021: Mục tiêu tổng quát là nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, liêm chính, phục vụ nhân dân."
@@ -1375,9 +1375,9 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo chủ trương CCHC của Chính phủ, nội dung cốt lõi của mục tiêu tổng quát của nghị quyết 76/nq-cp được xác định là:",
         "options": [
-          "A. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 9)",
-          "B. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 9)",
-          "C. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 9)",
+          "A. Xóa bỏ hoàn toàn hệ thống cơ quan tư pháp và tòa án các cấp ở địa phương.",
+          "B. Đưa toàn bộ cán bộ công chức sang ký hợp đồng thời vụ ngắn hạn dưới 01 năm.",
+          "C. Cắt giảm 100% biên chế công chức tại toàn bộ các địa phương trên cả nước.",
           "D. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân."
         ],
         "ans": 3,
@@ -1387,9 +1387,9 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Văn bản pháp luật về CCHC khẳng định nguyên tắc nào sau đây đối với mục tiêu tổng quát của nghị quyết 76/nq-cp?",
         "options": [
-          "A. Xóa bỏ các cơ quan tư pháp ở cấp tỉnh. (trái luật 10)",
-          "B. Chuyển giao toàn bộ hoạt động hành chính cho các tập đoàn tư nhân. (không chính xác 10)",
-          "C. Cắt giảm 100% biên chế công chức tại địa phương. (sai quy định 10)",
+          "A. Chuyển toàn bộ trụ sở làm việc của cơ quan hành chính nhà nước sang thuê mượn.",
+          "B. Tư nhân hóa toàn bộ việc cấp các loại giấy tờ tùy thân và hộ tịch cho công dân.",
+          "C. Chuyển giao toàn bộ hoạt động hành chính công cho các tập đoàn tư nhân quản lý.",
           "D. Xây dựng nền hành chính dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, có năng lực kiến tạo phát triển, liêm chính, phục vụ nhân dân."
         ],
         "ans": 3,
@@ -1399,10 +1399,10 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Nhận định nào sau đây là ĐÚNG về nhiệm vụ kế hoạch tuyển dụng công chức tp huế năm 2025 (qđ 2626/qđ-ubnd) tại TP Huế?",
         "options": [
-          "A. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 6)",
-          "B. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 6)",
+          "A. Tuyển dụng không giới hạn chỉ tiêu số lượng đối với mọi đối tượng nộp đơn.",
+          "B. Tổng số 100 chỉ tiêu thanh tra viên giao thông đường bộ và bến thủy nội địa.",
           "C. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện.",
-          "D. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 6)"
+          "D. Tổng số 10 chỉ tiêu cán sự văn phòng công tác tại kho lưu trữ thành phố."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND TP Huế: Tuyển dụng 50 công chức hành chính cho các sở ngành năm 2025."
@@ -1412,9 +1412,9 @@ window.EXAMS_DATA = [
         "q": "Mô hình chính quyền số thành phố Huế gắn liền với kế hoạch tuyển dụng công chức tp huế năm 2025 (qđ 2626/qđ-ubnd) ở điểm cốt lõi nào?",
         "options": [
           "A. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện.",
-          "B. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 7)",
-          "C. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 7)",
-          "D. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 7)"
+          "B. Tổng số 500 chỉ tiêu công nhân môi trường đô thị trên địa bàn thành phố.",
+          "C. Tổng số 20 chỉ tiêu kiểm lâm viên tại các ban quản lý rừng phòng hộ.",
+          "D. Tổng số 150 chỉ tiêu giáo viên mầm non và tiểu học các trường công lập."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND TP Huế: Tuyển dụng 50 công chức hành chính cho các sở ngành năm 2025."
@@ -1424,20 +1424,20 @@ window.EXAMS_DATA = [
         "q": "Thí sinh tham dự kỳ thi công chức TP Huế năm 2025 cần nắm vững quy định nào về kế hoạch tuyển dụng công chức tp huế năm 2025 (qđ 2626/qđ-ubnd)?",
         "options": [
           "A. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện.",
-          "B. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 8)",
-          "C. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 8)",
-          "D. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 8)"
+          "B. Tổng số 200 chỉ tiêu nhân viên y tế công tác tại các trung tâm y tế dự phòng.",
+          "C. Tuyển dụng không giới hạn chỉ tiêu số lượng đối với mọi đối tượng nộp đơn.",
+          "D. Tổng số 30 chỉ tiêu kế toán viên các đơn vị sự nghiệp văn hóa thể thao."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND TP Huế: Tuyển dụng 50 công chức hành chính cho các sở ngành năm 2025."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua kế hoạch tuyển dụng công chức tp huế năm 2025 (qđ 2626/qđ-ubnd) ra sao?",
+        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua Kế hoạch tuyển dụng công chức TP Huế năm 2025 (QĐ 2626/QĐ-UBND) ra sao?",
         "options": [
-          "A. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 9)",
-          "B. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 9)",
-          "C. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 9)",
+          "A. Tổng số 10 chỉ tiêu cán sự văn phòng công tác tại kho lưu trữ thành phố.",
+          "B. Tổng số 150 chỉ tiêu giáo viên mầm non và tiểu học các trường công lập.",
+          "C. Tổng số 100 chỉ tiêu thanh tra viên giao thông đường bộ và bến thủy nội địa.",
           "D. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện."
         ],
         "ans": 3,
@@ -1447,10 +1447,10 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Văn bản chỉ đạo điều hành của UBND TP Huế xác định nội dung cụ thể nào về kế hoạch tuyển dụng công chức tp huế năm 2025 (qđ 2626/qđ-ubnd)?",
         "options": [
-          "A. Tổng số 10 chỉ tiêu cán sự văn phòng. (trái luật 10)",
+          "A. Tổng số 20 chỉ tiêu kiểm lâm viên tại các ban quản lý rừng phòng hộ.",
           "B. Tổng số 50 chỉ tiêu công chức làm việc tại các sở, ban, ngành và UBND quận/huyện.",
-          "C. Tổng số 200 chỉ tiêu nhân viên y tế. (không chính xác 10)",
-          "D. Tổng số 150 chỉ tiêu giáo viên mầm non. (sai quy định 10)"
+          "C. Tổng số 500 chỉ tiêu công nhân môi trường đô thị trên địa bàn thành phố.",
+          "D. Tổng số 200 chỉ tiêu nhân viên y tế công tác tại các trung tâm y tế dự phòng."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND TP Huế: Tuyển dụng 50 công chức hành chính cho các sở ngành năm 2025."
@@ -1462,616 +1462,616 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 03 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, cơ quan nhà nước cấp trên khi phân cấp nhiệm vụ cho chính quyền địa phương cấp dưới phải bảo đảm điều kiện gì?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Cơ quan nhà nước cấp trên khi PHÂN CẤP nhiệm vụ cho chính quyền địa phương cấp dưới phải bảo đảm điều kiện gì?",
         "options": [
-          "A. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 1)",
+          "A. Yêu cầu cấp dưới phải trích nộp lại 50% tiền thu phí cho cơ quan cấp trên.",
           "B. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp.",
-          "C. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 1)",
-          "D. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 1)"
+          "C. Bắt buộc cấp dưới phải hoàn thành trong thời hạn 24 giờ kể từ khi nhận quyết định.",
+          "D. Chỉ giao việc mà không cần phân bổ ngân sách hay chỉ tiêu biên chế."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về bản chất của phân cấp (điều 13)?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về bản chất của phân cấp (điều 13)?",
         "options": [
-          "A. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 2)",
-          "B. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 2)",
-          "C. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 2)",
+          "A. Chỉ phân cấp cho các địa phương tự cân đối được 100% nguồn thu ngân sách.",
+          "B. Yêu cầu chính quyền cấp dưới phải tự vay nợ nước ngoài để có kinh phí thực hiện.",
+          "C. Không cần kiểm tra, thanh tra quá trình cấp dưới thực hiện nhiệm vụ được phân cấp.",
           "D. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Cơ quan nhà nước cấp trên khi phân cấp nhiệm vụ cho chính quyền địa phương cấp dưới phải bảo đảm điều kiện gì?",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Cơ quan nhà nước cấp trên khi PHÂN CẤP nhiệm vụ cho chính quyền địa phương cấp dưới phải bảo đảm điều kiện gì?",
         "options": [
-          "A. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 3)",
-          "B. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 3)",
+          "A. Bắt buộc cấp dưới phải hoàn thành trong thời hạn 24 giờ kể từ khi nhận quyết định.",
+          "B. Chuyển toàn bộ trách nhiệm bồi thường thiệt hại cho công chức trực tiếp thụ lý.",
           "C. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp.",
-          "D. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 3)"
+          "D. Giao nhiệm vụ bằng văn bản mật và không công khai cho người dân được biết."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề bản chất của phân cấp (điều 13) theo nguyên tắc nào sau đây?",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về bản chất của phân cấp (điều 13), cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
         "options": [
-          "A. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 4)",
+          "A. Yêu cầu cấp dưới phải trích nộp lại 50% tiền thu phí cho cơ quan cấp trên.",
           "B. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp.",
-          "C. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 4)",
-          "D. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 4)"
+          "C. Không cần kiểm tra, thanh tra quá trình cấp dưới thực hiện nhiệm vụ được phân cấp.",
+          "D. Chỉ giao việc mà không cần phân bổ ngân sách hay chỉ tiêu biên chế."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện bản chất của phân cấp (điều 13) là gì?",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về bản chất của phân cấp (điều 13) là gì?",
         "options": [
-          "A. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 5)",
-          "B. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 5)",
-          "C. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 5)",
+          "A. Chỉ phân cấp cho các địa phương tự cân đối được 100% nguồn thu ngân sách.",
+          "B. Chuyển toàn bộ trách nhiệm bồi thường thiệt hại cho công chức trực tiếp thụ lý.",
+          "C. Yêu cầu chính quyền cấp dưới phải tự vay nợ nước ngoài để có kinh phí thực hiện.",
           "D. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với bản chất của phân cấp (điều 13) như thế nào?",
+        "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Cơ quan nhà nước cấp trên khi PHÂN CẤP nhiệm vụ cho chính quyền địa phương cấp dưới phải bảo đảm điều kiện gì?",
         "options": [
-          "A. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 6)",
-          "B. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 6)",
+          "A. Yêu cầu cấp dưới phải trích nộp lại 50% tiền thu phí cho cơ quan cấp trên.",
+          "B. Bắt buộc cấp dưới phải hoàn thành trong thời hạn 24 giờ kể từ khi nhận quyết định.",
           "C. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp.",
-          "D. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 6)"
+          "D. Giao nhiệm vụ bằng văn bản mật và không công khai cho người dân được biết."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về bản chất của phân cấp (điều 13) được áp dụng ra sao?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về bản chất của phân cấp (điều 13) được áp dụng như thế nào?",
         "options": [
-          "A. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 7)",
+          "A. Chỉ phân cấp cho các địa phương tự cân đối được 100% nguồn thu ngân sách.",
           "B. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp.",
-          "C. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 7)",
-          "D. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 7)"
+          "C. Chỉ giao việc mà không cần phân bổ ngân sách hay chỉ tiêu biên chế.",
+          "D. Không cần kiểm tra, thanh tra quá trình cấp dưới thực hiện nhiệm vụ được phân cấp."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến bản chất của phân cấp (điều 13)?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến bản chất của phân cấp (điều 13) theo Luật số 72/2025/QH15:",
         "options": [
-          "A. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 8)",
-          "B. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 8)",
-          "C. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 8)",
+          "A. Yêu cầu chính quyền cấp dưới phải tự vay nợ nước ngoài để có kinh phí thực hiện.",
+          "B. Chuyển toàn bộ trách nhiệm bồi thường thiệt hại cho công chức trực tiếp thụ lý.",
+          "C. Giao nhiệm vụ bằng văn bản mật và không công khai cho người dân được biết.",
           "D. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về bản chất của phân cấp (điều 13) đòi hỏi điều gì?",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về bản chất của phân cấp (điều 13)?",
         "options": [
-          "A. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 9)",
-          "B. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 9)",
-          "C. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 9)",
+          "A. Bắt buộc cấp dưới phải hoàn thành trong thời hạn 24 giờ kể từ khi nhận quyết định.",
+          "B. Chỉ giao việc mà không cần phân bổ ngân sách hay chỉ tiêu biên chế.",
+          "C. Yêu cầu cấp dưới phải trích nộp lại 50% tiền thu phí cho cơ quan cấp trên.",
           "D. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về bản chất của phân cấp (điều 13)?",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với bản chất của phân cấp (điều 13)?",
         "options": [
-          "A. Bắt buộc chính quyền cấp dưới tự vay nợ nước ngoài để thực hiện. (không đúng thẩm quyền 10)",
+          "A. Không cần kiểm tra, thanh tra quá trình cấp dưới thực hiện nhiệm vụ được phân cấp.",
           "B. Phải bảo đảm các điều kiện về tài chính, nguồn nhân lực và các điều kiện cần thiết khác để thực hiện nhiệm vụ được phân cấp.",
-          "C. Yêu cầu cấp dưới phải hoàn thành trong 24 giờ. (vi phạm nguyên tắc 10)",
-          "D. Chỉ giao việc mà không cần giao ngân sách hay biên chế. (sai quy định 10)"
+          "C. Chỉ phân cấp cho các địa phương tự cân đối được 100% nguồn thu ngân sách.",
+          "D. Yêu cầu chính quyền cấp dưới phải tự vay nợ nước ngoài để có kinh phí thực hiện."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện."
+        "explanation": "★ Căn cứ: Điều 13 Luật Tổ chức CQĐP: Phân cấp phải đi đôi với phân bổ tài chính, nhân lực và phương tiện cần thiết; cơ quan phân cấp có trách nhiệm kiểm tra, thanh tra."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Khi phát hiện quyết định của cấp trên trái pháp luật, công chức có nghĩa vụ xử lý như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Phương thức bổ nhiệm vào ngạch công chức được thực hiện trong trường hợp nào?",
         "options": [
-          "A. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "B. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 1)",
-          "C. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 1)",
-          "D. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 1)"
+          "A. Người trúng tuyển kỳ thi tuyển, xét tuyển công chức sau khi hoàn thành chế độ tập sự đạt yêu cầu.",
+          "B. Sinh viên mới tốt nghiệp đại học chưa qua thi tuyển.",
+          "C. Người lao động tự do có thời gian công tác 20 năm ngoài xã hội.",
+          "D. Cán bộ bị kỷ luật cách chức chuyển sang ngạch mới."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 42 Luật CBCC: Bổ nhiệm vào ngạch sau khi người tập sự hoàn thành chế độ tập sự đạt yêu cầu."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về nghĩa vụ của công chức trong thi hành công vụ (điều 9)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Việc chuyển ngạch công chức được thực hiện khi nào theo Điều 43 Luật CBCC?",
         "options": [
-          "A. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "B. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 2)",
-          "C. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 2)",
-          "D. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 2)"
+          "A. Khi công chức thay đổi vị trí việc làm mà ngạch công chức đang giữ không phù hợp với yêu cầu của vị trí việc làm mới.",
+          "B. Khi có đơn xin chuyển ngạch tự do của cá nhân.",
+          "C. Khi công chức đạt giải thưởng thể thao cấp tỉnh.",
+          "D. Khi công chức muốn nâng lương trước thời hạn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 43 Luật CBCC: Chuyển ngạch khi thay đổi vị trí việc làm mà ngạch hiện tại không còn phù hợp."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Khi phát hiện quyết định của cấp trên trái pháp luật, công chức có nghĩa vụ xử lý như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Nâng ngạch công chức phải căn cứ vào yếu tố nào theo Điều 44 Luật CBCC sửa đổi 2019?",
         "options": [
-          "A. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "B. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 3)",
-          "C. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 3)",
-          "D. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 3)"
+          "A. Căn cứ vào vị trí việc làm, phù hợp với cơ cấu ngạch công chức của cơ quan; thông qua thi nâng ngạch hoặc xét nâng ngạch.",
+          "B. Căn cứ vào số lượng đơn khiếu nại của công chức.",
+          "C. Căn cứ vào nguyện vọng cá nhân và mối quan hệ họ hàng.",
+          "D. Căn cứ vào tuổi đời của công chức từ đủ 50 tuổi trở lên."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 44 Luật CBCC sửa đổi 2019: Nâng ngạch qua THI hoặc XÉT, căn cứ VTVL và cơ cấu ngạch."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về nghĩa vụ của công chức trong thi hành công vụ (điều 9) như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Trường hợp nào công chức được XÉT nâng ngạch lên ngạch cao hơn liền kề theo Luật sửa đổi 2019?",
         "options": [
-          "A. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 4)",
-          "B. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 4)",
-          "C. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "D. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 4)"
+          "A. Có đơn xin cứu xét hoàn cảnh gia đình khó khăn.",
+          "B. Có thâm niên công tác liên tục 15 năm mà không bị kỷ luật.",
+          "C. Có thành tích xuất sắc trong hoạt động công vụ được cấp có thẩm quyền công nhận; hoặc được bổ nhiệm giữ chức vụ lãnh đạo, quản lý gắn với yêu cầu của ngạch.",
+          "D. Có bằng tiến sĩ thuộc bất kỳ chuyên ngành nào."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 44 Luật CBCC sửa đổi 2019: Bổ sung cơ chế XÉT nâng ngạch cho người có thành tích xuất sắc hoặc được bổ nhiệm lãnh đạo quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về nghĩa vụ của công chức trong thi hành công vụ (điều 9) yêu cầu công chức phải tuân thủ nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Điều động công chức theo Điều 50 Luật Cán bộ, công chức được hiểu là gì?",
         "options": [
-          "A. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 5)",
-          "B. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 5)",
-          "C. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "D. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 5)"
+          "A. Là việc chấm dứt hợp đồng lao động đối với công chức.",
+          "B. Là việc bổ nhiệm công chức giữ chức vụ lãnh đạo cao hơn.",
+          "C. Là việc công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác.",
+          "D. Là việc hạ cấp bậc ngạch công chức do vi phạm kỷ luật."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 50 Luật CBCC: Điều động là chuyển công chức giữa các cơ quan, đơn vị."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng nghĩa vụ của công chức trong thi hành công vụ (điều 9) là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Biệt phái công chức theo Điều 53 Luật CBCC có thời hạn tối đa là bao lâu?",
         "options": [
-          "A. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "B. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 6)",
-          "C. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 6)",
-          "D. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 6)"
+          "A. Không quá 03 năm (trừ một số ngành, lĩnh vực do Chính phủ quy định).",
+          "B. Không quá 01 năm.",
+          "C. Không quá 06 tháng.",
+          "D. Không quá 05 năm."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 53 Luật CBCC: Thời hạn biệt phái công chức không quá 03 năm."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về nghĩa vụ của công chức trong thi hành công vụ (điều 9) khi nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Không thực hiện biệt phái công chức đối với đối tượng nào sau đây?",
         "options": [
-          "A. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 7)",
-          "B. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 7)",
-          "C. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 7)",
-          "D. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả."
+          "A. Công chức đã công tác trên 10 năm tại đơn vị.",
+          "B. Công chức giữ ngạch chuyên viên cao cấp.",
+          "C. Công chức nam có vợ đang mang thai.",
+          "D. Công chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 53 Luật CBCC: Cấm biệt phái công chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến nghĩa vụ của công chức trong thi hành công vụ (điều 9)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Luân chuyển công chức theo Điều 52 Luật CBCC chỉ áp dụng đối với đối tượng nào?",
         "options": [
-          "A. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 8)",
-          "B. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 8)",
-          "C. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "D. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 8)"
+          "A. Chỉ áp dụng cho công chức đang trong thời gian tập sự.",
+          "B. Áp dụng cho mọi công chức không giữ chức vụ lãnh đạo.",
+          "C. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "D. Chỉ áp dụng cho công chức bị kỷ luật khiển trách."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Phân biệt mấu chốt: Luân chuyển CHỈ ÁP DỤNG đối với công chức lãnh đạo, quản lý nhằm đào tạo, bồi dưỡng toàn diện (Điều 52)."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về nghĩa vụ của công chức trong thi hành công vụ (điều 9) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Từ chức theo quy định tại Điều 54 Luật Cán bộ, công chức là gì?",
         "options": [
-          "A. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "B. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 9)",
-          "C. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 9)",
-          "D. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 9)"
+          "A. Là việc công chức lãnh đạo, quản lý tự nguyện xin thôi giữ chức vụ lãnh đạo, quản lý khi chưa hết nhiệm kỳ hoặc chưa hết thời hạn bổ nhiệm.",
+          "B. Là việc xin nghỉ không hưởng lương dài hạn.",
+          "C. Là việc công chức xin chuyển sang cơ quan tư nhân làm việc.",
+          "D. Là việc công chức xin thôi việc hoàn toàn khỏi biên chế nhà nước."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 54 Luật CBCC: Từ chức là tự nguyện thôi giữ chức vụ lãnh đạo quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về nghĩa vụ của công chức trong thi hành công vụ (điều 9)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Miễn nhiệm đối với công chức lãnh đạo, quản lý được thực hiện trong trường hợp nào?",
         "options": [
-          "A. Phải báo cáo ngay bằng văn bản với người ra quyết định; nếu cấp trên vẫn quyết định thi hành thì chấp hành nhưng bảo lưu ý kiến và không chịu trách nhiệm về hậu quả.",
-          "B. Tố giác lên các diễn đàn mạng xã hội để xin ý kiến. (trái luật 10)",
-          "C. Tuyệt đối không báo cáo và cũng không thi hành mệnh lệnh. (không chính xác 10)",
-          "D. Lập tức tự ý sửa đổi văn bản của cấp trên theo ý mình. (sai quy định 10)"
+          "A. Bị kỷ luật cảnh cáo hoặc khiển trách nhưng uy tín giảm sút; không đủ sức khỏe; 02 năm liên tiếp không hoàn thành nhiệm vụ.",
+          "B. Được cơ quan khen thưởng Huân chương Lao động.",
+          "C. Được cử đi học tiến sĩ ở nước ngoài.",
+          "D. Hoàn thành xuất sắc nhiệm vụ 3 năm liền."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 9 Luật CBCC: Báo cáo bằng văn bản, bảo lưu ý kiến, báo cáo cấp trên trực tiếp và được miễn trừ trách nhiệm."
+        "explanation": "★ Căn cứ: Điều 54 Luật CBCC: Miễn nhiệm khi suy giảm uy tín do kỷ luật, sức khỏe, hoặc 2 năm không hoàn thành nhiệm vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Biện pháp phòng ngừa tham nhũng nào sau đây được áp dụng đối với người có chức vụ, quyền hạn (điều 2)?",
+        "q": "Biện pháp phòng ngừa và xử lý nghiêm minh theo quy định của Luật PCTN đối với người có chức vụ, quyền hạn (điều 2) là:",
         "options": [
-          "A. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 7)",
-          "B. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 7)",
+          "A. Người lao động tự do kinh doanh buôn bán nhỏ lẻ tại các chợ dân sinh.",
+          "B. Khách du lịch quốc tế đến tham quan di tích lịch sử Cố đô Huế.",
           "C. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "D. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 7)"
+          "D. Bảo vệ do công ty dịch vụ bảo vệ tư nhân cử đến trông coi công trường xây dựng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng, cơ quan tổ chức đơn vị có trách nhiệm gì đối với người có chức vụ, quyền hạn (điều 2)?",
+        "q": "Cơ quan, tổ chức, đơn vị có trách nhiệm gì đối với việc thực hiện quy định về người có chức vụ, quyền hạn (điều 2)?",
         "options": [
-          "A. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 8)",
-          "B. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 8)",
-          "C. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 8)",
+          "A. Người nghỉ hưu không tham gia bất kỳ tổ chức đoàn thể chính trị nào.",
+          "B. Học sinh, sinh viên các trường đại học tham gia hoạt động tình nguyện tại địa phương.",
+          "C. Người hành nghề lái xe taxi tư nhân chở khách trên địa bàn thành phố.",
           "D. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Yêu cầu về tính công khai, minh bạch trong người có chức vụ, quyền hạn (điều 2) được quy định ra sao?",
+        "q": "Yêu cầu về tính liêm chính, công khai, minh bạch theo Luật PCTN khẳng định nguyên tắc nào về người có chức vụ, quyền hạn (điều 2)?",
         "options": [
-          "A. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 9)",
-          "B. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 9)",
+          "A. Công nhân làm việc tại phân xưởng sản xuất của công ty may 100% vốn nước ngoài.",
+          "B. Người lao động tự do kinh doanh buôn bán nhỏ lẻ tại các chợ dân sinh.",
           "C. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "D. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 9)"
+          "D. Chủ hộ kinh doanh gia đình kinh doanh dịch vụ ăn uống nhỏ lẻ."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Văn bản pháp luật về phòng, chống tham nhũng khẳng định nội dung nào sau đây về người có chức vụ, quyền hạn (điều 2)?",
+        "q": "Văn bản pháp luật về phòng, chống tham nhũng quy định rõ ràng nội dung nào sau đây liên quan đến người có chức vụ, quyền hạn (điều 2)?",
         "options": [
-          "A. Khách du lịch quốc tế đến tham quan di tích Huế. (trái luật 10)",
+          "A. Bảo vệ do công ty dịch vụ bảo vệ tư nhân cử đến trông coi công trường xây dựng.",
           "B. Cán bộ, công chức, viên chức; sĩ quan quân đội, công an; người giữ chức vụ quản lý trong doanh nghiệp nhà nước; người được giao thực hiện nhiệm vụ công vụ.",
-          "C. Học sinh trung học phổ thông tham gia hoạt động ngoại khóa. (không chính xác 10)",
-          "D. Công nhân làm việc tại xưởng may tư nhân. (sai quy định 10)"
+          "C. Khách du lịch quốc tế đến tham quan di tích lịch sử Cố đô Huế.",
+          "D. Học sinh, sinh viên các trường đại học tham gia hoạt động tình nguyện tại địa phương."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn bao gồm cán bộ, công chức, viên chức, lực lượng vũ trang, lãnh đạo DN nhà nước, người thực hiện công vụ."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 2 Luật PCTN: Người có chức vụ, quyền hạn gồm CBCC, viên chức, sĩ quan LLVT, lãnh đạo DNNN, người đại diện vốn nhà nước và người được giao thực hiện công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH): Hành vi nào sau đây là hành vi tham nhũng trong khu vực nhà nước theo quy định tại Điều 2 Luật PCTN?",
+        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (VBHN số 65/VBHN-VPQH): Cơ quan, tổ chức, đơn vị có trách nhiệm công khai, minh bạch những nội dung nào sau đây theo Luật PCTN?",
         "options": [
-          "A. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 1)",
-          "B. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 1)",
-          "C. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 1)",
-          "D. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi."
+          "A. Kế hoạch thanh tra đột xuất các vụ việc vi phạm hình sự đang được giữ bí mật.",
+          "B. Mật khẩu truy cập hệ thống cơ sở dữ liệu mật của cơ quan công an địa phương.",
+          "C. Toàn bộ tài liệu quân sự cơ mật liên quan đến phương án tác chiến phòng thủ quốc gia.",
+          "D. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước, nhận định nào sau đây là ĐÚNG về các hành vi tham nhũng trong khu vực nhà nước (điều 2)?",
+        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước theo Luật PCTN: Cơ quan, tổ chức, đơn vị có trách nhiệm công khai, minh bạch những nội dung nào sau đây theo Luật PCTN?",
         "options": [
-          "A. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 2)",
-          "B. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 2)",
-          "C. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi.",
-          "D. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 2)"
+          "A. Địa chỉ nơi cư trú của người tố cáo tham nhũng đang được bảo vệ bí mật.",
+          "B. Danh sách trinh sát viên đang thực hiện nhiệm vụ điều tra bí mật phòng chống tội phạm.",
+          "C. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ.",
+          "D. Các tài liệu mật chưa được cơ quan có thẩm quyền cho phép công khai giải mật."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng (VBHN số 65/VBHN-VPQH): Hành vi nào sau đây là hành vi tham nhũng trong khu vực nhà nước theo quy định tại Điều 2 Luật PCTN?",
+        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng: Cơ quan, tổ chức, đơn vị có trách nhiệm công khai, minh bạch những nội dung nào sau đây theo Luật PCTN?",
         "options": [
-          "A. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 3)",
-          "B. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 3)",
-          "C. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi.",
-          "D. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 3)"
+          "A. Tài liệu đàm phán hiệp định biên giới quốc gia đang trong giai đoạn bảo mật.",
+          "B. Đời tư và thông tin sức khỏe cá nhân của toàn thể gia đình công chức trong cơ quan.",
+          "C. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ.",
+          "D. Mật khẩu truy cập hệ thống cơ sở dữ liệu mật của cơ quan công an địa phương."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Tình huống công vụ: Công chức xử lý đúng quy định về các hành vi tham nhũng trong khu vực nhà nước (điều 2) như thế nào?",
+        "q": "Quy định pháp lý hiện hành về phòng, chống tham nhũng xác định nội dung nào sau đây về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 10)?",
         "options": [
-          "A. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 4)",
-          "B. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 4)",
-          "C. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 4)",
-          "D. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi."
+          "A. Toàn bộ tài liệu quân sự cơ mật liên quan đến phương án tác chiến phòng thủ quốc gia.",
+          "B. Các tài liệu mật chưa được cơ quan có thẩm quyền cho phép công khai giải mật.",
+          "C. Kế hoạch thanh tra đột xuất các vụ việc vi phạm hình sự đang được giữ bí mật.",
+          "D. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Nguyên tắc nào sau đây là nguyên tắc bắt buộc trong xây dựng, ban hành văn bản quy phạm pháp luật?",
+        "q": "Trong xây dựng thể chế và áp dụng pháp luật theo Luật số 64/2025/QH15: Nguyên tắc nào sau đây là nguyên tắc bắt buộc trong xây dựng, ban hành văn bản quy phạm pháp luật?",
         "options": [
-          "A. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 3)",
+          "A. Cho phép văn bản của cấp dưới được đặt ra các quy định trái ngược với luật của Quốc hội.",
           "B. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "C. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 3)",
-          "D. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 3)"
+          "C. Ban hành theo ý muốn chủ quan của thủ trưởng cơ quan trực tiếp soạn thảo văn bản.",
+          "D. Giao cho các tổ chức kinh tế tư nhân trực tiếp ban hành các quy định chế tài xử phạt."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Trong xây dựng thể chế hành chính nhà nước: Nguyên tắc nào sau đây là nguyên tắc bắt buộc trong xây dựng, ban hành văn bản quy phạm pháp luật?",
+        "q": "Quy định pháp lý về nguyên tắc xây dựng, ban hành vbqppl (điều 5) khẳng định nội dung nào sau đây?",
         "options": [
-          "A. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 4)",
+          "A. Ưu tiên bảo vệ tối đa lợi ích cục bộ của ngành mình hơn lợi ích chung của xã hội.",
           "B. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "C. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 4)",
-          "D. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 4)"
+          "C. Bãi bỏ toàn bộ quy trình đánh giá tác động kinh tế - xã hội của chính sách.",
+          "D. Ưu tiên ban hành văn bản nhanh chóng, bỏ qua khâu thẩm định của cơ quan tư pháp."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Quy định pháp lý về nguyên tắc xây dựng, ban hành vbqppl (điều 5) khẳng định điều gì?",
+        "q": "Khi cơ quan có thẩm quyền tại thành phố Huế ban hành văn bản, quy định về nguyên tắc xây dựng, ban hành vbqppl (điều 5) được áp dụng ra sao?",
         "options": [
-          "A. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 5)",
+          "A. Cho phép văn bản của cấp dưới được đặt ra các quy định trái ngược với luật của Quốc hội.",
           "B. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "C. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 5)",
-          "D. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 5)"
+          "C. Chỉ ban hành văn bản khi có sự đồng thuận 100% của toàn bộ các hộ gia đình.",
+          "D. Bảo đảm tính bí mật tuyệt đối, không lấy ý kiến nhân dân và đối tượng chịu tác động."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo quy định hiện hành, việc áp dụng nguyên tắc xây dựng, ban hành vbqppl (điều 5) được thực hiện như thế nào?",
+        "q": "Nhận định nào sau đây là CHUẨN XÁC theo quy định của Luật Ban hành văn bản quy phạm pháp luật về nguyên tắc xây dựng, ban hành vbqppl (điều 5)?",
         "options": [
-          "A. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 6)",
-          "B. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 6)",
+          "A. Ban hành theo ý muốn chủ quan của thủ trưởng cơ quan trực tiếp soạn thảo văn bản.",
+          "B. Giao cho các tổ chức kinh tế tư nhân trực tiếp ban hành các quy định chế tài xử phạt.",
           "C. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "D. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 6)"
+          "D. Bãi bỏ toàn bộ quy trình đánh giá tác động kinh tế - xã hội của chính sách."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Cơ quan soạn thảo văn bản của thành phố Huế phải tuân thủ quy định nào về nguyên tắc xây dựng, ban hành vbqppl (điều 5)?",
+        "q": "Tình huống xây dựng văn bản: Cơ quan soạn thảo phải tuân thủ đúng nguyên tắc nào về nguyên tắc xây dựng, ban hành vbqppl (điều 5)?",
         "options": [
           "A. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "B. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 7)",
-          "C. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 7)",
-          "D. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 7)"
+          "B. Chỉ ban hành văn bản khi có sự đồng thuận 100% của toàn bộ các hộ gia đình.",
+          "C. Ưu tiên bảo vệ tối đa lợi ích cục bộ của ngành mình hơn lợi ích chung của xã hội.",
+          "D. Ưu tiên ban hành văn bản nhanh chóng, bỏ qua khâu thẩm định của cơ quan tư pháp."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Xác định nguyên tắc chuẩn xác của pháp luật liên quan đến nguyên tắc xây dựng, ban hành vbqppl (điều 5):",
+        "q": "Xác định quy định pháp lý bắt buộc đối với nguyên tắc xây dựng, ban hành vbqppl (điều 5) theo Luật Ban hành VBQPPL hiện hành:",
         "options": [
-          "A. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 8)",
-          "B. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 8)",
+          "A. Bảo đảm tính bí mật tuyệt đối, không lấy ý kiến nhân dân và đối tượng chịu tác động.",
+          "B. Cho phép văn bản của cấp dưới được đặt ra các quy định trái ngược với luật của Quốc hội.",
           "C. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "D. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 8)"
+          "D. Giao cho các tổ chức kinh tế tư nhân trực tiếp ban hành các quy định chế tài xử phạt."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Căn cứ Nghị định số 150/2025/NĐ-CP của Chính phủ: Cơ quan chuyên môn thuộc UBND tỉnh, thành phố trực thuộc trung ương (các Sở) có vị trí, chức năng là gì?",
         "options": [
-          "A. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 3)",
-          "B. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 3)",
+          "A. Là đơn vị kinh doanh dịch vụ công nhằm mục đích tối đa hóa lợi nhuận tài chính.",
+          "B. Là tổ chức chính trị - xã hội có nhiệm vụ tập hợp các tầng lớp nhân dân.",
           "C. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
-          "D. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 3)"
+          "D. Là cơ quan kiểm toán độc lập đối với các tập đoàn kinh tế tư nhân trên địa bàn."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
-        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn: Cơ quan chuyên môn thuộc UBND tỉnh, thành phố trực thuộc trung ương (các Sở) có vị trí, chức năng là gì?",
+        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn theo NĐ 150/2025/NĐ-CP: Cơ quan chuyên môn thuộc UBND tỉnh, thành phố trực thuộc trung ương (các Sở) có vị trí, chức năng là gì?",
         "options": [
-          "A. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 4)",
-          "B. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 4)",
-          "C. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 4)",
+          "A. Là cơ quan đại diện theo ủy quyền của các tổ chức quốc tế phi chính phủ.",
+          "B. Là cơ quan quyền lực nhà nước cao nhất tại địa phương có quyền ban hành luật.",
+          "C. Là cơ quan thanh tra độc lập chịu sự chỉ đạo duy nhất của Thanh tra Chính phủ.",
           "D. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Quy định pháp lý tại Nghị định 150/2025/NĐ-CP khẳng định nội dung nào về vị trí, chức năng của cơ quan chuyên môn thuộc ubnd cấp tỉnh (sở ngành)?",
         "options": [
-          "A. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 5)",
+          "A. Là tổ chức chính trị - xã hội có nhiệm vụ tập hợp các tầng lớp nhân dân.",
           "B. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
-          "C. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 5)",
-          "D. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 5)"
+          "C. Là đơn vị hành chính lâm thời chỉ được thành lập khi có dịch bệnh, thiên tai.",
+          "D. Là cơ quan độc lập thực hiện quyền xét xử các vụ án hành chính và hình sự."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo quy định hiện hành, việc quản lý tổ chức bộ máy liên quan đến vị trí, chức năng của cơ quan chuyên môn thuộc ubnd cấp tỉnh (sở ngành) được thực hiện ra sao?",
         "options": [
           "A. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
-          "B. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 6)",
-          "C. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 6)",
-          "D. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 6)"
+          "B. Là cơ quan thanh tra độc lập chịu sự chỉ đạo duy nhất của Thanh tra Chính phủ.",
+          "C. Là đơn vị kinh doanh dịch vụ công nhằm mục đích tối đa hóa lợi nhuận tài chính.",
+          "D. Là cơ quan kiểm toán độc lập đối với các tập đoàn kinh tế tư nhân trên địa bàn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Đối với thành phố Huế trực thuộc Trung ương, quy định của Nghị định 150/2025/NĐ-CP về vị trí, chức năng của cơ quan chuyên môn thuộc ubnd cấp tỉnh (sở ngành) được triển khai như thế nào?",
         "options": [
-          "A. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 7)",
-          "B. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 7)",
+          "A. Là cơ quan đại diện theo ủy quyền của các tổ chức quốc tế phi chính phủ.",
+          "B. Là đơn vị hành chính lâm thời chỉ được thành lập khi có dịch bệnh, thiên tai.",
           "C. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
-          "D. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 7)"
+          "D. Là cơ quan quyền lực nhà nước cao nhất tại địa phương có quyền ban hành luật."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Xác định nguyên tắc chuẩn xác của Nghị định 150/2025/NĐ-CP về vị trí, chức năng của cơ quan chuyên môn thuộc ubnd cấp tỉnh (sở ngành):",
         "options": [
-          "A. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 8)",
-          "B. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 8)",
-          "C. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 8)",
+          "A. Là cơ quan kiểm toán độc lập đối với các tập đoàn kinh tế tư nhân trên địa bàn.",
+          "B. Là tổ chức chính trị - xã hội có nhiệm vụ tập hợp các tầng lớp nhân dân.",
+          "C. Là cơ quan độc lập thực hiện quyền xét xử các vụ án hành chính và hình sự.",
           "D. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Trường hợp nào người dự tuyển công chức được miễn thi môn Kiến thức chung tại Vòng 1 theo quy định?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 1)?",
         "options": [
-          "A. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 1)",
-          "B. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định.",
-          "C. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 1)",
-          "D. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 1)"
+          "A. 24 tháng.",
+          "B. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "C. 06 tháng cố định.",
+          "D. 09 tháng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về miễn thi môn kiến thức chung vòng 1 (nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 2)?",
         "options": [
-          "A. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 2)",
-          "B. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 2)",
-          "C. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định.",
-          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 2)"
+          "A. 12 tháng.",
+          "B. 09 tháng.",
+          "C. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "D. 03 tháng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Trường hợp nào người dự tuyển công chức được miễn thi môn Kiến thức chung tại Vòng 1 theo quy định?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 3)?",
         "options": [
-          "A. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định.",
-          "B. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 3)",
-          "C. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 3)",
-          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 3)"
+          "A. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "B. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "C. Thời gian đi công tác địa bàn.",
+          "D. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Trường hợp nào người dự tuyển công chức được miễn thi môn Kiến thức chung tại Vòng 1 theo quy định?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 4)?",
         "options": [
-          "A. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định.",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 4)",
-          "C. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 4)",
-          "D. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 4)"
+          "A. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "C. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "D. Có bằng Thạc sĩ đúng chuyên ngành."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Trường hợp nào người dự tuyển công chức được miễn thi môn Kiến thức chung tại Vòng 1 theo quy định?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 5)?",
         "options": [
-          "A. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 5)",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 5)",
-          "C. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định.",
-          "D. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 5)"
+          "A. Không được hưởng phụ cấp.",
+          "B. Hưởng thêm 50% tiền lương của người tập sự.",
+          "C. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "D. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến miễn thi môn kiến thức chung vòng 1 (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 6)?",
         "options": [
-          "A. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 6)",
-          "B. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 6)",
-          "C. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định.",
-          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 6)"
+          "A. Đuổi ra khỏi phòng thi và cấm thi 5 năm.",
+          "B. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "C. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "D. Chỉ nhắc nhở bằng lời nói và không ghi biên bản."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về miễn thi môn kiến thức chung vòng 1 (nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 7)?",
         "options": [
-          "A. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định.",
-          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 7)",
-          "C. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 7)",
-          "D. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 7)"
+          "A. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "B. 06 tháng cố định.",
+          "C. 24 tháng.",
+          "D. 09 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với miễn thi môn kiến thức chung vòng 1 (nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 8)?",
         "options": [
-          "A. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 8)",
-          "B. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 8)",
-          "C. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 8)",
-          "D. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định."
+          "A. 09 tháng.",
+          "B. 12 tháng.",
+          "C. 03 tháng.",
+          "D. 06 tháng kể từ ngày nhận nhiệm sở."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến miễn thi môn kiến thức chung vòng 1 (nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 9)?",
         "options": [
-          "A. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 9)",
-          "B. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định.",
-          "C. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 9)",
-          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 9)"
+          "A. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "B. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "C. Thời gian đi công tác địa bàn.",
+          "D. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về miễn thi môn kiến thức chung vòng 1 (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 10)?",
         "options": [
-          "A. Có chứng chỉ tin học văn phòng quốc tế. (không đúng 10)",
-          "B. Có thâm niên làm việc 5 năm tại doanh nghiệp nhà nước. (trái luật 10)",
-          "C. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc. (sai quy định 10)",
-          "D. Người dự tuyển có kết quả đạt kiểm định chất lượng đầu vào công chức quốc gia còn trong thời hạn theo quy định."
+          "A. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "B. Có bằng Thạc sĩ đúng chuyên ngành.",
+          "C. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "D. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Công nhận kết quả kiểm định chất lượng đầu vào công chức quốc gia để miễn thi Vòng 1 môn Kiến thức chung."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo Nghị quyết số 76/NQ-CP và Chỉ thị 23/CT-TTg: Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 bao gồm 6 nội dung trọng tâm nào?",
         "options": [
-          "A. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 1)",
-          "B. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "C. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 1)",
-          "D. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 1)"
+          "A. Chính sách bảo hiểm, Trợ cấp xã hội, Bảo hiểm y tế, Hỗ trợ việc làm và Dạy nghề miễn phí.",
+          "B. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Thể chế, Con người, Doanh nghiệp tư nhân, Đầu tư nước ngoài, Du lịch và Ngoại giao.",
+          "D. Thanh tra công vụ, Kiểm tra tài chính, Xử phạt tiền, Cưỡng chế, Tố tụng và Thi hành án."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
@@ -2080,10 +2080,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Trong Chương trình tổng thể cải cách hành chính nhà nước: Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 bao gồm 6 nội dung trọng tâm nào?",
         "options": [
-          "A. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 2)",
-          "B. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "C. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 2)",
-          "D. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 2)"
+          "A. Giảm biên chế, Tăng thuế suất, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển cán bộ.",
+          "B. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Tái cơ cấu nợ, Phát hành công trái, Cắt giảm chi tiêu, Thu hồi tài sản và Đấu giá công vụ.",
+          "D. Quy hoạch đô thị, Xây dựng cầu đường, Mở rộng sân bay, Cấp phép nhà đất và Xử lý nước thải."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
@@ -2092,10 +2092,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Căn cứ Nghị quyết 76/NQ-CP của Chính phủ về CCHC: Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 bao gồm 6 nội dung trọng tâm nào?",
         "options": [
-          "A. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 3)",
-          "B. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 3)",
-          "C. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 3)",
-          "D. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số."
+          "A. Thanh tra công vụ, Kiểm tra tài chính, Xử phạt tiền, Cưỡng chế, Tố tụng và Thi hành án.",
+          "B. Chuyển đổi cây trồng, Thủy lợi hóa, Cơ giới hóa, Điện khí hóa nông thôn và Khuyến nông.",
+          "C. Tuyên truyền đường lối, Phổ biến pháp luật, Xét khen thưởng, Kỷ luật và Vận động tài trợ.",
+          "D. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số."
         ],
         "ans": 3,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
@@ -2104,10 +2104,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Mục tiêu, nhiệm vụ của công cuộc cải cách hành chính liên quan đến 6 nội dung trọng tâm của nghị quyết 76/nq-cp đòi hỏi điều gì?",
         "options": [
-          "A. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 4)",
-          "B. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "C. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 4)",
-          "D. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 4)"
+          "A. Chính sách bảo hiểm, Trợ cấp xã hội, Bảo hiểm y tế, Hỗ trợ việc làm và Dạy nghề miễn phí.",
+          "B. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Quy hoạch đô thị, Xây dựng cầu đường, Mở rộng sân bay, Cấp phép nhà đất và Xử lý nước thải.",
+          "D. Thể chế, Con người, Doanh nghiệp tư nhân, Đầu tư nước ngoài, Du lịch và Ngoại giao."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
@@ -2116,73 +2116,73 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo Chỉ thị 23/CT-TTg của Thủ tướng Chính phủ về CCHC: Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 bao gồm 6 nội dung trọng tâm nào?",
         "options": [
-          "A. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 5)",
-          "B. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "C. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 5)",
-          "D. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 5)"
+          "A. Giảm biên chế, Tăng thuế suất, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển cán bộ.",
+          "B. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Tái cơ cấu nợ, Phát hành công trái, Cắt giảm chi tiêu, Thu hồi tài sản và Đấu giá công vụ.",
+          "D. Tuyên truyền đường lối, Phổ biến pháp luật, Xét khen thưởng, Kỷ luật và Vận động tài trợ."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Theo các văn bản quy định của UBND thành phố Huế: Quyết định số 2243/QĐ-UBND ngày 10/9/2021 của UBND tỉnh (nay là TP Huế) ban hành kế hoạch gì?",
+        "q": "Theo các văn bản quy định của UBND thành phố Huế: Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND TP Huế (kế thừa QĐ 2243/QĐ-UBND) ban hành kế hoạch gì?",
         "options": [
-          "A. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 1)",
-          "B. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 1)",
-          "C. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 1)",
+          "A. Kế hoạch phòng chống thiên tai, bão lũ và tìm kiếm cứu nạn trên biển.",
+          "B. Kế hoạch tổng kiểm kê rừng và tài nguyên khoáng sản trên địa bàn thành phố.",
+          "C. Kế hoạch bảo tồn và phục dựng các lăng tẩm thời triều Nguyễn.",
           "D. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Căn cứ Quyết định số 2626/QĐ-UBND của UBND thành phố Huế: Quyết định số 2243/QĐ-UBND ngày 10/9/2021 của UBND tỉnh (nay là TP Huế) ban hành kế hoạch gì?",
+        "q": "Căn cứ Quyết định số 2626/QĐ-UBND của UBND thành phố Huế: Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND TP Huế (kế thừa QĐ 2243/QĐ-UBND) ban hành kế hoạch gì?",
         "options": [
-          "A. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 2)",
-          "B. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 2)",
+          "A. Kế hoạch phân loại rác thải tại nguồn cho toàn bộ các hộ gia đình cư dân.",
+          "B. Kế hoạch mở rộng mạng lưới xe buýt công cộng chất lượng cao đô thị.",
           "C. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế.",
-          "D. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 2)"
+          "D. Kế hoạch thu hồi đất dự án mở rộng đường vành đai phía nam thành phố."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Trong công tác cải cách hành chính gắn với đô thị thông minh TP Huế: Quyết định số 2243/QĐ-UBND ngày 10/9/2021 của UBND tỉnh (nay là TP Huế) ban hành kế hoạch gì?",
+        "q": "Trong công tác cải cách hành chính gắn với đô thị thông minh TP Huế: Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND TP Huế (kế thừa QĐ 2243/QĐ-UBND) ban hành kế hoạch gì?",
         "options": [
-          "A. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 3)",
-          "B. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 3)",
+          "A. Kế hoạch giải tỏa các chợ cóc tự phát lấn chiếm lòng lề đường đô thị.",
+          "B. Kế hoạch kiểm tra việc niêm yết giá dịch vụ du lịch mùa Festival Huế.",
           "C. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế.",
-          "D. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 3)"
+          "D. Kế hoạch bảo tồn và phục dựng các lăng tẩm thời triều Nguyễn."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Căn cứ Quyết định số 2243/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Quyết định số 2243/QĐ-UBND ngày 10/9/2021 của UBND tỉnh (nay là TP Huế) ban hành kế hoạch gì?",
+        "q": "Căn cứ Quyết định số 1026/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND TP Huế (kế thừa QĐ 2243/QĐ-UBND) ban hành kế hoạch gì?",
         "options": [
-          "A. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 4)",
-          "B. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 4)",
+          "A. Kế hoạch tổng kiểm kê rừng và tài nguyên khoáng sản trên địa bàn thành phố.",
+          "B. Kế hoạch mở rộng mạng lưới xe buýt công cộng chất lượng cao đô thị.",
           "C. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế.",
-          "D. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 4)"
+          "D. Kế hoạch phòng chống thiên tai, bão lũ và tìm kiếm cứu nạn trên biển."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Ứng dụng chuyển đổi số và công nghệ thông tin tại thành phố Huế khẳng định vai trò của kế hoạch cchc tỉnh thừa thiên huế (nay là tp huế) (qđ 2243/qđ-ubnd) như thế nào?",
+        "q": "Ứng dụng chuyển đổi số và công nghệ thông tin tại thành phố Huế khẳng định vai trò của kế hoạch cchc thành phố huế (qđ 1026 & qđ 2243/qđ-ubnd) như thế nào?",
         "options": [
-          "A. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 5)",
+          "A. Kế hoạch kiểm tra việc niêm yết giá dịch vụ du lịch mùa Festival Huế.",
           "B. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế.",
-          "C. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 5)",
-          "D. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 5)"
+          "C. Kế hoạch phân loại rác thải tại nguồn cho toàn bộ các hộ gia đình cư dân.",
+          "D. Kế hoạch thu hồi đất dự án mở rộng đường vành đai phía nam thành phố."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       }
     ]
   },
@@ -2191,616 +2191,616 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 04 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, khi cơ quan hành chính nhà nước cấp trên ủy quyền cho ubnd cấp dưới thực hiện một nhiệm vụ cụ thể thì văn bản ủy quyền có đặc điểm gì?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Khi cơ quan hành chính nhà nước cấp trên ỦY QUYỀN cho UBND cấp dưới thực hiện nhiệm vụ thì việc ủy quyền có đặc điểm gì?",
         "options": [
           "A. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác.",
-          "B. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 1)",
-          "C. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 1)",
-          "D. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 1)"
+          "B. Ủy quyền không cần xác định rõ phạm vi trách nhiệm và thời hạn thực hiện.",
+          "C. Cơ quan nhận ủy quyền được ủy quyền tiếp tục cho các tổ chức ngoài nhà nước.",
+          "D. Cơ quan ủy quyền được miễn trừ hoàn toàn mọi trách nhiệm pháp lý liên quan."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về bản chất của ủy quyền (điều 14)?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về bản chất của ủy quyền (điều 14)?",
         "options": [
-          "A. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 2)",
+          "A. Được ủy quyền bằng lời nói hoặc chỉ đạo qua các cuộc họp giao ban nội bộ.",
           "B. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác.",
-          "C. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 2)",
-          "D. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 2)"
+          "C. Ủy quyền vô thời hạn và không được phép hủy bỏ trước thời hạn.",
+          "D. Chỉ áp dụng ủy quyền trong lĩnh vực xử phạt vi phạm hành chính."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Khi cơ quan hành chính nhà nước cấp trên ủy quyền cho UBND cấp dưới thực hiện một nhiệm vụ cụ thể thì văn bản ủy quyền có đặc điểm gì?",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Khi cơ quan hành chính nhà nước cấp trên ỦY QUYỀN cho UBND cấp dưới thực hiện nhiệm vụ thì việc ủy quyền có đặc điểm gì?",
         "options": [
-          "A. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 3)",
-          "B. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 3)",
-          "C. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 3)",
+          "A. Được ủy quyền lại cho các cá nhân không thuộc biên chế cơ quan nhà nước.",
+          "B. Cơ quan ủy quyền được miễn trừ hoàn toàn mọi trách nhiệm pháp lý liên quan.",
+          "C. Cơ quan nhận ủy quyền được tự ý thay đổi nội dung nhiệm vụ được ủy quyền.",
           "D. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề bản chất của ủy quyền (điều 14) theo nguyên tắc nào sau đây?",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về bản chất của ủy quyền (điều 14), cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
         "options": [
-          "A. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 4)",
+          "A. Cơ quan nhận ủy quyền được ủy quyền tiếp tục cho các tổ chức ngoài nhà nước.",
           "B. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác.",
-          "C. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 4)",
-          "D. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 4)"
+          "C. Ủy quyền không cần xác định rõ phạm vi trách nhiệm và thời hạn thực hiện.",
+          "D. Ủy quyền vô thời hạn và không được phép hủy bỏ trước thời hạn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện bản chất của ủy quyền (điều 14) là gì?",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về bản chất của ủy quyền (điều 14) là gì?",
         "options": [
-          "A. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 5)",
-          "B. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 5)",
-          "C. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 5)",
+          "A. Chỉ áp dụng ủy quyền trong lĩnh vực xử phạt vi phạm hành chính.",
+          "B. Cơ quan nhận ủy quyền được tự ý thay đổi nội dung nhiệm vụ được ủy quyền.",
+          "C. Được ủy quyền bằng lời nói hoặc chỉ đạo qua các cuộc họp giao ban nội bộ.",
           "D. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với bản chất của ủy quyền (điều 14) như thế nào?",
+        "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Khi cơ quan hành chính nhà nước cấp trên ỦY QUYỀN cho UBND cấp dưới thực hiện nhiệm vụ thì việc ủy quyền có đặc điểm gì?",
         "options": [
           "A. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác.",
-          "B. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 6)",
-          "C. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 6)",
-          "D. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 6)"
+          "B. Cơ quan ủy quyền được miễn trừ hoàn toàn mọi trách nhiệm pháp lý liên quan.",
+          "C. Được ủy quyền lại cho các cá nhân không thuộc biên chế cơ quan nhà nước.",
+          "D. Ủy quyền không cần xác định rõ phạm vi trách nhiệm và thời hạn thực hiện."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về bản chất của ủy quyền (điều 14) được áp dụng ra sao?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về bản chất của ủy quyền (điều 14) được áp dụng như thế nào?",
         "options": [
-          "A. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 7)",
+          "A. Cơ quan nhận ủy quyền được ủy quyền tiếp tục cho các tổ chức ngoài nhà nước.",
           "B. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác.",
-          "C. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 7)",
-          "D. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 7)"
+          "C. Chỉ áp dụng ủy quyền trong lĩnh vực xử phạt vi phạm hành chính.",
+          "D. Ủy quyền vô thời hạn và không được phép hủy bỏ trước thời hạn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến bản chất của ủy quyền (điều 14)?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến bản chất của ủy quyền (điều 14) theo Luật số 72/2025/QH15:",
         "options": [
-          "A. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 8)",
-          "B. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 8)",
+          "A. Được ủy quyền lại cho các cá nhân không thuộc biên chế cơ quan nhà nước.",
+          "B. Được ủy quyền bằng lời nói hoặc chỉ đạo qua các cuộc họp giao ban nội bộ.",
           "C. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác.",
-          "D. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 8)"
+          "D. Cơ quan nhận ủy quyền được tự ý thay đổi nội dung nhiệm vụ được ủy quyền."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về bản chất của ủy quyền (điều 14) đòi hỏi điều gì?",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về bản chất của ủy quyền (điều 14)?",
         "options": [
-          "A. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 9)",
+          "A. Cơ quan ủy quyền được miễn trừ hoàn toàn mọi trách nhiệm pháp lý liên quan.",
           "B. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác.",
-          "C. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 9)",
-          "D. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 9)"
+          "C. Ủy quyền không cần xác định rõ phạm vi trách nhiệm và thời hạn thực hiện.",
+          "D. Cơ quan nhận ủy quyền được ủy quyền tiếp tục cho các tổ chức ngoài nhà nước."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về bản chất của ủy quyền (điều 14)?",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với bản chất của ủy quyền (điều 14)?",
         "options": [
-          "A. Ủy quyền bằng lời nói trong cuộc họp giao ban đầu tuần. (không đúng thẩm quyền 10)",
+          "A. Ủy quyền vô thời hạn và không được phép hủy bỏ trước thời hạn.",
           "B. Việc ủy quyền phải được thực hiện bằng văn bản; cơ quan nhận ủy quyền không được ủy quyền lại cho cơ quan khác.",
-          "C. Được ủy quyền lại tiếp tục cho cấp thôn, tổ dân phố. (sai quy định 10)",
-          "D. Cơ quan ủy quyền không còn bất kỳ trách nhiệm pháp lý nào. (vi phạm nguyên tắc 10)"
+          "C. Được ủy quyền bằng lời nói hoặc chỉ đạo qua các cuộc họp giao ban nội bộ.",
+          "D. Chỉ áp dụng ủy quyền trong lĩnh vực xử phạt vi phạm hành chính."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền KHÔNG ĐƯỢC ỦY QUYỀN LẠI và chịu trách nhiệm trước cơ quan ủy quyền."
+        "explanation": "★ Căn cứ: Điều 14 Luật Tổ chức CQĐP: Ủy quyền bằng văn bản, cơ quan nhận ủy quyền không được ủy quyền lại và phải chịu trách nhiệm trước cơ quan ủy quyền."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền lợi gì về tiền lương?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 1)?",
         "options": [
-          "A. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ.",
-          "B. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 1)",
-          "C. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 1)",
-          "D. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 1)"
+          "A. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "B. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "C. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "D. Được xem xét chuyển sang làm nhân viên hợp đồng lao động."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về quyền của cán bộ, công chức về tiền lương (điều 12)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 1)?",
         "options": [
-          "A. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 2)",
-          "B. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ.",
-          "C. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 2)",
-          "D. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 2)"
+          "A. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "B. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "C. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "D. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Cán bộ, công chức làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn được hưởng quyền lợi gì về tiền lương?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 1)?",
         "options": [
-          "A. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 3)",
-          "B. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 3)",
-          "C. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 3)",
-          "D. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ."
+          "A. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "B. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "C. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "D. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về quyền của cán bộ, công chức về tiền lương (điều 12) như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 1)?",
         "options": [
-          "A. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ.",
-          "B. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 4)",
-          "C. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 4)",
-          "D. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 4)"
+          "A. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "B. Trong thời hạn 07 ngày làm việc.",
+          "C. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "D. Trong thời hạn 30 ngày kể từ ngày nhận quyết định."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về quyền của cán bộ, công chức về tiền lương (điều 12) yêu cầu công chức phải tuân thủ nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 1)?",
         "options": [
-          "A. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ.",
-          "B. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 5)",
-          "C. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 5)",
-          "D. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 5)"
+          "A. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng.",
+          "B. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "C. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "D. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng quyền của cán bộ, công chức về tiền lương (điều 12) là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 2)?",
         "options": [
-          "A. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 6)",
-          "B. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 6)",
-          "C. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 6)",
-          "D. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ."
+          "A. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "B. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "C. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "D. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về quyền của cán bộ, công chức về tiền lương (điều 12) khi nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 2)?",
         "options": [
-          "A. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 7)",
-          "B. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ.",
-          "C. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 7)",
-          "D. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 7)"
+          "A. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "B. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "C. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "D. Bị hạ một bậc lương và bố trí làm công việc thấp hơn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến quyền của cán bộ, công chức về tiền lương (điều 12)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 2)?",
         "options": [
-          "A. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ.",
-          "B. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 8)",
-          "C. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 8)",
-          "D. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 8)"
+          "A. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "B. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "C. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "D. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về quyền của cán bộ, công chức về tiền lương (điều 12) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 2)?",
         "options": [
-          "A. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 9)",
-          "B. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 9)",
-          "C. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ.",
-          "D. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 9)"
+          "A. Trong thời hạn 07 ngày làm việc.",
+          "B. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "C. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "D. Trong thời hạn 60 ngày kể từ ngày công bố quyết định."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về quyền của cán bộ, công chức về tiền lương (điều 12)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 2)?",
         "options": [
-          "A. Được miễn toàn bộ nghĩa vụ nộp thuế thu nhập cá nhân vĩnh viễn. (không chính xác 10)",
-          "B. Được nhận gấp 10 lần hệ số lương cơ sở. (trái luật 10)",
-          "C. Được tự ý giữ lại một phần tiền lệ phí thu được từ công dân. (sai quy định 10)",
-          "D. Được hưởng phụ cấp và các chính sách ưu đãi theo quy định của pháp luật; được bảo đảm tiền lương tương xứng với nhiệm vụ."
+          "A. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "B. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "C. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "D. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 12 Luật CBCC: Bảo đảm tiền lương tương xứng, phụ cấp thâm niên, phụ cấp ưu đãi vùng đặc biệt khó khăn."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Quy định pháp lý về các hành vi tham nhũng trong khu vực nhà nước (điều 2) yêu cầu người có chức vụ, quyền hạn phải tuân thủ điều gì?",
+        "q": "Tình huống công vụ: Người có chức vụ, quyền hạn phải xử lý đúng quy định pháp luật về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 10) như thế nào?",
         "options": [
-          "A. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 5)",
-          "B. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi.",
-          "C. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 5)",
-          "D. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 5)"
+          "A. Đời tư và thông tin sức khỏe cá nhân của toàn thể gia đình công chức trong cơ quan.",
+          "B. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ.",
+          "C. Địa chỉ nơi cư trú của người tố cáo tham nhũng đang được bảo vệ bí mật.",
+          "D. Danh sách trinh sát viên đang thực hiện nhiệm vụ điều tra bí mật phòng chống tội phạm."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi nào sau đây vi phạm quy định về các hành vi tham nhũng trong khu vực nhà nước (điều 2)?",
+        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi hoặc nhận định nào sau đây là ĐÚNG về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 10)?",
         "options": [
-          "A. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 6)",
-          "B. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 6)",
-          "C. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi.",
-          "D. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 6)"
+          "A. Kế hoạch thanh tra đột xuất các vụ việc vi phạm hình sự đang được giữ bí mật.",
+          "B. Mật khẩu truy cập hệ thống cơ sở dữ liệu mật của cơ quan công an địa phương.",
+          "C. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ.",
+          "D. Tài liệu đàm phán hiệp định biên giới quốc gia đang trong giai đoạn bảo mật."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Biện pháp phòng ngừa tham nhũng nào sau đây được áp dụng đối với các hành vi tham nhũng trong khu vực nhà nước (điều 2)?",
+        "q": "Biện pháp phòng ngừa và xử lý nghiêm minh theo quy định của Luật PCTN đối với công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 10) là:",
         "options": [
-          "A. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 7)",
-          "B. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 7)",
-          "C. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 7)",
-          "D. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi."
+          "A. Toàn bộ tài liệu quân sự cơ mật liên quan đến phương án tác chiến phòng thủ quốc gia.",
+          "B. Địa chỉ nơi cư trú của người tố cáo tham nhũng đang được bảo vệ bí mật.",
+          "C. Các tài liệu mật chưa được cơ quan có thẩm quyền cho phép công khai giải mật.",
+          "D. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng, cơ quan tổ chức đơn vị có trách nhiệm gì đối với các hành vi tham nhũng trong khu vực nhà nước (điều 2)?",
+        "q": "Cơ quan, tổ chức, đơn vị có trách nhiệm gì đối với việc thực hiện quy định về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 10)?",
         "options": [
-          "A. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 8)",
-          "B. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 8)",
-          "C. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 8)",
-          "D. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi."
+          "A. Danh sách trinh sát viên đang thực hiện nhiệm vụ điều tra bí mật phòng chống tội phạm.",
+          "B. Đời tư và thông tin sức khỏe cá nhân của toàn thể gia đình công chức trong cơ quan.",
+          "C. Tài liệu đàm phán hiệp định biên giới quốc gia đang trong giai đoạn bảo mật.",
+          "D. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Yêu cầu về tính công khai, minh bạch trong các hành vi tham nhũng trong khu vực nhà nước (điều 2) được quy định ra sao?",
+        "q": "Yêu cầu về tính liêm chính, công khai, minh bạch theo Luật PCTN khẳng định nguyên tắc nào về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 10)?",
         "options": [
-          "A. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 9)",
-          "B. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 9)",
-          "C. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi.",
-          "D. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 9)"
+          "A. Kế hoạch thanh tra đột xuất các vụ việc vi phạm hình sự đang được giữ bí mật.",
+          "B. Mật khẩu truy cập hệ thống cơ sở dữ liệu mật của cơ quan công an địa phương.",
+          "C. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ.",
+          "D. Toàn bộ tài liệu quân sự cơ mật liên quan đến phương án tác chiến phòng thủ quốc gia."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Văn bản pháp luật về phòng, chống tham nhũng khẳng định nội dung nào sau đây về các hành vi tham nhũng trong khu vực nhà nước (điều 2)?",
+        "q": "Văn bản pháp luật về phòng, chống tham nhũng quy định rõ ràng nội dung nào sau đây liên quan đến công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 10)?",
         "options": [
-          "A. Tham ô tài sản; nhận hối lộ; lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản; lợi dụng chức vụ, quyền hạn trong khi thi hành nhiệm vụ, công vụ vì vụ lợi.",
-          "B. Đề xuất cắt giảm các thủ tục hành chính không cần thiết. (không chính xác 10)",
-          "C. Tham gia các buổi quyên góp ủng hộ đồng bào bão lụt. (trái luật 10)",
-          "D. Phê bình nghiêm khắc công chức vi phạm kỷ luật lao động. (sai quy định 10)"
+          "A. Chính sách, pháp luật liên quan đến quyền, lợi ích hợp pháp của cán bộ, công chức, viên chức, người lao động; việc quản lý tài chính công, tài sản công và công tác cán bộ.",
+          "B. Các tài liệu mật chưa được cơ quan có thẩm quyền cho phép công khai giải mật.",
+          "C. Địa chỉ nơi cư trú của người tố cáo tham nhũng đang được bảo vệ bí mật.",
+          "D. Danh sách trinh sát viên đang thực hiện nhiệm vụ điều tra bí mật phòng chống tội phạm."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 1 Điều 2 Luật PCTN quy định 12 hành vi tham nhũng trong khu vực nhà nước."
+        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Cơ quan phải công khai minh bạch tài chính công, tài sản công, TTHC, công tác cán bộ... trừ những nội dung thuộc danh mục bí mật nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH): Cơ quan, tổ chức, đơn vị phải công khai, minh bạch những nội dung nào theo Điều 10 Luật PCTN?",
+        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (VBHN số 65/VBHN-VPQH): Quy định của Luật Phòng, chống tham nhũng về việc tặng quà và nhận quà tặng là:",
         "options": [
-          "A. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 1)",
-          "B. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "C. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 1)",
-          "D. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 1)"
+          "A. Được tự do nhận phong bì tiền mặt của các nhà thầu đang tham gia đấu thầu dự án.",
+          "B. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "C. Công chức được quyền gợi ý người dân đưa quà cáp đắt tiền để hồ sơ được duyệt nhanh hơn.",
+          "D. Chỉ cấm nhận quà tặng là bất động sản, còn quà tặng bằng vàng bạc tiền mặt thì được nhận."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước, nhận định nào sau đây là ĐÚNG về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 9, 10)?",
+        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước theo Luật PCTN: Quy định của Luật Phòng, chống tham nhũng về việc tặng quà và nhận quà tặng là:",
         "options": [
-          "A. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "B. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 2)",
-          "C. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 2)",
-          "D. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 2)"
+          "A. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "B. Được dùng xe công của cơ quan để chở quà tặng riêng của cá nhân đi biếu tặng họ hàng.",
+          "C. Cho phép thủ trưởng cơ quan trích 20% ngân sách cơ quan để mua quà tặng người thân.",
+          "D. Được phép dùng ngân sách nhà nước mua quà tặng xa xỉ cho lãnh đạo cấp trên vào các dịp lễ tết."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP đối với nguyên tắc xây dựng, ban hành vbqppl (điều 5)?",
+        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP liên quan đến nguyên tắc xây dựng, ban hành vbqppl (điều 5)?",
         "options": [
           "A. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "B. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 9)",
-          "C. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 9)",
-          "D. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 9)"
+          "B. Ưu tiên ban hành văn bản nhanh chóng, bỏ qua khâu thẩm định của cơ quan tư pháp.",
+          "C. Ban hành theo ý muốn chủ quan của thủ trưởng cơ quan trực tiếp soạn thảo văn bản.",
+          "D. Bãi bỏ toàn bộ quy trình đánh giá tác động kinh tế - xã hội của chính sách."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định nội dung nào về nguyên tắc xây dựng, ban hành vbqppl (điều 5)?",
+        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định cụ thể nội dung nào đối với nguyên tắc xây dựng, ban hành vbqppl (điều 5)?",
         "options": [
           "A. Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
-          "B. Bảo đảm tính bí mật tuyệt đối không lấy ý kiến nhân dân. (không đúng 10)",
-          "C. Ưu tiên ban hành văn bản nhanh chóng bỏ qua khâu thẩm định. (sai quy định 10)",
-          "D. Ban hành theo ý muốn chủ quan của cơ quan soạn thảo. (trái luật 10)"
+          "B. Ưu tiên bảo vệ tối đa lợi ích cục bộ của ngành mình hơn lợi ích chung của xã hội.",
+          "C. Bảo đảm tính bí mật tuyệt đối, không lấy ý kiến nhân dân và đối tượng chịu tác động.",
+          "D. Chỉ ban hành văn bản khi có sự đồng thuận 100% của toàn bộ các hộ gia đình."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc tối cao là tính hợp hiến, hợp pháp, thống nhất, công khai, minh bạch."
+        "explanation": "★ Căn cứ: Điều 5 Luật Ban hành VBQPPL: Nguyên tắc hàng đầu là tính hợp hiến, tính hợp pháp, tính thống nhất, công khai, minh bạch."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15): Hội đồng nhân dân và Ủy ban nhân dân cấp huyện, cấp xã được ban hành văn bản quy phạm pháp luật khi nào?",
+        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15: Hội đồng nhân dân và Ủy ban nhân dân cấp huyện, cấp xã được ban hành văn bản quy phạm pháp luật khi nào?",
         "options": [
-          "A. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 1)",
+          "A. Được tự quy định các mức thuế thu nhập doanh nghiệp ưu đãi cho người quen.",
           "B. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
-          "C. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 1)",
-          "D. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 1)"
+          "C. Tuyệt đối không có thẩm quyền ban hành văn bản quy phạm pháp luật trong mọi trường hợp.",
+          "D. Được tự do ban hành mọi loại quy định quản lý xã hội theo nhu cầu phát sinh."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
-      },
-      {
-        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Nhận định nào sau đây là ĐÚNG quy định về thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã?",
-        "options": [
-          "A. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
-          "B. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 2)",
-          "C. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 2)",
-          "D. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 2)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
         "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Hội đồng nhân dân và Ủy ban nhân dân cấp huyện, cấp xã được ban hành văn bản quy phạm pháp luật khi nào?",
         "options": [
-          "A. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 3)",
-          "B. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 3)",
-          "C. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 3)",
-          "D. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định."
+          "A. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
+          "B. Chỉ được ban hành sau khi đã xin ý kiến đồng thuận bằng văn bản của Tòa án nhân dân.",
+          "C. Được ban hành quy định thay đổi mức lãi suất huy động của hệ thống ngân hàng.",
+          "D. Chỉ được ban hành khi có tranh chấp đất đai phức tạp xảy ra trên địa bàn."
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "ans": 0,
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Trong xây dựng thể chế hành chính nhà nước: Hội đồng nhân dân và Ủy ban nhân dân cấp huyện, cấp xã được ban hành văn bản quy phạm pháp luật khi nào?",
+        "q": "Trong xây dựng thể chế và áp dụng pháp luật theo Luật số 64/2025/QH15: Hội đồng nhân dân và Ủy ban nhân dân cấp huyện, cấp xã được ban hành văn bản quy phạm pháp luật khi nào?",
+        "options": [
+          "A. Tuyệt đối không có thẩm quyền ban hành văn bản quy phạm pháp luật trong mọi trường hợp.",
+          "B. Được ban hành các quy định về mức phạt tù có thời hạn áp dụng riêng tại xã, phường.",
+          "C. Chỉ ban hành khi có nghị quyết chỉ đạo bằng văn bản của Hội Nông dân cấp tỉnh.",
+          "D. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
+      },
+      {
+        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
+        "q": "Quy định pháp lý về thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã khẳng định nội dung nào sau đây?",
         "options": [
           "A. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
-          "B. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 4)",
-          "C. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 4)",
-          "D. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 4)"
+          "B. Chỉ được ban hành sau khi đã xin ý kiến đồng thuận bằng văn bản của Tòa án nhân dân.",
+          "C. Được tự do ban hành mọi loại quy định quản lý xã hội theo nhu cầu phát sinh.",
+          "D. Được tự quy định các mức thuế thu nhập doanh nghiệp ưu đãi cho người quen."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Trách nhiệm, thẩm quyền của cơ quan hành chính theo Nghị định 150/2025/NĐ-CP đối với vị trí, chức năng của cơ quan chuyên môn thuộc ubnd cấp tỉnh (sở ngành) là:",
         "options": [
-          "A. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 9)",
-          "B. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 9)",
+          "A. Là cơ quan quyền lực nhà nước cao nhất tại địa phương có quyền ban hành luật.",
+          "B. Là đơn vị kinh doanh dịch vụ công nhằm mục đích tối đa hóa lợi nhuận tài chính.",
           "C. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
-          "D. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 9)"
+          "D. Là cơ quan thanh tra độc lập chịu sự chỉ đạo duy nhất của Thanh tra Chính phủ."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Văn bản pháp luật Nghị định 150/2025/NĐ-CP quy định cụ thể nội dung nào về vị trí, chức năng của cơ quan chuyên môn thuộc ubnd cấp tỉnh (sở ngành)?",
         "options": [
-          "A. Là cơ quan thực hiện xét xử các vụ án hành chính. (không đúng 10)",
-          "B. Là cơ quan quyền lực nhà nước tối cao tại địa phương. (sai quy định 10)",
+          "A. Là cơ quan đại diện theo ủy quyền của các tổ chức quốc tế phi chính phủ.",
+          "B. Là cơ quan độc lập thực hiện quyền xét xử các vụ án hành chính và hình sự.",
           "C. Là cơ quan tham mưu, giúp UBND cấp tỉnh thực hiện chức năng quản lý nhà nước về ngành, lĩnh vực ở địa phương và thực hiện các nhiệm vụ, quyền hạn theo sự phân cấp, ủy quyền.",
-          "D. Là đơn vị kinh doanh dịch vụ công có thu lợi nhuận. (trái luật 10)"
+          "D. Là đơn vị hành chính lâm thời chỉ được thành lập khi có dịch bệnh, thiên tai."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Các Sở là cơ quan tham mưu giúp UBND cấp tỉnh quản lý nhà nước theo ngành, lĩnh vực ở địa phương."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP): Nguyên tắc tổ chức cơ quan chuyên môn thuộc UBND cấp tỉnh theo Nghị định 150/2025/NĐ-CP gồm những nguyên tắc nào?",
         "options": [
           "A. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện.",
-          "B. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 1)",
-          "C. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 1)",
-          "D. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 1)"
+          "B. Thành lập càng nhiều sở ngành càng tốt để phân chia đều quyền lực hành chính.",
+          "C. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò quản lý nhà nước của sở ngành.",
+          "D. Không quy định chức năng, nhiệm vụ cụ thể mà để các sở tự thỏa thuận phân chia công việc."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Nhận định nào sau đây là ĐÚNG quy định tại Nghị định 150/2025/NĐ-CP về nguyên tắc tổ chức cơ quan chuyên môn theo nghị định 150/2025/nđ-cp?",
         "options": [
           "A. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện.",
-          "B. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 2)",
-          "C. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 2)",
-          "D. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 2)"
+          "B. Mỗi nhiệm vụ phải giao cho ít nhất 03 sở ngành cùng phụ trách để cạnh tranh hiệu quả.",
+          "C. Cho phép các phòng ban trực thuộc sở hoạt động như các công ty trách nhiệm hữu hạn.",
+          "D. Cơ quan cấp tỉnh được tự ý giải thể các sở ngành mà không cần báo cáo Chính phủ."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Căn cứ Nghị định số 150/2025/NĐ-CP của Chính phủ: Nguyên tắc tổ chức cơ quan chuyên môn thuộc UBND cấp tỉnh theo Nghị định 150/2025/NĐ-CP gồm những nguyên tắc nào?",
         "options": [
-          "A. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 3)",
-          "B. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 3)",
+          "A. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò quản lý nhà nước của sở ngành.",
+          "B. Bãi bỏ toàn bộ các chức danh Giám đốc Sở và chỉ duy trì các chuyên viên làm việc tự do.",
           "C. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện.",
-          "D. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 3)"
+          "D. Mọi công việc chuyên môn đều phải thuê chuyên gia nước ngoài trực tiếp điều hành."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
-        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn: Nguyên tắc tổ chức cơ quan chuyên môn thuộc UBND cấp tỉnh theo Nghị định 150/2025/NĐ-CP gồm những nguyên tắc nào?",
+        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn theo NĐ 150/2025/NĐ-CP: Nguyên tắc tổ chức cơ quan chuyên môn thuộc UBND cấp tỉnh theo Nghị định 150/2025/NĐ-CP gồm những nguyên tắc nào?",
         "options": [
-          "A. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 4)",
+          "A. Cơ quan cấp tỉnh được tự ý giải thể các sở ngành mà không cần báo cáo Chính phủ.",
           "B. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện.",
-          "C. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 4)",
-          "D. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 4)"
+          "C. Không quy định chức năng, nhiệm vụ cụ thể mà để các sở tự thỏa thuận phân chia công việc.",
+          "D. Thành lập càng nhiều sở ngành càng tốt để phân chia đều quyền lực hành chính."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Mức điểm ưu tiên cộng vào kết quả điểm thi tại Vòng 2 đối với thí sinh là người dân tộc thiểu số là bao nhiêu?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 11)?",
         "options": [
-          "A. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 1)",
-          "B. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 1)",
-          "C. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
-          "D. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 1)"
+          "A. Không được hưởng phụ cấp.",
+          "B. Hưởng thêm 50% tiền lương của người tập sự.",
+          "C. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "D. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về chế độ ưu tiên trong thi tuyển công chức (nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 12)?",
         "options": [
-          "A. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
-          "B. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 2)",
-          "C. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 2)",
-          "D. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 2)"
+          "A. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "B. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "C. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "D. Đuổi ra khỏi phòng thi và cấm thi 5 năm."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Mức điểm ưu tiên cộng vào kết quả điểm thi tại Vòng 2 đối với thí sinh là người dân tộc thiểu số là bao nhiêu?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 13)?",
         "options": [
-          "A. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
-          "B. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 3)",
-          "C. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 3)",
-          "D. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 3)"
+          "A. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "B. 09 tháng.",
+          "C. 06 tháng cố định.",
+          "D. 24 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Mức điểm ưu tiên cộng vào kết quả điểm thi tại Vòng 2 đối với thí sinh là người dân tộc thiểu số là bao nhiêu?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 14)?",
         "options": [
-          "A. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
-          "B. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 4)",
-          "C. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 4)",
-          "D. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 4)"
+          "A. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "B. 03 tháng.",
+          "C. 09 tháng.",
+          "D. 12 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Mức điểm ưu tiên cộng vào kết quả điểm thi tại Vòng 2 đối với thí sinh là người dân tộc thiểu số là bao nhiêu?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 15)?",
         "options": [
-          "A. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
-          "B. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 5)",
-          "C. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 5)",
-          "D. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 5)"
+          "A. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "B. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày.",
+          "C. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "D. Thời gian đi công tác địa bàn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến chế độ ưu tiên trong thi tuyển công chức (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 16)?",
         "options": [
-          "A. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 6)",
-          "B. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 6)",
-          "C. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
-          "D. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 6)"
+          "A. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "B. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "C. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "D. Có bằng Thạc sĩ đúng chuyên ngành."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về chế độ ưu tiên trong thi tuyển công chức (nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 17)?",
         "options": [
-          "A. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 7)",
-          "B. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 7)",
-          "C. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 7)",
-          "D. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2."
+          "A. Hưởng thêm 50% tiền lương của người tập sự.",
+          "B. Không được hưởng phụ cấp.",
+          "C. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở.",
+          "D. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với chế độ ưu tiên trong thi tuyển công chức (nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 18)?",
         "options": [
-          "A. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 8)",
-          "B. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
-          "C. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 8)",
-          "D. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 8)"
+          "A. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "B. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "C. Đuổi ra khỏi phòng thi và cấm thi 5 năm.",
+          "D. Tịch thu bài thi và cho điểm 0 ngay lập tức."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến chế độ ưu tiên trong thi tuyển công chức (nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 19)?",
         "options": [
-          "A. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 9)",
-          "B. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2.",
-          "C. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 9)",
-          "D. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 9)"
+          "A. 24 tháng.",
+          "B. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "C. 09 tháng.",
+          "D. 06 tháng cố định."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về chế độ ưu tiên trong thi tuyển công chức (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 20)?",
         "options": [
-          "A. Được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2. (sai quy định 10)",
-          "B. Được cộng 5,0 điểm vào kết quả Vòng 1. (trái luật 10)",
-          "C. Được cộng 2,5 điểm vào kết quả điểm thi tại Vòng 2. (không đúng 10)",
-          "D. Được cộng 5,0 điểm vào kết quả điểm thi tại Vòng 2."
+          "A. 03 tháng.",
+          "B. 12 tháng.",
+          "C. 09 tháng.",
+          "D. 06 tháng kể từ ngày nhận nhiệm sở."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Đối tượng 2 (Dân tộc thiểu số, quân nhân xuất ngũ...) được cộng 5,0 điểm vào kết quả Vòng 2."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Nhận định nào sau đây là ĐÚNG về 6 nội dung trọng tâm của nghị quyết 76/nq-cp theo Nghị quyết 76/NQ-CP?",
         "options": [
-          "A. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 6)",
-          "B. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 6)",
-          "C. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "D. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 6)"
+          "A. Thanh tra công vụ, Kiểm tra tài chính, Xử phạt tiền, Cưỡng chế, Tố tụng và Thi hành án.",
+          "B. Chuyển đổi cây trồng, Thủy lợi hóa, Cơ giới hóa, Điện khí hóa nông thôn và Khuyến nông.",
+          "C. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "D. Chính sách bảo hiểm, Trợ cấp xã hội, Bảo hiểm y tế, Hỗ trợ việc làm và Dạy nghề miễn phí."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
@@ -2809,10 +2809,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Yêu cầu về xây dựng nền hành chính phục vụ nhân dân gắn liền với 6 nội dung trọng tâm của nghị quyết 76/nq-cp như thế nào?",
         "options": [
-          "A. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 7)",
-          "B. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "C. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 7)",
-          "D. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 7)"
+          "A. Quy hoạch đô thị, Xây dựng cầu đường, Mở rộng sân bay, Cấp phép nhà đất và Xử lý nước thải.",
+          "B. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "C. Thể chế, Con người, Doanh nghiệp tư nhân, Đầu tư nước ngoài, Du lịch và Ngoại giao.",
+          "D. Tái cơ cấu nợ, Phát hành công trái, Cắt giảm chi tiêu, Thu hồi tài sản và Đấu giá công vụ."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
@@ -2821,10 +2821,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Thước đo đánh giá hiệu quả của nền hành chính nhà nước trong 6 nội dung trọng tâm của nghị quyết 76/nq-cp là:",
         "options": [
-          "A. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "B. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 8)",
-          "C. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 8)",
-          "D. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 8)"
+          "A. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "B. Giảm biên chế, Tăng thuế suất, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển cán bộ.",
+          "C. Chuyển đổi cây trồng, Thủy lợi hóa, Cơ giới hóa, Điện khí hóa nông thôn và Khuyến nông.",
+          "D. Tuyên truyền đường lối, Phổ biến pháp luật, Xét khen thưởng, Kỷ luật và Vận động tài trợ."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
@@ -2833,10 +2833,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo chủ trương CCHC của Chính phủ, nội dung cốt lõi của 6 nội dung trọng tâm của nghị quyết 76/nq-cp được xác định là:",
         "options": [
-          "A. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 9)",
-          "B. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 9)",
-          "C. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "D. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 9)"
+          "A. Thanh tra công vụ, Kiểm tra tài chính, Xử phạt tiền, Cưỡng chế, Tố tụng và Thi hành án.",
+          "B. Thể chế, Con người, Doanh nghiệp tư nhân, Đầu tư nước ngoài, Du lịch và Ngoại giao.",
+          "C. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "D. Chính sách bảo hiểm, Trợ cấp xã hội, Bảo hiểm y tế, Hỗ trợ việc làm và Dạy nghề miễn phí."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
@@ -2845,73 +2845,73 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Văn bản pháp luật về CCHC khẳng định nguyên tắc nào sau đây đối với 6 nội dung trọng tâm của nghị quyết 76/nq-cp?",
         "options": [
-          "A. Thanh tra, Kiểm tra, Xử phạt, Cưỡng chế, Tố tụng và Thi hành án. (trái luật 10)",
-          "B. Giảm biên chế, Tăng thuế, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển. (không chính xác 10)",
-          "C. Cải cách thể chế; Cải cách TTHC; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
-          "D. Thể chế, Con người, Doanh nghiệp, Đầu tư, Thương mại và Du lịch. (sai quy định 10)"
+          "A. Tái cơ cấu nợ, Phát hành công trái, Cắt giảm chi tiêu, Thu hồi tài sản và Đấu giá công vụ.",
+          "B. Quy hoạch đô thị, Xây dựng cầu đường, Mở rộng sân bay, Cấp phép nhà đất và Xử lý nước thải.",
+          "C. Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.",
+          "D. Giảm biên chế, Tăng thuế suất, Mua sắm trang thiết bị, Đào tạo lại và Luân chuyển cán bộ."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: NQ 76/NQ-CP: 6 trụ cột CCHC: Thể chế -> TTHC -> Bộ máy -> Chế độ công vụ -> Tài chính công -> Chính phủ số."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Nhận định nào sau đây là ĐÚNG về nhiệm vụ kế hoạch cchc tỉnh thừa thiên huế (nay là tp huế) (qđ 2243/qđ-ubnd) tại TP Huế?",
+        "q": "Nhận định nào sau đây là ĐÚNG về nhiệm vụ kế hoạch cchc thành phố huế (qđ 1026 & qđ 2243/qđ-ubnd) tại TP Huế?",
         "options": [
-          "A. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 6)",
+          "A. Kế hoạch bảo tồn và phục dựng các lăng tẩm thời triều Nguyễn.",
           "B. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế.",
-          "C. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 6)",
-          "D. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 6)"
+          "C. Kế hoạch giải tỏa các chợ cóc tự phát lấn chiếm lòng lề đường đô thị.",
+          "D. Kế hoạch tổng kiểm kê rừng và tài nguyên khoáng sản trên địa bàn thành phố."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Mô hình chính quyền số thành phố Huế gắn liền với kế hoạch cchc tỉnh thừa thiên huế (nay là tp huế) (qđ 2243/qđ-ubnd) ở điểm cốt lõi nào?",
+        "q": "Mô hình chính quyền số thành phố Huế gắn liền với kế hoạch cchc thành phố huế (qđ 1026 & qđ 2243/qđ-ubnd) ở điểm cốt lõi nào?",
         "options": [
-          "A. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 7)",
-          "B. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 7)",
-          "C. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 7)",
+          "A. Kế hoạch phòng chống thiên tai, bão lũ và tìm kiếm cứu nạn trên biển.",
+          "B. Kế hoạch phân loại rác thải tại nguồn cho toàn bộ các hộ gia đình cư dân.",
+          "C. Kế hoạch mở rộng mạng lưới xe buýt công cộng chất lượng cao đô thị.",
           "D. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Thí sinh tham dự kỳ thi công chức TP Huế năm 2025 cần nắm vững quy định nào về kế hoạch cchc tỉnh thừa thiên huế (nay là tp huế) (qđ 2243/qđ-ubnd)?",
+        "q": "Thí sinh tham dự kỳ thi công chức TP Huế năm 2025 cần nắm vững quy định nào về kế hoạch cchc thành phố huế (qđ 1026 & qđ 2243/qđ-ubnd)?",
         "options": [
-          "A. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 8)",
+          "A. Kế hoạch thu hồi đất dự án mở rộng đường vành đai phía nam thành phố.",
           "B. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế.",
-          "C. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 8)",
-          "D. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 8)"
+          "C. Kế hoạch kiểm tra việc niêm yết giá dịch vụ du lịch mùa Festival Huế.",
+          "D. Kế hoạch giải tỏa các chợ cóc tự phát lấn chiếm lòng lề đường đô thị."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua kế hoạch cchc tỉnh thừa thiên huế (nay là tp huế) (qđ 2243/qđ-ubnd) ra sao?",
+        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua Kế hoạch CCHC thành phố Huế (QĐ 1026 & QĐ 2243/QĐ-UBND) ra sao?",
         "options": [
           "A. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế.",
-          "B. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 9)",
-          "C. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 9)",
-          "D. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 9)"
+          "B. Kế hoạch phòng chống thiên tai, bão lũ và tìm kiếm cứu nạn trên biển.",
+          "C. Kế hoạch bảo tồn và phục dựng các lăng tẩm thời triều Nguyễn.",
+          "D. Kế hoạch tổng kiểm kê rừng và tài nguyên khoáng sản trên địa bàn thành phố."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Văn bản chỉ đạo điều hành của UBND TP Huế xác định nội dung cụ thể nào về kế hoạch cchc tỉnh thừa thiên huế (nay là tp huế) (qđ 2243/qđ-ubnd)?",
+        "q": "Văn bản chỉ đạo điều hành của UBND TP Huế xác định nội dung cụ thể nào về kế hoạch cchc thành phố huế (qđ 1026 & qđ 2243/qđ-ubnd)?",
         "options": [
-          "A. Kế hoạch mở rộng khu di tích Cố đô Huế. (trái luật 10)",
-          "B. Kế hoạch thu hồi đất dự án đường vành đai. (không chính xác 10)",
+          "A. Kế hoạch phân loại rác thải tại nguồn cho toàn bộ các hộ gia đình cư dân.",
+          "B. Kế hoạch mở rộng mạng lưới xe buýt công cộng chất lượng cao đô thị.",
           "C. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của thành phố Huế.",
-          "D. Kế hoạch phòng chống lụt bão và tìm kiếm cứu nạn. (sai quy định 10)"
+          "D. Kế hoạch thu hồi đất dự án mở rộng đường vành đai phía nam thành phố."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Quyết định số 2243/QĐ-UBND của UBND tỉnh/thành phố Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
+        "explanation": "★ Căn cứ: QĐ 1026/QĐ-UBND và QĐ 2243/QĐ-UBND của TP Huế: Ban hành Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030."
       }
     ]
   },
@@ -2920,676 +2920,676 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 05 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, hội đồng nhân dân thành phố trực thuộc trung ương có thẩm quyền quyết định nội dung nào sau đây?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Hội đồng nhân dân thành phố trực thuộc trung ương có thẩm quyền quyết định nội dung nào sau đây?",
         "options": [
-          "A. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 1)",
+          "A. Quyết định mức lãi suất cơ bản của hệ thống ngân hàng thương mại trên toàn quốc.",
           "B. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "C. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 1)",
-          "D. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 1)"
+          "C. Tuyên bố tình trạng chiến tranh hoặc bãi bỏ tình trạng khẩn cấp quốc gia.",
+          "D. Quyết định ký kết các hiệp ước quốc tế nhân danh Nhà nước Cộng hòa XHCN Việt Nam."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương (chương iv)?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương?",
         "options": [
           "A. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "B. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 2)",
-          "C. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 2)",
-          "D. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 2)"
+          "B. Phê chuẩn danh sách các thành viên Chính phủ theo đề nghị của Thủ tướng.",
+          "C. Ban hành các bộ luật điều chỉnh các quan hệ dân sự và hình sự trên toàn quốc.",
+          "D. Bổ nhiệm các Đại sứ đặc mệnh toàn quyền của Việt Nam ở nước ngoài."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Hội đồng nhân dân thành phố trực thuộc trung ương có thẩm quyền quyết định nội dung nào sau đây?",
+        "options": [
+          "A. Tự ý ban hành tiền tệ riêng lưu hành nội bộ trên địa bàn thành phố.",
+          "B. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
+          "C. Quyết định mức lãi suất cơ bản của hệ thống ngân hàng thương mại trên toàn quốc.",
+          "D. Quyết định thay đổi địa giới hành chính giữa các quốc gia láng giềng."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương, cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
+        "options": [
+          "A. Quyết định ký kết các hiệp ước quốc tế nhân danh Nhà nước Cộng hòa XHCN Việt Nam.",
+          "B. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
+          "C. Ban hành các bộ luật điều chỉnh các quan hệ dân sự và hình sự trên toàn quốc.",
+          "D. Tuyên bố tình trạng chiến tranh hoặc bãi bỏ tình trạng khẩn cấp quốc gia."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương là gì?",
+        "options": [
+          "A. Bổ nhiệm các Đại sứ đặc mệnh toàn quyền của Việt Nam ở nước ngoài.",
+          "B. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
+          "C. Quyết định thay đổi địa giới hành chính giữa các quốc gia láng giềng.",
+          "D. Phê chuẩn danh sách các thành viên Chính phủ theo đề nghị của Thủ tướng."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
         "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Hội đồng nhân dân thành phố trực thuộc trung ương có thẩm quyền quyết định nội dung nào sau đây?",
         "options": [
-          "A. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 3)",
-          "B. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "C. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 3)",
-          "D. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 3)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương (chương iv) theo nguyên tắc nào sau đây?",
-        "options": [
-          "A. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 4)",
-          "B. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "C. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 4)",
-          "D. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 4)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương (chương iv) là gì?",
-        "options": [
-          "A. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 5)",
-          "B. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "C. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 5)",
-          "D. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 5)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương (chương iv) như thế nào?",
-        "options": [
-          "A. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 6)",
-          "B. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 6)",
+          "A. Quyết định mức lãi suất cơ bản của hệ thống ngân hàng thương mại trên toàn quốc.",
+          "B. Tuyên bố tình trạng chiến tranh hoặc bãi bỏ tình trạng khẩn cấp quốc gia.",
           "C. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "D. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 6)"
+          "D. Tự ý ban hành tiền tệ riêng lưu hành nội bộ trên địa bàn thành phố."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương (chương iv) được áp dụng ra sao?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương được áp dụng như thế nào?",
         "options": [
-          "A. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 7)",
-          "B. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 7)",
-          "C. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 7)",
+          "A. Ban hành các bộ luật điều chỉnh các quan hệ dân sự và hình sự trên toàn quốc.",
+          "B. Quyết định ký kết các hiệp ước quốc tế nhân danh Nhà nước Cộng hòa XHCN Việt Nam.",
+          "C. Bổ nhiệm các Đại sứ đặc mệnh toàn quyền của Việt Nam ở nước ngoài.",
           "D. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương (chương iv)?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương theo Luật số 72/2025/QH15:",
         "options": [
           "A. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "B. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 8)",
-          "C. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 8)",
-          "D. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 8)"
+          "B. Tự ý ban hành tiền tệ riêng lưu hành nội bộ trên địa bàn thành phố.",
+          "C. Phê chuẩn danh sách các thành viên Chính phủ theo đề nghị của Thủ tướng.",
+          "D. Quyết định thay đổi địa giới hành chính giữa các quốc gia láng giềng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương (chương iv) đòi hỏi điều gì?",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương?",
         "options": [
-          "A. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 9)",
-          "B. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 9)",
+          "A. Quyết định ký kết các hiệp ước quốc tế nhân danh Nhà nước Cộng hòa XHCN Việt Nam.",
+          "B. Tuyên bố tình trạng chiến tranh hoặc bãi bỏ tình trạng khẩn cấp quốc gia.",
           "C. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "D. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 9)"
+          "D. Quyết định mức lãi suất cơ bản của hệ thống ngân hàng thương mại trên toàn quốc."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương (chương iv)?",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với nhiệm vụ, quyền hạn hđnd thành phố trực thuộc trung ương?",
         "options": [
-          "A. Phê chuẩn danh sách thành viên Chính phủ. (không đúng thẩm quyền 10)",
+          "A. Ban hành các bộ luật điều chỉnh các quan hệ dân sự và hình sự trên toàn quốc.",
           "B. Quyết định quy hoạch phát triển kinh tế - xã hội, kế hoạch sử dụng đất, dự toán thu chi ngân sách địa phương và các cơ chế chính sách đặc thù theo thẩm quyền.",
-          "C. Quyết định ký kết các hiệp ước quốc tế thay mặt Nhà nước. (sai quy định 10)",
-          "D. Quyết định mức lãi suất cơ bản của Ngân hàng Nhà nước. (vi phạm nguyên tắc 10)"
+          "C. Phê chuẩn danh sách các thành viên Chính phủ theo đề nghị của Thủ tướng.",
+          "D. Bổ nhiệm các Đại sứ đặc mệnh toàn quyền của Việt Nam ở nước ngoài."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát trên địa bàn."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: HĐND cấp tỉnh/thành phố quyết định các vấn đề lớn về kinh tế, ngân sách, quy hoạch và giám sát việc thi hành pháp luật trên địa bàn."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Trong giao tiếp ở công sở và với nhân dân, cán bộ, công chức phải thể hiện tác phong như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 3)?",
         "options": [
-          "A. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 1)",
-          "B. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 1)",
-          "C. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà.",
-          "D. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 1)"
+          "A. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "B. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "D. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về văn hóa giao tiếp ở công sở và với nhân dân (điều 16, 17)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 3)?",
         "options": [
-          "A. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà.",
-          "B. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 2)",
-          "C. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 2)",
-          "D. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 2)"
+          "A. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "B. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "C. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "D. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Trong giao tiếp ở công sở và với nhân dân, cán bộ, công chức phải thể hiện tác phong như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 3)?",
         "options": [
-          "A. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 3)",
-          "B. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà.",
-          "C. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 3)",
-          "D. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 3)"
+          "A. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "B. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "C. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "D. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về văn hóa giao tiếp ở công sở và với nhân dân (điều 16, 17) như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 3)?",
         "options": [
-          "A. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 4)",
-          "B. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 4)",
-          "C. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà.",
-          "D. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 4)"
+          "A. Trong thời hạn 07 ngày làm việc.",
+          "B. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "C. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "D. Trong thời hạn 30 ngày kể từ ngày nhận quyết định."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về văn hóa giao tiếp ở công sở và với nhân dân (điều 16, 17) yêu cầu công chức phải tuân thủ nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 3)?",
         "options": [
-          "A. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 5)",
-          "B. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 5)",
-          "C. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 5)",
-          "D. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà."
+          "A. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "B. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "C. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "D. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng văn hóa giao tiếp ở công sở và với nhân dân (điều 16, 17) là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 4)?",
         "options": [
-          "A. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà.",
-          "B. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 6)",
-          "C. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 6)",
-          "D. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 6)"
+          "A. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "B. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "C. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "D. Được xem xét chuyển sang làm nhân viên hợp đồng lao động."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về văn hóa giao tiếp ở công sở và với nhân dân (điều 16, 17) khi nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 4)?",
         "options": [
-          "A. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 7)",
-          "B. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 7)",
-          "C. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 7)",
-          "D. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà."
+          "A. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "B. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "C. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "D. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến văn hóa giao tiếp ở công sở và với nhân dân (điều 16, 17)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 4)?",
         "options": [
-          "A. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 8)",
-          "B. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà.",
-          "C. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 8)",
-          "D. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 8)"
+          "A. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "B. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "C. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "D. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về văn hóa giao tiếp ở công sở và với nhân dân (điều 16, 17) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 4)?",
         "options": [
-          "A. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà.",
-          "B. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 9)",
-          "C. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 9)",
-          "D. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 9)"
+          "A. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "B. Trong thời hạn 07 ngày làm việc.",
+          "C. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "D. Trong thời hạn 60 ngày kể từ ngày công bố quyết định."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về văn hóa giao tiếp ở công sở và với nhân dân (điều 16, 17)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 4)?",
         "options": [
-          "A. Tự do xưng hô theo ngôn từ địa phương thân mật quá mức. (không chính xác 10)",
-          "B. Chỉ tiếp đón những công dân ăn mặc sang trọng. (trái luật 10)",
-          "C. Thái độ nghiêm khắc, xa cách tuyệt đối và không trả lời thắc mắc. (sai quy định 10)",
-          "D. Thái độ lịch sự, tôn trọng đồng nghiệp; ngôn ngữ chuẩn mực, rõ ràng; nhã nhặn, lắng nghe nhân dân; không hách dịch, cửa quyền, gây phiền hà."
+          "A. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "B. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "C. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "D. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 16 & 17 Luật CBCC: Văn hóa công sở văn minh, tôn trọng, ngôn ngữ chuẩn mực; với nhân dân nhã nhặn, không hách dịch."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng (VBHN số 65/VBHN-VPQH): Cơ quan, tổ chức, đơn vị phải công khai, minh bạch những nội dung nào theo Điều 10 Luật PCTN?",
+        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng: Quy định của Luật Phòng, chống tham nhũng về việc tặng quà và nhận quà tặng là:",
         "options": [
-          "A. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "B. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 3)",
-          "C. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 3)",
-          "D. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 3)"
+          "A. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "B. Công chức được phép giữ lại toàn bộ quà tặng của doanh nghiệp mà không cần báo cáo.",
+          "C. Cho phép các đơn vị lập quỹ đen ngoài sổ sách để chi quà tặng ngoại giao tùy tiện.",
+          "D. Được tự do nhận phong bì tiền mặt của các nhà thầu đang tham gia đấu thầu dự án."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Tình huống công vụ: Công chức xử lý đúng quy định về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 9, 10) như thế nào?",
+        "q": "Quy định pháp lý hiện hành về phòng, chống tham nhũng xác định nội dung nào sau đây về quy định về tặng quà và nhận quà tặng (điều 22)?",
         "options": [
-          "A. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "B. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 4)",
-          "C. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 4)",
-          "D. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 4)"
+          "A. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "B. Cho phép thủ trưởng cơ quan trích 20% ngân sách cơ quan để mua quà tặng người thân.",
+          "C. Chỉ cấm nhận quà tặng là bất động sản, còn quà tặng bằng vàng bạc tiền mặt thì được nhận.",
+          "D. Công chức được quyền gợi ý người dân đưa quà cáp đắt tiền để hồ sơ được duyệt nhanh hơn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Quy định pháp lý về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 9, 10) yêu cầu người có chức vụ, quyền hạn phải tuân thủ điều gì?",
+        "q": "Tình huống công vụ: Người có chức vụ, quyền hạn phải xử lý đúng quy định pháp luật về quy định về tặng quà và nhận quà tặng (điều 22) như thế nào?",
         "options": [
-          "A. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "B. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 5)",
-          "C. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 5)",
-          "D. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 5)"
+          "A. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "B. Được dùng xe công của cơ quan để chở quà tặng riêng của cá nhân đi biếu tặng họ hàng.",
+          "C. Công chức được phép giữ lại toàn bộ quà tặng của doanh nghiệp mà không cần báo cáo.",
+          "D. Được phép dùng ngân sách nhà nước mua quà tặng xa xỉ cho lãnh đạo cấp trên vào các dịp lễ tết."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi nào sau đây vi phạm quy định về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 9, 10)?",
+        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi hoặc nhận định nào sau đây là ĐÚNG về quy định về tặng quà và nhận quà tặng (điều 22)?",
         "options": [
-          "A. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 6)",
-          "B. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "C. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 6)",
-          "D. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 6)"
+          "A. Cho phép các đơn vị lập quỹ đen ngoài sổ sách để chi quà tặng ngoại giao tùy tiện.",
+          "B. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "C. Được tự do nhận phong bì tiền mặt của các nhà thầu đang tham gia đấu thầu dự án.",
+          "D. Chỉ cấm nhận quà tặng là bất động sản, còn quà tặng bằng vàng bạc tiền mặt thì được nhận."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Biện pháp phòng ngừa tham nhũng nào sau đây được áp dụng đối với công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 9, 10)?",
+        "q": "Biện pháp phòng ngừa và xử lý nghiêm minh theo quy định của Luật PCTN đối với quy định về tặng quà và nhận quà tặng (điều 22) là:",
         "options": [
-          "A. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "B. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 7)",
-          "C. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 7)",
-          "D. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 7)"
+          "A. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "B. Được dùng xe công của cơ quan để chở quà tặng riêng của cá nhân đi biếu tặng họ hàng.",
+          "C. Cho phép thủ trưởng cơ quan trích 20% ngân sách cơ quan để mua quà tặng người thân.",
+          "D. Công chức được quyền gợi ý người dân đưa quà cáp đắt tiền để hồ sơ được duyệt nhanh hơn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng, cơ quan tổ chức đơn vị có trách nhiệm gì đối với công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 9, 10)?",
+        "q": "Cơ quan, tổ chức, đơn vị có trách nhiệm gì đối với việc thực hiện quy định về quy định về tặng quà và nhận quà tặng (điều 22)?",
         "options": [
-          "A. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 8)",
-          "B. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "C. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 8)",
-          "D. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 8)"
+          "A. Cho phép các đơn vị lập quỹ đen ngoài sổ sách để chi quà tặng ngoại giao tùy tiện.",
+          "B. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "C. Được phép dùng ngân sách nhà nước mua quà tặng xa xỉ cho lãnh đạo cấp trên vào các dịp lễ tết.",
+          "D. Công chức được phép giữ lại toàn bộ quà tặng của doanh nghiệp mà không cần báo cáo."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Yêu cầu về tính công khai, minh bạch trong công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 9, 10) được quy định ra sao?",
+        "q": "Yêu cầu về tính liêm chính, công khai, minh bạch theo Luật PCTN khẳng định nguyên tắc nào về quy định về tặng quà và nhận quà tặng (điều 22)?",
         "options": [
-          "A. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 9)",
-          "B. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "C. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 9)",
-          "D. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 9)"
+          "A. Được tự do nhận phong bì tiền mặt của các nhà thầu đang tham gia đấu thầu dự án.",
+          "B. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "C. Chỉ cấm nhận quà tặng là bất động sản, còn quà tặng bằng vàng bạc tiền mặt thì được nhận.",
+          "D. Công chức được quyền gợi ý người dân đưa quà cáp đắt tiền để hồ sơ được duyệt nhanh hơn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Văn bản pháp luật về phòng, chống tham nhũng khẳng định nội dung nào sau đây về công khai, minh bạch trong cơ quan, tổ chức, đơn vị (điều 9, 10)?",
+        "q": "Văn bản pháp luật về phòng, chống tham nhũng quy định rõ ràng nội dung nào sau đây liên quan đến quy định về tặng quà và nhận quà tặng (điều 22)?",
         "options": [
-          "A. Mật khẩu hệ thống mạng nội bộ của Ban Chỉ đạo. (trái luật 10)",
-          "B. Chính sách, pháp luật; thủ tục hành chính, quy trình giải quyết công việc; việc bố trí, quản lý, sử dụng tài chính công, tài sản công; công tác tổ chức cán bộ.",
-          "C. Danh tính nhân viên tình báo đang làm nhiệm vụ. (không chính xác 10)",
-          "D. Bí mật kế hoạch phòng thủ quân sự quốc gia. (sai quy định 10)"
+          "A. Được dùng xe công của cơ quan để chở quà tặng riêng của cá nhân đi biếu tặng họ hàng.",
+          "B. Cơ quan, tổ chức, cán bộ, công chức không được sử dụng tài chính công, tài sản công làm quà tặng; không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của người có liên quan đến công việc mình giải quyết.",
+          "C. Cho phép thủ trưởng cơ quan trích 20% ngân sách cơ quan để mua quà tặng người thân.",
+          "D. Được phép dùng ngân sách nhà nước mua quà tặng xa xỉ cho lãnh đạo cấp trên vào các dịp lễ tết."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 10 Luật PCTN: Phải công khai chính sách, thủ tục, tài chính công, tài sản công, nhân sự (trừ tài liệu bí mật nhà nước)."
+        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm dùng tài chính, tài sản công làm quà tặng; người có chức vụ quyền hạn không được nhận quà của người có liên quan đến công việc mình giải quyết."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Quy định pháp lý về thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã khẳng định điều gì?",
+        "q": "Khi cơ quan có thẩm quyền tại thành phố Huế ban hành văn bản, quy định về thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã được áp dụng ra sao?",
         "options": [
-          "A. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 5)",
+          "A. Chỉ được ban hành khi có tranh chấp đất đai phức tạp xảy ra trên địa bàn.",
           "B. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
-          "C. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 5)",
-          "D. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 5)"
+          "C. Được ban hành các quy định về mức phạt tù có thời hạn áp dụng riêng tại xã, phường.",
+          "D. Được ban hành quy định thay đổi mức lãi suất huy động của hệ thống ngân hàng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo quy định hiện hành, việc áp dụng thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã được thực hiện như thế nào?",
+        "q": "Nhận định nào sau đây là CHUẨN XÁC theo quy định của Luật Ban hành văn bản quy phạm pháp luật về thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã?",
         "options": [
-          "A. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 6)",
-          "B. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 6)",
-          "C. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 6)",
+          "A. Chỉ ban hành khi có nghị quyết chỉ đạo bằng văn bản của Hội Nông dân cấp tỉnh.",
+          "B. Tuyệt đối không có thẩm quyền ban hành văn bản quy phạm pháp luật trong mọi trường hợp.",
+          "C. Được tự quy định các mức thuế thu nhập doanh nghiệp ưu đãi cho người quen.",
           "D. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Cơ quan soạn thảo văn bản của thành phố Huế phải tuân thủ quy định nào về thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã?",
+        "q": "Tình huống xây dựng văn bản: Cơ quan soạn thảo phải tuân thủ đúng nguyên tắc nào về thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã?",
         "options": [
           "A. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
-          "B. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 7)",
-          "C. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 7)",
-          "D. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 7)"
+          "B. Được ban hành quy định thay đổi mức lãi suất huy động của hệ thống ngân hàng.",
+          "C. Được tự do ban hành mọi loại quy định quản lý xã hội theo nhu cầu phát sinh.",
+          "D. Chỉ được ban hành sau khi đã xin ý kiến đồng thuận bằng văn bản của Tòa án nhân dân."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Xác định nguyên tắc chuẩn xác của pháp luật liên quan đến thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã:",
+        "q": "Xác định quy định pháp lý bắt buộc đối với thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã theo Luật Ban hành VBQPPL hiện hành:",
         "options": [
           "A. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
-          "B. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 8)",
-          "C. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 8)",
-          "D. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 8)"
+          "B. Chỉ được ban hành khi có tranh chấp đất đai phức tạp xảy ra trên địa bàn.",
+          "C. Chỉ ban hành khi có nghị quyết chỉ đạo bằng văn bản của Hội Nông dân cấp tỉnh.",
+          "D. Được ban hành các quy định về mức phạt tù có thời hạn áp dụng riêng tại xã, phường."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP đối với thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã?",
+        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP liên quan đến thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã?",
         "options": [
           "A. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
-          "B. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 9)",
-          "C. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 9)",
-          "D. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 9)"
+          "B. Được tự quy định các mức thuế thu nhập doanh nghiệp ưu đãi cho người quen.",
+          "C. Được tự do ban hành mọi loại quy định quản lý xã hội theo nhu cầu phát sinh.",
+          "D. Tuyệt đối không có thẩm quyền ban hành văn bản quy phạm pháp luật trong mọi trường hợp."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định nội dung nào về thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã?",
+        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định cụ thể nội dung nào đối với thẩm quyền ban hành vbqppl của chính quyền cấp huyện, cấp xã?",
         "options": [
-          "A. Chỉ được ban hành khi có tranh chấp đất đai phát sinh. (không đúng 10)",
+          "A. Chỉ được ban hành sau khi đã xin ý kiến đồng thuận bằng văn bản của Tòa án nhân dân.",
           "B. Khi được luật, nghị quyết của Quốc hội giao quy định chi tiết hoặc để phân cấp thực hiện nhiệm vụ theo quy định.",
-          "C. Được tự do ban hành mọi loại quy định quản lý xã hội. (sai quy định 10)",
-          "D. Tuyệt đối không có thẩm quyền ban hành VBQPPL trong mọi trường hợp. (trái luật 10)"
+          "C. Chỉ được ban hành khi có tranh chấp đất đai phức tạp xảy ra trên địa bàn.",
+          "D. Được ban hành quy định thay đổi mức lãi suất huy động của hệ thống ngân hàng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL sửa đổi: Cấp huyện, xã chỉ ban hành VBQPPL khi được luật, nghị quyết Quốc hội giao hoặc phân cấp."
+        "explanation": "★ Căn cứ: Luật Ban hành VBQPPL: HĐND, UBND cấp huyện, cấp xã chỉ ban hành VBQPPL khi được luật, nghị quyết của Quốc hội giao hoặc để phân cấp nhiệm vụ."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Quy định pháp lý tại Nghị định 150/2025/NĐ-CP khẳng định nội dung nào về nguyên tắc tổ chức cơ quan chuyên môn theo nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 5)",
+          "A. Mỗi nhiệm vụ phải giao cho ít nhất 03 sở ngành cùng phụ trách để cạnh tranh hiệu quả.",
           "B. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện.",
-          "C. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 5)",
-          "D. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 5)"
+          "C. Mọi công việc chuyên môn đều phải thuê chuyên gia nước ngoài trực tiếp điều hành.",
+          "D. Cho phép các phòng ban trực thuộc sở hoạt động như các công ty trách nhiệm hữu hạn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo quy định hiện hành, việc quản lý tổ chức bộ máy liên quan đến nguyên tắc tổ chức cơ quan chuyên môn theo nghị định 150/2025/nđ-cp được thực hiện ra sao?",
         "options": [
           "A. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện.",
-          "B. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 6)",
-          "C. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 6)",
-          "D. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 6)"
+          "B. Không quy định chức năng, nhiệm vụ cụ thể mà để các sở tự thỏa thuận phân chia công việc.",
+          "C. Bãi bỏ toàn bộ các chức danh Giám đốc Sở và chỉ duy trì các chuyên viên làm việc tự do.",
+          "D. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò quản lý nhà nước của sở ngành."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Đối với thành phố Huế trực thuộc Trung ương, quy định của Nghị định 150/2025/NĐ-CP về nguyên tắc tổ chức cơ quan chuyên môn theo nghị định 150/2025/nđ-cp được triển khai như thế nào?",
         "options": [
-          "A. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 7)",
-          "B. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 7)",
+          "A. Thành lập càng nhiều sở ngành càng tốt để phân chia đều quyền lực hành chính.",
+          "B. Cho phép các phòng ban trực thuộc sở hoạt động như các công ty trách nhiệm hữu hạn.",
           "C. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện.",
-          "D. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 7)"
+          "D. Cơ quan cấp tỉnh được tự ý giải thể các sở ngành mà không cần báo cáo Chính phủ."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Xác định nguyên tắc chuẩn xác của Nghị định 150/2025/NĐ-CP về nguyên tắc tổ chức cơ quan chuyên môn theo nghị định 150/2025/nđ-cp:",
         "options": [
-          "A. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 8)",
-          "B. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 8)",
-          "C. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 8)",
+          "A. Mỗi nhiệm vụ phải giao cho ít nhất 03 sở ngành cùng phụ trách để cạnh tranh hiệu quả.",
+          "B. Bãi bỏ toàn bộ các chức danh Giám đốc Sở và chỉ duy trì các chuyên viên làm việc tự do.",
+          "C. Mọi công việc chuyên môn đều phải thuê chuyên gia nước ngoài trực tiếp điều hành.",
           "D. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Trách nhiệm, thẩm quyền của cơ quan hành chính theo Nghị định 150/2025/NĐ-CP đối với nguyên tắc tổ chức cơ quan chuyên môn theo nghị định 150/2025/nđ-cp là:",
         "options": [
-          "A. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 9)",
-          "B. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 9)",
-          "C. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 9)",
+          "A. Không quy định chức năng, nhiệm vụ cụ thể mà để các sở tự thỏa thuận phân chia công việc.",
+          "B. Thành lập càng nhiều sở ngành càng tốt để phân chia đều quyền lực hành chính.",
+          "C. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò quản lý nhà nước của sở ngành.",
           "D. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Văn bản pháp luật Nghị định 150/2025/NĐ-CP quy định cụ thể nội dung nào về nguyên tắc tổ chức cơ quan chuyên môn theo nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Mỗi nhiệm vụ giao cho ít nhất 3 cơ quan cùng phụ trách để cạnh tranh. (không đúng 10)",
+          "A. Cơ quan cấp tỉnh được tự ý giải thể các sở ngành mà không cần báo cáo Chính phủ.",
           "B. Bảo đảm tinh gọn, hợp lý, hiệu lực, hiệu quả; không chồng chéo, không bỏ sót chức năng, nhiệm vụ; một việc chỉ giao cho một cơ quan chủ trì thực hiện.",
-          "C. Doanh nghiệp tư nhân được quyền thay thế hoàn toàn vai trò của sở. (trái luật 10)",
-          "D. Thành lập càng nhiều sở ngành càng tốt để phân chia quyền lực. (sai quy định 10)"
+          "C. Cho phép các phòng ban trực thuộc sở hoạt động như các công ty trách nhiệm hữu hạn.",
+          "D. Mỗi nhiệm vụ phải giao cho ít nhất 03 sở ngành cùng phụ trách để cạnh tranh hiệu quả."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Nguyên tắc tinh gọn, hiệu lực, không chồng chéo, một việc một đầu mối chủ trì thực hiện."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự của người trúng tuyển công chức ngạch Chuyên viên và Cán sự lần lượt là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 21)?",
         "options": [
-          "A. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 1)",
-          "B. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "C. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 1)",
-          "D. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 1)"
+          "A. Thời gian đi công tác địa bàn.",
+          "B. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "C. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "D. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về thời gian tập sự ngạch chuyên viên và cán sự (nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 22)?",
         "options": [
-          "A. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "B. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 2)",
-          "C. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 2)",
-          "D. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 2)"
+          "A. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "B. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "C. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "D. Có bằng Thạc sĩ đúng chuyên ngành."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự của người trúng tuyển công chức ngạch Chuyên viên và Cán sự lần lượt là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 23)?",
         "options": [
-          "A. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 3)",
-          "B. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "C. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 3)",
-          "D. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 3)"
+          "A. Hưởng thêm 50% tiền lương của người tập sự.",
+          "B. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "C. Không được hưởng phụ cấp.",
+          "D. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự của người trúng tuyển công chức ngạch Chuyên viên và Cán sự lần lượt là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 24)?",
         "options": [
-          "A. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 4)",
-          "B. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 4)",
-          "C. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "D. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 4)"
+          "A. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "B. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "C. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "D. Đuổi ra khỏi phòng thi và cấm thi 5 năm."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự của người trúng tuyển công chức ngạch Chuyên viên và Cán sự lần lượt là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 25)?",
         "options": [
-          "A. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 5)",
-          "B. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 5)",
-          "C. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "D. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 5)"
+          "A. 06 tháng cố định.",
+          "B. 24 tháng.",
+          "C. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "D. 09 tháng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến thời gian tập sự ngạch chuyên viên và cán sự (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 26)?",
         "options": [
-          "A. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "B. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 6)",
-          "C. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 6)",
-          "D. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 6)"
+          "A. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "B. 12 tháng.",
+          "C. 03 tháng.",
+          "D. 09 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về thời gian tập sự ngạch chuyên viên và cán sự (nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 27)?",
         "options": [
-          "A. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 7)",
-          "B. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 7)",
-          "C. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "D. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 7)"
+          "A. Thời gian đi công tác địa bàn.",
+          "B. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "C. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "D. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với thời gian tập sự ngạch chuyên viên và cán sự (nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 28)?",
         "options": [
-          "A. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 8)",
-          "B. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "C. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 8)",
-          "D. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 8)"
+          "A. Có bằng Thạc sĩ đúng chuyên ngành.",
+          "B. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "C. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến thời gian tập sự ngạch chuyên viên và cán sự (nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 29)?",
         "options": [
-          "A. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 9)",
-          "B. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 9)",
-          "C. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 9)",
-          "D. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên."
+          "A. Hưởng thêm 50% tiền lương của người tập sự.",
+          "B. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở.",
+          "C. Không được hưởng phụ cấp.",
+          "D. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về thời gian tập sự ngạch chuyên viên và cán sự (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 30)?",
         "options": [
-          "A. 24 tháng đối với Chuyên viên; 12 tháng đối với Cán sự. (trái luật 10)",
-          "B. 06 tháng đối với Chuyên viên; 03 tháng đối với Cán sự. (sai quy định 10)",
-          "C. 12 tháng đối với ngạch Chuyên viên; 06 tháng đối với ngạch Cán sự và Nhân viên.",
-          "D. 12 tháng đối với cả Chuyên viên và Cán sự. (không đúng 10)"
+          "A. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "B. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "C. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "D. Đuổi ra khỏi phòng thi và cấm thi 5 năm."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) = 12 tháng; Cán sự, Nhân viên = 06 tháng."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Theo Nghị quyết số 76/NQ-CP và Chỉ thị 23/CT-TTg: Nghị quyết 76/NQ-CP xác định trọng tâm cải cách hành chính trong 10 năm tới là những khâu nào?",
+        "q": "Theo Nghị quyết số 76/NQ-CP và Chỉ thị 23/CT-TTg: Nghị quyết 76/NQ-CP xác định trọng tâm, đột phá cải cách hành chính trong 10 năm tới gồm những khâu nào?",
         "options": [
-          "A. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 1)",
+          "A. Mở rộng quyền trực tiếp xử phạt vi phạm hành chính bằng tiền mặt cho công chức tập sự.",
           "B. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "C. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 1)",
-          "D. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 1)"
+          "C. Chuyển toàn bộ các dịch vụ công trực tuyến sang hình thức nộp hồ sơ giấy truyền thống.",
+          "D. Tăng cường xây mới trụ sở làm việc nguy nga cho các sở ban ngành tại địa phương."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Trong Chương trình tổng thể cải cách hành chính nhà nước: Nghị quyết 76/NQ-CP xác định trọng tâm cải cách hành chính trong 10 năm tới là những khâu nào?",
+        "q": "Trong Chương trình tổng thể cải cách hành chính nhà nước: Nghị quyết 76/NQ-CP xác định trọng tâm, đột phá cải cách hành chính trong 10 năm tới gồm những khâu nào?",
         "options": [
-          "A. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 2)",
+          "A. Bắt buộc toàn bộ người dân phải đến nộp hồ sơ trực tiếp tại trụ sở cơ quan hành chính.",
           "B. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "C. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 2)",
-          "D. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 2)"
+          "C. Mua sắm xe ô tô công vụ cho toàn bộ các chức danh lãnh đạo cấp phòng ban chuyên môn.",
+          "D. Xóa bỏ hoàn toàn việc kiểm tra công vụ và kỷ luật đối với người đứng đầu cơ quan."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Căn cứ Nghị quyết 76/NQ-CP của Chính phủ về CCHC: Nghị quyết 76/NQ-CP xác định trọng tâm cải cách hành chính trong 10 năm tới là những khâu nào?",
+        "q": "Căn cứ Nghị quyết 76/NQ-CP của Chính phủ về CCHC: Nghị quyết 76/NQ-CP xác định trọng tâm, đột phá cải cách hành chính trong 10 năm tới gồm những khâu nào?",
         "options": [
-          "A. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 3)",
-          "B. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 3)",
+          "A. Giảm 50% thời lượng làm việc tại công sở của công chức vào các ngày trong tuần.",
+          "B. Tăng gấp đôi số lượng các cuộc thanh tra định kỳ hàng năm đối với các doanh nghiệp.",
           "C. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "D. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 3)"
+          "D. Mở rộng quyền trực tiếp xử phạt vi phạm hành chính bằng tiền mặt cho công chức tập sự."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Mục tiêu, nhiệm vụ của công cuộc cải cách hành chính liên quan đến 3 khâu đột phá / trọng tâm cchc giai đoạn 2021-2030 đòi hỏi điều gì?",
+        "q": "Mục tiêu, nhiệm vụ của công cuộc cải cách hành chính liên quan đến 3 khâu đột phá của cchc giai đoạn 2021-2030 đòi hỏi điều gì?",
         "options": [
-          "A. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 4)",
-          "B. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 4)",
+          "A. Chuyển toàn bộ các dịch vụ công trực tuyến sang hình thức nộp hồ sơ giấy truyền thống.",
+          "B. Tăng cường xây mới trụ sở làm việc nguy nga cho các sở ban ngành tại địa phương.",
           "C. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "D. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 4)"
+          "D. Xóa bỏ hoàn toàn việc kiểm tra công vụ và kỷ luật đối với người đứng đầu cơ quan."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Theo Chỉ thị 23/CT-TTg của Thủ tướng Chính phủ về CCHC: Nghị quyết 76/NQ-CP xác định trọng tâm cải cách hành chính trong 10 năm tới là những khâu nào?",
+        "q": "Theo Chỉ thị 23/CT-TTg của Thủ tướng Chính phủ về CCHC: Nghị quyết 76/NQ-CP xác định trọng tâm, đột phá cải cách hành chính trong 10 năm tới gồm những khâu nào?",
         "options": [
           "A. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "B. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 5)",
-          "C. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 5)",
-          "D. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 5)"
+          "B. Bắt buộc toàn bộ người dân phải đến nộp hồ sơ trực tiếp tại trụ sở cơ quan hành chính.",
+          "C. Mua sắm xe ô tô công vụ cho toàn bộ các chức danh lãnh đạo cấp phòng ban chuyên môn.",
+          "D. Tăng gấp đôi số lượng các cuộc thanh tra định kỳ hàng năm đối với các doanh nghiệp."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Theo các văn bản quy định của UBND thành phố Huế: Quyết định số 3322/QĐ-UBND ngày 25/12/2024 của UBND tỉnh/thành phố phê duyệt kế hoạch gì cho năm 2025?",
         "options": [
-          "A. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 1)",
-          "B. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 1)",
+          "A. Phê duyệt bảng điều chỉnh khung giá đất nông nghiệp trên địa bàn năm 2025.",
+          "B. Phê duyệt kinh phí cải tạo hệ thống thoát nước các tuyến phố trung tâm năm 2025.",
           "C. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.",
-          "D. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 1)"
+          "D. Phê duyệt danh sách công chức được nâng bậc lương trước thời hạn năm 2025."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Quyết định số 3322/QĐ-UBND: Kế hoạch CCHC gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025 của TP Huế."
@@ -3599,9 +3599,9 @@ window.EXAMS_DATA = [
         "q": "Căn cứ Quyết định số 2626/QĐ-UBND của UBND thành phố Huế: Quyết định số 3322/QĐ-UBND ngày 25/12/2024 của UBND tỉnh/thành phố phê duyệt kế hoạch gì cho năm 2025?",
         "options": [
           "A. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.",
-          "B. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 2)",
-          "C. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 2)",
-          "D. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 2)"
+          "B. Phê duyệt kế hoạch bắn pháo hoa đêm giao thừa Tết Nguyên đán năm 2025.",
+          "C. Phê duyệt danh mục các dự án bất động sản được phép bán nhà ở hình thành trong tương lai.",
+          "D. Phê duyệt đề án phát triển kinh tế ban đêm quanh khu vực Hoàng thành Huế năm 2025."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Quyết định số 3322/QĐ-UBND: Kế hoạch CCHC gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025 của TP Huế."
@@ -3611,20 +3611,20 @@ window.EXAMS_DATA = [
         "q": "Trong công tác cải cách hành chính gắn với đô thị thông minh TP Huế: Quyết định số 3322/QĐ-UBND ngày 25/12/2024 của UBND tỉnh/thành phố phê duyệt kế hoạch gì cho năm 2025?",
         "options": [
           "A. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.",
-          "B. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 3)",
-          "C. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 3)",
-          "D. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 3)"
+          "B. Phê duyệt danh sách cán bộ diện ban thường vụ tỉnh ủy quản lý nghỉ hưu năm 2025.",
+          "C. Phê duyệt kế hoạch tổ chức kỳ thi học sinh giỏi các môn văn hóa lớp 12 năm 2025.",
+          "D. Phê duyệt bảng điều chỉnh khung giá đất nông nghiệp trên địa bàn năm 2025."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Quyết định số 3322/QĐ-UBND: Kế hoạch CCHC gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025 của TP Huế."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Căn cứ Quyết định số 2243/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Quyết định số 3322/QĐ-UBND ngày 25/12/2024 của UBND tỉnh/thành phố phê duyệt kế hoạch gì cho năm 2025?",
+        "q": "Căn cứ Quyết định số 1026/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Quyết định số 3322/QĐ-UBND ngày 25/12/2024 của UBND tỉnh/thành phố phê duyệt kế hoạch gì cho năm 2025?",
         "options": [
-          "A. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 4)",
-          "B. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 4)",
-          "C. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 4)",
+          "A. Phê duyệt danh mục các dự án bất động sản được phép bán nhà ở hình thành trong tương lai.",
+          "B. Phê duyệt kinh phí cải tạo hệ thống thoát nước các tuyến phố trung tâm năm 2025.",
+          "C. Phê duyệt danh sách công chức được nâng bậc lương trước thời hạn năm 2025.",
           "D. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025."
         ],
         "ans": 3,
@@ -3632,12 +3632,12 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Ứng dụng chuyển đổi số và công nghệ thông tin tại thành phố Huế khẳng định vai trò của chính quyền số và dịch vụ đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd) như thế nào?",
+        "q": "Ứng dụng chuyển đổi số và công nghệ thông tin tại thành phố Huế khẳng định vai trò của chính quyền số và đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd) như thế nào?",
         "options": [
-          "A. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 5)",
-          "B. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 5)",
+          "A. Phê duyệt đề án phát triển kinh tế ban đêm quanh khu vực Hoàng thành Huế năm 2025.",
+          "B. Phê duyệt kế hoạch tổ chức kỳ thi học sinh giỏi các môn văn hóa lớp 12 năm 2025.",
           "C. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.",
-          "D. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 5)"
+          "D. Phê duyệt kế hoạch bắn pháo hoa đêm giao thừa Tết Nguyên đán năm 2025."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Quyết định số 3322/QĐ-UBND: Kế hoạch CCHC gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025 của TP Huế."
@@ -3649,675 +3649,675 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 06 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, ủy ban nhân dân thành phố trực thuộc trung ương thực hiện nhiệm vụ nào trong quản lý đô thị?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Ủy ban nhân dân thành phố trực thuộc trung ương thực hiện nhiệm vụ nào trong quản lý đô thị?",
         "options": [
           "A. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
-          "B. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 1)",
-          "C. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 1)",
-          "D. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 1)"
+          "B. Quản lý trực tiếp các đơn vị quân đội chính quy đồn trú trên địa bàn thành phố.",
+          "C. Tự quy định mức trừng phạt tù có thời hạn đối với các vi phạm hành chính đô thị.",
+          "D. Tự ý điều chỉnh đường biên giới quốc gia đi qua địa bàn thành phố."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương (chương iv)?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương?",
         "options": [
           "A. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
-          "B. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 2)",
-          "C. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 2)",
-          "D. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 2)"
+          "B. Giải thể Tòa án nhân dân và Viện kiểm sát nhân dân thành phố.",
+          "C. Quyết định chính sách đối ngoại quốc gia và phê chuẩn các công ước quốc tế.",
+          "D. Ban hành các luật về thuế xuất nhập khẩu áp dụng riêng cho cảng biển địa phương."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Ủy ban nhân dân thành phố trực thuộc trung ương thực hiện nhiệm vụ nào trong quản lý đô thị?",
+        "options": [
+          "A. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
+          "B. Tự ý chuyển nhượng toàn bộ quyền quản lý đất đai cho các tập đoàn nước ngoài.",
+          "C. Đình chỉ hiệu lực thi hành các Nghị quyết của Quốc hội trên địa bàn thành phố.",
+          "D. Quản lý trực tiếp các đơn vị quân đội chính quy đồn trú trên địa bàn thành phố."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương, cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
+        "options": [
+          "A. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
+          "B. Quyết định chính sách đối ngoại quốc gia và phê chuẩn các công ước quốc tế.",
+          "C. Tự ý điều chỉnh đường biên giới quốc gia đi qua địa bàn thành phố.",
+          "D. Tự quy định mức trừng phạt tù có thời hạn đối với các vi phạm hành chính đô thị."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương là gì?",
+        "options": [
+          "A. Đình chỉ hiệu lực thi hành các Nghị quyết của Quốc hội trên địa bàn thành phố.",
+          "B. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
+          "C. Giải thể Tòa án nhân dân và Viện kiểm sát nhân dân thành phố.",
+          "D. Ban hành các luật về thuế xuất nhập khẩu áp dụng riêng cho cảng biển địa phương."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
         "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Ủy ban nhân dân thành phố trực thuộc trung ương thực hiện nhiệm vụ nào trong quản lý đô thị?",
         "options": [
-          "A. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
-          "B. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 3)",
-          "C. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 3)",
-          "D. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 3)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương (chương iv) theo nguyên tắc nào sau đây?",
-        "options": [
-          "A. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
-          "B. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 4)",
-          "C. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 4)",
-          "D. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 4)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương (chương iv) là gì?",
-        "options": [
-          "A. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 5)",
-          "B. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
-          "C. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 5)",
-          "D. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 5)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương (chương iv) như thế nào?",
-        "options": [
-          "A. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 6)",
-          "B. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 6)",
-          "C. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 6)",
+          "A. Quản lý trực tiếp các đơn vị quân đội chính quy đồn trú trên địa bàn thành phố.",
+          "B. Tự ý chuyển nhượng toàn bộ quyền quản lý đất đai cho các tập đoàn nước ngoài.",
+          "C. Tự quy định mức trừng phạt tù có thời hạn đối với các vi phạm hành chính đô thị.",
           "D. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương (chương iv) được áp dụng ra sao?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương được áp dụng như thế nào?",
         "options": [
-          "A. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 7)",
+          "A. Tự ý điều chỉnh đường biên giới quốc gia đi qua địa bàn thành phố.",
           "B. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
-          "C. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 7)",
-          "D. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 7)"
+          "C. Quyết định chính sách đối ngoại quốc gia và phê chuẩn các công ước quốc tế.",
+          "D. Giải thể Tòa án nhân dân và Viện kiểm sát nhân dân thành phố."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương (chương iv)?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương theo Luật số 72/2025/QH15:",
         "options": [
-          "A. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 8)",
+          "A. Tự ý chuyển nhượng toàn bộ quyền quản lý đất đai cho các tập đoàn nước ngoài.",
           "B. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
-          "C. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 8)",
-          "D. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 8)"
+          "C. Ban hành các luật về thuế xuất nhập khẩu áp dụng riêng cho cảng biển địa phương.",
+          "D. Đình chỉ hiệu lực thi hành các Nghị quyết của Quốc hội trên địa bàn thành phố."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương (chương iv) đòi hỏi điều gì?",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương?",
         "options": [
           "A. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố.",
-          "B. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 9)",
-          "C. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 9)",
-          "D. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 9)"
+          "B. Tự quy định mức trừng phạt tù có thời hạn đối với các vi phạm hành chính đô thị.",
+          "C. Tự ý điều chỉnh đường biên giới quốc gia đi qua địa bàn thành phố.",
+          "D. Quản lý trực tiếp các đơn vị quân đội chính quy đồn trú trên địa bàn thành phố."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương (chương iv)?",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với nhiệm vụ, quyền hạn ubnd thành phố trực thuộc trung ương?",
         "options": [
-          "A. Ban hành các luật điều chỉnh quan hệ dân sự. (không đúng thẩm quyền 10)",
-          "B. Quản lý lực lượng quân đội chính quy đồn trú trên địa bàn. (vi phạm nguyên tắc 10)",
-          "C. Tự ý thay đổi địa giới hành chính quốc gia. (sai quy định 10)",
+          "A. Quyết định chính sách đối ngoại quốc gia và phê chuẩn các công ước quốc tế.",
+          "B. Giải thể Tòa án nhân dân và Viện kiểm sát nhân dân thành phố.",
+          "C. Ban hành các luật về thuế xuất nhập khẩu áp dụng riêng cho cảng biển địa phương.",
           "D. Quản lý quy hoạch không gian, kiến trúc, cảnh quan đô thị; hạ tầng kỹ thuật đô thị, giao thông, cấp thoát nước và vệ sinh môi trường trên địa bàn thành phố."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Chương IV Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị."
+        "explanation": "★ Căn cứ: Luật Tổ chức CQĐP: UBND thành phố trực thuộc TW có thẩm quyền quản lý hạ tầng kỹ thuật, quy hoạch kiến trúc, trật tự văn minh đô thị và bảo vệ môi trường."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Hành vi nào sau đây bị nghiêm cấm đối với công chức theo Điều 18 Luật Cán bộ, công chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 5)?",
         "options": [
-          "A. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 1)",
-          "B. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 1)",
-          "C. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công.",
-          "D. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 1)"
+          "A. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "B. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "D. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về những việc công chức không được làm liên quan đến đạo đức công vụ (điều 18)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 5)?",
         "options": [
-          "A. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 2)",
-          "B. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 2)",
-          "C. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 2)",
-          "D. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công."
+          "A. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "B. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "C. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "D. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Hành vi nào sau đây bị nghiêm cấm đối với công chức theo Điều 18 Luật Cán bộ, công chức?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 5)?",
         "options": [
-          "A. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công.",
-          "B. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 3)",
-          "C. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 3)",
-          "D. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 3)"
+          "A. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "B. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "C. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "D. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về những việc công chức không được làm liên quan đến đạo đức công vụ (điều 18) như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 5)?",
         "options": [
-          "A. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 4)",
-          "B. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 4)",
-          "C. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 4)",
-          "D. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công."
+          "A. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "B. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "C. Trong thời hạn 07 ngày làm việc.",
+          "D. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về những việc công chức không được làm liên quan đến đạo đức công vụ (điều 18) yêu cầu công chức phải tuân thủ nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 5)?",
         "options": [
-          "A. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 5)",
-          "B. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công.",
-          "C. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 5)",
-          "D. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 5)"
+          "A. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "B. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng.",
+          "C. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "D. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng những việc công chức không được làm liên quan đến đạo đức công vụ (điều 18) là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 6)?",
         "options": [
-          "A. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 6)",
-          "B. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 6)",
-          "C. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công.",
-          "D. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 6)"
+          "A. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "B. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "D. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về những việc công chức không được làm liên quan đến đạo đức công vụ (điều 18) khi nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 6)?",
         "options": [
-          "A. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công.",
-          "B. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 7)",
-          "C. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 7)",
-          "D. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 7)"
+          "A. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "B. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "C. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "D. Bị hạ một bậc lương và bố trí làm công việc thấp hơn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến những việc công chức không được làm liên quan đến đạo đức công vụ (điều 18)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 6)?",
         "options": [
-          "A. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công.",
-          "B. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 8)",
-          "C. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 8)",
-          "D. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 8)"
+          "A. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "B. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "C. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "D. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về những việc công chức không được làm liên quan đến đạo đức công vụ (điều 18) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 6)?",
         "options": [
-          "A. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 9)",
-          "B. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 9)",
-          "C. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 9)",
-          "D. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công."
+          "A. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "B. Trong thời hạn 07 ngày làm việc.",
+          "C. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "D. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về những việc công chức không được làm liên quan đến đạo đức công vụ (điều 18)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 6)?",
         "options": [
-          "A. Tham gia các hoạt động hiến máu nhân đạo do cơ quan phát động. (sai quy định 10)",
-          "B. Trốn tránh trách nhiệm, thoái thác nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc hoặc tham gia đình công.",
-          "C. Tham gia thi đua thể thao giữa các cơ quan hành chính. (không chính xác 10)",
-          "D. Đóng góp sáng kiến cải tiến quy trình một cửa. (trái luật 10)"
+          "A. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "B. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng.",
+          "C. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "D. Tự ý nghỉ việc từ 15 ngày trong một năm."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 18 Luật CBCC: Nghiêm cấm trốn tránh trách nhiệm, thoái thác nhiệm vụ, bè phái, chia rẽ, tự ý bỏ việc, đình công."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH): Theo Điều 15 Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình khi nào?",
+        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (VBHN số 65/VBHN-VPQH): Thời hạn định kỳ CHUYỂN ĐỔI VỊ TRÍ CÔNG TÁC của người có chức vụ, quyền hạn theo quy định của Luật PCTN là:",
         "options": [
-          "A. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
-          "B. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 1)",
-          "C. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 1)",
-          "D. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 1)"
+          "A. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
+          "B. Chỉ áp dụng chuyển đổi vị trí công tác đối với người lao động hợp đồng thời vụ.",
+          "C. Cố định đúng 06 tháng một lần đối với toàn bộ các chức danh công chức.",
+          "D. Chỉ chuyển đổi khi công chức bị kỷ luật hoặc có đơn xin tự nguyện chuyển đi."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước, nhận định nào sau đây là ĐÚNG về trách nhiệm giải trình (điều 15)?",
+        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước theo Luật PCTN: Thời hạn định kỳ CHUYỂN ĐỔI VỊ TRÍ CÔNG TÁC của người có chức vụ, quyền hạn theo quy định của Luật PCTN là:",
         "options": [
-          "A. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 2)",
-          "B. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 2)",
-          "C. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 2)",
-          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+          "A. Chuyển đổi vị trí công tác bắt buộc phải đưa công chức đi công tác biệt phái vùng xa.",
+          "B. Không quy định thời hạn cụ thể mà tùy thuộc vào quyết định cảm tính của thủ trưởng.",
+          "C. Mỗi nhiệm kỳ 10 năm đến 15 năm mới phải xem xét chuyển đổi một lần.",
+          "D. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng (VBHN số 65/VBHN-VPQH): Theo Điều 15 Luật Phòng, chống tham nhũng, cơ quan, tổ chức, đơn vị có trách nhiệm giải trình khi nào?",
+        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng: Thời hạn định kỳ CHUYỂN ĐỔI VỊ TRÍ CÔNG TÁC của người có chức vụ, quyền hạn theo quy định của Luật PCTN là:",
         "options": [
-          "A. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 3)",
-          "B. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 3)",
-          "C. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 3)",
-          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+          "A. Không áp dụng chuyển đổi vị trí đối với các chức danh kế toán, thủ kho, thủ quỹ.",
+          "B. Mỗi tháng một lần chuyển đổi sang một vị trí làm việc hoàn toàn mới.",
+          "C. Chỉ chuyển đổi khi công chức bị kỷ luật hoặc có đơn xin tự nguyện chuyển đi.",
+          "D. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Tình huống công vụ: Công chức xử lý đúng quy định về trách nhiệm giải trình (điều 15) như thế nào?",
+        "q": "Quy định pháp lý hiện hành về phòng, chống tham nhũng xác định nội dung nào sau đây về chuyển đổi vị trí công tác (điều 25)?",
         "options": [
-          "A. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 4)",
-          "B. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
-          "C. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 4)",
-          "D. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 4)"
+          "A. Cố định đúng 06 tháng một lần đối với toàn bộ các chức danh công chức.",
+          "B. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
+          "C. Không quy định thời hạn cụ thể mà tùy thuộc vào quyết định cảm tính của thủ trưởng.",
+          "D. Chỉ áp dụng chuyển đổi vị trí công tác đối với người lao động hợp đồng thời vụ."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Quy định pháp lý về trách nhiệm giải trình (điều 15) yêu cầu người có chức vụ, quyền hạn phải tuân thủ điều gì?",
+        "q": "Tình huống công vụ: Người có chức vụ, quyền hạn phải xử lý đúng quy định pháp luật về chuyển đổi vị trí công tác (điều 25) như thế nào?",
         "options": [
-          "A. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 5)",
-          "B. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 5)",
-          "C. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 5)",
-          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+          "A. Mỗi nhiệm kỳ 10 năm đến 15 năm mới phải xem xét chuyển đổi một lần.",
+          "B. Chuyển đổi vị trí công tác bắt buộc phải đưa công chức đi công tác biệt phái vùng xa.",
+          "C. Mỗi tháng một lần chuyển đổi sang một vị trí làm việc hoàn toàn mới.",
+          "D. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi nào sau đây vi phạm quy định về trách nhiệm giải trình (điều 15)?",
+        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi hoặc nhận định nào sau đây là ĐÚNG về chuyển đổi vị trí công tác (điều 25)?",
         "options": [
-          "A. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 6)",
-          "B. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 6)",
-          "C. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp.",
-          "D. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 6)"
+          "A. Chỉ áp dụng chuyển đổi vị trí công tác đối với người lao động hợp đồng thời vụ.",
+          "B. Không áp dụng chuyển đổi vị trí đối với các chức danh kế toán, thủ kho, thủ quỹ.",
+          "C. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
+          "D. Chỉ chuyển đổi khi công chức bị kỷ luật hoặc có đơn xin tự nguyện chuyển đi."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Biện pháp phòng ngừa tham nhũng nào sau đây được áp dụng đối với trách nhiệm giải trình (điều 15)?",
+        "q": "Biện pháp phòng ngừa và xử lý nghiêm minh theo quy định của Luật PCTN đối với chuyển đổi vị trí công tác (điều 25) là:",
         "options": [
-          "A. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 7)",
-          "B. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 7)",
-          "C. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 7)",
-          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+          "A. Chuyển đổi vị trí công tác bắt buộc phải đưa công chức đi công tác biệt phái vùng xa.",
+          "B. Không quy định thời hạn cụ thể mà tùy thuộc vào quyết định cảm tính của thủ trưởng.",
+          "C. Cố định đúng 06 tháng một lần đối với toàn bộ các chức danh công chức.",
+          "D. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng, cơ quan tổ chức đơn vị có trách nhiệm gì đối với trách nhiệm giải trình (điều 15)?",
+        "q": "Cơ quan, tổ chức, đơn vị có trách nhiệm gì đối với việc thực hiện quy định về chuyển đổi vị trí công tác (điều 25)?",
         "options": [
-          "A. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 8)",
-          "B. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 8)",
-          "C. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 8)",
-          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+          "A. Mỗi nhiệm kỳ 10 năm đến 15 năm mới phải xem xét chuyển đổi một lần.",
+          "B. Không áp dụng chuyển đổi vị trí đối với các chức danh kế toán, thủ kho, thủ quỹ.",
+          "C. Mỗi tháng một lần chuyển đổi sang một vị trí làm việc hoàn toàn mới.",
+          "D. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15): Văn bản quy phạm pháp luật của HĐND, UBND cấp tỉnh/thành phố trực thuộc Trung ương có hiệu lực từ thời điểm nào?",
+        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15: Văn bản quy phạm pháp luật của HĐND, UBND cấp tỉnh có hiệu lực từ thời điểm nào?",
         "options": [
-          "A. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 1)",
-          "B. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 1)",
-          "C. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 1)",
+          "A. Có hiệu lực thi hành ngay tại thời điểm người có thẩm quyền ký ban hành.",
+          "B. Không sớm hơn 45 ngày kể từ ngày đăng tải trên công báo của tỉnh.",
+          "C. Có hiệu lực sau 60 ngày làm việc kể từ ngày niêm yết tại cơ quan.",
           "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Nhận định nào sau đây là ĐÚNG quy định về thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151)?",
+        "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Văn bản quy phạm pháp luật của HĐND, UBND cấp tỉnh có hiệu lực từ thời điểm nào?",
         "options": [
           "A. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn).",
-          "B. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 2)",
-          "C. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 2)",
-          "D. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 2)"
+          "B. Không sớm hơn 30 ngày kể từ ngày ký ban hành trong mọi trường hợp.",
+          "C. Có hiệu lực từ ngày đầu tiên của quý tiếp theo không phân biệt thời điểm ký.",
+          "D. Chỉ có hiệu lực sau khi đã gửi văn bản báo cáo và được Quốc hội thông qua."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Văn bản quy phạm pháp luật của HĐND, UBND cấp tỉnh/thành phố trực thuộc Trung ương có hiệu lực từ thời điểm nào?",
+        "q": "Trong xây dựng thể chế và áp dụng pháp luật theo Luật số 64/2025/QH15: Văn bản quy phạm pháp luật của HĐND, UBND cấp tỉnh có hiệu lực từ thời điểm nào?",
         "options": [
-          "A. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 3)",
-          "B. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 3)",
+          "A. Chỉ có hiệu lực khi toàn bộ người dân trên địa bàn đều ký cam kết thi hành.",
+          "B. Có hiệu lực sau đúng 24 giờ kể từ thời điểm phát hành văn bản.",
           "C. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn).",
-          "D. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 3)"
+          "D. Không sớm hơn 45 ngày kể từ ngày đăng tải trên công báo của tỉnh."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Trong xây dựng thể chế hành chính nhà nước: Văn bản quy phạm pháp luật của HĐND, UBND cấp tỉnh/thành phố trực thuộc Trung ương có hiệu lực từ thời điểm nào?",
+        "q": "Quy định pháp lý về thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151) khẳng định nội dung nào sau đây?",
         "options": [
-          "A. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 4)",
-          "B. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 4)",
-          "C. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 4)",
+          "A. Có hiệu lực thi hành ngay tại thời điểm người có thẩm quyền ký ban hành.",
+          "B. Chỉ có hiệu lực sau khi đã gửi văn bản báo cáo và được Quốc hội thông qua.",
+          "C. Có hiệu lực sau 60 ngày làm việc kể từ ngày niêm yết tại cơ quan.",
           "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Quy định pháp lý về thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151) khẳng định điều gì?",
+        "q": "Khi cơ quan có thẩm quyền tại thành phố Huế ban hành văn bản, quy định về thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151) được áp dụng ra sao?",
         "options": [
-          "A. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 5)",
+          "A. Không sớm hơn 30 ngày kể từ ngày ký ban hành trong mọi trường hợp.",
           "B. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn).",
-          "C. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 5)",
-          "D. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 5)"
+          "C. Có hiệu lực từ ngày đầu tiên của quý tiếp theo không phân biệt thời điểm ký.",
+          "D. Có hiệu lực sau đúng 24 giờ kể từ thời điểm phát hành văn bản."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo quy định hiện hành, việc áp dụng thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151) được thực hiện như thế nào?",
+        "q": "Nhận định nào sau đây là CHUẨN XÁC theo quy định của Luật Ban hành văn bản quy phạm pháp luật về thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151)?",
         "options": [
-          "A. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 6)",
-          "B. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 6)",
+          "A. Chỉ có hiệu lực khi toàn bộ người dân trên địa bàn đều ký cam kết thi hành.",
+          "B. Không sớm hơn 45 ngày kể từ ngày đăng tải trên công báo của tỉnh.",
           "C. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn).",
-          "D. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 6)"
+          "D. Có hiệu lực sau 60 ngày làm việc kể từ ngày niêm yết tại cơ quan."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP): Quy định về số lượng cấp phó của người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh (Phó Giám đốc Sở) là:",
         "options": [
-          "A. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 1)",
-          "B. Không giới hạn số lượng cấp phó. (trái luật 1)",
+          "A. Cố định mỗi sở chỉ được có duy nhất đúng 01 Phó Giám đốc trong mọi trường hợp.",
+          "B. Mỗi sở có số lượng cấp phó bằng một nửa tổng số biên chế của sở đó.",
           "C. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý).",
-          "D. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 1)"
+          "D. Không bị giới hạn số lượng cấp phó, do Giám đốc Sở tự ký quyết định bổ nhiệm tùy ý."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Nhận định nào sau đây là ĐÚNG quy định tại Nghị định 150/2025/NĐ-CP về khung số lượng phó giám đốc sở theo nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Không giới hạn số lượng cấp phó. (trái luật 2)",
+          "A. Không bố trí chức danh Phó Giám đốc Sở mà chỉ có các Trưởng phòng chuyên môn.",
           "B. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý).",
-          "C. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 2)",
-          "D. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 2)"
+          "C. Chỉ được bổ nhiệm Phó Giám đốc Sở khi có văn bản đồng thuận của Chủ tịch Quốc hội.",
+          "D. Mỗi sở được có tối đa 10 Phó Giám đốc để phụ trách từng địa bàn quận huyện."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Căn cứ Nghị định số 150/2025/NĐ-CP của Chính phủ: Quy định về số lượng cấp phó của người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh (Phó Giám đốc Sở) là:",
         "options": [
-          "A. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 3)",
-          "B. Không giới hạn số lượng cấp phó. (trái luật 3)",
+          "A. Không bị giới hạn số lượng cấp phó, do Giám đốc Sở tự ký quyết định bổ nhiệm tùy ý.",
+          "B. Số lượng cấp phó do các doanh nghiệp trên địa bàn thành phố bỏ phiếu bầu chọn.",
           "C. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý).",
-          "D. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 3)"
+          "D. Bắt buộc mỗi sở phải có tối thiểu 05 Phó Giám đốc Sở chuyên trách từng lĩnh vực."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
-        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn: Quy định về số lượng cấp phó của người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh (Phó Giám đốc Sở) là:",
+        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn theo NĐ 150/2025/NĐ-CP: Quy định về số lượng cấp phó của người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh (Phó Giám đốc Sở) là:",
         "options": [
-          "A. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 4)",
-          "B. Không giới hạn số lượng cấp phó. (trái luật 4)",
+          "A. Chỉ được bổ nhiệm Phó Giám đốc Sở khi có văn bản đồng thuận của Chủ tịch Quốc hội.",
+          "B. Cố định mỗi sở chỉ được có duy nhất đúng 01 Phó Giám đốc trong mọi trường hợp.",
           "C. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý).",
-          "D. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 4)"
+          "D. Mỗi sở có số lượng cấp phó bằng một nửa tổng số biên chế của sở đó."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Quy định pháp lý tại Nghị định 150/2025/NĐ-CP khẳng định nội dung nào về khung số lượng phó giám đốc sở theo nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Không giới hạn số lượng cấp phó. (trái luật 5)",
-          "B. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 5)",
+          "A. Mỗi sở được có tối đa 10 Phó Giám đốc để phụ trách từng địa bàn quận huyện.",
+          "B. Bắt buộc mỗi sở phải có tối thiểu 05 Phó Giám đốc Sở chuyên trách từng lĩnh vực.",
           "C. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý).",
-          "D. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 5)"
+          "D. Không bố trí chức danh Phó Giám đốc Sở mà chỉ có các Trưởng phòng chuyên môn."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo quy định hiện hành, việc quản lý tổ chức bộ máy liên quan đến khung số lượng phó giám đốc sở theo nghị định 150/2025/nđ-cp được thực hiện ra sao?",
         "options": [
-          "A. Không giới hạn số lượng cấp phó. (trái luật 6)",
-          "B. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 6)",
-          "C. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 6)",
+          "A. Không bị giới hạn số lượng cấp phó, do Giám đốc Sở tự ký quyết định bổ nhiệm tùy ý.",
+          "B. Số lượng cấp phó do các doanh nghiệp trên địa bàn thành phố bỏ phiếu bầu chọn.",
+          "C. Mỗi sở có số lượng cấp phó bằng một nửa tổng số biên chế của sở đó.",
           "D. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Trong thời gian tập sự, người tập sự công chức được hưởng mức lương như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 31)?",
         "options": [
-          "A. Hưởng 75% mức lương bậc 1. (không đúng 1)",
-          "B. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 1)",
-          "C. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an.",
-          "D. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 1)"
+          "A. 09 tháng.",
+          "B. 24 tháng.",
+          "C. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "D. 06 tháng cố định."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về mức lương hưởng trong thời gian tập sự (nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 32)?",
         "options": [
-          "A. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an.",
-          "B. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 2)",
-          "C. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 2)",
-          "D. Hưởng 75% mức lương bậc 1. (không đúng 2)"
+          "A. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "B. 12 tháng.",
+          "C. 03 tháng.",
+          "D. 09 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Trong thời gian tập sự, người tập sự công chức được hưởng mức lương như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 33)?",
         "options": [
-          "A. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 3)",
-          "B. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an.",
-          "C. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 3)",
-          "D. Hưởng 75% mức lương bậc 1. (không đúng 3)"
+          "A. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày.",
+          "B. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "C. Thời gian đi công tác địa bàn.",
+          "D. Thời gian nghỉ lễ Tết theo quy định nhà nước."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Trong thời gian tập sự, người tập sự công chức được hưởng mức lương như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 34)?",
         "options": [
-          "A. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an.",
-          "B. Hưởng 75% mức lương bậc 1. (không đúng 4)",
-          "C. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 4)",
-          "D. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 4)"
+          "A. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "B. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "C. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "D. Có bằng Thạc sĩ đúng chuyên ngành."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Trong thời gian tập sự, người tập sự công chức được hưởng mức lương như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 35)?",
         "options": [
-          "A. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an.",
-          "B. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 5)",
-          "C. Hưởng 75% mức lương bậc 1. (không đúng 5)",
-          "D. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 5)"
+          "A. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "B. Không được hưởng phụ cấp.",
+          "C. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở.",
+          "D. Hưởng thêm 50% tiền lương của người tập sự."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến mức lương hưởng trong thời gian tập sự (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 36)?",
         "options": [
-          "A. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an.",
-          "B. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 6)",
-          "C. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 6)",
-          "D. Hưởng 75% mức lương bậc 1. (không đúng 6)"
+          "A. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "B. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "C. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "D. Đuổi ra khỏi phòng thi và cấm thi 5 năm."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về mức lương hưởng trong thời gian tập sự (nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 37)?",
         "options": [
-          "A. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 7)",
-          "B. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 7)",
-          "C. Hưởng 75% mức lương bậc 1. (không đúng 7)",
-          "D. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
+          "A. 24 tháng.",
+          "B. 06 tháng cố định.",
+          "C. 09 tháng.",
+          "D. 12 tháng kể từ ngày nhận nhiệm sở."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với mức lương hưởng trong thời gian tập sự (nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 38)?",
         "options": [
-          "A. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 8)",
-          "B. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an.",
-          "C. Hưởng 75% mức lương bậc 1. (không đúng 8)",
-          "D. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 8)"
+          "A. 03 tháng.",
+          "B. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "C. 09 tháng.",
+          "D. 12 tháng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến mức lương hưởng trong thời gian tập sự (nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 39)?",
         "options": [
-          "A. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 9)",
-          "B. Hưởng 75% mức lương bậc 1. (không đúng 9)",
-          "C. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 9)",
-          "D. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
+          "A. Thời gian đi công tác địa bàn.",
+          "B. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "C. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày.",
+          "D. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về mức lương hưởng trong thời gian tập sự (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 40)?",
         "options": [
-          "A. Hưởng 75% mức lương bậc 1. (không đúng 10)",
-          "B. Hưởng 85% mức lương bậc 1 của ngạch tuyển dụng; hưởng 100% nếu làm ở vùng ĐKTK-XH đặc biệt khó khăn, ngành nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an.",
-          "C. Hưởng 100% lương bậc 1 trong mọi trường hợp. (sai quy định 10)",
-          "D. Chỉ hưởng phụ cấp sinh hoạt phí cố định. (trái luật 10)"
+          "A. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "B. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "C. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "D. Có bằng Thạc sĩ đúng chuyên ngành."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Lương tập sự thông thường 85% bậc 1; 100% đối với trường hợp đặc biệt ưu tiên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Nhận định nào sau đây là ĐÚNG về 3 khâu đột phá / trọng tâm cchc giai đoạn 2021-2030 theo Nghị quyết 76/NQ-CP?",
+        "q": "Nhận định nào sau đây là ĐÚNG về 3 khâu đột phá của cchc giai đoạn 2021-2030 theo Nghị quyết 76/NQ-CP?",
         "options": [
-          "A. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 6)",
-          "B. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 6)",
-          "C. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 6)",
+          "A. Giảm 50% thời lượng làm việc tại công sở của công chức vào các ngày trong tuần.",
+          "B. Mở rộng quyền trực tiếp xử phạt vi phạm hành chính bằng tiền mặt cho công chức tập sự.",
+          "C. Chuyển toàn bộ các dịch vụ công trực tuyến sang hình thức nộp hồ sơ giấy truyền thống.",
           "D. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Yêu cầu về xây dựng nền hành chính phục vụ nhân dân gắn liền với 3 khâu đột phá / trọng tâm cchc giai đoạn 2021-2030 như thế nào?",
+        "q": "Yêu cầu về xây dựng nền hành chính phục vụ nhân dân gắn liền với 3 khâu đột phá của cchc giai đoạn 2021-2030 như thế nào?",
         "options": [
-          "A. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 7)",
+          "A. Tăng cường xây mới trụ sở làm việc nguy nga cho các sở ban ngành tại địa phương.",
           "B. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "C. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 7)",
-          "D. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 7)"
+          "C. Xóa bỏ hoàn toàn việc kiểm tra công vụ và kỷ luật đối với người đứng đầu cơ quan.",
+          "D. Bắt buộc toàn bộ người dân phải đến nộp hồ sơ trực tiếp tại trụ sở cơ quan hành chính."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Thước đo đánh giá hiệu quả của nền hành chính nhà nước trong 3 khâu đột phá / trọng tâm cchc giai đoạn 2021-2030 là:",
+        "q": "Thước đo đánh giá hiệu quả của nền hành chính nhà nước trong 3 khâu đột phá của cchc giai đoạn 2021-2030 là:",
         "options": [
-          "A. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 8)",
-          "B. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 8)",
+          "A. Mua sắm xe ô tô công vụ cho toàn bộ các chức danh lãnh đạo cấp phòng ban chuyên môn.",
+          "B. Tăng gấp đôi số lượng các cuộc thanh tra định kỳ hàng năm đối với các doanh nghiệp.",
           "C. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "D. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 8)"
+          "D. Giảm 50% thời lượng làm việc tại công sở của công chức vào các ngày trong tuần."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Theo chủ trương CCHC của Chính phủ, nội dung cốt lõi của 3 khâu đột phá / trọng tâm cchc giai đoạn 2021-2030 được xác định là:",
+        "q": "Theo chủ trương CCHC của Chính phủ, nội dung cốt lõi của 3 khâu đột phá của cchc giai đoạn 2021-2030 được xác định là:",
         "options": [
-          "A. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 9)",
-          "B. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 9)",
+          "A. Chuyển toàn bộ các dịch vụ công trực tuyến sang hình thức nộp hồ sơ giấy truyền thống.",
+          "B. Mở rộng quyền trực tiếp xử phạt vi phạm hành chính bằng tiền mặt cho công chức tập sự.",
           "C. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "D. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 9)"
+          "D. Tăng cường xây mới trụ sở làm việc nguy nga cho các sở ban ngành tại địa phương."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
-        "q": "Văn bản pháp luật về CCHC khẳng định nguyên tắc nào sau đây đối với 3 khâu đột phá / trọng tâm cchc giai đoạn 2021-2030?",
+        "q": "Văn bản pháp luật về CCHC khẳng định nguyên tắc nào sau đây đối với 3 khâu đột phá của cchc giai đoạn 2021-2030?",
         "options": [
           "A. Cải cách thể chế; Xây dựng đội ngũ cán bộ, công chức chuyên nghiệp, có năng lực, phẩm chất; Chuyển đổi số, xây dựng chính quyền số.",
-          "B. Tăng cường xây mới trụ sở làm việc các sở ban ngành. (sai quy định 10)",
-          "C. Mua sắm xe ô tô công vụ cho toàn bộ lãnh đạo cấp phòng. (không chính xác 10)",
-          "D. Mở rộng quyền xử phạt vi phạm hành chính cho chuyên viên. (trái luật 10)"
+          "B. Mua sắm xe ô tô công vụ cho toàn bộ các chức danh lãnh đạo cấp phòng ban chuyên môn.",
+          "C. Xóa bỏ hoàn toàn việc kiểm tra công vụ và kỷ luật đối với người đứng đầu cơ quan.",
+          "D. Bắt buộc toàn bộ người dân phải đến nộp hồ sơ trực tiếp tại trụ sở cơ quan hành chính."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Mục II NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số."
+        "explanation": "★ Căn cứ: NQ 76/NQ-CP: 3 khâu đột phá: Thể chế, Con người (đội ngũ CBCC chuyên nghiệp) và Chuyển đổi số (chính quyền số)."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Nhận định nào sau đây là ĐÚNG về nhiệm vụ chính quyền số và dịch vụ đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd) tại TP Huế?",
+        "q": "Nhận định nào sau đây là ĐÚNG về nhiệm vụ chính quyền số và đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd) tại TP Huế?",
         "options": [
-          "A. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 6)",
-          "B. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 6)",
-          "C. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 6)",
+          "A. Phê duyệt danh sách cán bộ diện ban thường vụ tỉnh ủy quản lý nghỉ hưu năm 2025.",
+          "B. Phê duyệt bảng điều chỉnh khung giá đất nông nghiệp trên địa bàn năm 2025.",
+          "C. Phê duyệt kinh phí cải tạo hệ thống thoát nước các tuyến phố trung tâm năm 2025.",
           "D. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025."
         ],
         "ans": 3,
@@ -4325,48 +4325,48 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Mô hình chính quyền số thành phố Huế gắn liền với chính quyền số và dịch vụ đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd) ở điểm cốt lõi nào?",
+        "q": "Mô hình chính quyền số thành phố Huế gắn liền với chính quyền số và đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd) ở điểm cốt lõi nào?",
         "options": [
-          "A. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 7)",
-          "B. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 7)",
+          "A. Phê duyệt danh sách công chức được nâng bậc lương trước thời hạn năm 2025.",
+          "B. Phê duyệt danh mục các dự án bất động sản được phép bán nhà ở hình thành trong tương lai.",
           "C. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.",
-          "D. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 7)"
+          "D. Phê duyệt đề án phát triển kinh tế ban đêm quanh khu vực Hoàng thành Huế năm 2025."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Quyết định số 3322/QĐ-UBND: Kế hoạch CCHC gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025 của TP Huế."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Thí sinh tham dự kỳ thi công chức TP Huế năm 2025 cần nắm vững quy định nào về chính quyền số và dịch vụ đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd)?",
+        "q": "Thí sinh tham dự kỳ thi công chức TP Huế năm 2025 cần nắm vững quy định nào về chính quyền số và đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd)?",
         "options": [
           "A. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.",
-          "B. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 8)",
-          "C. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 8)",
-          "D. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 8)"
+          "B. Phê duyệt kế hoạch tổ chức kỳ thi học sinh giỏi các môn văn hóa lớp 12 năm 2025.",
+          "C. Phê duyệt kế hoạch bắn pháo hoa đêm giao thừa Tết Nguyên đán năm 2025.",
+          "D. Phê duyệt danh sách cán bộ diện ban thường vụ tỉnh ủy quản lý nghỉ hưu năm 2025."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Quyết định số 3322/QĐ-UBND: Kế hoạch CCHC gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025 của TP Huế."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua chính quyền số và dịch vụ đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd) ra sao?",
+        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua Chính quyền số và Đô thị thông minh TP Huế năm 2025 (QĐ 3322/QĐ-UBND) ra sao?",
         "options": [
           "A. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.",
-          "B. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 9)",
-          "C. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 9)",
-          "D. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 9)"
+          "B. Phê duyệt bảng điều chỉnh khung giá đất nông nghiệp trên địa bàn năm 2025.",
+          "C. Phê duyệt danh sách công chức được nâng bậc lương trước thời hạn năm 2025.",
+          "D. Phê duyệt kinh phí cải tạo hệ thống thoát nước các tuyến phố trung tâm năm 2025."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Quyết định số 3322/QĐ-UBND: Kế hoạch CCHC gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025 của TP Huế."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Văn bản chỉ đạo điều hành của UBND TP Huế xác định nội dung cụ thể nào về chính quyền số và dịch vụ đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd)?",
+        "q": "Văn bản chỉ đạo điều hành của UBND TP Huế xác định nội dung cụ thể nào về chính quyền số và đô thị thông minh tp huế năm 2025 (qđ 3322/qđ-ubnd)?",
         "options": [
           "A. Phê duyệt Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.",
-          "B. Phê duyệt kế hoạch bắn pháo hoa Festival Huế 2025. (không chính xác 10)",
-          "C. Phê duyệt điều chỉnh bảng giá đất năm 2025. (trái luật 10)",
-          "D. Phê duyệt danh sách công chức được nâng lương trước hạn năm 2025. (sai quy định 10)"
+          "B. Phê duyệt danh mục các dự án bất động sản được phép bán nhà ở hình thành trong tương lai.",
+          "C. Phê duyệt đề án phát triển kinh tế ban đêm quanh khu vực Hoàng thành Huế năm 2025.",
+          "D. Phê duyệt kế hoạch bắn pháo hoa đêm giao thừa Tết Nguyên đán năm 2025."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Quyết định số 3322/QĐ-UBND: Kế hoạch CCHC gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025 của TP Huế."
@@ -4378,471 +4378,471 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 07 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, thẩm quyền nào dưới đây thuộc về chủ tịch ubnd thành phố trực thuộc trung ương?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Thẩm quyền nào dưới đây thuộc về CHỦ TỊCH Ủy ban nhân dân thành phố trực thuộc trung ương?",
         "options": [
-          "A. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
-          "B. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 1)",
-          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 1)",
-          "D. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 1)"
+          "A. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
+          "B. Tự quyết định mức thu thuế thu nhập doanh nghiệp ngoài khung quy định.",
+          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao và Kiểm sát viên tối cao.",
+          "D. Ban hành các Nghị quyết của Hội đồng nhân dân thành phố."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương?",
         "options": [
-          "A. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 2)",
-          "B. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 2)",
-          "C. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 2)",
-          "D. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới."
+          "A. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố theo đề nghị của cử tri.",
+          "B. Đình chỉ các văn bản hợp hiến, hợp pháp của Chính phủ và các Bộ trưởng.",
+          "C. Quyết định ân giảm án tử hình đối với người bị kết án tại địa phương.",
+          "D. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Thẩm quyền nào dưới đây thuộc về Chủ tịch UBND thành phố trực thuộc trung ương?",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Thẩm quyền nào dưới đây thuộc về CHỦ TỊCH Ủy ban nhân dân thành phố trực thuộc trung ương?",
         "options": [
-          "A. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
-          "B. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 3)",
-          "C. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 3)",
-          "D. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 3)"
+          "A. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
+          "B. Ban hành các Nghị quyết của Hội đồng nhân dân thành phố.",
+          "C. Quyết định tổng động viên lực lượng vũ trang nhân dân trên địa bàn thành phố.",
+          "D. Bổ nhiệm các chức danh trong Thường trực Tỉnh ủy, Thành ủy."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương theo nguyên tắc nào sau đây?",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương, cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
         "options": [
-          "A. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 4)",
-          "B. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 4)",
-          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 4)",
-          "D. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới."
+          "A. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao và Kiểm sát viên tối cao.",
+          "B. Tự quyết định mức thu thuế thu nhập doanh nghiệp ngoài khung quy định.",
+          "C. Quyết định ân giảm án tử hình đối với người bị kết án tại địa phương.",
+          "D. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương là gì?",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương là gì?",
         "options": [
-          "A. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
-          "B. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 5)",
-          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 5)",
-          "D. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 5)"
+          "A. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
+          "B. Đình chỉ các văn bản hợp hiến, hợp pháp của Chính phủ và các Bộ trưởng.",
+          "C. Quyết định tổng động viên lực lượng vũ trang nhân dân trên địa bàn thành phố.",
+          "D. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố theo đề nghị của cử tri."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương như thế nào?",
+        "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Thẩm quyền nào dưới đây thuộc về CHỦ TỊCH Ủy ban nhân dân thành phố trực thuộc trung ương?",
         "options": [
-          "A. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 6)",
-          "B. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 6)",
-          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 6)",
-          "D. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới."
+          "A. Bổ nhiệm các chức danh trong Thường trực Tỉnh ủy, Thành ủy.",
+          "B. Ban hành các Nghị quyết của Hội đồng nhân dân thành phố.",
+          "C. Tự quyết định mức thu thuế thu nhập doanh nghiệp ngoài khung quy định.",
+          "D. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương được áp dụng ra sao?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương được áp dụng như thế nào?",
         "options": [
-          "A. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 7)",
-          "B. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 7)",
-          "C. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
-          "D. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 7)"
+          "A. Đình chỉ các văn bản hợp hiến, hợp pháp của Chính phủ và các Bộ trưởng.",
+          "B. Quyết định ân giảm án tử hình đối với người bị kết án tại địa phương.",
+          "C. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
+          "D. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao và Kiểm sát viên tối cao."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương theo Luật số 72/2025/QH15:",
         "options": [
-          "A. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 8)",
-          "B. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 8)",
-          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 8)",
-          "D. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới."
+          "A. Quyết định tổng động viên lực lượng vũ trang nhân dân trên địa bàn thành phố.",
+          "B. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố theo đề nghị của cử tri.",
+          "C. Bổ nhiệm các chức danh trong Thường trực Tỉnh ủy, Thành ủy.",
+          "D. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương đòi hỏi điều gì?",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương?",
         "options": [
-          "A. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 9)",
-          "B. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
-          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 9)",
-          "D. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 9)"
+          "A. Ban hành các Nghị quyết của Hội đồng nhân dân thành phố.",
+          "B. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
+          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao và Kiểm sát viên tối cao.",
+          "D. Tự quyết định mức thu thuế thu nhập doanh nghiệp ngoài khung quy định."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương?",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với nhiệm vụ của chủ tịch ubnd thành phố trực thuộc trung ương?",
         "options": [
-          "A. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND quận/huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
-          "B. Ban hành các Nghị quyết của Quốc hội. (vi phạm nguyên tắc 10)",
-          "C. Bổ nhiệm các Thẩm phán Tòa án nhân dân tối cao. (sai quy định 10)",
-          "D. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố. (không đúng thẩm quyền 10)"
+          "A. Lãnh đạo và điều hành công việc của UBND; phê chuẩn kết quả bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch UBND cấp huyện; đình chỉ, bãi bỏ văn bản trái luật của cấp dưới.",
+          "B. Đình chỉ các văn bản hợp hiến, hợp pháp của Chính phủ và các Bộ trưởng.",
+          "C. Bãi nhiệm Chủ tịch Hội đồng nhân dân thành phố theo đề nghị của cử tri.",
+          "D. Quyết định ân giảm án tử hình đối với người bị kết án tại địa phương."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật."
+        "explanation": "★ Căn cứ: Điều 22 Luật Tổ chức CQĐP: Chủ tịch UBND cấp tỉnh lãnh đạo UBND, phê chuẩn bầu cấp huyện, đình chỉ bãi bỏ văn bản trái pháp luật của các sở và cấp dưới."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Công chức KHÔNG ĐƯỢC làm việc nào sau đây theo quy định của Luật Cán bộ, công chức và Luật Phòng chống tham nhũng?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 7)?",
         "options": [
-          "A. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "B. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 1)",
-          "C. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 1)",
-          "D. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 1)"
+          "A. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "B. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "C. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "D. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về những việc công chức không được làm liên quan đến bí mật nhà nước và kinh doanh (điều 19, 20)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 7)?",
         "options": [
-          "A. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "B. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 2)",
-          "C. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 2)",
-          "D. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 2)"
+          "A. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "B. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "C. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "D. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Công chức KHÔNG ĐƯỢC làm việc nào sau đây theo quy định của Luật Cán bộ, công chức và Luật Phòng chống tham nhũng?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 7)?",
         "options": [
-          "A. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "B. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 3)",
-          "C. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 3)",
-          "D. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 3)"
+          "A. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "B. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "C. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "D. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về những việc công chức không được làm liên quan đến bí mật nhà nước và kinh doanh (điều 19, 20) như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 7)?",
         "options": [
-          "A. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "B. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 4)",
-          "C. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 4)",
-          "D. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 4)"
+          "A. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "B. Trong thời hạn 07 ngày làm việc.",
+          "C. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "D. Trong thời hạn 30 ngày kể từ ngày nhận quyết định."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về những việc công chức không được làm liên quan đến bí mật nhà nước và kinh doanh (điều 19, 20) yêu cầu công chức phải tuân thủ nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 7)?",
         "options": [
-          "A. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "B. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 5)",
-          "C. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 5)",
-          "D. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 5)"
+          "A. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng.",
+          "B. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "C. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "D. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng những việc công chức không được làm liên quan đến bí mật nhà nước và kinh doanh (điều 19, 20) là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 8)?",
         "options": [
-          "A. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 6)",
-          "B. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 6)",
-          "C. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "D. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 6)"
+          "A. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "B. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "D. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về những việc công chức không được làm liên quan đến bí mật nhà nước và kinh doanh (điều 19, 20) khi nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 8)?",
         "options": [
-          "A. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 7)",
-          "B. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 7)",
-          "C. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 7)",
-          "D. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần."
+          "A. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "B. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "C. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "D. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến những việc công chức không được làm liên quan đến bí mật nhà nước và kinh doanh (điều 19, 20)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 8)?",
         "options": [
-          "A. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 8)",
-          "B. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "C. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 8)",
-          "D. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 8)"
+          "A. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "B. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "C. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "D. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về những việc công chức không được làm liên quan đến bí mật nhà nước và kinh doanh (điều 19, 20) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 8)?",
         "options": [
-          "A. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "B. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 9)",
-          "C. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 9)",
-          "D. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 9)"
+          "A. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "B. Trong thời hạn 07 ngày làm việc.",
+          "C. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "D. Trong thời hạn 60 ngày kể từ ngày công bố quyết định."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về những việc công chức không được làm liên quan đến bí mật nhà nước và kinh doanh (điều 19, 20)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 8)?",
         "options": [
-          "A. Đăng ký tham gia học văn bằng hai vào các ngày cuối tuần. (sai quy định 10)",
-          "B. Tiết lộ bí mật nhà nước dưới mọi hình thức; thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần.",
-          "C. Sở hữu cổ phần phổ thông mà không tham gia điều hành doanh nghiệp. (trái luật 10)",
-          "D. Gửi tiền tiết kiệm tại các ngân hàng nhà nước. (không chính xác 10)"
+          "A. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "B. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng.",
+          "C. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "D. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 19 & 20 Luật CBCC: Cấm tiết lộ bí mật nhà nước, cấm thành lập hoặc quản lý điều hành doanh nghiệp tư nhân, công ty TNHH, CP."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Yêu cầu về tính công khai, minh bạch trong trách nhiệm giải trình (điều 15) được quy định ra sao?",
+        "q": "Yêu cầu về tính liêm chính, công khai, minh bạch theo Luật PCTN khẳng định nguyên tắc nào về chuyển đổi vị trí công tác (điều 25)?",
         "options": [
-          "A. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 9)",
-          "B. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 9)",
-          "C. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 9)",
-          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+          "A. Cố định đúng 06 tháng một lần đối với toàn bộ các chức danh công chức.",
+          "B. Chỉ áp dụng chuyển đổi vị trí công tác đối với người lao động hợp đồng thời vụ.",
+          "C. Chỉ chuyển đổi khi công chức bị kỷ luật hoặc có đơn xin tự nguyện chuyển đi.",
+          "D. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Văn bản pháp luật về phòng, chống tham nhũng khẳng định nội dung nào sau đây về trách nhiệm giải trình (điều 15)?",
+        "q": "Văn bản pháp luật về phòng, chống tham nhũng quy định rõ ràng nội dung nào sau đây liên quan đến chuyển đổi vị trí công tác (điều 25)?",
         "options": [
-          "A. Chỉ giải trình khi có lệnh khám xét của Tòa án nhân dân tối cao. (sai quy định 10)",
-          "B. Từ chối giải trình với mọi người dân không có hộ khẩu thường trú. (không chính xác 10)",
-          "C. Chỉ giải trình bằng lời nói qua điện thoại cá nhân. (trái luật 10)",
-          "D. Giải trình về quyết định, hành vi của mình trong việc thực hiện nhiệm vụ, công vụ được giao khi có yêu cầu của cơ quan, tổ chức, cá nhân bị tác động trực tiếp."
+          "A. Mỗi nhiệm kỳ 10 năm đến 15 năm mới phải xem xét chuyển đổi một lần.",
+          "B. Không quy định thời hạn cụ thể mà tùy thuộc vào quyết định cảm tính của thủ trưởng.",
+          "C. Chuyển đổi vị trí công tác bắt buộc phải đưa công chức đi công tác biệt phái vùng xa.",
+          "D. Từ đủ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 15 Luật PCTN: Trách nhiệm giải trình quyết định, hành vi công vụ khi đối tượng chịu tác động trực tiếp yêu cầu."
+        "explanation": "★ Căn cứ: Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo quy định cụ thể của từng Bộ, ngành."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH): Quy định của Luật Phòng, chống tham nhũng về việc nhận quà tặng của người có chức vụ, quyền hạn là:",
+        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (VBHN số 65/VBHN-VPQH): Tài sản, thu nhập nào sau đây là tài sản PHẢI KÊ KHAI theo quy định của Luật PCTN?",
         "options": [
-          "A. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 1)",
-          "B. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 1)",
-          "C. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý.",
-          "D. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 1)"
+          "A. Quần áo, giày dép, đồ dùng sinh hoạt cá nhân thông thường dưới 1.000.000 đồng.",
+          "B. Thú cưng nuôi trong gia đình không có giá trị thương mại hay trao đổi kinh tế.",
+          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên.",
+          "D. Toàn bộ các vật dụng phục vụ nấu nướng hàng ngày trong gian bếp gia đình."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước, nhận định nào sau đây là ĐÚNG về quy tắc ứng xử và tặng quà, nhận quà tặng (điều 20, 22)?",
+        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước theo Luật PCTN: Tài sản, thu nhập nào sau đây là tài sản PHẢI KÊ KHAI theo quy định của Luật PCTN?",
         "options": [
-          "A. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý.",
-          "B. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 2)",
-          "C. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 2)",
-          "D. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 2)"
+          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên.",
+          "B. Sách giáo khoa, đồ dùng học tập của con cái đang theo học bậc phổ thông.",
+          "C. Tài sản thuộc quyền sở hữu riêng của người thân thích không cùng chung hộ khẩu.",
+          "D. Điện thoại cũ hỏng đã qua sử dụng không còn giá trị lưu thông trên thị trường."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng (VBHN số 65/VBHN-VPQH): Quy định của Luật Phòng, chống tham nhũng về việc nhận quà tặng của người có chức vụ, quyền hạn là:",
+        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng: Tài sản, thu nhập nào sau đây là tài sản PHẢI KÊ KHAI theo quy định của Luật PCTN?",
         "options": [
-          "A. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý.",
-          "B. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 3)",
-          "C. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 3)",
-          "D. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 3)"
+          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên.",
+          "B. Các khoản chi tiêu sinh hoạt hàng ngày bằng tiền mặt mua lương thực thực phẩm.",
+          "C. Cây cảnh trồng trong vườn nhà có giá trị dưới 5.000.000 đồng.",
+          "D. Thú cưng nuôi trong gia đình không có giá trị thương mại hay trao đổi kinh tế."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Tình huống công vụ: Công chức xử lý đúng quy định về quy tắc ứng xử và tặng quà, nhận quà tặng (điều 20, 22) như thế nào?",
+        "q": "Quy định pháp lý hiện hành về phòng, chống tham nhũng xác định nội dung nào sau đây về nghĩa vụ kê khai tài sản, thu nhập (điều 34, 35)?",
         "options": [
-          "A. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 4)",
-          "B. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 4)",
-          "C. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 4)",
-          "D. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý."
+          "A. Sách giáo khoa, đồ dùng học tập của con cái đang theo học bậc phổ thông.",
+          "B. Quần áo, giày dép, đồ dùng sinh hoạt cá nhân thông thường dưới 1.000.000 đồng.",
+          "C. Toàn bộ các vật dụng phục vụ nấu nướng hàng ngày trong gian bếp gia đình.",
+          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Quy định pháp lý về quy tắc ứng xử và tặng quà, nhận quà tặng (điều 20, 22) yêu cầu người có chức vụ, quyền hạn phải tuân thủ điều gì?",
+        "q": "Tình huống công vụ: Người có chức vụ, quyền hạn phải xử lý đúng quy định pháp luật về nghĩa vụ kê khai tài sản, thu nhập (điều 34, 35) như thế nào?",
         "options": [
-          "A. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 5)",
-          "B. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 5)",
-          "C. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 5)",
-          "D. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý."
+          "A. Điện thoại cũ hỏng đã qua sử dụng không còn giá trị lưu thông trên thị trường.",
+          "B. Tài sản thuộc quyền sở hữu riêng của người thân thích không cùng chung hộ khẩu.",
+          "C. Cây cảnh trồng trong vườn nhà có giá trị dưới 5.000.000 đồng.",
+          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi nào sau đây vi phạm quy định về quy tắc ứng xử và tặng quà, nhận quà tặng (điều 20, 22)?",
+        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi hoặc nhận định nào sau đây là ĐÚNG về nghĩa vụ kê khai tài sản, thu nhập (điều 34, 35)?",
         "options": [
-          "A. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 6)",
-          "B. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 6)",
-          "C. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý.",
-          "D. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 6)"
+          "A. Thú cưng nuôi trong gia đình không có giá trị thương mại hay trao đổi kinh tế.",
+          "B. Toàn bộ các vật dụng phục vụ nấu nướng hàng ngày trong gian bếp gia đình.",
+          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên.",
+          "D. Các khoản chi tiêu sinh hoạt hàng ngày bằng tiền mặt mua lương thực thực phẩm."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Cơ quan soạn thảo văn bản của thành phố Huế phải tuân thủ quy định nào về thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151)?",
+        "q": "Tình huống xây dựng văn bản: Cơ quan soạn thảo phải tuân thủ đúng nguyên tắc nào về thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151)?",
         "options": [
-          "A. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 7)",
-          "B. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 7)",
-          "C. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 7)",
+          "A. Có hiệu lực từ ngày đầu tiên của quý tiếp theo không phân biệt thời điểm ký.",
+          "B. Có hiệu lực thi hành ngay tại thời điểm người có thẩm quyền ký ban hành.",
+          "C. Chỉ có hiệu lực sau khi đã gửi văn bản báo cáo và được Quốc hội thông qua.",
           "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Xác định nguyên tắc chuẩn xác của pháp luật liên quan đến thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151):",
+        "q": "Xác định quy định pháp lý bắt buộc đối với thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151) theo Luật Ban hành VBQPPL hiện hành:",
         "options": [
-          "A. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 8)",
+          "A. Có hiệu lực sau đúng 24 giờ kể từ thời điểm phát hành văn bản.",
           "B. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn).",
-          "C. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 8)",
-          "D. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 8)"
+          "C. Chỉ có hiệu lực khi toàn bộ người dân trên địa bàn đều ký cam kết thi hành.",
+          "D. Không sớm hơn 30 ngày kể từ ngày ký ban hành trong mọi trường hợp."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP đối với thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151)?",
+        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP liên quan đến thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151)?",
         "options": [
-          "A. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 9)",
-          "B. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 9)",
-          "C. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 9)",
+          "A. Có hiệu lực thi hành ngay tại thời điểm người có thẩm quyền ký ban hành.",
+          "B. Không sớm hơn 45 ngày kể từ ngày đăng tải trên công báo của tỉnh.",
+          "C. Có hiệu lực sau 60 ngày làm việc kể từ ngày niêm yết tại cơ quan.",
           "D. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định nội dung nào về thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151)?",
+        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định cụ thể nội dung nào đối với thời điểm có hiệu lực của vbqppl cấp tỉnh (điều 151)?",
         "options": [
-          "A. Không sớm hơn 30 ngày kể từ ngày ký. (không đúng 10)",
-          "B. Có hiệu lực ngay tại thời điểm ký kết. (sai quy định 10)",
+          "A. Chỉ có hiệu lực sau khi đã gửi văn bản báo cáo và được Quốc hội thông qua.",
+          "B. Không sớm hơn 30 ngày kể từ ngày ký ban hành trong mọi trường hợp.",
           "C. Không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành (trừ trường hợp ban hành theo trình tự, thủ tục rút gọn).",
-          "D. Không sớm hơn 45 ngày kể từ ngày đăng công báo. (trái luật 10)"
+          "D. Có hiệu lực từ ngày đầu tiên của quý tiếp theo không phân biệt thời điểm ký."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm hiệu lực cấp tỉnh không sớm hơn 10 ngày kể từ ngày ký/thông qua."
+        "explanation": "★ Căn cứ: Điều 151 Luật Ban hành VBQPPL: Thời điểm có hiệu lực của VBQPPL cấp tỉnh không sớm hơn 10 ngày kể từ ngày thông qua hoặc ký ban hành."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15): Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?",
+        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15: Trường hợp nào sau đây KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
         "options": [
-          "A. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
-          "B. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 1)",
-          "C. Áp dụng văn bản ban hành trước. (trái luật 1)",
-          "D. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 1)"
+          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn.",
+          "B. Quy định giảm nhẹ hình thức xử phạt vi phạm hành chính cho người vi phạm.",
+          "C. Quy định các biện pháp khẩn cấp nhằm ứng phó và khắc phục hậu quả thiên tai, bão lũ.",
+          "D. Quy định các chính sách miễn, giảm thuế để hỗ trợ doanh nghiệp phục hồi sản xuất."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Nhận định nào sau đây là ĐÚNG quy định về nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156)?",
+        "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Trường hợp nào sau đây KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
         "options": [
-          "A. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
-          "B. Áp dụng văn bản ban hành trước. (trái luật 2)",
-          "C. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 2)",
-          "D. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 2)"
+          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn.",
+          "B. Quy định chính sách khen thưởng đột xuất cho các tập thể có thành tích xuất sắc.",
+          "C. Quy định tăng mức hỗ trợ tiền mặt cho người nghèo và đối tượng bảo trợ xã hội.",
+          "D. Quy định rút ngắn thời gian giải quyết các thủ tục cấp giấy phép xây dựng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Đối với thành phố Huế trực thuộc Trung ương, quy định của Nghị định 150/2025/NĐ-CP về khung số lượng phó giám đốc sở theo nghị định 150/2025/nđ-cp được triển khai như thế nào?",
         "options": [
           "A. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý).",
-          "B. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 7)",
-          "C. Không giới hạn số lượng cấp phó. (trái luật 7)",
-          "D. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 7)"
+          "B. Cố định mỗi sở chỉ được có duy nhất đúng 01 Phó Giám đốc trong mọi trường hợp.",
+          "C. Chỉ được bổ nhiệm Phó Giám đốc Sở khi có văn bản đồng thuận của Chủ tịch Quốc hội.",
+          "D. Không bố trí chức danh Phó Giám đốc Sở mà chỉ có các Trưởng phòng chuyên môn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Xác định nguyên tắc chuẩn xác của Nghị định 150/2025/NĐ-CP về khung số lượng phó giám đốc sở theo nghị định 150/2025/nđ-cp:",
         "options": [
-          "A. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 8)",
-          "B. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 8)",
-          "C. Không giới hạn số lượng cấp phó. (trái luật 8)",
+          "A. Mỗi sở được có tối đa 10 Phó Giám đốc để phụ trách từng địa bàn quận huyện.",
+          "B. Số lượng cấp phó do các doanh nghiệp trên địa bàn thành phố bỏ phiếu bầu chọn.",
+          "C. Bắt buộc mỗi sở phải có tối thiểu 05 Phó Giám đốc Sở chuyên trách từng lĩnh vực.",
           "D. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý)."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Trách nhiệm, thẩm quyền của cơ quan hành chính theo Nghị định 150/2025/NĐ-CP đối với khung số lượng phó giám đốc sở theo nghị định 150/2025/nđ-cp là:",
         "options": [
-          "A. Không giới hạn số lượng cấp phó. (trái luật 9)",
+          "A. Mỗi sở có số lượng cấp phó bằng một nửa tổng số biên chế của sở đó.",
           "B. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý).",
-          "C. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 9)",
-          "D. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 9)"
+          "C. Cố định mỗi sở chỉ được có duy nhất đúng 01 Phó Giám đốc trong mọi trường hợp.",
+          "D. Không bị giới hạn số lượng cấp phó, do Giám đốc Sở tự ký quyết định bổ nhiệm tùy ý."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Văn bản pháp luật Nghị định 150/2025/NĐ-CP quy định cụ thể nội dung nào về khung số lượng phó giám đốc sở theo nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Không giới hạn số lượng cấp phó. (trái luật 10)",
+          "A. Không bố trí chức danh Phó Giám đốc Sở mà chỉ có các Trưởng phòng chuyên môn.",
           "B. Bình quân không quá 03 người trên một sở (UBND cấp tỉnh quyết định số lượng cụ thể cho từng sở phù hợp với quy mô và yêu cầu quản lý).",
-          "C. Cố định mỗi sở chỉ được có duy nhất 01 Phó Giám đốc. (sai quy định 10)",
-          "D. Mỗi sở được có tối đa 10 Phó Giám đốc. (không đúng 10)"
+          "C. Mỗi sở được có tối đa 10 Phó Giám đốc để phụ trách từng địa bàn quận huyện.",
+          "D. Chỉ được bổ nhiệm Phó Giám đốc Sở khi có văn bản đồng thuận của Chủ tịch Quốc hội."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Khung số lượng cấp phó bình quân không quá 03 người/sở; UBND cấp tỉnh quyết định cụ thể."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP): Người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh (Giám đốc Sở) chịu trách nhiệm trước ai?",
         "options": [
-          "A. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 1)",
-          "B. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 1)",
-          "C. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 1)",
+          "A. Chịu trách nhiệm liên đới với toàn bộ các hành vi cá nhân của công dân trên địa bàn.",
+          "B. Không phải chịu bất kỳ trách nhiệm cá nhân nào về hoạt động quản lý của sở.",
+          "C. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy của cơ quan nơi mình công tác.",
           "D. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao."
         ],
         "ans": 3,
@@ -4852,142 +4852,142 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Nhận định nào sau đây là ĐÚNG quy định tại Nghị định 150/2025/NĐ-CP về trách nhiệm của giám đốc sở đối với chính quyền địa phương?",
         "options": [
-          "A. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 2)",
-          "B. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 2)",
-          "C. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 2)",
+          "A. Chỉ chịu trách nhiệm trước cử tri nơi cư trú vào các dịp sinh hoạt tổ dân phố.",
+          "B. Chỉ chịu trách nhiệm trước Trưởng đoàn đại biểu Quốc hội tại địa phương.",
+          "C. Chỉ chịu trách nhiệm khi có bản án kết tội có hiệu lực pháp luật của Tòa án nhân dân.",
           "D. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao."
         ],
         "ans": 3,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Giám đốc sở chịu trách nhiệm kép: trước UBND/Chủ tịch UBND tỉnh và trước Bộ trưởng chuyên ngành."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Theo Nghị định 170/2025/NĐ-CP, việc xem xét kéo dài thời gian giữ chức vụ lãnh đạo, quản lý đòi hỏi tỷ lệ đồng ý của tập thể lãnh đạo là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 41)?",
         "options": [
-          "A. Chỉ cần từ 30% trở lên. (không đúng 1)",
-          "B. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 1)",
-          "C. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 1)",
-          "D. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định."
+          "A. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở.",
+          "B. Không được hưởng phụ cấp.",
+          "C. Hưởng thêm 50% tiền lương của người tập sự.",
+          "D. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn."
         ],
         "ans": 3,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về tỷ lệ biểu quyết kéo dài chức vụ lãnh đạo quản lý (nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 42)?",
         "options": [
-          "A. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 2)",
-          "B. Chỉ cần từ 30% trở lên. (không đúng 2)",
-          "C. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 2)",
-          "D. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định."
+          "A. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "B. Đuổi ra khỏi phòng thi và cấm thi 5 năm.",
+          "C. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "D. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó."
         ],
         "ans": 3,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Theo Nghị định 170/2025/NĐ-CP, việc xem xét kéo dài thời gian giữ chức vụ lãnh đạo, quản lý đòi hỏi tỷ lệ đồng ý của tập thể lãnh đạo là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 43)?",
         "options": [
-          "A. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định.",
-          "B. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 3)",
-          "C. Chỉ cần từ 30% trở lên. (không đúng 3)",
-          "D. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 3)"
+          "A. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "B. 06 tháng cố định.",
+          "C. 09 tháng.",
+          "D. 24 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Theo Nghị định 170/2025/NĐ-CP, việc xem xét kéo dài thời gian giữ chức vụ lãnh đạo, quản lý đòi hỏi tỷ lệ đồng ý của tập thể lãnh đạo là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 44)?",
         "options": [
-          "A. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 4)",
-          "B. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 4)",
-          "C. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định.",
-          "D. Chỉ cần từ 30% trở lên. (không đúng 4)"
+          "A. 12 tháng.",
+          "B. 03 tháng.",
+          "C. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "D. 09 tháng."
         ],
         "ans": 2,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Theo Nghị định 170/2025/NĐ-CP, việc xem xét kéo dài thời gian giữ chức vụ lãnh đạo, quản lý đòi hỏi tỷ lệ đồng ý của tập thể lãnh đạo là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 45)?",
         "options": [
-          "A. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định.",
-          "B. Chỉ cần từ 30% trở lên. (không đúng 5)",
-          "C. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 5)",
-          "D. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 5)"
+          "A. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "B. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "C. Thời gian đi công tác địa bàn.",
+          "D. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày."
         ],
         "ans": 0,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến tỷ lệ biểu quyết kéo dài chức vụ lãnh đạo quản lý (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 46)?",
         "options": [
-          "A. Chỉ cần từ 30% trở lên. (không đúng 6)",
-          "B. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định.",
-          "C. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 6)",
-          "D. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 6)"
+          "A. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "B. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "C. Có bằng Thạc sĩ đúng chuyên ngành.",
+          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc."
         ],
         "ans": 1,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về tỷ lệ biểu quyết kéo dài chức vụ lãnh đạo quản lý (nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 47)?",
         "options": [
-          "A. Chỉ cần từ 30% trở lên. (không đúng 7)",
-          "B. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 7)",
-          "C. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định.",
-          "D. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 7)"
+          "A. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở.",
+          "B. Hưởng thêm 50% tiền lương của người tập sự.",
+          "C. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "D. Không được hưởng phụ cấp."
         ],
         "ans": 2,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với tỷ lệ biểu quyết kéo dài chức vụ lãnh đạo quản lý (nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 48)?",
         "options": [
-          "A. Chỉ cần từ 30% trở lên. (không đúng 8)",
-          "B. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 8)",
-          "C. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 8)",
-          "D. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định."
+          "A. Đuổi ra khỏi phòng thi và cấm thi 5 năm.",
+          "B. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "C. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "D. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó."
         ],
         "ans": 3,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến tỷ lệ biểu quyết kéo dài chức vụ lãnh đạo quản lý (nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 49)?",
         "options": [
-          "A. Chỉ cần từ 30% trở lên. (không đúng 9)",
-          "B. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định.",
-          "C. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 9)",
-          "D. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 9)"
+          "A. 09 tháng.",
+          "B. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "C. 24 tháng.",
+          "D. 06 tháng cố định."
         ],
         "ans": 1,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về tỷ lệ biểu quyết kéo dài chức vụ lãnh đạo quản lý (nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 50)?",
         "options": [
-          "A. Bắt buộc phải đạt 100% số phiếu tuyệt đối. (sai quy định 10)",
-          "B. Do cá nhân người đứng đầu tự quyết định không cần họp lãnh đạo. (trái luật 10)",
-          "C. Chỉ cần từ 30% trở lên. (không đúng 10)",
-          "D. Phải đạt tỷ lệ trên 50% tổng số thành viên tập thể lãnh đạo đồng ý; trường hợp đạt đúng 50% thì do người đứng đầu quyết định."
+          "A. 03 tháng.",
+          "B. 12 tháng.",
+          "C. 09 tháng.",
+          "D. 06 tháng kể từ ngày nhận nhiệm sở."
         ],
         "ans": 3,
-        "explanation": "★ Điểm mới NĐ 170/2025/NĐ-CP: Phải đạt trên 50% thành viên lãnh đạo đồng ý; trường hợp 50-50 do người đứng đầu quyết định và báo cáo cấp trên."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo Nghị quyết số 76/NQ-CP và Chỉ thị 23/CT-TTg: Chỉ thị số 23/CT-TTg ngày 02/9/2021 của Thủ tướng Chính phủ nhấn mạnh trách nhiệm gì trong thực hiện CCHC?",
         "options": [
-          "A. Giảm bớt tần suất thanh tra công vụ. (trái luật 1)",
+          "A. Cấm người dân phản ánh các hành vi gây phiền hà sách nhiễu của công chức thụ lý hồ sơ.",
           "B. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "C. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 1)",
-          "D. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 1)"
+          "C. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó mà không cần giám sát.",
+          "D. Giảm bớt tần suất và nới lỏng các tiêu chuẩn kiểm tra công vụ đối với cán bộ, công chức."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -4997,9 +4997,9 @@ window.EXAMS_DATA = [
         "q": "Trong Chương trình tổng thể cải cách hành chính nhà nước: Chỉ thị số 23/CT-TTg ngày 02/9/2021 của Thủ tướng Chính phủ nhấn mạnh trách nhiệm gì trong thực hiện CCHC?",
         "options": [
           "A. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "B. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 2)",
-          "C. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 2)",
-          "D. Giảm bớt tần suất thanh tra công vụ. (trái luật 2)"
+          "B. Không công khai kết quả đánh giá xếp hạng cải cách hành chính hàng năm trên báo chí.",
+          "C. Cho phép cán bộ đùn đẩy trách nhiệm lên cấp trên nếu công việc có tính chất phức tạp.",
+          "D. Khuyến khích công chức giữ lại hồ sơ thủ tục hành chính quá thời hạn quy định."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -5008,10 +5008,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Căn cứ Nghị quyết 76/NQ-CP của Chính phủ về CCHC: Chỉ thị số 23/CT-TTg ngày 02/9/2021 của Thủ tướng Chính phủ nhấn mạnh trách nhiệm gì trong thực hiện CCHC?",
         "options": [
-          "A. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 3)",
+          "A. Không xem kết quả CCHC là tiêu chí để bình xét thi đua, khen thưởng cuối năm.",
           "B. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "C. Giảm bớt tần suất thanh tra công vụ. (trái luật 3)",
-          "D. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 3)"
+          "C. Bỏ qua khâu đánh giá mức độ hài lòng của người dân và doanh nghiệp hàng năm.",
+          "D. Giảm bớt tần suất và nới lỏng các tiêu chuẩn kiểm tra công vụ đối với cán bộ, công chức."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -5020,10 +5020,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Mục tiêu, nhiệm vụ của công cuộc cải cách hành chính liên quan đến chỉ đạo của thủ tướng chính phủ tại chỉ thị 23/ct-ttg đòi hỏi điều gì?",
         "options": [
-          "A. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 4)",
-          "B. Giảm bớt tần suất thanh tra công vụ. (trái luật 4)",
+          "A. Cho phép cán bộ đùn đẩy trách nhiệm lên cấp trên nếu công việc có tính chất phức tạp.",
+          "B. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó mà không cần giám sát.",
           "C. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "D. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 4)"
+          "D. Cấm người dân phản ánh các hành vi gây phiền hà sách nhiễu của công chức thụ lý hồ sơ."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -5033,9 +5033,9 @@ window.EXAMS_DATA = [
         "q": "Theo Chỉ thị 23/CT-TTg của Thủ tướng Chính phủ về CCHC: Chỉ thị số 23/CT-TTg ngày 02/9/2021 của Thủ tướng Chính phủ nhấn mạnh trách nhiệm gì trong thực hiện CCHC?",
         "options": [
           "A. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "B. Giảm bớt tần suất thanh tra công vụ. (trái luật 5)",
-          "C. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 5)",
-          "D. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 5)"
+          "B. Không công khai kết quả đánh giá xếp hạng cải cách hành chính hàng năm trên báo chí.",
+          "C. Khuyến khích công chức giữ lại hồ sơ thủ tục hành chính quá thời hạn quy định.",
+          "D. Không xem kết quả CCHC là tiêu chí để bình xét thi đua, khen thưởng cuối năm."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -5044,10 +5044,10 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Theo các văn bản quy định của UBND thành phố Huế: Ứng dụng Hue-S của thành phố Huế đóng vai trò cốt lõi nào trong mô hình chính quyền số?",
         "options": [
-          "A. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 1)",
+          "A. Chỉ phục vụ khách du lịch mua vé tham quan các điểm di tích Đại Nội Huế.",
           "B. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh.",
-          "C. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 1)",
-          "D. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 1)"
+          "C. Ứng dụng chuyên dùng để chơi trò chơi điện tử trực tuyến có thưởng.",
+          "D. Hệ thống nội bộ chỉ dành riêng cho các thành viên Ủy ban nhân dân thành phố trao đổi thư mật."
         ],
         "ans": 1,
         "explanation": "★ Điểm sáng cải cách hành chính TP Huế: Hue-S là ứng dụng số dùng chung, kết nối trực tiếp phản ánh hiện trường của người dân tới các cơ quan hành chính xử lý công khai, minh bạch."
@@ -5056,10 +5056,10 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Căn cứ Quyết định số 2626/QĐ-UBND của UBND thành phố Huế: Ứng dụng Hue-S của thành phố Huế đóng vai trò cốt lõi nào trong mô hình chính quyền số?",
         "options": [
-          "A. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 2)",
+          "A. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông quốc gia hàng năm.",
           "B. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh.",
-          "C. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 2)",
-          "D. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 2)"
+          "C. Ứng dụng mạng xã hội giải trí thuần túy không có chức năng dịch vụ hành chính công.",
+          "D. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng riêng."
         ],
         "ans": 1,
         "explanation": "★ Điểm sáng cải cách hành chính TP Huế: Hue-S là ứng dụng số dùng chung, kết nối trực tiếp phản ánh hiện trường của người dân tới các cơ quan hành chính xử lý công khai, minh bạch."
@@ -5069,20 +5069,20 @@ window.EXAMS_DATA = [
         "q": "Trong công tác cải cách hành chính gắn với đô thị thông minh TP Huế: Ứng dụng Hue-S của thành phố Huế đóng vai trò cốt lõi nào trong mô hình chính quyền số?",
         "options": [
           "A. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh.",
-          "B. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 3)",
-          "C. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 3)",
-          "D. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 3)"
+          "B. Ứng dụng quảng cáo thương mại cho các tập đoàn bán lẻ nước ngoài.",
+          "C. Hệ thống quản lý điểm thi của học sinh các trường trung học cơ sở công lập.",
+          "D. Hệ thống nội bộ chỉ dành riêng cho các thành viên Ủy ban nhân dân thành phố trao đổi thư mật."
         ],
         "ans": 0,
         "explanation": "★ Điểm sáng cải cách hành chính TP Huế: Hue-S là ứng dụng số dùng chung, kết nối trực tiếp phản ánh hiện trường của người dân tới các cơ quan hành chính xử lý công khai, minh bạch."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Căn cứ Quyết định số 2243/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Ứng dụng Hue-S của thành phố Huế đóng vai trò cốt lõi nào trong mô hình chính quyền số?",
+        "q": "Căn cứ Quyết định số 1026/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Ứng dụng Hue-S của thành phố Huế đóng vai trò cốt lõi nào trong mô hình chính quyền số?",
         "options": [
-          "A. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 4)",
-          "B. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 4)",
-          "C. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 4)",
+          "A. Chỉ phục vụ khách du lịch mua vé tham quan các điểm di tích Đại Nội Huế.",
+          "B. Ứng dụng chuyên dùng để chơi trò chơi điện tử trực tuyến có thưởng.",
+          "C. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng riêng.",
           "D. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh."
         ],
         "ans": 3,
@@ -5090,12 +5090,12 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Ứng dụng chuyển đổi số và công nghệ thông tin tại thành phố Huế khẳng định vai trò của nền tảng ứng dụng hue-s trong chuyển đổi số và phục vụ công dân như thế nào?",
+        "q": "Ứng dụng chuyển đổi số và công nghệ thông tin tại thành phố Huế khẳng định vai trò của nền tảng ứng dụng hue-s trong chính quyền số như thế nào?",
         "options": [
           "A. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh.",
-          "B. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 5)",
-          "C. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 5)",
-          "D. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 5)"
+          "B. Ứng dụng mạng xã hội giải trí thuần túy không có chức năng dịch vụ hành chính công.",
+          "C. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông quốc gia hàng năm.",
+          "D. Ứng dụng quảng cáo thương mại cho các tập đoàn bán lẻ nước ngoài."
         ],
         "ans": 0,
         "explanation": "★ Điểm sáng cải cách hành chính TP Huế: Hue-S là ứng dụng số dùng chung, kết nối trực tiếp phản ánh hiện trường của người dân tới các cơ quan hành chính xử lý công khai, minh bạch."
@@ -5107,28 +5107,64 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 08 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, thành viên của ủy ban nhân dân thành phố trực thuộc trung ương bao gồm những chức danh nào?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Thành viên của Ủy ban nhân dân thành phố trực thuộc trung ương bao gồm những chức danh nào?",
         "options": [
-          "A. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 1)",
+          "A. Chủ tịch Ủy ban MTTQ thành phố và Trưởng các tổ chức chính trị - xã hội.",
           "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "C. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 1)",
-          "D. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 1)"
+          "C. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương cư trú trên địa bàn.",
+          "D. Bí thư Thành ủy, Phó Bí thư thường trực Thành ủy và các Trưởng ban đảng."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương?",
         "options": [
-          "A. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 2)",
-          "B. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 2)",
+          "A. Chánh án Tòa án nhân dân thành phố và Cục trưởng Cục Thi hành án dân sự.",
+          "B. Chủ tịch, Phó Chủ tịch HĐND thành phố và Viện trưởng Viện kiểm sát nhân dân thành phố.",
           "C. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "D. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 2)"
+          "D. Chủ tịch UBND thành phố và toàn bộ Chủ tịch UBND các quận, huyện trực thuộc."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Thành viên của Ủy ban nhân dân thành phố trực thuộc trung ương bao gồm những chức danh nào?",
+        "options": [
+          "A. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "B. Toàn bộ các Giám đốc doanh nghiệp nhà nước có trụ sở tại địa phương.",
+          "C. Bí thư Thành ủy, Phó Bí thư thường trực Thành ủy và các Trưởng ban đảng.",
+          "D. Đại diện các hội đồng hương và hội nghề nghiệp đóng trên địa bàn."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương, cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
+        "options": [
+          "A. Chủ tịch UBND thành phố và toàn bộ Chủ tịch UBND các quận, huyện trực thuộc.",
+          "B. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương cư trú trên địa bàn.",
+          "C. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "D. Chủ tịch Ủy ban MTTQ thành phố và Trưởng các tổ chức chính trị - xã hội."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương là gì?",
+        "options": [
+          "A. Chủ tịch, Phó Chủ tịch HĐND thành phố và Viện trưởng Viện kiểm sát nhân dân thành phố.",
+          "B. Toàn bộ các Giám đốc doanh nghiệp nhà nước có trụ sở tại địa phương.",
+          "C. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "D. Chánh án Tòa án nhân dân thành phố và Cục trưởng Cục Thi hành án dân sự."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
@@ -5137,393 +5173,357 @@ window.EXAMS_DATA = [
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
         "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Thành viên của Ủy ban nhân dân thành phố trực thuộc trung ương bao gồm những chức danh nào?",
         "options": [
-          "A. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "B. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 3)",
-          "C. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 3)",
-          "D. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 3)"
+          "A. Bí thư Thành ủy, Phó Bí thư thường trực Thành ủy và các Trưởng ban đảng.",
+          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "C. Đại diện các hội đồng hương và hội nghề nghiệp đóng trên địa bàn.",
+          "D. Chủ tịch Ủy ban MTTQ thành phố và Trưởng các tổ chức chính trị - xã hội."
         ],
-        "ans": 0,
+        "ans": 1,
         "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương theo nguyên tắc nào sau đây?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương được áp dụng như thế nào?",
         "options": [
-          "A. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 4)",
-          "B. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 4)",
+          "A. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương cư trú trên địa bàn.",
+          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "C. Chủ tịch UBND thành phố và toàn bộ Chủ tịch UBND các quận, huyện trực thuộc.",
+          "D. Chánh án Tòa án nhân dân thành phố và Cục trưởng Cục Thi hành án dân sự."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương theo Luật số 72/2025/QH15:",
+        "options": [
+          "A. Chủ tịch, Phó Chủ tịch HĐND thành phố và Viện trưởng Viện kiểm sát nhân dân thành phố.",
+          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "C. Đại diện các hội đồng hương và hội nghề nghiệp đóng trên địa bàn.",
+          "D. Toàn bộ các Giám đốc doanh nghiệp nhà nước có trụ sở tại địa phương."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương?",
+        "options": [
+          "A. Chủ tịch Ủy ban MTTQ thành phố và Trưởng các tổ chức chính trị - xã hội.",
+          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
+          "C. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương cư trú trên địa bàn.",
+          "D. Bí thư Thành ủy, Phó Bí thư thường trực Thành ủy và các Trưởng ban đảng."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương?",
+        "options": [
+          "A. Chủ tịch, Phó Chủ tịch HĐND thành phố và Viện trưởng Viện kiểm sát nhân dân thành phố.",
+          "B. Chủ tịch UBND thành phố và toàn bộ Chủ tịch UBND các quận, huyện trực thuộc.",
           "C. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "D. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 4)"
+          "D. Chánh án Tòa án nhân dân thành phố và Cục trưởng Cục Thi hành án dân sự."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
       },
       {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 9)?",
         "options": [
-          "A. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 5)",
-          "B. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 5)",
-          "C. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "D. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 5)"
+          "A. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "B. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "D. Được xem xét chuyển sang làm nhân viên hợp đồng lao động."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 9)?",
         "options": [
-          "A. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 6)",
-          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "C. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 6)",
-          "D. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 6)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương được áp dụng ra sao?",
-        "options": [
-          "A. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 7)",
-          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "C. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 7)",
-          "D. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 7)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương?",
-        "options": [
-          "A. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 8)",
-          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "C. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 8)",
-          "D. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 8)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương đòi hỏi điều gì?",
-        "options": [
-          "A. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 9)",
-          "B. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "C. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 9)",
-          "D. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 9)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về cơ cấu thành viên ubnd cấp thành phố trực thuộc trung ương?",
-        "options": [
-          "A. Toàn bộ đại biểu Quốc hội trúng cử tại địa phương. (sai quy định 10)",
-          "B. Chủ tịch, Phó Chủ tịch HĐND và Viện trưởng Viện kiểm sát. (không đúng thẩm quyền 10)",
-          "C. Chủ tịch, các Phó Chủ tịch và các Ủy viên (người đứng đầu các cơ quan chuyên môn thuộc UBND, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an).",
-          "D. Bí thư Thành ủy và các Trưởng ban đảng. (vi phạm nguyên tắc 10)"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 20 Luật Tổ chức CQĐP: UBND gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là Giám đốc các Sở ngành, Chỉ huy trưởng Quân sự, Giám đốc Công an."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Hệ thống ngạch công chức hành chính theo quy định tại Điều 34 Luật Cán bộ, công chức gồm có:",
-        "options": [
-          "A. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 1)",
-          "B. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 1)",
-          "C. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên.",
-          "D. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 1)"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về hệ thống ngạch công chức (điều 34)?",
-        "options": [
-          "A. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 2)",
-          "B. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 2)",
-          "C. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 2)",
-          "D. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên."
+          "A. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "B. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "C. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "D. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Hệ thống ngạch công chức hành chính theo quy định tại Điều 34 Luật Cán bộ, công chức gồm có:",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 9)?",
         "options": [
-          "A. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 3)",
-          "B. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 3)",
-          "C. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 3)",
-          "D. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên."
+          "A. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "B. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "C. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "D. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về hệ thống ngạch công chức (điều 34) như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 9)?",
         "options": [
-          "A. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 4)",
-          "B. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên.",
-          "C. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 4)",
-          "D. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 4)"
+          "A. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "B. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "C. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "D. Trong thời hạn 07 ngày làm việc."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về hệ thống ngạch công chức (điều 34) yêu cầu công chức phải tuân thủ nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 9)?",
         "options": [
-          "A. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 5)",
-          "B. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên.",
-          "C. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 5)",
-          "D. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 5)"
+          "A. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "B. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng.",
+          "C. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "D. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng hệ thống ngạch công chức (điều 34) là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 10)?",
         "options": [
-          "A. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên.",
-          "B. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 6)",
-          "C. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 6)",
-          "D. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 6)"
+          "A. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "B. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "C. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "D. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về hệ thống ngạch công chức (điều 34) khi nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 10)?",
         "options": [
-          "A. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 7)",
-          "B. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 7)",
-          "C. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên.",
-          "D. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 7)"
+          "A. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "B. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "C. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "D. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến hệ thống ngạch công chức (điều 34)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 10)?",
         "options": [
-          "A. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên.",
-          "B. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 8)",
-          "C. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 8)",
-          "D. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 8)"
+          "A. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "B. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "C. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "D. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về hệ thống ngạch công chức (điều 34) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 10)?",
         "options": [
-          "A. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 9)",
-          "B. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 9)",
-          "C. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên.",
-          "D. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 9)"
+          "A. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "B. Trong thời hạn 07 ngày làm việc.",
+          "C. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "D. Trong thời hạn 60 ngày kể từ ngày công bố quyết định."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về hệ thống ngạch công chức (điều 34)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 10)?",
         "options": [
-          "A. Giám đốc Sở, Phó Giám đốc Sở, Trưởng phòng, Chuyên viên. (trái luật 10)",
-          "B. Hạng I, Hạng II, Hạng III, Hạng IV, Hạng V. (sai quy định 10)",
-          "C. Bậc 1, Bậc 2, Bậc 3, Bậc 4, Bậc 5, Bậc 6. (không chính xác 10)",
-          "D. Ngạch Chuyên viên cao cấp và tương đương; Chuyên viên chính và tương đương; Chuyên viên và tương đương; Cán sự và tương đương; Ngạch Nhân viên."
+          "A. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "B. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "C. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "D. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 34 Luật CBCC: 5 ngạch công chức chuẩn hóa quốc gia: CV cao cấp -> CV chính -> Chuyên viên -> Cán sự -> Nhân viên."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Biện pháp phòng ngừa tham nhũng nào sau đây được áp dụng đối với quy tắc ứng xử và tặng quà, nhận quà tặng (điều 20, 22)?",
+        "q": "Biện pháp phòng ngừa và xử lý nghiêm minh theo quy định của Luật PCTN đối với nghĩa vụ kê khai tài sản, thu nhập (điều 34, 35) là:",
         "options": [
-          "A. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý.",
-          "B. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 7)",
-          "C. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 7)",
-          "D. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 7)"
+          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên.",
+          "B. Quần áo, giày dép, đồ dùng sinh hoạt cá nhân thông thường dưới 1.000.000 đồng.",
+          "C. Sách giáo khoa, đồ dùng học tập của con cái đang theo học bậc phổ thông.",
+          "D. Tài sản thuộc quyền sở hữu riêng của người thân thích không cùng chung hộ khẩu."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng, cơ quan tổ chức đơn vị có trách nhiệm gì đối với quy tắc ứng xử và tặng quà, nhận quà tặng (điều 20, 22)?",
+        "q": "Cơ quan, tổ chức, đơn vị có trách nhiệm gì đối với việc thực hiện quy định về nghĩa vụ kê khai tài sản, thu nhập (điều 34, 35)?",
         "options": [
-          "A. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 8)",
-          "B. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 8)",
-          "C. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý.",
-          "D. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 8)"
+          "A. Các khoản chi tiêu sinh hoạt hàng ngày bằng tiền mặt mua lương thực thực phẩm.",
+          "B. Điện thoại cũ hỏng đã qua sử dụng không còn giá trị lưu thông trên thị trường.",
+          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên.",
+          "D. Cây cảnh trồng trong vườn nhà có giá trị dưới 5.000.000 đồng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Yêu cầu về tính công khai, minh bạch trong quy tắc ứng xử và tặng quà, nhận quà tặng (điều 20, 22) được quy định ra sao?",
+        "q": "Yêu cầu về tính liêm chính, công khai, minh bạch theo Luật PCTN khẳng định nguyên tắc nào về nghĩa vụ kê khai tài sản, thu nhập (điều 34, 35)?",
         "options": [
-          "A. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý.",
-          "B. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 9)",
-          "C. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 9)",
-          "D. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 9)"
+          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên.",
+          "B. Toàn bộ các vật dụng phục vụ nấu nướng hàng ngày trong gian bếp gia đình.",
+          "C. Thú cưng nuôi trong gia đình không có giá trị thương mại hay trao đổi kinh tế.",
+          "D. Quần áo, giày dép, đồ dùng sinh hoạt cá nhân thông thường dưới 1.000.000 đồng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Văn bản pháp luật về phòng, chống tham nhũng khẳng định nội dung nào sau đây về quy tắc ứng xử và tặng quà, nhận quà tặng (điều 20, 22)?",
+        "q": "Văn bản pháp luật về phòng, chống tham nhũng quy định rõ ràng nội dung nào sau đây liên quan đến nghĩa vụ kê khai tài sản, thu nhập (điều 34, 35)?",
         "options": [
-          "A. Được nhận tiền mặt nếu có biên bản bàn giao có người làm chứng. (không chính xác 10)",
-          "B. Được nhận quà biếu nếu sau đó chia đều cho toàn thể phòng ban. (trái luật 10)",
-          "C. Được nhận quà tặng có giá trị dưới 10 triệu đồng vào các dịp ngày lễ, tết. (sai quy định 10)",
-          "D. Không được trực tiếp hoặc gián tiếp nhận quà tặng dưới mọi hình thức của cơ quan, tổ chức, cá nhân có liên quan đến công việc do mình giải quyết hoặc thuộc phạm vi quản lý."
+          "A. Sách giáo khoa, đồ dùng học tập của con cái đang theo học bậc phổ thông.",
+          "B. Tài sản thuộc quyền sở hữu riêng của người thân thích không cùng chung hộ khẩu.",
+          "C. Điện thoại cũ hỏng đã qua sử dụng không còn giá trị lưu thông trên thị trường.",
+          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; Kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu, tài sản ở nước ngoài có giá trị từ 50.000.000 đồng trở lên."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 22 Luật PCTN: Nghiêm cấm tặng quà và nhận quà tặng dưới mọi hình thức để vụ lợi liên quan đến công việc do mình giải quyết."
+        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Tài sản phải kê khai gồm nhà đất; kim khí quý, đá quý, tiền, giấy tờ có giá từ 50 triệu đồng trở lên; tài sản, tài khoản ở nước ngoài."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH): Thời hạn định kỳ chuyển đổi vị trí công tác đối với người có chức vụ, quyền hạn được quy định là bao lâu?",
+        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (VBHN số 65/VBHN-VPQH): Phương thức Kê khai tài sản, thu nhập BỔ SUNG được áp dụng trong trường hợp nào?",
         "options": [
-          "A. Cố định đúng 06 tháng một lần. (sai quy định 1)",
-          "B. Từ 05 năm đến 10 năm. (trái luật 1)",
-          "C. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 1)",
-          "D. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
+          "A. Khi người kê khai mua thêm một chiếc xe đạp thể thao trị giá 2.500.000 đồng.",
+          "B. Chỉ kê khai bổ sung khi bị cơ quan công an triệu tập lấy lời khai.",
+          "C. Chỉ thực hiện khi người kê khai chuẩn bị được trao tặng bằng khen cấp tỉnh.",
+          "D. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước, nhận định nào sau đây là ĐÚNG về chuyển đổi vị trí công tác để phòng ngừa tham nhũng (điều 24, 25)?",
+        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước theo Luật PCTN: Phương thức Kê khai tài sản, thu nhập BỔ SUNG được áp dụng trong trường hợp nào?",
         "options": [
-          "A. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 2)",
-          "B. Từ 05 năm đến 10 năm. (trái luật 2)",
-          "C. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
-          "D. Cố định đúng 06 tháng một lần. (sai quy định 2)"
+          "A. Khi người kê khai mở thêm một tài khoản mạng xã hội cá nhân mới.",
+          "B. Bắt buộc thực hiện hàng quý bất kể tài sản có thay đổi tăng giảm hay không.",
+          "C. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên.",
+          "D. Bắt buộc phải kê khai bổ sung định kỳ vào mỗi cuối tuần làm việc."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng (VBHN số 65/VBHN-VPQH): Thời hạn định kỳ chuyển đổi vị trí công tác đối với người có chức vụ, quyền hạn được quy định là bao lâu?",
+        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng: Phương thức Kê khai tài sản, thu nhập BỔ SUNG được áp dụng trong trường hợp nào?",
         "options": [
-          "A. Từ 05 năm đến 10 năm. (trái luật 3)",
-          "B. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
-          "C. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 3)",
-          "D. Cố định đúng 06 tháng một lần. (sai quy định 3)"
+          "A. Khi công chức sinh thêm con hoặc thay đổi nơi đăng ký thường trú.",
+          "B. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên.",
+          "C. Khi có sự biến động tài sản từ 10.000.000 đồng trở lên trong tháng.",
+          "D. Chỉ thực hiện khi người kê khai chuẩn bị được trao tặng bằng khen cấp tỉnh."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Tình huống công vụ: Công chức xử lý đúng quy định về chuyển đổi vị trí công tác để phòng ngừa tham nhũng (điều 24, 25) như thế nào?",
+        "q": "Quy định pháp lý hiện hành về phòng, chống tham nhũng xác định nội dung nào sau đây về kê khai tài sản, thu nhập bổ sung (điều 36)?",
         "options": [
-          "A. Từ 05 năm đến 10 năm. (trái luật 4)",
-          "B. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 4)",
-          "C. Cố định đúng 06 tháng một lần. (sai quy định 4)",
-          "D. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực."
+          "A. Khi người kê khai mua thêm một chiếc xe đạp thể thao trị giá 2.500.000 đồng.",
+          "B. Chỉ kê khai bổ sung khi bị cơ quan công an triệu tập lấy lời khai.",
+          "C. Khi người kê khai mở thêm một tài khoản mạng xã hội cá nhân mới.",
+          "D. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?",
+        "q": "Trong xây dựng thể chế và áp dụng pháp luật theo Luật số 64/2025/QH15: Trường hợp nào sau đây KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
         "options": [
-          "A. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
-          "B. Áp dụng văn bản ban hành trước. (trái luật 3)",
-          "C. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 3)",
-          "D. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 3)"
+          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn.",
+          "B. Quy định áp dụng công nghệ số để đơn giản hóa thủ tục hành chính công.",
+          "C. Quy định giảm nhẹ hình thức xử phạt vi phạm hành chính cho người vi phạm.",
+          "D. Quy định chế độ bồi thường thiệt hại có lợi hơn cho người dân bị thu hồi đất."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Trong xây dựng thể chế hành chính nhà nước: Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?",
+        "q": "Quy định pháp lý về quy định về hiệu lực trở về trước (hồi tố) (điều 152) khẳng định nội dung nào sau đây?",
         "options": [
-          "A. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 4)",
-          "B. Áp dụng văn bản ban hành trước. (trái luật 4)",
-          "C. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 4)",
-          "D. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau."
+          "A. Quy định rút ngắn thời gian giải quyết các thủ tục cấp giấy phép xây dựng.",
+          "B. Quy định các chính sách miễn, giảm thuế để hỗ trợ doanh nghiệp phục hồi sản xuất.",
+          "C. Quy định các biện pháp khẩn cấp nhằm ứng phó và khắc phục hậu quả thiên tai, bão lũ.",
+          "D. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Quy định pháp lý về nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156) khẳng định điều gì?",
+        "q": "Khi cơ quan có thẩm quyền tại thành phố Huế ban hành văn bản, quy định về quy định về hiệu lực trở về trước (hồi tố) (điều 152) được áp dụng ra sao?",
         "options": [
-          "A. Áp dụng văn bản ban hành trước. (trái luật 5)",
-          "B. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 5)",
-          "C. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 5)",
-          "D. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau."
+          "A. Quy định tăng mức hỗ trợ tiền mặt cho người nghèo và đối tượng bảo trợ xã hội.",
+          "B. Quy định chính sách khen thưởng đột xuất cho các tập thể có thành tích xuất sắc.",
+          "C. Quy định chế độ bồi thường thiệt hại có lợi hơn cho người dân bị thu hồi đất.",
+          "D. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo quy định hiện hành, việc áp dụng nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156) được thực hiện như thế nào?",
+        "q": "Nhận định nào sau đây là CHUẨN XÁC theo quy định của Luật Ban hành văn bản quy phạm pháp luật về quy định về hiệu lực trở về trước (hồi tố) (điều 152)?",
         "options": [
-          "A. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 6)",
-          "B. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
-          "C. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 6)",
-          "D. Áp dụng văn bản ban hành trước. (trái luật 6)"
+          "A. Quy định các biện pháp khẩn cấp nhằm ứng phó và khắc phục hậu quả thiên tai, bão lũ.",
+          "B. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn.",
+          "C. Quy định áp dụng công nghệ số để đơn giản hóa thủ tục hành chính công.",
+          "D. Quy định giảm nhẹ hình thức xử phạt vi phạm hành chính cho người vi phạm."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Cơ quan soạn thảo văn bản của thành phố Huế phải tuân thủ quy định nào về nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156)?",
+        "q": "Tình huống xây dựng văn bản: Cơ quan soạn thảo phải tuân thủ đúng nguyên tắc nào về quy định về hiệu lực trở về trước (hồi tố) (điều 152)?",
         "options": [
-          "A. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 7)",
-          "B. Áp dụng văn bản ban hành trước. (trái luật 7)",
-          "C. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 7)",
-          "D. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau."
+          "A. Quy định chính sách khen thưởng đột xuất cho các tập thể có thành tích xuất sắc.",
+          "B. Quy định rút ngắn thời gian giải quyết các thủ tục cấp giấy phép xây dựng.",
+          "C. Quy định các chính sách miễn, giảm thuế để hỗ trợ doanh nghiệp phục hồi sản xuất.",
+          "D. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Xác định nguyên tắc chuẩn xác của pháp luật liên quan đến nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156):",
+        "q": "Xác định quy định pháp lý bắt buộc đối với quy định về hiệu lực trở về trước (hồi tố) (điều 152) theo Luật Ban hành VBQPPL hiện hành:",
         "options": [
-          "A. Áp dụng văn bản ban hành trước. (trái luật 8)",
-          "B. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
-          "C. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 8)",
-          "D. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 8)"
+          "A. Quy định chế độ bồi thường thiệt hại có lợi hơn cho người dân bị thu hồi đất.",
+          "B. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn.",
+          "C. Quy định tăng mức hỗ trợ tiền mặt cho người nghèo và đối tượng bảo trợ xã hội.",
+          "D. Quy định áp dụng công nghệ số để đơn giản hóa thủ tục hành chính công."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Căn cứ Nghị định số 150/2025/NĐ-CP của Chính phủ: Người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh (Giám đốc Sở) chịu trách nhiệm trước ai?",
         "options": [
-          "A. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 3)",
-          "B. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 3)",
-          "C. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 3)",
+          "A. Không phải chịu bất kỳ trách nhiệm cá nhân nào về hoạt động quản lý của sở.",
+          "B. Được miễn trừ trách nhiệm nếu đã làm tờ trình xin ý kiến cấp phó bằng văn bản.",
+          "C. Chịu trách nhiệm duy nhất trước Tổng Kiểm toán Nhà nước về thu chi tài chính.",
           "D. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao."
         ],
         "ans": 3,
@@ -5531,12 +5531,12 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
-        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn: Người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh (Giám đốc Sở) chịu trách nhiệm trước ai?",
+        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn theo NĐ 150/2025/NĐ-CP: Người đứng đầu cơ quan chuyên môn thuộc UBND cấp tỉnh (Giám đốc Sở) chịu trách nhiệm trước ai?",
         "options": [
           "A. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao.",
-          "B. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 4)",
-          "C. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 4)",
-          "D. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 4)"
+          "B. Chịu trách nhiệm liên đới với toàn bộ các hành vi cá nhân của công dân trên địa bàn.",
+          "C. Chỉ chịu trách nhiệm trước Trưởng đoàn đại biểu Quốc hội tại địa phương.",
+          "D. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy của cơ quan nơi mình công tác."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Giám đốc sở chịu trách nhiệm kép: trước UBND/Chủ tịch UBND tỉnh và trước Bộ trưởng chuyên ngành."
@@ -5545,9 +5545,9 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Quy định pháp lý tại Nghị định 150/2025/NĐ-CP khẳng định nội dung nào về trách nhiệm của giám đốc sở đối với chính quyền địa phương?",
         "options": [
-          "A. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 5)",
-          "B. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 5)",
-          "C. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 5)",
+          "A. Chịu trách nhiệm duy nhất trước Tổng Kiểm toán Nhà nước về thu chi tài chính.",
+          "B. Chỉ chịu trách nhiệm khi có bản án kết tội có hiệu lực pháp luật của Tòa án nhân dân.",
+          "C. Chỉ chịu trách nhiệm trước cử tri nơi cư trú vào các dịp sinh hoạt tổ dân phố.",
           "D. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao."
         ],
         "ans": 3,
@@ -5557,9 +5557,9 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo quy định hiện hành, việc quản lý tổ chức bộ máy liên quan đến trách nhiệm của giám đốc sở đối với chính quyền địa phương được thực hiện ra sao?",
         "options": [
-          "A. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 6)",
-          "B. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 6)",
-          "C. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 6)",
+          "A. Được miễn trừ trách nhiệm nếu đã làm tờ trình xin ý kiến cấp phó bằng văn bản.",
+          "B. Không phải chịu bất kỳ trách nhiệm cá nhân nào về hoạt động quản lý của sở.",
+          "C. Chịu trách nhiệm liên đới với toàn bộ các hành vi cá nhân của công dân trên địa bàn.",
           "D. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao."
         ],
         "ans": 3,
@@ -5569,10 +5569,10 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Đối với thành phố Huế trực thuộc Trung ương, quy định của Nghị định 150/2025/NĐ-CP về trách nhiệm của giám đốc sở đối với chính quyền địa phương được triển khai như thế nào?",
         "options": [
-          "A. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 7)",
+          "A. Chỉ chịu trách nhiệm trước Trưởng đoàn đại biểu Quốc hội tại địa phương.",
           "B. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao.",
-          "C. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 7)",
-          "D. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 7)"
+          "C. Chỉ chịu trách nhiệm khi có bản án kết tội có hiệu lực pháp luật của Tòa án nhân dân.",
+          "D. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy của cơ quan nơi mình công tác."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Giám đốc sở chịu trách nhiệm kép: trước UBND/Chủ tịch UBND tỉnh và trước Bộ trưởng chuyên ngành."
@@ -5581,142 +5581,142 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Xác định nguyên tắc chuẩn xác của Nghị định 150/2025/NĐ-CP về trách nhiệm của giám đốc sở đối với chính quyền địa phương:",
         "options": [
-          "A. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 8)",
+          "A. Được miễn trừ trách nhiệm nếu đã làm tờ trình xin ý kiến cấp phó bằng văn bản.",
           "B. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao.",
-          "C. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 8)",
-          "D. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 8)"
+          "C. Chỉ chịu trách nhiệm trước cử tri nơi cư trú vào các dịp sinh hoạt tổ dân phố.",
+          "D. Chịu trách nhiệm duy nhất trước Tổng Kiểm toán Nhà nước về thu chi tài chính."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Giám đốc sở chịu trách nhiệm kép: trước UBND/Chủ tịch UBND tỉnh và trước Bộ trưởng chuyên ngành."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Trong thời hạn bao nhiêu ngày kể từ ngày nhận đơn xin thôi việc của công chức, cơ quan có thẩm quyền phải ra quyết định hoặc trả lời lý do?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 51)?",
         "options": [
-          "A. Trong thời hạn 15 ngày làm việc. (sai quy định 1)",
-          "B. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "C. Trong thời hạn 60 ngày. (trái luật 1)",
-          "D. Trong thời hạn 45 ngày. (không đúng 1)"
+          "A. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày.",
+          "B. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "C. Thời gian đi công tác địa bàn.",
+          "D. Thời gian nghỉ lễ Tết theo quy định nhà nước."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về thẩm quyền và thủ tục giải quyết thôi việc (điều 57 - 60 nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 52)?",
         "options": [
-          "A. Trong thời hạn 15 ngày làm việc. (sai quy định 2)",
-          "B. Trong thời hạn 60 ngày. (trái luật 2)",
-          "C. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "D. Trong thời hạn 45 ngày. (không đúng 2)"
+          "A. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "B. Có bằng Thạc sĩ đúng chuyên ngành.",
+          "C. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "D. Đạt điểm thi tuyển cao nhất kỳ thi."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Trong thời hạn bao nhiêu ngày kể từ ngày nhận đơn xin thôi việc của công chức, cơ quan có thẩm quyền phải ra quyết định hoặc trả lời lý do?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 53)?",
         "options": [
-          "A. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "B. Trong thời hạn 45 ngày. (không đúng 3)",
-          "C. Trong thời hạn 60 ngày. (trái luật 3)",
-          "D. Trong thời hạn 15 ngày làm việc. (sai quy định 3)"
+          "A. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "B. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở.",
+          "C. Không được hưởng phụ cấp.",
+          "D. Hưởng thêm 50% tiền lương của người tập sự."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Trong thời hạn bao nhiêu ngày kể từ ngày nhận đơn xin thôi việc của công chức, cơ quan có thẩm quyền phải ra quyết định hoặc trả lời lý do?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 54)?",
         "options": [
-          "A. Trong thời hạn 15 ngày làm việc. (sai quy định 4)",
-          "B. Trong thời hạn 45 ngày. (không đúng 4)",
-          "C. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "D. Trong thời hạn 60 ngày. (trái luật 4)"
+          "A. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "B. Đuổi ra khỏi phòng thi và cấm thi 5 năm.",
+          "C. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "D. Tịch thu bài thi và cho điểm 0 ngay lập tức."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Trong thời hạn bao nhiêu ngày kể từ ngày nhận đơn xin thôi việc của công chức, cơ quan có thẩm quyền phải ra quyết định hoặc trả lời lý do?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 55)?",
         "options": [
-          "A. Trong thời hạn 15 ngày làm việc. (sai quy định 5)",
-          "B. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "C. Trong thời hạn 60 ngày. (trái luật 5)",
-          "D. Trong thời hạn 45 ngày. (không đúng 5)"
+          "A. 06 tháng cố định.",
+          "B. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "C. 24 tháng.",
+          "D. 09 tháng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến thẩm quyền và thủ tục giải quyết thôi việc (điều 57 - 60 nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 56)?",
         "options": [
-          "A. Trong thời hạn 45 ngày. (không đúng 6)",
-          "B. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "C. Trong thời hạn 15 ngày làm việc. (sai quy định 6)",
-          "D. Trong thời hạn 60 ngày. (trái luật 6)"
+          "A. 09 tháng.",
+          "B. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "C. 03 tháng.",
+          "D. 12 tháng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về thẩm quyền và thủ tục giải quyết thôi việc (điều 57 - 60 nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 57)?",
         "options": [
-          "A. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "B. Trong thời hạn 45 ngày. (không đúng 7)",
-          "C. Trong thời hạn 60 ngày. (trái luật 7)",
-          "D. Trong thời hạn 15 ngày làm việc. (sai quy định 7)"
+          "A. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "B. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "C. Thời gian đi công tác địa bàn.",
+          "D. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với thẩm quyền và thủ tục giải quyết thôi việc (điều 57 - 60 nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 58)?",
         "options": [
-          "A. Trong thời hạn 15 ngày làm việc. (sai quy định 8)",
-          "B. Trong thời hạn 60 ngày. (trái luật 8)",
-          "C. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "D. Trong thời hạn 45 ngày. (không đúng 8)"
+          "A. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "B. Có bằng Thạc sĩ đúng chuyên ngành.",
+          "C. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "D. Đạt điểm thi tuyển cao nhất kỳ thi."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến thẩm quyền và thủ tục giải quyết thôi việc (điều 57 - 60 nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 59)?",
         "options": [
-          "A. Trong thời hạn 15 ngày làm việc. (sai quy định 9)",
-          "B. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "C. Trong thời hạn 60 ngày. (trái luật 9)",
-          "D. Trong thời hạn 45 ngày. (không đúng 9)"
+          "A. Hưởng thêm 50% tiền lương của người tập sự.",
+          "B. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "C. Không được hưởng phụ cấp.",
+          "D. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về thẩm quyền và thủ tục giải quyết thôi việc (điều 57 - 60 nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 60)?",
         "options": [
-          "A. Trong thời hạn 60 ngày. (trái luật 10)",
-          "B. Trong thời hạn 30 ngày kể từ ngày nhận đơn hợp lệ.",
-          "C. Trong thời hạn 15 ngày làm việc. (sai quy định 10)",
-          "D. Trong thời hạn 45 ngày. (không đúng 10)"
+          "A. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "B. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "C. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "D. Đuổi ra khỏi phòng thi và cấm thi 5 năm."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 58 NĐ 170/2025/NĐ-CP: Đúng 30 ngày kể từ ngày nhận đơn, cơ quan có thẩm quyền phải ra quyết định đồng ý hoặc trả lời lý do không đồng ý."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Nhận định nào sau đây là ĐÚNG về chỉ đạo của thủ tướng chính phủ tại chỉ thị 23/ct-ttg theo Nghị quyết 76/NQ-CP?",
         "options": [
           "A. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "B. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 6)",
-          "C. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 6)",
-          "D. Giảm bớt tần suất thanh tra công vụ. (trái luật 6)"
+          "B. Cấm người dân phản ánh các hành vi gây phiền hà sách nhiễu của công chức thụ lý hồ sơ.",
+          "C. Bỏ qua khâu đánh giá mức độ hài lòng của người dân và doanh nghiệp hàng năm.",
+          "D. Giảm bớt tần suất và nới lỏng các tiêu chuẩn kiểm tra công vụ đối với cán bộ, công chức."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -5725,10 +5725,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Yêu cầu về xây dựng nền hành chính phục vụ nhân dân gắn liền với chỉ đạo của thủ tướng chính phủ tại chỉ thị 23/ct-ttg như thế nào?",
         "options": [
-          "A. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 7)",
-          "B. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 7)",
+          "A. Khuyến khích công chức giữ lại hồ sơ thủ tục hành chính quá thời hạn quy định.",
+          "B. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó mà không cần giám sát.",
           "C. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "D. Giảm bớt tần suất thanh tra công vụ. (trái luật 7)"
+          "D. Cho phép cán bộ đùn đẩy trách nhiệm lên cấp trên nếu công việc có tính chất phức tạp."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -5737,10 +5737,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Thước đo đánh giá hiệu quả của nền hành chính nhà nước trong chỉ đạo của thủ tướng chính phủ tại chỉ thị 23/ct-ttg là:",
         "options": [
-          "A. Giảm bớt tần suất thanh tra công vụ. (trái luật 8)",
-          "B. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 8)",
+          "A. Không xem kết quả CCHC là tiêu chí để bình xét thi đua, khen thưởng cuối năm.",
+          "B. Bỏ qua khâu đánh giá mức độ hài lòng của người dân và doanh nghiệp hàng năm.",
           "C. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "D. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 8)"
+          "D. Không công khai kết quả đánh giá xếp hạng cải cách hành chính hàng năm trên báo chí."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -5749,10 +5749,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo chủ trương CCHC của Chính phủ, nội dung cốt lõi của chỉ đạo của thủ tướng chính phủ tại chỉ thị 23/ct-ttg được xác định là:",
         "options": [
-          "A. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 9)",
+          "A. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó mà không cần giám sát.",
           "B. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "C. Giảm bớt tần suất thanh tra công vụ. (trái luật 9)",
-          "D. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 9)"
+          "C. Cấm người dân phản ánh các hành vi gây phiền hà sách nhiễu của công chức thụ lý hồ sơ.",
+          "D. Giảm bớt tần suất và nới lỏng các tiêu chuẩn kiểm tra công vụ đối với cán bộ, công chức."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
@@ -5761,69 +5761,69 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Văn bản pháp luật về CCHC khẳng định nguyên tắc nào sau đây đối với chỉ đạo của thủ tướng chính phủ tại chỉ thị 23/ct-ttg?",
         "options": [
-          "A. Giảm bớt tần suất thanh tra công vụ. (trái luật 10)",
+          "A. Khuyến khích công chức giữ lại hồ sơ thủ tục hành chính quá thời hạn quy định.",
           "B. Tăng cường trách nhiệm của người đứng đầu các cơ quan, đơn vị; siết chặt kỷ luật, kỷ cương hành chính; gắn kết quả CCHC với đánh giá, xếp loại cán bộ.",
-          "C. Cho phép người đứng đầu ủy quyền toàn bộ trách nhiệm CCHC cho cấp phó. (sai quy định 10)",
-          "D. Không công khai kết quả cải cách hành chính hàng năm. (không chính xác 10)"
+          "C. Không công khai kết quả đánh giá xếp hạng cải cách hành chính hàng năm trên báo chí.",
+          "D. Cho phép cán bộ đùn đẩy trách nhiệm lên cấp trên nếu công việc có tính chất phức tạp."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Chỉ thị 23/CT-TTg: Nêu cao trách nhiệm người đứng đầu, siết chặt kỷ cương, lấy kết quả CCHC làm thước đo đánh giá cán bộ."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Nhận định nào sau đây là ĐÚNG về nhiệm vụ nền tảng ứng dụng hue-s trong chuyển đổi số và phục vụ công dân tại TP Huế?",
+        "q": "Nhận định nào sau đây là ĐÚNG về nhiệm vụ nền tảng ứng dụng hue-s trong chính quyền số tại TP Huế?",
         "options": [
           "A. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh.",
-          "B. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 6)",
-          "C. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 6)",
-          "D. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 6)"
+          "B. Hệ thống nội bộ chỉ dành riêng cho các thành viên Ủy ban nhân dân thành phố trao đổi thư mật.",
+          "C. Chỉ phục vụ khách du lịch mua vé tham quan các điểm di tích Đại Nội Huế.",
+          "D. Hệ thống quản lý điểm thi của học sinh các trường trung học cơ sở công lập."
         ],
         "ans": 0,
         "explanation": "★ Điểm sáng cải cách hành chính TP Huế: Hue-S là ứng dụng số dùng chung, kết nối trực tiếp phản ánh hiện trường của người dân tới các cơ quan hành chính xử lý công khai, minh bạch."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Mô hình chính quyền số thành phố Huế gắn liền với nền tảng ứng dụng hue-s trong chuyển đổi số và phục vụ công dân ở điểm cốt lõi nào?",
+        "q": "Mô hình chính quyền số thành phố Huế gắn liền với nền tảng ứng dụng hue-s trong chính quyền số ở điểm cốt lõi nào?",
         "options": [
           "A. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh.",
-          "B. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 7)",
-          "C. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 7)",
-          "D. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 7)"
+          "B. Ứng dụng chuyên dùng để chơi trò chơi điện tử trực tuyến có thưởng.",
+          "C. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng riêng.",
+          "D. Ứng dụng mạng xã hội giải trí thuần túy không có chức năng dịch vụ hành chính công."
         ],
         "ans": 0,
         "explanation": "★ Điểm sáng cải cách hành chính TP Huế: Hue-S là ứng dụng số dùng chung, kết nối trực tiếp phản ánh hiện trường của người dân tới các cơ quan hành chính xử lý công khai, minh bạch."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Thí sinh tham dự kỳ thi công chức TP Huế năm 2025 cần nắm vững quy định nào về nền tảng ứng dụng hue-s trong chuyển đổi số và phục vụ công dân?",
+        "q": "Thí sinh tham dự kỳ thi công chức TP Huế năm 2025 cần nắm vững quy định nào về nền tảng ứng dụng hue-s trong chính quyền số?",
         "options": [
-          "A. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 8)",
-          "B. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 8)",
+          "A. Ứng dụng quảng cáo thương mại cho các tập đoàn bán lẻ nước ngoài.",
+          "B. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông quốc gia hàng năm.",
           "C. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh.",
-          "D. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 8)"
+          "D. Hệ thống quản lý điểm thi của học sinh các trường trung học cơ sở công lập."
         ],
         "ans": 2,
         "explanation": "★ Điểm sáng cải cách hành chính TP Huế: Hue-S là ứng dụng số dùng chung, kết nối trực tiếp phản ánh hiện trường của người dân tới các cơ quan hành chính xử lý công khai, minh bạch."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua nền tảng ứng dụng hue-s trong chuyển đổi số và phục vụ công dân ra sao?",
+        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua Nền tảng ứng dụng Hue-S trong chính quyền số ra sao?",
         "options": [
-          "A. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 9)",
+          "A. Ứng dụng chuyên dùng để chơi trò chơi điện tử trực tuyến có thưởng.",
           "B. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh.",
-          "C. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 9)",
-          "D. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 9)"
+          "C. Hệ thống nội bộ chỉ dành riêng cho các thành viên Ủy ban nhân dân thành phố trao đổi thư mật.",
+          "D. Chỉ phục vụ khách du lịch mua vé tham quan các điểm di tích Đại Nội Huế."
         ],
         "ans": 1,
         "explanation": "★ Điểm sáng cải cách hành chính TP Huế: Hue-S là ứng dụng số dùng chung, kết nối trực tiếp phản ánh hiện trường của người dân tới các cơ quan hành chính xử lý công khai, minh bạch."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Văn bản chỉ đạo điều hành của UBND TP Huế xác định nội dung cụ thể nào về nền tảng ứng dụng hue-s trong chuyển đổi số và phục vụ công dân?",
+        "q": "Văn bản chỉ đạo điều hành của UBND TP Huế xác định nội dung cụ thể nào về nền tảng ứng dụng hue-s trong chính quyền số?",
         "options": [
-          "A. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng. (không chính xác 10)",
-          "B. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông. (sai quy định 10)",
-          "C. Ứng dụng riêng nội bộ chỉ dành cho lãnh đạo UBND thành phố. (trái luật 10)",
+          "A. Chỉ dùng để nộp phạt vi phạm trật tự xây dựng qua tài khoản ngân hàng riêng.",
+          "B. Chỉ dùng để tra cứu lịch thi tốt nghiệp trung học phổ thông quốc gia hàng năm.",
+          "C. Ứng dụng mạng xã hội giải trí thuần túy không có chức năng dịch vụ hành chính công.",
           "D. Là kênh tương tác trực tuyến giữa chính quyền và người dân, tiếp nhận xử lý phản ánh hiện trường, cung cấp dịch vụ công trực tuyến và các tiện ích số đô thị thông minh."
         ],
         "ans": 3,
@@ -5836,424 +5836,424 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 09 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, quy định về số kỳ họp thường lệ trong một năm của hội đồng nhân dân là:",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Quy định về số lượng kỳ họp thường lệ trong một năm của Hội đồng nhân dân là:",
         "options": [
-          "A. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 1)",
-          "B. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 1)",
-          "C. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết.",
-          "D. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 1)"
+          "A. Họp định kỳ mỗi tháng một lần vào ngày mùng một đầu tháng.",
+          "B. Bắt buộc họp mỗi quý một lần và không được tổ chức kỳ họp đột xuất.",
+          "C. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết.",
+          "D. Họp định kỳ hai năm một lần theo kế hoạch liên ngành."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về kỳ họp của hội đồng nhân dân các cấp?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về kỳ họp của hội đồng nhân dân các cấp?",
         "options": [
-          "A. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 2)",
-          "B. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết.",
-          "C. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 2)",
-          "D. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 2)"
+          "A. Mỗi nhiệm kỳ 5 năm chỉ tổ chức đúng một kỳ họp duy nhất.",
+          "B. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết.",
+          "C. Chỉ họp khi có yêu cầu bằng văn bản của Thủ tướng Chính phủ.",
+          "D. Họp mỗi tuần một lần vào chiều thứ sáu để duyệt văn bản."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Quy định về số kỳ họp thường lệ trong một năm của Hội đồng nhân dân là:",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Quy định về số lượng kỳ họp thường lệ trong một năm của Hội đồng nhân dân là:",
         "options": [
-          "A. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 3)",
-          "B. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 3)",
-          "C. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết.",
-          "D. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 3)"
+          "A. Mỗi năm họp ít nhất sáu kỳ vào các tháng chẵn trong năm.",
+          "B. Bắt buộc họp mỗi quý một lần và không được tổ chức kỳ họp đột xuất.",
+          "C. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết.",
+          "D. Không quy định số kỳ họp thường lệ mà do Chủ tịch HĐND quyết định tùy ý."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề kỳ họp của hội đồng nhân dân các cấp theo nguyên tắc nào sau đây?",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về kỳ họp của hội đồng nhân dân các cấp, cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
         "options": [
-          "A. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 4)",
-          "B. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết.",
-          "C. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 4)",
-          "D. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 4)"
+          "A. Họp định kỳ hai năm một lần theo kế hoạch liên ngành.",
+          "B. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết.",
+          "C. Chỉ họp khi có yêu cầu bằng văn bản của Thủ tướng Chính phủ.",
+          "D. Họp định kỳ mỗi tháng một lần vào ngày mùng một đầu tháng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện kỳ họp của hội đồng nhân dân các cấp là gì?",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về kỳ họp của hội đồng nhân dân các cấp là gì?",
         "options": [
-          "A. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 5)",
-          "B. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 5)",
-          "C. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết.",
-          "D. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 5)"
+          "A. Mỗi nhiệm kỳ 5 năm chỉ tổ chức đúng một kỳ họp duy nhất.",
+          "B. Họp mỗi tuần một lần vào chiều thứ sáu để duyệt văn bản.",
+          "C. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết.",
+          "D. Mỗi năm họp ít nhất sáu kỳ vào các tháng chẵn trong năm."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với kỳ họp của hội đồng nhân dân các cấp như thế nào?",
+        "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Quy định về số lượng kỳ họp thường lệ trong một năm của Hội đồng nhân dân là:",
         "options": [
-          "A. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết.",
-          "B. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 6)",
-          "C. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 6)",
-          "D. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 6)"
+          "A. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết.",
+          "B. Họp định kỳ hai năm một lần theo kế hoạch liên ngành.",
+          "C. Bắt buộc họp mỗi quý một lần và không được tổ chức kỳ họp đột xuất.",
+          "D. Không quy định số kỳ họp thường lệ mà do Chủ tịch HĐND quyết định tùy ý."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về kỳ họp của hội đồng nhân dân các cấp được áp dụng ra sao?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về kỳ họp của hội đồng nhân dân các cấp được áp dụng như thế nào?",
         "options": [
-          "A. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 7)",
-          "B. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết.",
-          "C. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 7)",
-          "D. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 7)"
+          "A. Chỉ họp khi có yêu cầu bằng văn bản của Thủ tướng Chính phủ.",
+          "B. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết.",
+          "C. Họp mỗi tuần một lần vào chiều thứ sáu để duyệt văn bản.",
+          "D. Họp định kỳ mỗi tháng một lần vào ngày mùng một đầu tháng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến kỳ họp của hội đồng nhân dân các cấp?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến kỳ họp của hội đồng nhân dân các cấp theo Luật số 72/2025/QH15:",
         "options": [
-          "A. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 8)",
-          "B. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 8)",
-          "C. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 8)",
-          "D. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết."
+          "A. Mỗi năm họp ít nhất sáu kỳ vào các tháng chẵn trong năm.",
+          "B. Mỗi nhiệm kỳ 5 năm chỉ tổ chức đúng một kỳ họp duy nhất.",
+          "C. Không quy định số kỳ họp thường lệ mà do Chủ tịch HĐND quyết định tùy ý.",
+          "D. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về kỳ họp của hội đồng nhân dân các cấp đòi hỏi điều gì?",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về kỳ họp của hội đồng nhân dân các cấp?",
         "options": [
-          "A. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 9)",
-          "B. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết.",
-          "C. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 9)",
-          "D. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 9)"
+          "A. Họp định kỳ hai năm một lần theo kế hoạch liên ngành.",
+          "B. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết.",
+          "C. Bắt buộc họp mỗi quý một lần và không được tổ chức kỳ họp đột xuất.",
+          "D. Họp định kỳ mỗi tháng một lần vào ngày mùng một đầu tháng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về kỳ họp của hội đồng nhân dân các cấp?",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với kỳ họp của hội đồng nhân dân các cấp?",
         "options": [
-          "A. Họp định kỳ mỗi tháng một lần vào ngày mùng một. (sai quy định 10)",
-          "B. Mỗi nhiệm kỳ 5 năm chỉ họp đúng một lần duy nhất. (không đúng thẩm quyền 10)",
-          "C. Họp vào mỗi quý một lần bắt buộc. (vi phạm nguyên tắc 10)",
-          "D. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; họp chuyên đề hoặc đột xuất khi cần thiết."
+          "A. Mỗi nhiệm kỳ 5 năm chỉ tổ chức đúng một kỳ họp duy nhất.",
+          "B. Chỉ họp khi có yêu cầu bằng văn bản của Thủ tướng Chính phủ.",
+          "C. Họp mỗi tuần một lần vào chiều thứ sáu để duyệt văn bản.",
+          "D. Hội đồng nhân dân họp thường lệ mỗi năm ít nhất hai kỳ; ngoài ra có thể họp chuyên đề hoặc đột xuất khi cần thiết."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ."
+        "explanation": "★ Căn cứ: Điều 78 Luật Tổ chức CQĐP: HĐND họp thường lệ mỗi năm ít nhất 2 kỳ, quyết định kế hoạch họp thường lệ vào kỳ họp cuối năm trước."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Kết quả đánh giá công chức hàng năm được xếp thành mấy mức chất lượng theo Luật sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 11)?",
         "options": [
-          "A. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 1)",
-          "B. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 1)",
-          "C. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "D. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 1)"
+          "A. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "B. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "D. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về đánh giá và xếp loại chất lượng công chức (điều 58)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 11)?",
         "options": [
-          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 2)",
-          "B. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "C. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 2)",
-          "D. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 2)"
+          "A. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "B. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "C. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "D. Bị hạ một bậc lương và bố trí làm công việc thấp hơn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Kết quả đánh giá công chức hàng năm được xếp thành mấy mức chất lượng theo Luật sửa đổi 2019?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 11)?",
         "options": [
-          "A. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 3)",
-          "B. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 3)",
-          "C. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 3)",
-          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
+          "A. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "B. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "C. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "D. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về đánh giá và xếp loại chất lượng công chức (điều 58) như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 11)?",
         "options": [
-          "A. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "B. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 4)",
-          "C. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 4)",
-          "D. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 4)"
+          "A. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "B. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "C. Trong thời hạn 07 ngày làm việc.",
+          "D. Trong thời hạn 30 ngày kể từ ngày nhận quyết định."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về đánh giá và xếp loại chất lượng công chức (điều 58) yêu cầu công chức phải tuân thủ nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 11)?",
         "options": [
-          "A. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 5)",
-          "B. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 5)",
-          "C. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 5)",
-          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
+          "A. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "B. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "C. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "D. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng đánh giá và xếp loại chất lượng công chức (điều 58) là gì?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 12)?",
         "options": [
-          "A. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 6)",
-          "B. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 6)",
-          "C. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "D. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 6)"
+          "A. Được xem xét chuyển sang làm nhân viên hợp đồng lao động.",
+          "B. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "C. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "D. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về đánh giá và xếp loại chất lượng công chức (điều 58) khi nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 12)?",
         "options": [
-          "A. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "B. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 7)",
-          "C. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 7)",
-          "D. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 7)"
+          "A. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "B. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "C. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "D. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến đánh giá và xếp loại chất lượng công chức (điều 58)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 12)?",
         "options": [
-          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 8)",
-          "B. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
-          "C. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 8)",
-          "D. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 8)"
+          "A. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "B. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "C. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "D. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về đánh giá và xếp loại chất lượng công chức (điều 58) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 12)?",
         "options": [
-          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 9)",
-          "B. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 9)",
-          "C. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 9)",
-          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
+          "A. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "B. Trong thời hạn 07 ngày làm việc.",
+          "C. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "D. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về đánh giá và xếp loại chất lượng công chức (điều 58)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 12)?",
         "options": [
-          "A. 3 mức: Xuất sắc, Đạt yêu cầu, Không đạt yêu cầu. (sai quy định 10)",
-          "B. 5 mức: Hạng A, Hạng B, Hạng C, Hạng D, Hạng E. (không chính xác 10)",
-          "C. 4 mức: Xuất sắc, Khá, Trung bình, Yếu. (trái luật 10)",
-          "D. 4 mức: Hoàn thành xuất sắc nhiệm vụ; Hoàn thành tốt nhiệm vụ; Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
+          "A. Tự ý nghỉ việc từ 03 ngày làm việc liên tục.",
+          "B. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "C. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "D. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 58 Luật CBCC sửa đổi 2019: 4 mức xếp loại chất lượng chuẩn hóa từ xuất sắc đến không hoàn thành."
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Quy định pháp lý về chuyển đổi vị trí công tác để phòng ngừa tham nhũng (điều 24, 25) yêu cầu người có chức vụ, quyền hạn phải tuân thủ điều gì?",
+        "q": "Tình huống công vụ: Người có chức vụ, quyền hạn phải xử lý đúng quy định pháp luật về kê khai tài sản, thu nhập bổ sung (điều 36) như thế nào?",
         "options": [
-          "A. Cố định đúng 06 tháng một lần. (sai quy định 5)",
-          "B. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
-          "C. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 5)",
-          "D. Từ 05 năm đến 10 năm. (trái luật 5)"
+          "A. Khi có sự biến động tài sản từ 10.000.000 đồng trở lên trong tháng.",
+          "B. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên.",
+          "C. Bắt buộc thực hiện hàng quý bất kể tài sản có thay đổi tăng giảm hay không.",
+          "D. Bắt buộc phải kê khai bổ sung định kỳ vào mỗi cuối tuần làm việc."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi nào sau đây vi phạm quy định về chuyển đổi vị trí công tác để phòng ngừa tham nhũng (điều 24, 25)?",
+        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi hoặc nhận định nào sau đây là ĐÚNG về kê khai tài sản, thu nhập bổ sung (điều 36)?",
         "options": [
-          "A. Cố định đúng 06 tháng một lần. (sai quy định 6)",
-          "B. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
-          "C. Từ 05 năm đến 10 năm. (trái luật 6)",
-          "D. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 6)"
+          "A. Chỉ kê khai bổ sung khi bị cơ quan công an triệu tập lấy lời khai.",
+          "B. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên.",
+          "C. Chỉ thực hiện khi người kê khai chuẩn bị được trao tặng bằng khen cấp tỉnh.",
+          "D. Khi công chức sinh thêm con hoặc thay đổi nơi đăng ký thường trú."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Biện pháp phòng ngừa tham nhũng nào sau đây được áp dụng đối với chuyển đổi vị trí công tác để phòng ngừa tham nhũng (điều 24, 25)?",
+        "q": "Biện pháp phòng ngừa và xử lý nghiêm minh theo quy định của Luật PCTN đối với kê khai tài sản, thu nhập bổ sung (điều 36) là:",
         "options": [
-          "A. Từ 05 năm đến 10 năm. (trái luật 7)",
-          "B. Cố định đúng 06 tháng một lần. (sai quy định 7)",
-          "C. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
-          "D. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 7)"
+          "A. Khi người kê khai mở thêm một tài khoản mạng xã hội cá nhân mới.",
+          "B. Bắt buộc thực hiện hàng quý bất kể tài sản có thay đổi tăng giảm hay không.",
+          "C. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên.",
+          "D. Khi người kê khai mua thêm một chiếc xe đạp thể thao trị giá 2.500.000 đồng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng, cơ quan tổ chức đơn vị có trách nhiệm gì đối với chuyển đổi vị trí công tác để phòng ngừa tham nhũng (điều 24, 25)?",
+        "q": "Cơ quan, tổ chức, đơn vị có trách nhiệm gì đối với việc thực hiện quy định về kê khai tài sản, thu nhập bổ sung (điều 36)?",
         "options": [
-          "A. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
-          "B. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 8)",
-          "C. Từ 05 năm đến 10 năm. (trái luật 8)",
-          "D. Cố định đúng 06 tháng một lần. (sai quy định 8)"
+          "A. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên.",
+          "B. Bắt buộc phải kê khai bổ sung định kỳ vào mỗi cuối tuần làm việc.",
+          "C. Khi có sự biến động tài sản từ 10.000.000 đồng trở lên trong tháng.",
+          "D. Khi công chức sinh thêm con hoặc thay đổi nơi đăng ký thường trú."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Yêu cầu về tính công khai, minh bạch trong chuyển đổi vị trí công tác để phòng ngừa tham nhũng (điều 24, 25) được quy định ra sao?",
+        "q": "Yêu cầu về tính liêm chính, công khai, minh bạch theo Luật PCTN khẳng định nguyên tắc nào về kê khai tài sản, thu nhập bổ sung (điều 36)?",
         "options": [
-          "A. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
-          "B. Cố định đúng 06 tháng một lần. (sai quy định 9)",
-          "C. Từ 05 năm đến 10 năm. (trái luật 9)",
-          "D. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 9)"
+          "A. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên.",
+          "B. Khi người kê khai mua thêm một chiếc xe đạp thể thao trị giá 2.500.000 đồng.",
+          "C. Chỉ kê khai bổ sung khi bị cơ quan công an triệu tập lấy lời khai.",
+          "D. Chỉ thực hiện khi người kê khai chuẩn bị được trao tặng bằng khen cấp tỉnh."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Văn bản pháp luật về phòng, chống tham nhũng khẳng định nội dung nào sau đây về chuyển đổi vị trí công tác để phòng ngừa tham nhũng (điều 24, 25)?",
+        "q": "Văn bản pháp luật về phòng, chống tham nhũng quy định rõ ràng nội dung nào sau đây liên quan đến kê khai tài sản, thu nhập bổ sung (điều 36)?",
         "options": [
-          "A. Mỗi năm chuyển đổi một lần bắt buộc. (không chính xác 10)",
-          "B. Từ 02 năm đến 05 năm theo quy định của từng ngành, lĩnh vực.",
-          "C. Từ 05 năm đến 10 năm. (trái luật 10)",
-          "D. Cố định đúng 06 tháng một lần. (sai quy định 10)"
+          "A. Khi người kê khai mở thêm một tài khoản mạng xã hội cá nhân mới.",
+          "B. Được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300.000.000 đồng trở lên.",
+          "C. Bắt buộc thực hiện hàng quý bất kể tài sản có thay đổi tăng giảm hay không.",
+          "D. Bắt buộc phải kê khai bổ sung định kỳ vào mỗi cuối tuần làm việc."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Khoản 2 Điều 25 Luật PCTN: Thời hạn định kỳ chuyển đổi vị trí công tác là từ 02 năm đến 05 năm theo danh mục của Chính phủ."
+        "explanation": "★ Căn cứ: Điều 36 Luật PCTN: Kê khai bổ sung được thực hiện khi người có nghĩa vụ kê khai có biến động về tài sản, thu nhập trong năm có giá trị từ 300 triệu đồng trở lên."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH): Loại tài sản nào sau đây thuộc diện bắt buộc phải kê khai theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "q": "Theo Luật Phòng, chống tham nhũng số 36/2018/QH14 (VBHN số 65/VBHN-VPQH): Người có nghĩa vụ kê khai tài sản mà KÊ KHAI KHÔNG TRUNG THỰC thì bị xử lý như thế nào?",
         "options": [
-          "A. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 1)",
-          "B. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 1)",
-          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài.",
-          "D. Xe đạp thể thao cũ. (trái luật 1)"
+          "A. Chỉ bị ghi tên vào sổ lưu niệm nhắc nhở và được xem xét thăng chức ngay sau đó.",
+          "B. Không bị xử lý bất kỳ hình thức kỷ luật nào nếu làm bản kiểm điểm tự phê bình.",
+          "C. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc.",
+          "D. Bị cách chức ngay lập tức mà không cần tiến hành thẩm tra, xác minh theo quy trình."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước, nhận định nào sau đây là ĐÚNG về kê khai tài sản, thu nhập (điều 33, 35, 36)?",
+        "q": "Trong công tác phòng ngừa tham nhũng tại cơ quan nhà nước theo Luật PCTN: Người có nghĩa vụ kê khai tài sản mà KÊ KHAI KHÔNG TRUNG THỰC thì bị xử lý như thế nào?",
         "options": [
-          "A. Xe đạp thể thao cũ. (trái luật 2)",
-          "B. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 2)",
-          "C. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 2)",
-          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài."
+          "A. Được phép tự kê khai lại bao nhiêu lần tùy ý cho đến khi thấy hợp lý thì thôi.",
+          "B. Chỉ bị phạt tiền tượng trưng 100.000 đồng và không lưu hồ sơ cán bộ công chức.",
+          "C. Tự động được miễn toàn bộ nghĩa vụ kê khai tài sản trong 10 năm tiếp theo.",
+          "D. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP đối với nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156)?",
+        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP liên quan đến quy định về hiệu lực trở về trước (hồi tố) (điều 152)?",
+        "options": [
+          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn.",
+          "B. Quy định các chính sách miễn, giảm thuế để hỗ trợ doanh nghiệp phục hồi sản xuất.",
+          "C. Quy định các biện pháp khẩn cấp nhằm ứng phó và khắc phục hậu quả thiên tai, bão lũ.",
+          "D. Quy định giảm nhẹ hình thức xử phạt vi phạm hành chính cho người vi phạm."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
+      },
+      {
+        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
+        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định cụ thể nội dung nào đối với quy định về hiệu lực trở về trước (hồi tố) (điều 152)?",
+        "options": [
+          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; quy định trách nhiệm pháp lý nặng hơn.",
+          "B. Quy định tăng mức hỗ trợ tiền mặt cho người nghèo và đối tượng bảo trợ xã hội.",
+          "C. Quy định rút ngắn thời gian giải quyết các thủ tục cấp giấy phép xây dựng.",
+          "D. Quy định chính sách khen thưởng đột xuất cho các tập thể có thành tích xuất sắc."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không quy định hiệu lực trở về trước đối với trách nhiệm pháp lý mới hoặc trách nhiệm pháp lý nặng hơn."
+      },
+      {
+        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
+        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15: Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?",
         "options": [
           "A. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
-          "B. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 9)",
-          "C. Áp dụng văn bản ban hành trước. (trái luật 9)",
-          "D. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 9)"
+          "B. Bắt buộc áp dụng văn bản ban hành trước để tôn trọng tính lịch sử liên tục.",
+          "C. Áp dụng văn bản nào có lợi nhất cho nguồn thu ngân sách của cơ quan hành chính nhà nước.",
+          "D. Áp dụng văn bản nào có độ dài số trang ít hơn để tiết kiệm thời gian xử lý."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định nội dung nào về nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156)?",
+        "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?",
+        "options": [
+          "A. Tạm dừng giải quyết mọi công việc cho đến khi Quốc hội ban hành luật mới thay thế.",
+          "B. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
+          "C. Chờ quyết định phân xử bằng văn bản của Tòa án nhân dân cấp tỉnh.",
+          "D. Tùy thuộc vào sự lựa chọn theo ý chí chủ quan của công chức đang trực tiếp thụ lý hồ sơ."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+      },
+      {
+        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
+        "q": "Trong xây dựng thể chế và áp dụng pháp luật theo Luật số 64/2025/QH15: Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?",
         "options": [
           "A. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
-          "B. Áp dụng văn bản có lợi nhất cho cơ quan nhà nước. (sai quy định 10)",
-          "C. Tùy thuộc vào sự lựa chọn của công chức thụ lý hồ sơ. (không đúng 10)",
-          "D. Áp dụng văn bản ban hành trước. (trái luật 10)"
+          "B. Bắt buộc áp dụng văn bản ban hành trước để tôn trọng tính lịch sử liên tục.",
+          "C. Lấy ý kiến biểu quyết tập thể của công dân tại cuộc họp thôn để chọn văn bản áp dụng.",
+          "D. Ưu tiên áp dụng văn bản của chính quyền cấp dưới vì sát với thực tiễn đời sống hơn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; cùng cơ quan thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15): Trường hợp nào sau đây KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
+        "q": "Quy định pháp lý về nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156) khẳng định nội dung nào sau đây?",
         "options": [
-          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn.",
-          "B. Quy định miễn giảm thuế cho người nghèo. (không đúng 1)",
-          "C. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 1)",
-          "D. Quy định tăng mức hỗ trợ thiên tai. (trái luật 1)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
-      },
-      {
-        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Nhận định nào sau đây là ĐÚNG quy định về quy định về hiệu lực trở về trước (hồi tố) (điều 152)?",
-        "options": [
-          "A. Quy định miễn giảm thuế cho người nghèo. (không đúng 2)",
-          "B. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn.",
-          "C. Quy định tăng mức hỗ trợ thiên tai. (trái luật 2)",
-          "D. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 2)"
+          "A. Tạm dừng giải quyết mọi công việc cho đến khi Quốc hội ban hành luật mới thay thế.",
+          "B. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
+          "C. Áp dụng văn bản nào có lợi nhất cho nguồn thu ngân sách của cơ quan hành chính nhà nước.",
+          "D. Áp dụng văn bản nào có độ dài số trang ít hơn để tiết kiệm thời gian xử lý."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
-      },
-      {
-        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Căn cứ Luật Ban hành văn bản quy phạm pháp luật (sửa đổi, bổ sung 2025): Trường hợp nào sau đây KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
-        "options": [
-          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn.",
-          "B. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 3)",
-          "C. Quy định tăng mức hỗ trợ thiên tai. (trái luật 3)",
-          "D. Quy định miễn giảm thuế cho người nghèo. (không đúng 3)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
-      },
-      {
-        "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Trong xây dựng thể chế hành chính nhà nước: Trường hợp nào sau đây KHÔNG ĐƯỢC quy định hiệu lực trở về trước (hồi tố) của văn bản quy phạm pháp luật?",
-        "options": [
-          "A. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 4)",
-          "B. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn.",
-          "C. Quy định tăng mức hỗ trợ thiên tai. (trái luật 4)",
-          "D. Quy định miễn giảm thuế cho người nghèo. (không đúng 4)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Trách nhiệm, thẩm quyền của cơ quan hành chính theo Nghị định 150/2025/NĐ-CP đối với trách nhiệm của giám đốc sở đối với chính quyền địa phương là:",
         "options": [
-          "A. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 9)",
+          "A. Chịu trách nhiệm liên đới với toàn bộ các hành vi cá nhân của công dân trên địa bàn.",
           "B. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao.",
-          "C. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 9)",
-          "D. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 9)"
+          "C. Không phải chịu bất kỳ trách nhiệm cá nhân nào về hoạt động quản lý của sở.",
+          "D. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy của cơ quan nơi mình công tác."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Giám đốc sở chịu trách nhiệm kép: trước UBND/Chủ tịch UBND tỉnh và trước Bộ trưởng chuyên ngành."
@@ -6262,10 +6262,10 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Văn bản pháp luật Nghị định 150/2025/NĐ-CP quy định cụ thể nội dung nào về trách nhiệm của giám đốc sở đối với chính quyền địa phương?",
         "options": [
-          "A. Không phải chịu trách nhiệm cá nhân về hoạt động của sở. (trái luật 10)",
+          "A. Chỉ chịu trách nhiệm khi có bản án kết tội có hiệu lực pháp luật của Tòa án nhân dân.",
           "B. Chịu trách nhiệm trước Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh và trước Bộ trưởng quản lý ngành, lĩnh vực về thực hiện chức năng, nhiệm vụ được giao.",
-          "C. Chỉ chịu trách nhiệm trước Bí thư Đảng ủy cơ quan. (sai quy định 10)",
-          "D. Chỉ chịu trách nhiệm trước cử tri nơi cư trú. (không đúng 10)"
+          "C. Chỉ chịu trách nhiệm trước cử tri nơi cư trú vào các dịp sinh hoạt tổ dân phố.",
+          "D. Chỉ chịu trách nhiệm trước Trưởng đoàn đại biểu Quốc hội tại địa phương."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Giám đốc sở chịu trách nhiệm kép: trước UBND/Chủ tịch UBND tỉnh và trước Bộ trưởng chuyên ngành."
@@ -6274,178 +6274,178 @@ window.EXAMS_DATA = [
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP): Nghị định 150/2025/NĐ-CP quy định về công chức chuyên môn của UBND xã, phường như thế nào?",
         "options": [
-          "A. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 1)",
-          "B. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 1)",
-          "C. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 1)",
+          "A. Giao quyền cho trưởng thôn tự ký quyết định công nhận công chức cấp xã phường.",
+          "B. Tự do bổ nhiệm công chức xã phường không theo tiêu chuẩn ngạch bậc chuyên môn.",
+          "C. Giải thể toàn bộ các chức danh công chức xã, phường trên phạm vi cả nước.",
           "D. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Nhận định nào sau đây là ĐÚNG quy định tại Nghị định 150/2025/NĐ-CP về bộ máy chuyên môn thuộc ubnd xã, phường theo nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 2)",
-          "B. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 2)",
+          "A. Cho phép các doanh nghiệp tư nhân đứng ra quản lý trả lương cho công chức xã phường.",
+          "B. Chuyển toàn bộ công chức xã phường thành người làm việc theo hợp đồng thời vụ.",
           "C. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị.",
-          "D. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 2)"
+          "D. Bắt buộc công chức xã phường phải có bằng tiến sĩ mới được xếp lương công chức."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Căn cứ Nghị định số 150/2025/NĐ-CP của Chính phủ: Nghị định 150/2025/NĐ-CP quy định về công chức chuyên môn của UBND xã, phường như thế nào?",
         "options": [
-          "A. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 3)",
-          "B. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 3)",
+          "A. Xóa bỏ toàn bộ các chức danh Văn phòng - Thống kê và Tư pháp - Hộ tịch cấp xã.",
+          "B. Tự do bổ nhiệm công chức xã phường không theo tiêu chuẩn ngạch bậc chuyên môn.",
           "C. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị.",
-          "D. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 3)"
+          "D. Tách biệt hoàn toàn công chức cấp xã và không cho phép luân chuyển liên thông lên cấp trên."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
-        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn: Nghị định 150/2025/NĐ-CP quy định về công chức chuyên môn của UBND xã, phường như thế nào?",
+        "q": "Về mặt tổ chức bộ máy cơ quan chuyên môn theo NĐ 150/2025/NĐ-CP: Nghị định 150/2025/NĐ-CP quy định về công chức chuyên môn của UBND xã, phường như thế nào?",
         "options": [
-          "A. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 4)",
-          "B. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 4)",
+          "A. Giải thể toàn bộ các chức danh công chức xã, phường trên phạm vi cả nước.",
+          "B. Bắt buộc công chức xã phường phải có bằng tiến sĩ mới được xếp lương công chức.",
           "C. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị.",
-          "D. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 4)"
+          "D. Giao quyền cho trưởng thôn tự ký quyết định công nhận công chức cấp xã phường."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Trường hợp nào sau đây cơ quan nhà nước CHƯA giải quyết thôi việc cho công chức theo NĐ 170/2025/NĐ-CP?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 61)?",
         "options": [
-          "A. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 1)",
-          "B. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 1)",
-          "C. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 1)",
-          "D. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế."
+          "A. 24 tháng.",
+          "B. 06 tháng cố định.",
+          "C. 09 tháng.",
+          "D. 12 tháng kể từ ngày nhận nhiệm sở."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về các trường hợp chưa giải quyết thôi việc (điều 59 nđ 170/2025) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 62)?",
         "options": [
-          "A. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 2)",
-          "B. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 2)",
-          "C. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "D. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 2)"
+          "A. 09 tháng.",
+          "B. 12 tháng.",
+          "C. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "D. 03 tháng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Trường hợp nào sau đây cơ quan nhà nước CHƯA giải quyết thôi việc cho công chức theo NĐ 170/2025/NĐ-CP?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 63)?",
         "options": [
-          "A. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "B. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 3)",
-          "C. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 3)",
-          "D. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 3)"
+          "A. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "B. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "C. Thời gian đi công tác địa bàn.",
+          "D. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Trường hợp nào sau đây cơ quan nhà nước CHƯA giải quyết thôi việc cho công chức theo NĐ 170/2025/NĐ-CP?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 64)?",
         "options": [
-          "A. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 4)",
-          "B. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 4)",
-          "C. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "D. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 4)"
+          "A. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "B. Có bằng Thạc sĩ đúng chuyên ngành.",
+          "C. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Trường hợp nào sau đây cơ quan nhà nước CHƯA giải quyết thôi việc cho công chức theo NĐ 170/2025/NĐ-CP?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 65)?",
         "options": [
-          "A. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 5)",
-          "B. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 5)",
-          "C. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "D. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 5)"
+          "A. Hưởng thêm 50% tiền lương của người tập sự.",
+          "B. Không được hưởng phụ cấp.",
+          "C. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "D. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến các trường hợp chưa giải quyết thôi việc (điều 59 nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 66)?",
         "options": [
-          "A. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 6)",
-          "B. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 6)",
-          "C. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "D. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 6)"
+          "A. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "B. Đuổi ra khỏi phòng thi và cấm thi 5 năm.",
+          "C. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "D. Chỉ nhắc nhở bằng lời nói và không ghi biên bản."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về các trường hợp chưa giải quyết thôi việc (điều 59 nđ 170/2025) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 67)?",
         "options": [
-          "A. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "B. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 7)",
-          "C. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 7)",
-          "D. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 7)"
+          "A. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "B. 06 tháng cố định.",
+          "C. 09 tháng.",
+          "D. 24 tháng."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với các trường hợp chưa giải quyết thôi việc (điều 59 nđ 170/2025) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 68)?",
         "options": [
-          "A. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 8)",
-          "B. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 8)",
-          "C. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "D. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 8)"
+          "A. 12 tháng.",
+          "B. 03 tháng.",
+          "C. 06 tháng kể từ ngày nhận nhiệm sở.",
+          "D. 09 tháng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến các trường hợp chưa giải quyết thôi việc (điều 59 nđ 170/2025) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 69)?",
         "options": [
-          "A. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 9)",
-          "B. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "C. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 9)",
-          "D. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 9)"
+          "A. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày.",
+          "B. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "C. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "D. Thời gian đi công tác địa bàn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về các trường hợp chưa giải quyết thôi việc (điều 59 nđ 170/2025)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 70)?",
         "options": [
-          "A. Công chức đã đóng bảo hiểm xã hội trên 20 năm. (không đúng 10)",
-          "B. Đang trong thời gian xem xét xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; chưa phục vụ đủ thời gian cam kết; chưa hoàn thành nghĩa vụ tài chính; do yêu cầu đột xuất chưa có người thay thế.",
-          "C. Công chức có đơn xin thôi việc đúng thể thức. (trái luật 10)",
-          "D. Công chức đang nuôi con nhỏ trên 36 tháng tuổi. (sai quy định 10)"
+          "A. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "B. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an.",
+          "C. Có bằng Thạc sĩ đúng chuyên ngành.",
+          "D. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 59 NĐ 170/2025/NĐ-CP quy định 4 nhóm trường hợp chưa giải quyết thôi việc."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo Nghị quyết số 76/NQ-CP và Chỉ thị 23/CT-TTg: Chỉ số SIPAS được Bộ Nội vụ công bố hàng năm dùng để đo lường điều gì?",
         "options": [
           "A. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "B. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 1)",
-          "C. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 1)",
-          "D. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 1)"
+          "B. Đo lường khối lượng hàng hóa xuất nhập khẩu qua các cửa khẩu quốc tế.",
+          "C. Đo lường tổng số lượng văn bản hành chính được ban hành trong năm của tỉnh.",
+          "D. Đo lường tốc độ tăng trưởng kinh tế tổng sản phẩm trên địa bàn tỉnh (GRDP)."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -6455,9 +6455,9 @@ window.EXAMS_DATA = [
         "q": "Trong Chương trình tổng thể cải cách hành chính nhà nước: Chỉ số SIPAS được Bộ Nội vụ công bố hàng năm dùng để đo lường điều gì?",
         "options": [
           "A. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "B. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 2)",
-          "C. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 2)",
-          "D. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 2)"
+          "B. Đo lường số lượng công chức bị xử lý kỷ luật cảnh cáo trong năm của ngành nội vụ.",
+          "C. Đo lường tỷ lệ thất nghiệp của lực lượng lao động trong độ tuổi tại thành phố.",
+          "D. Đo lường mức độ thu hút nguồn vốn đầu tư trực tiếp nước ngoài (FDI) vào địa phương."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -6467,9 +6467,9 @@ window.EXAMS_DATA = [
         "q": "Căn cứ Nghị quyết 76/NQ-CP của Chính phủ về CCHC: Chỉ số SIPAS được Bộ Nội vụ công bố hàng năm dùng để đo lường điều gì?",
         "options": [
           "A. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "B. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 3)",
-          "C. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 3)",
-          "D. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 3)"
+          "B. Đo lường tổng số lượng văn bản hành chính được ban hành trong năm của tỉnh.",
+          "C. Đo lường tỷ lệ cử tri tham gia bỏ phiếu bầu cử đại biểu Quốc hội các khóa.",
+          "D. Đo lường số lượng dự án bất động sản được cấp phép xây dựng trên địa bàn."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -6478,10 +6478,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Mục tiêu, nhiệm vụ của công cuộc cải cách hành chính liên quan đến các bộ chỉ số đánh giá cchc nhà nước (par index, sipas, papi) đòi hỏi điều gì?",
         "options": [
-          "A. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 4)",
-          "B. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 4)",
+          "A. Đo lường số lượng công chức bị xử lý kỷ luật cảnh cáo trong năm của ngành nội vụ.",
+          "B. Đo lường khối lượng hàng hóa xuất nhập khẩu qua các cửa khẩu quốc tế.",
           "C. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "D. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 4)"
+          "D. Đo lường tốc độ tăng trưởng kinh tế tổng sản phẩm trên địa bàn tỉnh (GRDP)."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -6490,10 +6490,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo Chỉ thị 23/CT-TTg của Thủ tướng Chính phủ về CCHC: Chỉ số SIPAS được Bộ Nội vụ công bố hàng năm dùng để đo lường điều gì?",
         "options": [
-          "A. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 5)",
-          "B. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 5)",
+          "A. Đo lường tỷ lệ thất nghiệp của lực lượng lao động trong độ tuổi tại thành phố.",
+          "B. Đo lường tỷ lệ cử tri tham gia bỏ phiếu bầu cử đại biểu Quốc hội các khóa.",
           "C. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "D. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 5)"
+          "D. Đo lường mức độ thu hút nguồn vốn đầu tư trực tiếp nước ngoài (FDI) vào địa phương."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -6503,60 +6503,60 @@ window.EXAMS_DATA = [
         "q": "Theo các văn bản quy định của UBND thành phố Huế: Trung tâm Giám sát, điều hành đô thị thông minh (IOC) thành phố Huế có chức năng trọng tâm là gì?",
         "options": [
           "A. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực.",
-          "B. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 1)",
-          "C. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 1)",
-          "D. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 1)"
+          "B. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy tờ từ thời kỳ phong kiến triều Nguyễn.",
+          "C. Là trung tâm đào tạo lái xe ô tô và cấp đổi giấy phép lái xe cơ giới đường bộ.",
+          "D. Thay thế hoàn toàn chức năng quản lý tài chính của Kho bạc Nhà nước tỉnh."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Căn cứ Quyết định số 2626/QĐ-UBND của UBND thành phố Huế: Trung tâm Giám sát, điều hành đô thị thông minh (IOC) thành phố Huế có chức năng trọng tâm là gì?",
         "options": [
           "A. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực.",
-          "B. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 2)",
-          "C. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 2)",
-          "D. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 2)"
+          "B. Trực tiếp tiến hành các hoạt động xét xử và thi hành các bản án hình sự phức tạp.",
+          "C. Chịu trách nhiệm trực tiếp bán vé máy bay cho các hãng hàng không nội địa.",
+          "D. Là đơn vị trực tiếp ký lệnh bắt tạm giam người có hành vi vi phạm trật tự giao thông."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Trong công tác cải cách hành chính gắn với đô thị thông minh TP Huế: Trung tâm Giám sát, điều hành đô thị thông minh (IOC) thành phố Huế có chức năng trọng tâm là gì?",
         "options": [
-          "A. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 3)",
-          "B. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 3)",
-          "C. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 3)",
+          "A. Là cơ quan kiểm duyệt toàn bộ các ấn phẩm báo chí và xuất bản tại miền Trung.",
+          "B. Là cơ sở nghiên cứu sản xuất các thiết bị camera giám sát an ninh xuất khẩu.",
+          "C. Thay thế hoàn toàn chức năng quản lý tài chính của Kho bạc Nhà nước tỉnh.",
           "D. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Căn cứ Quyết định số 2243/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Trung tâm Giám sát, điều hành đô thị thông minh (IOC) thành phố Huế có chức năng trọng tâm là gì?",
+        "q": "Căn cứ Quyết định số 1026/QĐ-UBND và Quyết định 3322/QĐ-UBND của TP Huế: Trung tâm Giám sát, điều hành đô thị thông minh (IOC) thành phố Huế có chức năng trọng tâm là gì?",
         "options": [
-          "A. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 4)",
-          "B. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 4)",
-          "C. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 4)",
+          "A. Là đơn vị trực tiếp ký lệnh bắt tạm giam người có hành vi vi phạm trật tự giao thông.",
+          "B. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy tờ từ thời kỳ phong kiến triều Nguyễn.",
+          "C. Là trung tâm đào tạo lái xe ô tô và cấp đổi giấy phép lái xe cơ giới đường bộ.",
           "D. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Ứng dụng chuyển đổi số và công nghệ thông tin tại thành phố Huế khẳng định vai trò của trung tâm giám sát điều hành đô thị thông minh (ioc huế) như thế nào?",
         "options": [
           "A. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực.",
-          "B. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 5)",
-          "C. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 5)",
-          "D. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 5)"
+          "B. Chịu trách nhiệm trực tiếp bán vé máy bay cho các hãng hàng không nội địa.",
+          "C. Trực tiếp tiến hành các hoạt động xét xử và thi hành các bản án hình sự phức tạp.",
+          "D. Là cơ sở nghiên cứu sản xuất các thiết bị camera giám sát an ninh xuất khẩu."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       }
     ]
   },
@@ -6565,616 +6565,616 @@ window.EXAMS_DATA = [
     "title": "Bộ Đề Thi Số 10 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi độc nhất, thời gian 60 phút. Bao quát đầy đủ 10 danh mục tài liệu ôn tập công chức của Sở Nội vụ TP Huế.",
+    "description": "Đề thi chuẩn cấu trúc Vòng 1 gồm 60 câu hỏi trắc nghiệm độc nhất, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15, hội đồng nhân dân thành phố trực thuộc trung ương được thành lập các ban nào sau đây?",
+        "q": "Theo Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Hội đồng nhân dân thành phố trực thuộc trung ương được thành lập các Ban nào sau đây?",
         "options": [
-          "A. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 1)",
-          "B. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 1)",
+          "A. Ban An ninh quốc phòng, Ban Ngoại giao và Ban Dân vận chính quyền.",
+          "B. Ban An toàn thực phẩm, Ban Tài nguyên nước và Ban Đền bù giải tỏa.",
           "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
-          "D. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 1)"
+          "D. Chỉ được thành lập hai ban duy nhất là Ban Pháp chế và Ban Ngân sách."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Trong việc tổ chức bộ máy chính quyền địa phương, nhận định nào sau đây là ĐÚNG về các ban của hđnd thành phố trực thuộc trung ương?",
+        "q": "Căn cứ quy định tại Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nhận định nào sau đây là ĐÚNG về các ban của hđnd thành phố trực thuộc trung ương?",
         "options": [
-          "A. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 2)",
+          "A. Ban Trật tự xã hội, Ban Quản lý thị trường và Ban Khuyến học đô thị.",
           "B. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
-          "C. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 2)",
-          "D. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 2)"
+          "C. Ban Giám sát công quyền, Ban Kiểm toán nội bộ và Ban Tôn giáo.",
+          "D. Ban Phòng chống tham nhũng, Ban Kê khai tài sản và Ban Thi đua khen thưởng."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Trong việc tổ chức bộ máy chính quyền địa phương theo Luật số 72/2025/QH15: Hội đồng nhân dân thành phố trực thuộc trung ương được thành lập các Ban nào sau đây?",
+        "options": [
+          "A. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
+          "B. Chỉ được thành lập hai ban duy nhất là Ban Pháp chế và Ban Ngân sách.",
+          "C. Ban Cải cách thủ tục, Ban Xúc tiến đầu tư và Ban Hợp tác quốc tế.",
+          "D. Ban Tiếp dân, Ban Xử lý khiếu nại và Ban Công nghệ thông tin."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Tình huống quản lý nhà nước: Khi thực hiện quy định về các ban của hđnd thành phố trực thuộc trung ương, cơ quan có thẩm quyền phải tuân thủ nội dung nào?",
+        "options": [
+          "A. Ban Giám sát công quyền, Ban Kiểm toán nội bộ và Ban Tôn giáo.",
+          "B. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
+          "C. Ban An toàn thực phẩm, Ban Tài nguyên nước và Ban Đền bù giải tỏa.",
+          "D. Ban An ninh quốc phòng, Ban Ngoại giao và Ban Dân vận chính quyền."
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Theo quy định hiện hành của Luật Tổ chức chính quyền địa phương số 72/2025/QH15, nguyên tắc cốt lõi về các ban của hđnd thành phố trực thuộc trung ương là gì?",
+        "options": [
+          "A. Ban Phòng chống tham nhũng, Ban Kê khai tài sản và Ban Thi đua khen thưởng.",
+          "B. Ban Trật tự xã hội, Ban Quản lý thị trường và Ban Khuyến học đô thị.",
+          "C. Ban Cải cách thủ tục, Ban Xúc tiến đầu tư và Ban Hợp tác quốc tế.",
+          "D. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị."
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
         "q": "Căn cứ Chương III & IV Luật Tổ chức chính quyền địa phương số 72/2025/QH15: Hội đồng nhân dân thành phố trực thuộc trung ương được thành lập các Ban nào sau đây?",
         "options": [
-          "A. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
-          "B. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 3)",
-          "C. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 3)",
-          "D. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 3)"
+          "A. Ban Tiếp dân, Ban Xử lý khiếu nại và Ban Công nghệ thông tin.",
+          "B. Chỉ được thành lập hai ban duy nhất là Ban Pháp chế và Ban Ngân sách.",
+          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
+          "D. Ban An toàn thực phẩm, Ban Tài nguyên nước và Ban Đền bù giải tỏa."
         ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Tình huống quản lý hành chính: Cơ quan có thẩm quyền xử lý vấn đề các ban của hđnd thành phố trực thuộc trung ương theo nguyên tắc nào sau đây?",
+        "q": "Đối với thành phố Huế khi vận hành theo mô hình chính quyền đô thị mới, quy định về các ban của hđnd thành phố trực thuộc trung ương được áp dụng như thế nào?",
         "options": [
-          "A. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 4)",
-          "B. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
-          "C. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 4)",
-          "D. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 4)"
+          "A. Ban Giám sát công quyền, Ban Kiểm toán nội bộ và Ban Tôn giáo.",
+          "B. Ban Phòng chống tham nhũng, Ban Kê khai tài sản và Ban Thi đua khen thưởng.",
+          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
+          "D. Ban An ninh quốc phòng, Ban Ngoại giao và Ban Dân vận chính quyền."
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
       },
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo quy định hiện hành, điểm cốt lõi trong việc thực hiện các ban của hđnd thành phố trực thuộc trung ương là gì?",
+        "q": "Xác định thẩm quyền và trách nhiệm pháp lý chuẩn xác liên quan đến các ban của hđnd thành phố trực thuộc trung ương theo Luật số 72/2025/QH15:",
         "options": [
-          "A. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 5)",
-          "B. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 5)",
-          "C. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 5)",
+          "A. Ban Tiếp dân, Ban Xử lý khiếu nại và Ban Công nghệ thông tin.",
+          "B. Ban Cải cách thủ tục, Ban Xúc tiến đầu tư và Ban Hợp tác quốc tế.",
+          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
+          "D. Ban Trật tự xã hội, Ban Quản lý thị trường và Ban Khuyến học đô thị."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Văn bản pháp luật về tổ chức chính quyền địa phương khẳng định nội dung nào sau đây về các ban của hđnd thành phố trực thuộc trung ương?",
+        "options": [
+          "A. Ban An toàn thực phẩm, Ban Tài nguyên nước và Ban Đền bù giải tỏa.",
+          "B. Ban An ninh quốc phòng, Ban Ngoại giao và Ban Dân vận chính quyền.",
+          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
+          "D. Chỉ được thành lập hai ban duy nhất là Ban Pháp chế và Ban Ngân sách."
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
+      },
+      {
+        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
+        "q": "Theo quy định của pháp luật hiện hành, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN đối với các ban của hđnd thành phố trực thuộc trung ương?",
+        "options": [
+          "A. Ban Phòng chống tham nhũng, Ban Kê khai tài sản và Ban Thi đua khen thưởng.",
+          "B. Ban Trật tự xã hội, Ban Quản lý thị trường và Ban Khuyến học đô thị.",
+          "C. Ban Giám sát công quyền, Ban Kiểm toán nội bộ và Ban Tôn giáo.",
           "D. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
+        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban: Pháp chế, Kinh tế - Ngân sách, Văn hóa - Xã hội và Ban Đô thị."
       },
       {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Pháp luật về Tổ chức chính quyền địa phương quy định tiêu chuẩn, nhiệm vụ đối với các ban của hđnd thành phố trực thuộc trung ương như thế nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 13)?",
         "options": [
-          "A. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 6)",
-          "B. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 6)",
-          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
-          "D. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 6)"
+          "A. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "B. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "C. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "D. Được xem xét chuyển sang làm nhân viên hợp đồng lao động."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 13)?",
+        "options": [
+          "A. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "B. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "C. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan.",
+          "D. Bị hạ một bậc lương và bố trí làm công việc thấp hơn."
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
+      },
+      {
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 13)?",
+        "options": [
+          "A. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "B. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự.",
+          "C. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "D. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Khi thành phố Huế vận hành mô hình thành phố trực thuộc Trung ương, quy định về các ban của hđnd thành phố trực thuộc trung ương được áp dụng ra sao?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 13)?",
         "options": [
-          "A. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 7)",
-          "B. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 7)",
-          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
-          "D. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 7)"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Theo Luật Tổ chức chính quyền địa phương, hành vi hoặc quyết định nào sau đây là ĐÚNG THẨM QUYỀN liên quan đến các ban của hđnd thành phố trực thuộc trung ương?",
-        "options": [
-          "A. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 8)",
-          "B. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 8)",
-          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
-          "D. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 8)"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Yêu cầu về mặt pháp lý trong việc thực thi nhiệm vụ về các ban của hđnd thành phố trực thuộc trung ương đòi hỏi điều gì?",
-        "options": [
-          "A. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 9)",
-          "B. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 9)",
-          "C. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị.",
-          "D. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 9)"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
-      },
-      {
-        "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
-        "q": "Văn bản pháp luật về chính quyền địa phương khẳng định nội dung nào sau đây về các ban của hđnd thành phố trực thuộc trung ương?",
-        "options": [
-          "A. Chỉ có Ban Pháp chế và Ban Ngân sách. (vi phạm nguyên tắc 10)",
-          "B. Ban An ninh quốc phòng và Ban Ngoại giao công chúng. (sai quy định 10)",
-          "C. Ban Trật tự xã hội và Ban Khuyến học. (không đúng thẩm quyền 10)",
-          "D. Ban Pháp chế, Ban Kinh tế - Ngân sách, Ban Văn hóa - Xã hội và Ban Đô thị."
+          "A. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "B. Trong thời hạn 07 ngày làm việc.",
+          "C. Trong thời hạn 60 ngày kể từ ngày công bố quyết định.",
+          "D. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 18 Luật Tổ chức CQĐP: HĐND thành phố trực thuộc Trung ương có 4 ban, trong đó có Ban Đô thị."
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý có các hình thức kỷ luật nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 13)?",
         "options": [
-          "A. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "B. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 1)",
-          "C. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 1)",
-          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 1)"
+          "A. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng.",
+          "B. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "C. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "D. Tự ý nghỉ việc từ 03 ngày làm việc liên tục."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trong thi hành công vụ, nhận định nào sau đây là ĐÚNG về kỷ luật đối với cán bộ, công chức (điều 79, 80)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Theo quy định hiện hành, công chức bị kết án phạt tù mà không được hưởng án treo thì xử lý như thế nào (Trường hợp 14)?",
         "options": [
-          "A. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "B. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 2)",
-          "C. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 2)",
-          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 2)"
+          "A. Đương nhiên bị buộc thôi việc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+          "B. Giáng chức xuống ngạch nhân viên và tiếp tục làm việc.",
+          "C. Chỉ bị tạm đình chỉ công tác chờ thi hành án xong.",
+          "D. Được xem xét chuyển sang làm nhân viên hợp đồng lao động."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
+        "explanation": "★ Căn cứ: Khoản 3 Điều 79 Luật CBCC: Công chức bị kết án phạt tù mà không được hưởng án treo thì ĐƯƠNG NHIÊN BỊ BUỘC THÔI VIỆC kể từ ngày bản án có hiệu lực."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Căn cứ Chương II và IV Luật Cán bộ, công chức năm 2025: Công chức KHÔNG giữ chức vụ lãnh đạo, quản lý có các hình thức kỷ luật nào sau đây?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức sử dụng văn bằng, chứng chỉ không hợp pháp để được tuyển dụng vào cơ quan nhà nước thì bị xử lý hình thức nào (Mã 14)?",
         "options": [
-          "A. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 3)",
-          "B. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 3)",
-          "C. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 3)"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Tình huống thực tiễn công vụ: Công chức phải thực hiện quy định về kỷ luật đối với cán bộ, công chức (điều 79, 80) như thế nào?",
-        "options": [
-          "A. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 4)",
-          "B. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 4)",
-          "C. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 4)",
-          "D. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức)."
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Quy định pháp lý về kỷ luật đối với cán bộ, công chức (điều 79, 80) yêu cầu công chức phải tuân thủ nội dung nào?",
-        "options": [
-          "A. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "B. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 5)",
-          "C. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 5)",
-          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 5)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo quy định hiện hành, điểm khác biệt căn bản trong việc áp dụng kỷ luật đối với cán bộ, công chức (điều 79, 80) là gì?",
-        "options": [
-          "A. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "B. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 6)",
-          "C. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 6)",
-          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 6)"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
-      },
-      {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Cán bộ, công chức cơ quan hành chính nhà nước thực hiện đúng pháp luật về kỷ luật đối với cán bộ, công chức (điều 79, 80) khi nào?",
-        "options": [
-          "A. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 7)",
-          "B. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "C. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 7)",
-          "D. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 7)"
+          "A. Bị kỷ luật Khiển trách và cho nợ văn bằng trong thời hạn 12 tháng.",
+          "B. Bị áp dụng hình thức kỷ luật Buộc thôi việc và hủy bỏ quyết định tuyển dụng.",
+          "C. Bị hạ một bậc lương và bố trí làm công việc thấp hơn.",
+          "D. Chỉ bị phê bình nội bộ trong cuộc họp cơ quan."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
+        "explanation": "★ Căn cứ: Điểm a khoản 1 Điều 13 Nghị định xử lý kỷ luật cán bộ, công chức: Hành vi sử dụng văn bằng, chứng chỉ giả để tuyển dụng bị xử lý Buộc thôi việc."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Hành vi nào sau đây là ĐÚNG QUY ĐỊNH của Luật Cán bộ, công chức liên quan đến kỷ luật đối với cán bộ, công chức (điều 79, 80)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Hình thức kỷ luật Giáng chức chỉ áp dụng đối với đối tượng nào theo Luật Cán bộ, công chức (Mã 14)?",
         "options": [
-          "A. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "B. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 8)",
-          "C. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 8)",
-          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 8)"
+          "A. Chỉ áp dụng đối với công chức giữ chức vụ lãnh đạo, quản lý.",
+          "B. Chỉ áp dụng cho viên chức tại các trung tâm sự nghiệp.",
+          "C. Áp dụng cho mọi công chức khi không hoàn thành chỉ tiêu chuyên môn.",
+          "D. Chỉ áp dụng cho công chức mới tuyển dụng đang tập sự."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
+        "explanation": "★ Căn cứ: Khoản 2 Điều 79 Luật CBCC: Giáng chức là hạ xuống chức vụ lãnh đạo thấp hơn nên CHỈ ÁP DỤNG cho công chức giữ chức vụ lãnh đạo, quản lý."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Trách nhiệm của công chức khi thực hiện các quy định về kỷ luật đối với cán bộ, công chức (điều 79, 80) bao gồm nội dung nào?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Thời hạn công chức gửi đơn khiếu nại lần đầu đối với quyết định kỷ luật là bao nhiêu ngày (Mã 14)?",
         "options": [
-          "A. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 9)",
-          "B. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 9)",
-          "C. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "D. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 9)"
+          "A. Trong thời hạn 07 ngày làm việc.",
+          "B. Trong thời hạn 30 ngày kể từ ngày nhận quyết định.",
+          "C. Trong thời hạn 15 ngày kể từ ngày nhận được quyết định kỷ luật.",
+          "D. Trong thời hạn 60 ngày kể từ ngày công bố quyết định."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
+        "explanation": "★ Căn cứ: Điều 83 Luật CBCC: Thời hạn khiếu nại lần đầu đối với quyết định kỷ luật là 15 ngày kể từ ngày nhận quyết định."
       },
       {
-        "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Văn bản pháp luật về cán bộ, công chức khẳng định nội dung nào sau đây về kỷ luật đối với cán bộ, công chức (điều 79, 80)?",
+        "topic": "Luật Cán bộ, công chức",
+        "q": "Công chức tự ý nghỉ việc tổng cộng bao nhiêu ngày trong một tháng thì bị áp dụng hình thức kỷ luật Buộc thôi việc (Mã 14)?",
         "options": [
-          "A. Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc (không có Giáng chức và Cách chức).",
-          "B. Phạt tiền, Cắt thi đua, Chuyển công tác. (trái luật 10)",
-          "C. Khiển trách, Cảnh cáo, Buộc thôi việc (không có Hạ bậc lương). (không chính xác 10)",
-          "D. Khiển trách, Cảnh cáo, Giáng chức, Cách chức. (sai quy định 10)"
+          "A. Tự ý nghỉ việc tổng cộng từ 07 ngày làm việc trở lên trong một tháng hoặc từ 20 ngày làm việc trở lên trong một năm mà không có lý do chính đáng.",
+          "B. Tự ý nghỉ việc từ 15 ngày trong một năm.",
+          "C. Tự ý nghỉ việc từ 05 ngày làm việc trong một quý.",
+          "D. Tự ý nghỉ việc từ 03 ngày làm việc liên tục."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 79 Luật CBCC: Công chức không giữ chức vụ lãnh đạo có 4 hình thức: Khiển trách, Cảnh cáo, Hạ bậc lương, Buộc thôi việc. Giáng chức, Cách chức chỉ áp dụng cho người lãnh đạo!"
+        "explanation": "★ Căn cứ: Nghị định về xử lý kỷ luật công chức: Tự ý nghỉ việc từ 07 ngày làm việc trở lên trong 1 tháng hoặc 20 ngày trong 1 năm bị Buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng (VBHN số 65/VBHN-VPQH): Loại tài sản nào sau đây thuộc diện bắt buộc phải kê khai theo Điều 35 Luật Phòng, chống tham nhũng?",
+        "q": "Căn cứ Chương I & II Luật Phòng, chống tham nhũng: Người có nghĩa vụ kê khai tài sản mà KÊ KHAI KHÔNG TRUNG THỰC thì bị xử lý như thế nào?",
         "options": [
-          "A. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 3)",
-          "B. Xe đạp thể thao cũ. (trái luật 3)",
-          "C. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 3)",
-          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài."
+          "A. Không bị xử lý bất kỳ hình thức kỷ luật nào nếu làm bản kiểm điểm tự phê bình.",
+          "B. Được giữ nguyên chức vụ lãnh đạo và không công khai cho tập thể cơ quan biết.",
+          "C. Được chuyển công tác sang cơ quan có quyền hạn lớn hơn để thử thách năng lực.",
+          "D. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Tình huống công vụ: Công chức xử lý đúng quy định về kê khai tài sản, thu nhập (điều 33, 35, 36) như thế nào?",
+        "q": "Quy định pháp lý hiện hành về phòng, chống tham nhũng xác định nội dung nào sau đây về xử lý hành vi kê khai tài sản không trung thực (điều 51)?",
         "options": [
-          "A. Xe đạp thể thao cũ. (trái luật 4)",
-          "B. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 4)",
-          "C. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 4)",
-          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài."
+          "A. Chỉ bị ghi tên vào sổ lưu niệm nhắc nhở và được xem xét thăng chức ngay sau đó.",
+          "B. Chỉ bị phạt tiền tượng trưng 100.000 đồng và không lưu hồ sơ cán bộ công chức.",
+          "C. Bị cách chức ngay lập tức mà không cần tiến hành thẩm tra, xác minh theo quy trình.",
+          "D. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Quy định pháp lý về kê khai tài sản, thu nhập (điều 33, 35, 36) yêu cầu người có chức vụ, quyền hạn phải tuân thủ điều gì?",
+        "q": "Tình huống công vụ: Người có chức vụ, quyền hạn phải xử lý đúng quy định pháp luật về xử lý hành vi kê khai tài sản không trung thực (điều 51) như thế nào?",
         "options": [
-          "A. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 5)",
-          "B. Xe đạp thể thao cũ. (trái luật 5)",
-          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài.",
-          "D. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 5)"
+          "A. Được chuyển công tác sang cơ quan có quyền hạn lớn hơn để thử thách năng lực.",
+          "B. Tự động được miễn toàn bộ nghĩa vụ kê khai tài sản trong 10 năm tiếp theo.",
+          "C. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc.",
+          "D. Được phép tự kê khai lại bao nhiêu lần tùy ý cho đến khi thấy hợp lý thì thôi."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi nào sau đây vi phạm quy định về kê khai tài sản, thu nhập (điều 33, 35, 36)?",
+        "q": "Theo quy định của Luật Phòng, chống tham nhũng, hành vi hoặc nhận định nào sau đây là ĐÚNG về xử lý hành vi kê khai tài sản không trung thực (điều 51)?",
         "options": [
-          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài.",
-          "B. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 6)",
-          "C. Xe đạp thể thao cũ. (trái luật 6)",
-          "D. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 6)"
+          "A. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc.",
+          "B. Được giữ nguyên chức vụ lãnh đạo và không công khai cho tập thể cơ quan biết.",
+          "C. Không bị xử lý bất kỳ hình thức kỷ luật nào nếu làm bản kiểm điểm tự phê bình.",
+          "D. Bị cách chức ngay lập tức mà không cần tiến hành thẩm tra, xác minh theo quy trình."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Biện pháp phòng ngừa tham nhũng nào sau đây được áp dụng đối với kê khai tài sản, thu nhập (điều 33, 35, 36)?",
+        "q": "Biện pháp phòng ngừa và xử lý nghiêm minh theo quy định của Luật PCTN đối với xử lý hành vi kê khai tài sản không trung thực (điều 51) là:",
         "options": [
-          "A. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 7)",
-          "B. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài.",
-          "C. Xe đạp thể thao cũ. (trái luật 7)",
-          "D. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 7)"
+          "A. Được phép tự kê khai lại bao nhiêu lần tùy ý cho đến khi thấy hợp lý thì thôi.",
+          "B. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc.",
+          "C. Chỉ bị phạt tiền tượng trưng 100.000 đồng và không lưu hồ sơ cán bộ công chức.",
+          "D. Chỉ bị ghi tên vào sổ lưu niệm nhắc nhở và được xem xét thăng chức ngay sau đó."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng, cơ quan tổ chức đơn vị có trách nhiệm gì đối với kê khai tài sản, thu nhập (điều 33, 35, 36)?",
+        "q": "Cơ quan, tổ chức, đơn vị có trách nhiệm gì đối với việc thực hiện quy định về xử lý hành vi kê khai tài sản không trung thực (điều 51)?",
         "options": [
-          "A. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 8)",
-          "B. Xe đạp thể thao cũ. (trái luật 8)",
-          "C. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 8)",
-          "D. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài."
+          "A. Tự động được miễn toàn bộ nghĩa vụ kê khai tài sản trong 10 năm tiếp theo.",
+          "B. Được chuyển công tác sang cơ quan có quyền hạn lớn hơn để thử thách năng lực.",
+          "C. Được giữ nguyên chức vụ lãnh đạo và không công khai cho tập thể cơ quan biết.",
+          "D. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Yêu cầu về tính công khai, minh bạch trong kê khai tài sản, thu nhập (điều 33, 35, 36) được quy định ra sao?",
+        "q": "Yêu cầu về tính liêm chính, công khai, minh bạch theo Luật PCTN khẳng định nguyên tắc nào về xử lý hành vi kê khai tài sản không trung thực (điều 51)?",
         "options": [
-          "A. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài.",
-          "B. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 9)",
-          "C. Xe đạp thể thao cũ. (trái luật 9)",
-          "D. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 9)"
+          "A. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc.",
+          "B. Chỉ bị ghi tên vào sổ lưu niệm nhắc nhở và được xem xét thăng chức ngay sau đó.",
+          "C. Bị cách chức ngay lập tức mà không cần tiến hành thẩm tra, xác minh theo quy trình.",
+          "D. Không bị xử lý bất kỳ hình thức kỷ luật nào nếu làm bản kiểm điểm tự phê bình."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Văn bản pháp luật về phòng, chống tham nhũng khẳng định nội dung nào sau đây về kê khai tài sản, thu nhập (điều 33, 35, 36)?",
+        "q": "Văn bản pháp luật về phòng, chống tham nhũng quy định rõ ràng nội dung nào sau đây liên quan đến xử lý hành vi kê khai tài sản không trung thực (điều 51)?",
         "options": [
-          "A. Xe đạp thể thao cũ. (trái luật 10)",
-          "B. Tiền tiêu vặt hàng ngày dưới 1 triệu đồng. (không chính xác 10)",
-          "C. Quyền sử dụng đất, nhà ở, công trình xây dựng; kim khí quý, đá quý, tiền, sổ tiết kiệm, cổ phiếu có giá trị từ 50 triệu đồng trở lên; tài sản ở nước ngoài.",
-          "D. Đồ dùng sinh hoạt cá nhân có giá trị dưới 5 triệu đồng. (sai quy định 10)"
+          "A. Được phép tự kê khai lại bao nhiêu lần tùy ý cho đến khi thấy hợp lý thì thôi.",
+          "B. Chỉ bị phạt tiền tượng trưng 100.000 đồng và không lưu hồ sơ cán bộ công chức.",
+          "C. Người ứng cử đại biểu Quốc hội, HĐND thì bị xóa tên khỏi danh sách; người dự kiến bổ nhiệm thì không được bổ nhiệm; cán bộ, công chức thì bị xử lý kỷ luật từ khiển trách đến buộc thôi việc.",
+          "D. Tự động được miễn toàn bộ nghĩa vụ kê khai tài sản trong 10 năm tiếp theo."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 35 Luật PCTN: Bắt buộc kê khai nhà đất, tài sản nước ngoài, và kim khí quý/tiền/sổ tiết kiệm/chứng khoán CÓ GIÁ TRỊ TỪ 50 TRIỆU ĐỒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ: Điều 51 Luật PCTN: Người kê khai không trung thực bị xóa tên khỏi danh sách ứng cử, không bổ nhiệm, xử lý kỷ luật từ khiển trách đến cách chức, buộc thôi việc."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Quy định pháp lý về quy định về hiệu lực trở về trước (hồi tố) (điều 152) khẳng định điều gì?",
+        "q": "Khi cơ quan có thẩm quyền tại thành phố Huế ban hành văn bản, quy định về nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156) được áp dụng ra sao?",
         "options": [
-          "A. Quy định miễn giảm thuế cho người nghèo. (không đúng 5)",
-          "B. Quy định tăng mức hỗ trợ thiên tai. (trái luật 5)",
-          "C. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 5)",
-          "D. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn."
+          "A. Chờ quyết định phân xử bằng văn bản của Tòa án nhân dân cấp tỉnh.",
+          "B. Tùy thuộc vào sự lựa chọn theo ý chí chủ quan của công chức đang trực tiếp thụ lý hồ sơ.",
+          "C. Ưu tiên áp dụng văn bản của chính quyền cấp dưới vì sát với thực tiễn đời sống hơn.",
+          "D. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo quy định hiện hành, việc áp dụng quy định về hiệu lực trở về trước (hồi tố) (điều 152) được thực hiện như thế nào?",
+        "q": "Nhận định nào sau đây là CHUẨN XÁC theo quy định của Luật Ban hành văn bản quy phạm pháp luật về nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156)?",
         "options": [
-          "A. Quy định miễn giảm thuế cho người nghèo. (không đúng 6)",
-          "B. Quy định tăng mức hỗ trợ thiên tai. (trái luật 6)",
-          "C. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 6)",
-          "D. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn."
+          "A. Lấy ý kiến biểu quyết tập thể của công dân tại cuộc họp thôn để chọn văn bản áp dụng.",
+          "B. Bắt buộc áp dụng văn bản ban hành trước để tôn trọng tính lịch sử liên tục.",
+          "C. Áp dụng văn bản nào có độ dài số trang ít hơn để tiết kiệm thời gian xử lý.",
+          "D. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Cơ quan soạn thảo văn bản của thành phố Huế phải tuân thủ quy định nào về quy định về hiệu lực trở về trước (hồi tố) (điều 152)?",
+        "q": "Tình huống xây dựng văn bản: Cơ quan soạn thảo phải tuân thủ đúng nguyên tắc nào về nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156)?",
         "options": [
-          "A. Quy định miễn giảm thuế cho người nghèo. (không đúng 7)",
-          "B. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 7)",
-          "C. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn.",
-          "D. Quy định tăng mức hỗ trợ thiên tai. (trái luật 7)"
+          "A. Áp dụng văn bản nào có lợi nhất cho nguồn thu ngân sách của cơ quan hành chính nhà nước.",
+          "B. Chờ quyết định phân xử bằng văn bản của Tòa án nhân dân cấp tỉnh.",
+          "C. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
+          "D. Tạm dừng giải quyết mọi công việc cho đến khi Quốc hội ban hành luật mới thay thế."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Xác định nguyên tắc chuẩn xác của pháp luật liên quan đến quy định về hiệu lực trở về trước (hồi tố) (điều 152):",
+        "q": "Xác định quy định pháp lý bắt buộc đối với nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156) theo Luật Ban hành VBQPPL hiện hành:",
         "options": [
-          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn.",
-          "B. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 8)",
-          "C. Quy định tăng mức hỗ trợ thiên tai. (trái luật 8)",
-          "D. Quy định miễn giảm thuế cho người nghèo. (không đúng 8)"
+          "A. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
+          "B. Lấy ý kiến biểu quyết tập thể của công dân tại cuộc họp thôn để chọn văn bản áp dụng.",
+          "C. Ưu tiên áp dụng văn bản của chính quyền cấp dưới vì sát với thực tiễn đời sống hơn.",
+          "D. Tùy thuộc vào sự lựa chọn theo ý chí chủ quan của công chức đang trực tiếp thụ lý hồ sơ."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP đối với quy định về hiệu lực trở về trước (hồi tố) (điều 152)?",
+        "q": "Theo Luật Ban hành VBQPPL, trường hợp nào sau đây là HỢP PHÁP liên quan đến nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156)?",
         "options": [
-          "A. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn.",
-          "B. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 9)",
-          "C. Quy định tăng mức hỗ trợ thiên tai. (trái luật 9)",
-          "D. Quy định miễn giảm thuế cho người nghèo. (không đúng 9)"
+          "A. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
+          "B. Áp dụng văn bản nào có lợi nhất cho nguồn thu ngân sách của cơ quan hành chính nhà nước.",
+          "C. Áp dụng văn bản nào có độ dài số trang ít hơn để tiết kiệm thời gian xử lý.",
+          "D. Bắt buộc áp dụng văn bản ban hành trước để tôn trọng tính lịch sử liên tục."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
-        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định nội dung nào về quy định về hiệu lực trở về trước (hồi tố) (điều 152)?",
+        "q": "Văn bản pháp luật về ban hành văn bản quy phạm pháp luật quy định cụ thể nội dung nào đối với nguyên tắc áp dụng văn bản quy phạm pháp luật (điều 156)?",
         "options": [
-          "A. Quy định tăng mức hỗ trợ thiên tai. (trái luật 10)",
-          "B. Quy định giảm nhẹ trách nhiệm hành chính. (sai quy định 10)",
-          "C. Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện pháp luật không quy định; hoặc quy định trách nhiệm pháp lý nặng hơn.",
-          "D. Quy định miễn giảm thuế cho người nghèo. (không đúng 10)"
+          "A. Chờ quyết định phân xử bằng văn bản của Tòa án nhân dân cấp tỉnh.",
+          "B. Tùy thuộc vào sự lựa chọn theo ý chí chủ quan của công chức đang trực tiếp thụ lý hồ sơ.",
+          "C. Áp dụng văn bản có hiệu lực pháp lý cao hơn; nếu các văn bản do cùng một cơ quan ban hành có quy định khác nhau thì áp dụng văn bản ban hành sau.",
+          "D. Tạm dừng giải quyết mọi công việc cho đến khi Quốc hội ban hành luật mới thay thế."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Điều 152 Luật Ban hành VBQPPL: Tuyệt đối không hồi tố trách nhiệm pháp lý mới hoặc trách nhiệm nặng hơn."
+        "explanation": "★ Căn cứ: Điều 156 Luật Ban hành VBQPPL: Áp dụng văn bản có hiệu lực pháp lý cao hơn; do cùng cơ quan ban hành thì áp dụng văn bản ban hành sau; luật chuyên ngành áp dụng trước luật chung."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Quy định pháp lý tại Nghị định 150/2025/NĐ-CP khẳng định nội dung nào về bộ máy chuyên môn thuộc ubnd xã, phường theo nghị định 150/2025/nđ-cp?",
         "options": [
           "A. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị.",
-          "B. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 5)",
-          "C. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 5)",
-          "D. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 5)"
+          "B. Chuyển toàn bộ công chức xã phường thành người làm việc theo hợp đồng thời vụ.",
+          "C. Tách biệt hoàn toàn công chức cấp xã và không cho phép luân chuyển liên thông lên cấp trên.",
+          "D. Cho phép các doanh nghiệp tư nhân đứng ra quản lý trả lương cho công chức xã phường."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Theo quy định hiện hành, việc quản lý tổ chức bộ máy liên quan đến bộ máy chuyên môn thuộc ubnd xã, phường theo nghị định 150/2025/nđ-cp được thực hiện ra sao?",
         "options": [
-          "A. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 6)",
-          "B. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 6)",
-          "C. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 6)",
+          "A. Xóa bỏ toàn bộ các chức danh Văn phòng - Thống kê và Tư pháp - Hộ tịch cấp xã.",
+          "B. Tự do bổ nhiệm công chức xã phường không theo tiêu chuẩn ngạch bậc chuyên môn.",
+          "C. Giao quyền cho trưởng thôn tự ký quyết định công nhận công chức cấp xã phường.",
           "D. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Đối với thành phố Huế trực thuộc Trung ương, quy định của Nghị định 150/2025/NĐ-CP về bộ máy chuyên môn thuộc ubnd xã, phường theo nghị định 150/2025/nđ-cp được triển khai như thế nào?",
         "options": [
-          "A. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 7)",
+          "A. Cho phép các doanh nghiệp tư nhân đứng ra quản lý trả lương cho công chức xã phường.",
           "B. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị.",
-          "C. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 7)",
-          "D. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 7)"
+          "C. Giải thể toàn bộ các chức danh công chức xã, phường trên phạm vi cả nước.",
+          "D. Bắt buộc công chức xã phường phải có bằng tiến sĩ mới được xếp lương công chức."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Xác định nguyên tắc chuẩn xác của Nghị định 150/2025/NĐ-CP về bộ máy chuyên môn thuộc ubnd xã, phường theo nghị định 150/2025/nđ-cp:",
         "options": [
-          "A. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 8)",
+          "A. Xóa bỏ toàn bộ các chức danh Văn phòng - Thống kê và Tư pháp - Hộ tịch cấp xã.",
           "B. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị.",
-          "C. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 8)",
-          "D. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 8)"
+          "C. Tách biệt hoàn toàn công chức cấp xã và không cho phép luân chuyển liên thông lên cấp trên.",
+          "D. Chuyển toàn bộ công chức xã phường thành người làm việc theo hợp đồng thời vụ."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Trách nhiệm, thẩm quyền của cơ quan hành chính theo Nghị định 150/2025/NĐ-CP đối với bộ máy chuyên môn thuộc ubnd xã, phường theo nghị định 150/2025/nđ-cp là:",
         "options": [
           "A. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị.",
-          "B. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 9)",
-          "C. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 9)",
-          "D. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 9)"
+          "B. Giải thể toàn bộ các chức danh công chức xã, phường trên phạm vi cả nước.",
+          "C. Giao quyền cho trưởng thôn tự ký quyết định công nhận công chức cấp xã phường.",
+          "D. Tự do bổ nhiệm công chức xã phường không theo tiêu chuẩn ngạch bậc chuyên môn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
         "topic": "5. Nghị định số 150/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 370/2025/NĐ-CP)",
         "q": "Văn bản pháp luật Nghị định 150/2025/NĐ-CP quy định cụ thể nội dung nào về bộ máy chuyên môn thuộc ubnd xã, phường theo nghị định 150/2025/nđ-cp?",
         "options": [
-          "A. Giải thể toàn bộ các chức danh công chức xã, phường. (sai quy định 10)",
-          "B. Chuyển toàn bộ công chức xã phường thành người làm việc hợp đồng thời vụ. (không đúng 10)",
+          "A. Chuyển toàn bộ công chức xã phường thành người làm việc theo hợp đồng thời vụ.",
+          "B. Bắt buộc công chức xã phường phải có bằng tiến sĩ mới được xếp lương công chức.",
           "C. Quy định chức danh, nhiệm vụ của đội ngũ công chức cấp xã, phường bảo đảm liên thông với ngạch công chức cấp trên và đáp ứng yêu cầu chuyển đổi số, chính quyền đô thị.",
-          "D. Tự do bổ nhiệm không theo ngạch bậc tiêu chuẩn. (trái luật 10)"
+          "D. Cho phép các doanh nghiệp tư nhân đứng ra quản lý trả lương cho công chức xã phường."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
+        "explanation": "★ Căn cứ: Nghị định 150/2025/NĐ-CP: Chuẩn hóa ngạch bậc công chức cấp xã, phường liên thông với cấp trên, đáp ứng mô hình chính quyền đô thị mới."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP) và Thông tư 001/2025/TT-BNV: Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ, thí sinh mang điện thoại hoặc thiết bị truyền tin vào phòng thi sẽ bị xử lý kỷ luật thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 71)?",
         "options": [
-          "A. Bị trừ 25% điểm môn thi. (không đúng 1)",
-          "B. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 1)",
-          "C. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng).",
-          "D. Bị trừ 50% điểm môn thi. (trái luật 1)"
+          "A. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở.",
+          "B. Hưởng thêm 50% tiền lương của người tập sự.",
+          "C. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "D. Không được hưởng phụ cấp."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định pháp lý hiện hành về nội quy và quy chế thi tuyển công chức (thông tư 001/2025/tt-bnv) xác định như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 72)?",
         "options": [
-          "A. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng).",
-          "B. Bị trừ 50% điểm môn thi. (trái luật 2)",
-          "C. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 2)",
-          "D. Bị trừ 25% điểm môn thi. (không đúng 2)"
+          "A. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó.",
+          "B. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "C. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "D. Đuổi ra khỏi phòng thi và cấm thi 5 năm."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Căn cứ Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi NĐ 300/2026/NĐ-CP): Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ, thí sinh mang điện thoại hoặc thiết bị truyền tin vào phòng thi sẽ bị xử lý kỷ luật thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 73)?",
         "options": [
-          "A. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 3)",
-          "B. Bị trừ 50% điểm môn thi. (trái luật 3)",
-          "C. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng).",
-          "D. Bị trừ 25% điểm môn thi. (không đúng 3)"
+          "A. 06 tháng cố định.",
+          "B. 24 tháng.",
+          "C. 12 tháng kể từ ngày nhận nhiệm sở.",
+          "D. 09 tháng."
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Trong công tác quản lý cán bộ công chức theo NĐ 170/2025/NĐ-CP: Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ, thí sinh mang điện thoại hoặc thiết bị truyền tin vào phòng thi sẽ bị xử lý kỷ luật thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 74)?",
         "options": [
-          "A. Bị trừ 25% điểm môn thi. (không đúng 4)",
-          "B. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 4)",
-          "C. Bị trừ 50% điểm môn thi. (trái luật 4)",
-          "D. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng)."
+          "A. 09 tháng.",
+          "B. 03 tháng.",
+          "C. 12 tháng.",
+          "D. 06 tháng kể từ ngày nhận nhiệm sở."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ: Theo Thông tư số 001/2025/TT-BNV của Bộ Nội vụ, thí sinh mang điện thoại hoặc thiết bị truyền tin vào phòng thi sẽ bị xử lý kỷ luật thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Thời gian nào sau đây KHÔNG ĐƯỢC TÍNH vào thời gian tập sự của công chức theo Nghị định 170/2025/NĐ-CP (Mã kiểm tra 75)?",
         "options": [
-          "A. Bị trừ 50% điểm môn thi. (trái luật 5)",
-          "B. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng).",
-          "C. Bị trừ 25% điểm môn thi. (không đúng 5)",
-          "D. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 5)"
+          "A. Thời gian đi công tác địa bàn.",
+          "B. Thời gian nghỉ sinh con theo chế độ thai sản, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm giam tạm giữ.",
+          "C. Thời gian nghỉ lễ Tết theo quy định nhà nước.",
+          "D. Thời gian tham gia lớp tập huấn chuyên môn ngắn hạn 3 ngày."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Thai sản, ốm từ 14 ngày trở lên, nghỉ không lương không tính vào thời gian tập sự."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Nhận định nào sau đây là ĐÚNG quy chế tuyển dụng liên quan đến nội quy và quy chế thi tuyển công chức (thông tư 001/2025/tt-bnv)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, trường hợp nào công chức tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng (Mã kiểm tra 76)?",
         "options": [
-          "A. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 6)",
-          "B. Bị trừ 25% điểm môn thi. (không đúng 6)",
-          "C. Bị trừ 50% điểm môn thi. (trái luật 6)",
-          "D. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng)."
+          "A. Tốt nghiệp đại học đạt danh hiệu Thủ khoa xuất sắc.",
+          "B. Đạt điểm thi tuyển cao nhất kỳ thi.",
+          "C. Có bằng Thạc sĩ đúng chuyên ngành.",
+          "D. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; làm việc trong ngành, nghề độc hại, nguy hiểm; hoặc người đã hoàn thành nghĩa vụ quân sự, công an."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Hưởng 100% lương tập sự khi làm ở vùng đặc biệt khó khăn, nghề độc hại hoặc đã hoàn thành nghĩa vụ quân sự/công an."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Tình huống thi tuyển công chức: Việc áp dụng quy định về nội quy và quy chế thi tuyển công chức (thông tư 001/2025/tt-bnv) được thực hiện ra sao?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Mức phụ cấp trách nhiệm đối với công chức được giao nhiệm vụ hướng dẫn tập sự theo Nghị định 170/2025/NĐ-CP là bao nhiêu (Mã kiểm tra 77)?",
         "options": [
-          "A. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng).",
-          "B. Bị trừ 25% điểm môn thi. (không đúng 7)",
-          "C. Bị trừ 50% điểm môn thi. (trái luật 7)",
-          "D. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 7)"
+          "A. Hưởng hệ số phụ cấp trách nhiệm bằng 0,3 so với mức lương cơ sở trong thời gian hướng dẫn.",
+          "B. Hưởng phụ cấp hệ số 0,5 mức lương cơ sở.",
+          "C. Không được hưởng phụ cấp.",
+          "D. Hưởng thêm 50% tiền lương của người tập sự."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: NĐ 170/2025/NĐ-CP: Người hướng dẫn tập sự được hưởng phụ cấp trách nhiệm hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quy định về thời hạn, trình tự đối với nội quy và quy chế thi tuyển công chức (thông tư 001/2025/tt-bnv) theo NĐ 170/2025/NĐ-CP là:",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Thông tư 001/2025/TT-BNV, giám thị phòng thi phát hiện thí sinh mở tài liệu trong giờ thi viết thì xử lý thế nào (Mã kiểm tra 78)?",
         "options": [
-          "A. Bị trừ 25% điểm môn thi. (không đúng 8)",
-          "B. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 8)",
-          "C. Bị trừ 50% điểm môn thi. (trái luật 8)",
-          "D. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng)."
+          "A. Đuổi ra khỏi phòng thi và cấm thi 5 năm.",
+          "B. Chỉ nhắc nhở bằng lời nói và không ghi biên bản.",
+          "C. Tịch thu bài thi và cho điểm 0 ngay lập tức.",
+          "D. Lập biên bản xử lý kỷ luật Cảnh cáo, tịch thu tài liệu và trừ 50% số điểm của bài thi viết đó."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Hành vi mở tài liệu trong phòng thi bị lập biên bản Cảnh cáo và trừ 50% điểm bài thi đó."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Quyền lợi và nghĩa vụ của công chức liên quan đến nội quy và quy chế thi tuyển công chức (thông tư 001/2025/tt-bnv) được bảo đảm như thế nào?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Chuyên viên là bao lâu (Mã kiểm tra 79)?",
         "options": [
-          "A. Bị trừ 25% điểm môn thi. (không đúng 9)",
-          "B. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 9)",
-          "C. Bị trừ 50% điểm môn thi. (trái luật 9)",
-          "D. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng)."
+          "A. 09 tháng.",
+          "B. 06 tháng cố định.",
+          "C. 24 tháng.",
+          "D. 12 tháng kể từ ngày nhận nhiệm sở."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Chuyên viên (đại học) là 12 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & TT 001/2025/TT-BNV",
-        "q": "Văn bản pháp luật Nghị định 170/2025/NĐ-CP khẳng định nội dung nào sau đây về nội quy và quy chế thi tuyển công chức (thông tư 001/2025/tt-bnv)?",
+        "topic": "Nghị định 170/2025 & TT 001/2025",
+        "q": "Theo Nghị định 170/2025/NĐ-CP, thời gian tập sự đối với người trúng tuyển ngạch Cán sự hoặc Nhân viên là bao lâu (Mã kiểm tra 80)?",
         "options": [
-          "A. Bị trừ 50% điểm môn thi. (trái luật 10)",
-          "B. Chỉ bị nhắc nhở và tịch thu điện thoại trả lại sau giờ thi. (sai quy định 10)",
-          "C. Bị trừ 25% điểm môn thi. (không đúng 10)",
-          "D. Bị lập biên bản đình chỉ thi ngay lập tức và hủy bỏ kết quả thi của môn thi đó (dù chưa sử dụng)."
+          "A. 12 tháng.",
+          "B. 03 tháng.",
+          "C. 09 tháng.",
+          "D. 06 tháng kể từ ngày nhận nhiệm sở."
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ: Quy chế thi Thông tư 001/2025/TT-BNV: Mang thiết bị truyền tin, điện thoại vào phòng thi bị ĐÌNH CHỈ THI và hủy kết quả."
+        "explanation": "★ Căn cứ: Nghị định 170/2025/NĐ-CP: Thời gian tập sự ngạch Cán sự, Nhân viên là 06 tháng."
       },
       {
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Nhận định nào sau đây là ĐÚNG về các bộ chỉ số đánh giá cchc nhà nước (par index, sipas, papi) theo Nghị quyết 76/NQ-CP?",
         "options": [
           "A. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "B. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 6)",
-          "C. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 6)",
-          "D. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 6)"
+          "B. Đo lường tổng số lượng văn bản hành chính được ban hành trong năm của tỉnh.",
+          "C. Đo lường số lượng dự án bất động sản được cấp phép xây dựng trên địa bàn.",
+          "D. Đo lường khối lượng hàng hóa xuất nhập khẩu qua các cửa khẩu quốc tế."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -7183,10 +7183,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Yêu cầu về xây dựng nền hành chính phục vụ nhân dân gắn liền với các bộ chỉ số đánh giá cchc nhà nước (par index, sipas, papi) như thế nào?",
         "options": [
-          "A. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 7)",
-          "B. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 7)",
+          "A. Đo lường số lượng công chức bị xử lý kỷ luật cảnh cáo trong năm của ngành nội vụ.",
+          "B. Đo lường tỷ lệ thất nghiệp của lực lượng lao động trong độ tuổi tại thành phố.",
           "C. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "D. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 7)"
+          "D. Đo lường tốc độ tăng trưởng kinh tế tổng sản phẩm trên địa bàn tỉnh (GRDP)."
         ],
         "ans": 2,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -7195,10 +7195,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Thước đo đánh giá hiệu quả của nền hành chính nhà nước trong các bộ chỉ số đánh giá cchc nhà nước (par index, sipas, papi) là:",
         "options": [
-          "A. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 8)",
+          "A. Đo lường tỷ lệ cử tri tham gia bỏ phiếu bầu cử đại biểu Quốc hội các khóa.",
           "B. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "C. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 8)",
-          "D. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 8)"
+          "C. Đo lường mức độ thu hút nguồn vốn đầu tư trực tiếp nước ngoài (FDI) vào địa phương.",
+          "D. Đo lường số lượng dự án bất động sản được cấp phép xây dựng trên địa bàn."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -7207,10 +7207,10 @@ window.EXAMS_DATA = [
         "topic": "7. Nghị quyết số 76/NQ-CP ngày 15/7/2021 & Chỉ thị số 23/CT-TTg ngày 02/9/2021 (CCHC)",
         "q": "Theo chủ trương CCHC của Chính phủ, nội dung cốt lõi của các bộ chỉ số đánh giá cchc nhà nước (par index, sipas, papi) được xác định là:",
         "options": [
-          "A. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 9)",
+          "A. Đo lường tốc độ tăng trưởng kinh tế tổng sản phẩm trên địa bàn tỉnh (GRDP).",
           "B. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "C. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 9)",
-          "D. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 9)"
+          "C. Đo lường tổng số lượng văn bản hành chính được ban hành trong năm của tỉnh.",
+          "D. Đo lường khối lượng hàng hóa xuất nhập khẩu qua các cửa khẩu quốc tế."
         ],
         "ans": 1,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -7220,9 +7220,9 @@ window.EXAMS_DATA = [
         "q": "Văn bản pháp luật về CCHC khẳng định nguyên tắc nào sau đây đối với các bộ chỉ số đánh giá cchc nhà nước (par index, sipas, papi)?",
         "options": [
           "A. Đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.",
-          "B. Đo lường số lượng văn bản được ban hành trong năm. (trái luật 10)",
-          "C. Đo lường mức độ thu hút vốn đầu tư nước ngoài. (không chính xác 10)",
-          "D. Đo lường tốc độ tăng trưởng kinh tế địa phương. (sai quy định 10)"
+          "B. Đo lường tỷ lệ thất nghiệp của lực lượng lao động trong độ tuổi tại thành phố.",
+          "C. Đo lường số lượng công chức bị xử lý kỷ luật cảnh cáo trong năm của ngành nội vụ.",
+          "D. Đo lường mức độ thu hút nguồn vốn đầu tư trực tiếp nước ngoài (FDI) vào địa phương."
         ],
         "ans": 0,
         "explanation": "★ Căn cứ: SIPAS = Chỉ số hài lòng của người dân đối với sự phục vụ của cơ quan hành chính nhà nước. PAR INDEX = Chỉ số cải cách hành chính."
@@ -7231,61 +7231,61 @@ window.EXAMS_DATA = [
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Nhận định nào sau đây là ĐÚNG về nhiệm vụ trung tâm giám sát điều hành đô thị thông minh (ioc huế) tại TP Huế?",
         "options": [
-          "A. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 6)",
+          "A. Là cơ quan kiểm duyệt toàn bộ các ấn phẩm báo chí và xuất bản tại miền Trung.",
           "B. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực.",
-          "C. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 6)",
-          "D. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 6)"
+          "C. Là trung tâm đào tạo lái xe ô tô và cấp đổi giấy phép lái xe cơ giới đường bộ.",
+          "D. Thay thế hoàn toàn chức năng quản lý tài chính của Kho bạc Nhà nước tỉnh."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Mô hình chính quyền số thành phố Huế gắn liền với trung tâm giám sát điều hành đô thị thông minh (ioc huế) ở điểm cốt lõi nào?",
         "options": [
-          "A. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 7)",
+          "A. Chịu trách nhiệm trực tiếp bán vé máy bay cho các hãng hàng không nội địa.",
           "B. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực.",
-          "C. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 7)",
-          "D. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 7)"
+          "C. Là đơn vị trực tiếp ký lệnh bắt tạm giam người có hành vi vi phạm trật tự giao thông.",
+          "D. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy tờ từ thời kỳ phong kiến triều Nguyễn."
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Thí sinh tham dự kỳ thi công chức TP Huế năm 2025 cần nắm vững quy định nào về trung tâm giám sát điều hành đô thị thông minh (ioc huế)?",
         "options": [
           "A. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực.",
-          "B. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 8)",
-          "C. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 8)",
-          "D. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 8)"
+          "B. Là cơ quan kiểm duyệt toàn bộ các ấn phẩm báo chí và xuất bản tại miền Trung.",
+          "C. Trực tiếp tiến hành các hoạt động xét xử và thi hành các bản án hình sự phức tạp.",
+          "D. Là cơ sở nghiên cứu sản xuất các thiết bị camera giám sát an ninh xuất khẩu."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
-        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua trung tâm giám sát điều hành đô thị thông minh (ioc huế) ra sao?",
+        "q": "Mục tiêu xây dựng dịch vụ đô thị thông minh tại TP Huế được thực hiện qua Trung tâm Giám sát điều hành đô thị thông minh (IOC Huế) ra sao?",
         "options": [
           "A. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực.",
-          "B. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 9)",
-          "C. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 9)",
-          "D. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 9)"
+          "B. Thay thế hoàn toàn chức năng quản lý tài chính của Kho bạc Nhà nước tỉnh.",
+          "C. Là trung tâm đào tạo lái xe ô tô và cấp đổi giấy phép lái xe cơ giới đường bộ.",
+          "D. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy tờ từ thời kỳ phong kiến triều Nguyễn."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       },
       {
         "topic": "8. Kế hoạch CCHC & Đô thị thông minh TP Huế (QĐ 1026, QĐ 2243, QĐ 3322 & QĐ 2626)",
         "q": "Văn bản chỉ đạo điều hành của UBND TP Huế xác định nội dung cụ thể nào về trung tâm giám sát điều hành đô thị thông minh (ioc huế)?",
         "options": [
           "A. Thu thập, tích hợp và phân tích dữ liệu đa lĩnh vực; hỗ trợ lãnh đạo thành phố chỉ đạo, điều hành, giám sát trật tự đô thị, giao thông, môi trường và dịch vụ công theo thời gian thực.",
-          "B. Trực tiếp tiến hành xử phạt tiền và cưỡng chế thu hồi đất. (không chính xác 10)",
-          "C. Quản lý lưu kho toàn bộ hồ sơ lưu trữ giấy từ thời kỳ phong kiến. (sai quy định 10)",
-          "D. Thay thế hoàn toàn chức năng của Tòa án nhân dân thành phố. (trái luật 10)"
+          "B. Là đơn vị trực tiếp ký lệnh bắt tạm giam người có hành vi vi phạm trật tự giao thông.",
+          "C. Trực tiếp tiến hành các hoạt động xét xử và thi hành các bản án hình sự phức tạp.",
+          "D. Chịu trách nhiệm trực tiếp bán vé máy bay cho các hãng hàng không nội địa."
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và người dân."
+        "explanation": "★ Căn cứ: Đề án Đô thị thông minh TP Huế: IOC Huế là bộ não số, giám sát điều hành đô thị thông minh theo thời gian thực, phục vụ chỉ đạo điều hành và phục vụ người dân."
       }
     ]
   }
