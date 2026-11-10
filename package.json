@@ -1,0 +1,9 @@
+{
+  "name": "on-thi-cong-chuc-hue-2025",
+  "version": "1.0.0",
+  "description": "Bài ôn tập thi tuyển công chức Thừa Thiên Huế 2025 - Vòng 1 & Vòng 2",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
