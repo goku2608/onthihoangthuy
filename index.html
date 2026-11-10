@@ -648,7 +648,7 @@
       .result-emoji { font-size: 54px; }
     }
   
-    /* VÒNG 2 NAVIGATION & STYLES */
+    /* VÒNG 1 & VÒNG 2 SWITCHER */
     .round-switcher {
       display: flex;
       gap: 8px;
@@ -692,7 +692,7 @@
       50% { transform: scale(1.1); opacity: 0.8; }
     }
 
-    /* VÒNG 2 HERO */
+    /* VÒNG 2 HERO & BỐC THĂM */
     .vong2-hero-banner {
       background: linear-gradient(135deg, #065f46, #0d9488, #1e3a8a);
       border-radius: 20px;
@@ -712,7 +712,6 @@
       opacity: 0.15;
     }
 
-    /* BỐC THĂM ĐỀ THI CARD */
     .draw-lottery-card {
       background: linear-gradient(135deg, #ffffff, #f0fdf4);
       border: 2px dashed #10b981;
@@ -763,310 +762,6 @@
       transform: none;
     }
 
-    /* VÒNG 2 EXAMS GRID */
-    .vong2-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-      gap: 20px;
-      margin-bottom: 40px;
-    }
-    @media (max-width: 768px) {
-      .vong2-grid { grid-template-columns: 1fr; }
-    }
-    .vong2-exam-card {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 22px;
-      display: flex;
-      flex-direction: column;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.03);
-      transition: all 0.2s;
-    }
-    .vong2-exam-card:hover {
-      border-color: #10b981;
-      transform: translateY(-2px);
-      box-shadow: 0 8px 16px rgba(0,0,0,0.06);
-    }
-    .vong2-card-head {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      margin-bottom: 12px;
-      gap: 10px;
-    }
-    .vong2-badge {
-      background: #ecfdf5;
-      color: #065f46;
-      border: 1px solid #a7f3d0;
-      font-size: 0.75rem;
-      font-weight: 800;
-      padding: 3px 8px;
-      border-radius: 6px;
-    }
-    .vong2-title {
-      font-size: 1.08rem;
-      font-weight: 800;
-      color: #1e293b;
-      line-height: 1.4;
-      margin-bottom: 10px;
-    }
-    .vong2-desc {
-      font-size: 0.86rem;
-      color: #64748b;
-      line-height: 1.5;
-      margin-bottom: 16px;
-      flex: 1;
-    }
-    .vong2-card-meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      font-size: 0.8rem;
-      color: #475569;
-      padding-top: 12px;
-      border-top: 1px solid #f1f5f9;
-      margin-bottom: 16px;
-    }
-    .vong2-card-meta span {
-      display: flex;
-      align-items: center;
-      gap: 4px;
-    }
-
-    /* PREPARATION SCREEN */
-    .prep-layout {
-      display: grid;
-      grid-template-columns: 1fr 380px;
-      gap: 24px;
-    }
-    @media (max-width: 992px) {
-      .prep-layout { grid-template-columns: 1fr; }
-    }
-    .prep-box {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 24px;
-    }
-    .prep-q-card {
-      background: #f8fafc;
-      border-left: 4px solid #3b82f6;
-      padding: 16px;
-      border-radius: 8px;
-      margin-bottom: 16px;
-    }
-    .prep-q-head {
-      font-size: 0.95rem;
-      font-weight: 800;
-      color: #1e3a8a;
-      margin-bottom: 6px;
-      display: flex;
-      justify-content: space-between;
-    }
-    .scratchpad-area {
-      width: 100%;
-      height: 340px;
-      padding: 14px;
-      border: 1.5px solid var(--border);
-      border-radius: 12px;
-      font-family: inherit;
-      font-size: 0.95rem;
-      line-height: 1.6;
-      resize: vertical;
-      color: #1e293b;
-    }
-
-    /* EXAM WRITING SCREEN */
-    .vong2-exam-layout {
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
-    }
-    .vong2-top-bar {
-      background: white;
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 16px 24px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 12px;
-      position: sticky;
-      top: 60px;
-      z-index: 40;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-    }
-    .save-indicator {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 0.85rem;
-      color: #64748b;
-    }
-    .save-dot {
-      width: 10px;
-      height: 10px;
-      border-radius: 50%;
-      background: #10b981;
-    }
-    .save-dot.saving {
-      background: #f59e0b;
-      animation: blink 0.6s infinite;
-    }
-    .vong2-q-tabs {
-      display: flex;
-      gap: 8px;
-      overflow-x: auto;
-      padding-bottom: 4px;
-    }
-    .vong2-q-tab-btn {
-      padding: 10px 20px;
-      border-radius: 10px;
-      border: 1.5px solid var(--border);
-      background: white;
-      font-weight: 700;
-      font-size: 0.9rem;
-      color: #475569;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      white-space: nowrap;
-      transition: all 0.2s;
-    }
-    .vong2-q-tab-btn.active {
-      background: #065f46;
-      color: white;
-      border-color: #065f46;
-      box-shadow: 0 2px 6px rgba(6, 95, 70, 0.3);
-    }
-    .vong2-editor-box {
-      background: white;
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 24px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.03);
-    }
-    .vong2-prompt-display {
-      background: #f0fdf4;
-      border: 1px solid #bbf7d0;
-      border-left: 4px solid #10b981;
-      padding: 18px;
-      border-radius: 12px;
-      margin-bottom: 20px;
-    }
-    .vong2-textarea {
-      width: 100%;
-      min-height: 420px;
-      padding: 18px;
-      border: 1.5px solid var(--border);
-      border-radius: 12px;
-      font-family: inherit;
-      font-size: 1.02rem;
-      line-height: 1.7;
-      color: #0f172a;
-      resize: vertical;
-      transition: border-color 0.2s;
-    }
-    .vong2-textarea:focus {
-      outline: none;
-      border-color: #10b981;
-      box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.15);
-    }
-    .vong2-editor-footer {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 12px;
-      font-size: 0.88rem;
-      color: #64748b;
-    }
-
-    /* RESULT & AI GRADING */
-    .ai-grading-loader {
-      text-align: center;
-      padding: 48px 20px;
-    }
-    .ai-spinner {
-      width: 56px;
-      height: 56px;
-      border: 5px solid #e2e8f0;
-      border-top-color: #10b981;
-      border-radius: 50%;
-      animation: spin 1s linear infinite;
-      margin: 0 auto 20px;
-    }
-    @keyframes spin { 100% { transform: rotate(360deg); } }
-
-    .score-breakdown-card {
-      background: white;
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 24px;
-      margin-bottom: 20px;
-    }
-    .score-item-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 14px 0;
-      border-bottom: 1px solid #f1f5f9;
-    }
-    .score-val-badge {
-      font-size: 1.1rem;
-      font-weight: 800;
-      padding: 4px 12px;
-      border-radius: 8px;
-    }
-    .feedback-pill-good {
-      background: #dcfce7;
-      color: #166534;
-      padding: 6px 12px;
-      border-radius: 8px;
-      font-size: 0.85rem;
-      margin-bottom: 6px;
-      display: flex;
-      align-items: flex-start;
-      gap: 6px;
-    }
-    .feedback-pill-warn {
-      background: #fef3c7;
-      color: #92400e;
-      padding: 6px 12px;
-      border-radius: 8px;
-      font-size: 0.85rem;
-      margin-bottom: 6px;
-      display: flex;
-      align-items: flex-start;
-      gap: 6px;
-    }
-
-    /* MODAL */
-    .custom-modal-backdrop {
-      display: none;
-      position: fixed;
-      inset: 0;
-      background: rgba(15, 23, 42, 0.6);
-      backdrop-filter: blur(4px);
-      z-index: 100;
-      align-items: center;
-      justify-content: center;
-      padding: 20px;
-    }
-    .custom-modal-backdrop.active { display: flex; }
-    .custom-modal-dialog {
-      background: white;
-      border-radius: 20px;
-      max-width: 900px;
-      width: 100%;
-      max-height: 90vh;
-      overflow-y: auto;
-      padding: 28px;
-      box-shadow: 0 20px 40px rgba(0,0,0,0.2);
-    }
-
   </style>
 </head>
 <body>
@@ -1076,32 +771,27 @@
   <!-- Header -->
   <header class="top-header">
     <div class="brand-title">
-      <span class="brand-badge">CÔNG CHỨC HUẾ 2025</span>
+      <span class="brand-badge" id="mainBrandBadge">CÔNG CHỨC HUẾ 2026</span>
       <div>
         <h1>BÀI ÔN TẬP THI TUYỂN CÔNG CHỨC CỦA HOÀNG THỦY</h1>
         <p>Thực hiện bởi: <span class="author-tag">Gia - Chồng</span> ❤️</p>
       </div>
     </div>
 
-    <!-- Nút chuyển đổi Vòng 1 & Vòng 2 -->
+    <!-- Thanh chuyển đổi Vòng 1 & Vòng 2 -->
     <div class="round-switcher">
       <button class="round-tab-btn active" id="tabBtnVong1" onclick="switchMainRound('vong1')">
-        <span>📝 Vòng 1 (Trắc nghiệm)</span>
+        <span>📝 VÒNG 1: TRẮC NGHIỆM (60 CÂU)</span>
       </button>
       <button class="round-tab-btn" id="tabBtnVong2" onclick="switchMainRound('vong2')">
-        <span>✍️ Vòng 2 (Tự luận Môi trường)</span>
-        <span class="badge-vong2-new">Mới</span>
+        <span>✍️ VÒNG 2: MÔI TRƯỜNG & ĐẤT ĐAI (70 CÂU)</span>
+        <span class="badge-vong2-new">MỚI</span>
       </button>
     </div>
 
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <button class="btn btn-secondary" onclick="openAiSettingsModal()" style="padding: 6px 12px; font-size: 0.8rem; background: #1e293b; color: #cbd5e1; border: 1px solid #334155;" title="Cài đặt AI chấm thi">
-        <span>⚙️ AI Chấm Điểm</span>
-      </button>
-      <div class="timer-wrap" id="timerBox">
-        <span class="timer-label" id="timerLabelText">Thời gian còn lại:</span>
-        <span class="timer-val" id="timerDisplay">60:00</span>
-      </div>
+    <div class="timer-wrap" id="timerBox">
+      <span class="timer-label" id="timerLabelText">Thời gian còn lại:</span>
+      <span class="timer-val" id="timerDisplay">60:00</span>
     </div>
   </header>
 
@@ -1216,6 +906,138 @@
     </div>
   </main>
 
+
+  <!-- SCREEN 1B: VÒNG 2 LANDING SCREEN (70 CÂU / 105 PHÚT) -->
+  <main class="view-screen" id="vong2LandingScreen">
+    <section class="vong2-hero-banner">
+      <div class="hero-pretitle">VÒNG 2: MÔN NGHIỆP VỤ CHUYÊN NGÀNH MÔI TRƯỜNG & ĐẤT ĐAI (TP HUẾ 2026)</div>
+      <h2 class="hero-title">Chúc Vợ Yêu Hoàng Thủy Thủ Khoa Vòng 2 Chuyên Ngành!</h2>
+      <p class="hero-subtitle">
+        Hệ thống 10 bộ đề thi mô phỏng Vòng 2 trắc nghiệm máy vi tính gồm <strong>700 câu hỏi chuyên sâu</strong> (70 câu / đề, 105 phút), bám sát 100% <strong>Phụ lục 06</strong> (Kèm theo Thông báo số 4359/TB-HĐTDCC của Hội đồng tuyển dụng công chức TP Huế). Đầy đủ các dạng câu hỏi: Điền khuyết (...), Thẩm quyền phân cấp, Con số định lượng, Nhận định đúng/sai và Tình huống thực tế.
+      </p>
+      <div class="hero-meta">
+        <div class="hero-meta-item">📚 10 Đề thi (700 câu trắc nghiệm máy tính)</div>
+        <div class="hero-meta-item">⏱ 105 phút / Đề thi</div>
+        <div class="hero-meta-item">🎯 Tiêu chuẩn đỗ: ≥ 35/70 câu (50%)</div>
+        <div class="hero-meta-item">💖 Bản quyền yêu thương từ Gia - Chồng</div>
+      </div>
+    </section>
+
+    <!-- HỘP BỐC THĂM ĐỀ THI NGẪU NHIÊN -->
+    <section class="draw-lottery-card">
+      <div style="font-size: 0.9rem; font-weight: 700; color: #047857; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px;">
+        🎲 MÔ PHỎNG PHÒNG THI THỰC TẾ TRÊN MÁY TÍNH
+      </div>
+      <h3 style="font-size: 1.5rem; font-weight: 900; color: #064e3b; margin-bottom: 8px;">
+        Bốc Thăm Ngẫu Nhiên Đề Thi Vòng 2 (70 câu / 105 phút)
+      </h3>
+      <p style="font-size: 0.92rem; color: #475569; max-width: 600px; margin: 0 auto;">
+        Hệ thống quay số ngẫu nhiên 1 trong 10 bộ đề thi chuẩn hóa để bạn bước vào ca thi sát hạch như thi thật!
+      </p>
+
+      <div class="lottery-drum" id="lotteryDrumDisplay">ĐỀ SỐ ??</div>
+      <br>
+
+      <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+        <button class="btn-draw-lottery" id="btnRollLottery" onclick="triggerRandomLotteryDraw()">
+          <span>🎲 BỐC THĂM VÀ VÀO THI NGAY</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- BẢNG DANH MỤC 10 VĂN BẢN PHỤ LỤC 06 -->
+    <section class="docs-summary-card">
+      <div class="docs-summary-head" onclick="toggleVong2DocsList()">
+        <h3>📖 Danh Mục 10 Văn Bản Pháp Luật Vòng 2 (Theo Phụ Lục 06 - Thông Báo 4359/TB-HĐTDCC)</h3>
+        <button class="docs-toggle-btn" id="vong2DocsToggleBtn" type="button">Thu gọn ▲</button>
+      </div>
+      <div class="docs-table" id="vong2DocsListTable">
+        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
+          <div class="doc-num-badge" style="background: #059669;">1</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Luật Đất đai số 31/2024/QH15 (ngày 18/01/2024)</div>
+            <div class="doc-item-subtitle">Căn cứ giao đất, cho thuê đất, thu hồi đất, quy hoạch đất đai và bồi thường tái định cư</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
+          <div class="doc-num-badge" style="background: #059669;">2</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Luật Bảo vệ môi trường số 72/2020/QH14 (ngày 17/11/2020)</div>
+            <div class="doc-item-subtitle">ĐTM, Giấy phép môi trường, Đăng ký môi trường, phân loại chất thải rắn sinh hoạt</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
+          <div class="doc-num-badge" style="background: #059669;">3</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Nghị định số 102/2024/NĐ-CP (ngày 30/7/2024)</div>
+            <div class="doc-item-subtitle">Quy định chi tiết thi hành một số điều của Luật Đất đai</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
+          <div class="doc-num-badge" style="background: #059669;">4</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Nghị định số 88/2024/NĐ-CP (ngày 15/7/2024)</div>
+            <div class="doc-item-subtitle">Quy định về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
+          <div class="doc-num-badge" style="background: #d97706;">5</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Nghị định số 151/2025/NĐ-CP (ngày 12/6/2025) ★ ĐIỂM MỚI</div>
+            <div class="doc-item-subtitle">Phân định thẩm quyền chính quyền địa phương 02 cấp, phân quyền, phân cấp trong lĩnh vực đất đai</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
+          <div class="doc-num-badge" style="background: #059669;">6</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Nghị định số 226/2025/NĐ-CP (ngày 15/8/2025)</div>
+            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của các nghị định quy định chi tiết Luật Đất đai</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
+          <div class="doc-num-badge" style="background: #059669;">7</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Nghị định số 08/2022/NĐ-CP (ngày 10/01/2022)</div>
+            <div class="doc-item-subtitle">Quy định chi tiết một số điều của Luật Bảo vệ môi trường</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
+          <div class="doc-num-badge" style="background: #d97706;">8</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Nghị định số 05/2025/NĐ-CP (ngày 06/01/2025) ★ ĐIỂM MỚI</div>
+            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Nghị định số 08/2022/NĐ-CP quy định chi tiết Luật Bảo vệ môi trường</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
+          <div class="doc-num-badge" style="background: #059669;">9</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Thông tư số 02/2022/TT-BTNMT (ngày 10/01/2022)</div>
+            <div class="doc-item-subtitle">Quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường</div>
+          </div>
+        </div>
+        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
+          <div class="doc-num-badge" style="background: #d97706;">10</div>
+          <div class="doc-item-content">
+            <div class="doc-item-title">Thông tư số 07/2025/TT-BTNMT (ngày 28/02/2025) ★ ĐIỂM MỚI</div>
+            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BTNMT của Bộ trưởng Bộ TN&MT</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="section-title">
+      <div>
+        <h2>Danh sách 10 Bộ Đề Thi Vòng 2 Chuyên Ngành (70 câu / 105 phút)</h2>
+        <p>Mỗi đề gồm 70 câu hỏi trắc nghiệm khách quan trên máy tính, nhấn "Bắt đầu làm bài" để vào thi</p>
+      </div>
+    </div>
+
+    <div class="exams-grid" id="vong2ExamsGridContainer">
+      <!-- Sẽ được nạp tự động qua JavaScript -->
+    </div>
+  </main>
+
+
   <!-- SCREEN 2: GIAO DIỆN LÀM BÀI THI -->
   <main class="view-screen" id="quizScreen">
     <div style="margin-bottom: 16px; display: flex; justify-content: space-between; align-items: center;">
@@ -1277,7 +1099,7 @@
           </div>
           <div class="summary-row" style="color: var(--success); font-weight: 700;">
             <span>Điều kiện trúng tuyển:</span>
-            <span>≥ 30/60 câu</span>
+            <span id="statPassConditionText">≥ 30/60 câu</span>
           </div>
         </div>
       </aside>
@@ -1346,367 +1168,13 @@
     <div id="reviewQuestionsContainer" style="display: flex; flex-direction: column; gap: 20px;"></div>
   </main>
 
-  <!-- TẢI DỮ LIỆU 10 ĐỀ THI TỪ EXAMS_DATA.JS -->
-  
-  <!-- ========================================== -->
-  <!-- SCREEN V2-1: VÒNG 2 LANDING & BỐC THĂM ĐỀ -->
-  <!-- ========================================== -->
-  <main class="view-screen" id="vong2LandingScreen">
-    <section class="vong2-hero-banner">
-      <div class="hero-pretitle">VÒNG 2: MÔN NGHIỆP VỤ CHUYÊN NGÀNH MÔI TRƯỜNG & ĐẤT ĐAI (THÀNH PHỐ HUẾ 2025)</div>
-      <h2 class="hero-title">Phòng Thi Tự Luận 180 Phút - Chúc Vợ Yêu Hoàng Thủy Thủ Khoa!</h2>
-      <p class="hero-subtitle">
-        Hệ thống 10 bộ đề thi tự luận chuẩn hóa bám sát 100% <strong>Phụ lục 06</strong> (Kèm theo Thông báo số 4359/TB-HĐTDCC ngày 22/9/2025 của Hội đồng tuyển dụng công chức TP Huế). Tích hợp chế độ <strong>Bốc thăm ngẫu nhiên</strong>, chuẩn bị 15 phút, tính giờ 180 phút làm bài và <strong>Giám khảo AI chấm điểm trực tiếp theo Barem</strong>.
-      </p>
-      <div class="hero-meta">
-        <div class="hero-meta-item">📚 10 Đề thi tự luận (Môi trường & Đất đai)</div>
-        <div class="hero-meta-item">⏱ 15' Chuẩn bị + 180' Làm bài</div>
-        <div class="hero-meta-item">🎯 Tiêu chuẩn đỗ: ≥ 50/100 điểm</div>
-        <div class="hero-meta-item">🤖 Giám khảo AI chấm chi tiết theo Barem</div>
-      </div>
-    </section>
-
-    <!-- HỘP BỐC THĂM ĐỀ THI NGẪU NHIÊN -->
-    <section class="draw-lottery-card">
-      <div style="font-size: 0.9rem; font-weight: 700; color: #047857; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px;">
-        🎲 MÔ PHỎNG PHÒNG THI THỰC TẾ
-      </div>
-      <h3 style="font-size: 1.5rem; font-weight: 900; color: #064e3b; margin-bottom: 8px;">
-        Bốc Thăm Ngẫu Nhiên Đề Thi Vòng 2
-      </h3>
-      <p style="font-size: 0.92rem; color: #475569; max-width: 600px; margin: 0 auto;">
-        Thí sinh bốc thăm ngẫu nhiên 1 trong 10 bộ đề thi, có 15 phút lập dàn ý chuẩn bị và 180 phút gõ bài trực tiếp trên máy tính.
-      </p>
-
-      <div class="lottery-drum" id="lotteryDrumDisplay">ĐỀ SỐ ??</div>
-      <br>
-
-      <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-        <button class="btn-draw-lottery" id="btnRollLottery" onclick="triggerRandomLotteryDraw()">
-          <span>🎲 BỐC THĂM NGẪU NHIÊN NGAY</span>
-        </button>
-      </div>
-    </section>
-
-    <!-- BẢNG DANH MỤC 10 TÀI LIỆU PHỤ LỤC 06 -->
-    <section class="docs-summary-card">
-      <div class="docs-summary-head" onclick="toggleVong2DocsList()">
-        <h3>📖 Danh Mục 10 Văn Bản Pháp Luật Vòng 2 (Theo Phụ Lục 06 - Thông Báo 4359/TB-HĐTDCC)</h3>
-        <button class="docs-toggle-btn" id="vong2DocsToggleBtn" type="button">Thu gọn ▲</button>
-      </div>
-      <div class="docs-table" id="vong2DocsListTable">
-        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
-          <div class="doc-num-badge" style="background: #059669;">1</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Luật Đất đai số 31/2024/QH15 (ngày 18/01/2024)</div>
-            <div class="doc-item-subtitle">Căn cứ giao đất, cho thuê đất, thu hồi đất, quy hoạch đất đai và bồi thường tái định cư</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
-          <div class="doc-num-badge" style="background: #059669;">2</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Luật Bảo vệ môi trường số 72/2020/QH14 (ngày 17/11/2020)</div>
-            <div class="doc-item-subtitle">ĐTM, Giấy phép môi trường, Đăng ký môi trường, phân loại chất thải rắn sinh hoạt</div>
-          </div>
-        </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">3</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 102/2024/NĐ-CP (ngày 30/7/2024)</div>
-            <div class="doc-item-subtitle">Quy định chi tiết thi hành một số điều của Luật Đất đai</div>
-          </div>
-        </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">4</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 88/2024/NĐ-CP (ngày 15/7/2024)</div>
-            <div class="doc-item-subtitle">Quy định về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
-          <div class="doc-num-badge" style="background: #d97706;">5</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 151/2025/NĐ-CP (ngày 12/6/2025) ★ ĐIỂM MỚI 2025</div>
-            <div class="doc-item-subtitle">Về việc phân định thẩm quyền của chính quyền địa phương 02 cấp, phân quyền, phân cấp trong lĩnh vực đất đai</div>
-          </div>
-        </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">6</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 226/2025/NĐ-CP (ngày 15/8/2025)</div>
-            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của các nghị định quy định chi tiết Luật Đất đai</div>
-          </div>
-        </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">7</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 08/2022/NĐ-CP (ngày 10/01/2022)</div>
-            <div class="doc-item-subtitle">Quy định chi tiết một số điều của Luật Bảo vệ môi trường</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
-          <div class="doc-num-badge" style="background: #d97706;">8</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 05/2025/NĐ-CP (ngày 06/01/2025) ★ ĐIỂM MỚI 2025</div>
-            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Nghị định số 08/2022/NĐ-CP quy định chi tiết Luật Bảo vệ môi trường</div>
-          </div>
-        </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">9</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Thông tư số 02/2022/TT-BTNMT (ngày 10/01/2022)</div>
-            <div class="doc-item-subtitle">Quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
-          <div class="doc-num-badge" style="background: #d97706;">10</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Thông tư số 07/2025/TT-BTNMT (ngày 28/02/2025) ★ ĐIỂM MỚI 2025</div>
-            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BTNMT của Bộ trưởng Bộ TN&MT</div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <div class="section-title">
-      <div>
-        <h2>Danh Sách 10 Bộ Đề Thi Tự Luận Vòng 2 (Chủ động chọn đề)</h2>
-        <p>Mỗi đề gồm 4 câu hỏi (100 điểm) - Bấm "Vào thi đề này" để bắt đầu giai đoạn chuẩn bị 15 phút</p>
-      </div>
-    </div>
-
-    <div class="vong2-grid" id="vong2ExamsGridContainer">
-      <!-- Sẽ được render qua JavaScript -->
-    </div>
-  </main>
-
-  <!-- ========================================== -->
-  <!-- SCREEN V2-2: GIAI ĐOẠN CHUẨN BỊ (15 PHÚT) -->
-  <!-- ========================================== -->
-  <main class="view-screen" id="vong2PrepScreen">
-    <div style="margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
-      <div>
-        <span class="badge-vong2-new" style="background: #f59e0b; margin-bottom: 4px; display: inline-block;">GIAI ĐOẠN 1: CHUẨN BỊ</span>
-        <h2 id="prepExamTitleText" style="font-size: 1.35rem; font-weight: 800; color: #1e293b;">Đề thi số ...</h2>
-        <p style="font-size: 0.88rem; color: #64748b;">Đọc kỹ đề bài, bốc thăm câu hỏi và phác thảo dàn ý/điều luật ra nháp trước khi làm bài</p>
-      </div>
-      <div style="display: flex; gap: 10px;">
-        <button class="btn btn-secondary" onclick="exitVong2ToLanding()">← Thoát về danh sách</button>
-        <button class="btn btn-primary" onclick="proceedToVong2Exam()" style="background: #059669; font-size: 1rem; padding: 12px 24px;">
-          🚀 BẮT ĐẦU TÍNH GIỜ 180 PHÚT →
-        </button>
-      </div>
-    </div>
-
-    <div class="prep-layout">
-      <!-- Cột đề bài 4 câu -->
-      <section class="prep-box">
-        <h3 style="font-size: 1.15rem; font-weight: 800; color: #065f46; margin-bottom: 16px; display: flex; align-items: center; gap: 8px;">
-          <span>📋 NỘI DUNG 4 CÂU HỎI TRONG ĐỀ THI</span>
-          <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">(Tổng 100,0 điểm)</span>
-        </h3>
-        <div id="prepQuestionsListContainer"></div>
-      </section>
-
-      <!-- Cột nháp / dàn ý -->
-      <aside class="prep-box" style="position: sticky; top: 80px; height: fit-content;">
-        <h3 style="font-size: 1.05rem; font-weight: 800; color: #1e293b; margin-bottom: 8px; display: flex; justify-content: space-between;">
-          <span>📝 BẢNG GHI CHÚ NHÁP</span>
-          <span style="font-size: 0.8rem; color: #10b981; font-weight: 700;">Tự động lưu</span>
-        </h3>
-        <p style="font-size: 0.82rem; color: #64748b; margin-bottom: 12px;">Ghi chú nhanh các văn bản luật, số điều, ý chính cần lập luận:</p>
-        <textarea class="scratchpad-area" id="prepScratchpadInput" placeholder="Ví dụ:
-- Câu 1: Điều 28 Luật BVMT 2020 + NĐ 05/2025 phân loại 4 nhóm dự án...
-- Câu 2: Điều 91 Luật Đất đai 2024 nguyên tắc bồi thường...
-- Câu 4: Thẩm quyền theo NĐ 151/2025 thuộc UBND cấp huyện..."></textarea>
-      </aside>
-    </div>
-  </main>
-
-  <!-- ========================================== -->
-  <!-- SCREEN V2-3: PHÒNG THI TỰ LUẬN 180 PHÚT   -->
-  <!-- ========================================== -->
-  <main class="view-screen" id="vong2ExamScreen">
-    <div class="vong2-top-bar">
-      <div>
-        <div style="font-size: 0.8rem; font-weight: 800; color: #059669; text-transform: uppercase;">PHÒNG THI VÒNG 2 CHÍNH THỨC</div>
-        <h2 id="examV2TitleText" style="font-size: 1.15rem; font-weight: 800; color: #1e293b; margin: 2px 0;">Đề thi số ...</h2>
-      </div>
-
-      <div class="save-indicator">
-        <div class="save-dot" id="saveDotPulse"></div>
-        <span id="saveStatusText">Đã tự động lưu lúc 00:00</span>
-      </div>
-
-      <div style="display: flex; gap: 8px;">
-        <button class="btn btn-secondary" onclick="manualSaveVong2Draft()" style="padding: 8px 14px; font-size: 0.88rem;">
-          💾 Lưu nháp
-        </button>
-        <button class="btn btn-danger" onclick="confirmSubmitVong2Exam()" style="background: #dc2626; font-size: 0.92rem; padding: 10px 20px;">
-          📤 NỘP BÀI & CHẤM ĐIỂM
-        </button>
-      </div>
-    </div>
-
-    <div class="vong2-exam-layout" style="margin-top: 16px;">
-      <!-- Tab 4 câu hỏi -->
-      <div class="vong2-q-tabs" id="vong2TabsContainer">
-        <button class="vong2-q-tab-btn active" onclick="switchVong2QuestionTab(0)">Câu 1 (25đ)</button>
-        <button class="vong2-q-tab-btn" onclick="switchVong2QuestionTab(1)">Câu 2 (25đ)</button>
-        <button class="vong2-q-tab-btn" onclick="switchVong2QuestionTab(2)">Câu 3 (25đ)</button>
-        <button class="vong2-q-tab-btn" onclick="switchVong2QuestionTab(3)">Câu 4 (25đ)</button>
-      </div>
-
-      <!-- Editor khung làm bài cho câu hiện tại -->
-      <section class="vong2-editor-box">
-        <div class="vong2-prompt-display">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-            <h3 id="currentQHeaderTitle" style="font-size: 1.1rem; font-weight: 800; color: #065f46;">Câu 1 (25,0 điểm)</h3>
-            <span style="font-size: 0.8rem; background: #dcfce7; color: #166534; padding: 3px 8px; border-radius: 6px; font-weight: 700;">Thang điểm: 25.0</span>
-          </div>
-          <div id="currentQPromptContent" style="font-size: 1rem; color: #1e293b; line-height: 1.6; white-space: pre-line;"></div>
-        </div>
-
-        <label style="display: block; font-size: 0.9rem; font-weight: 700; color: #334155; margin-bottom: 8px;">
-          ✍️ BÀI LÀM CỦA THÍ SINH (Gõ trực tiếp vào khung dưới đây):
-        </label>
-        <textarea class="vong2-textarea" id="vong2AnswerInput" oninput="handleVong2Input()" placeholder="Trình bày bài làm của bạn theo từng ý rõ ràng, có căn cứ pháp lý..."></textarea>
-
-        <div class="vong2-editor-footer">
-          <div>
-            <span id="currentWordCountText" style="font-weight: 700; color: #0f172a;">Số từ: 0 từ</span>
-            <span style="margin: 0 6px;">•</span>
-            <span id="currentCharCountText">0 ký tự</span>
-          </div>
-          <div style="font-size: 0.8rem; color: #94a3b8;">
-            Mẹo: Trình bày I, II, 1, 2, gạch đầu dòng để giám khảo dễ chấm theo Barem
-          </div>
-        </div>
-      </section>
-
-      <div style="display: flex; justify-content: space-between; margin-top: 10px;">
-        <button class="btn btn-secondary" id="btnPrevV2Tab" onclick="navigateV2Tab(-1)">← Câu trước</button>
-        <button class="btn btn-primary" id="btnNextV2Tab" onclick="navigateV2Tab(1)" style="background: #059669;">Câu tiếp theo →</button>
-      </div>
-    </div>
-  </main>
-
-  <!-- ========================================== -->
-  <!-- SCREEN V2-4: KẾT QUẢ VÀ NHẬN XÉT GIÁM KHẢO -->
-  <!-- ========================================== -->
-  <main class="view-screen" id="vong2ResultScreen">
-    <!-- Khung Loading AI -->
-    <div id="vong2LoadingBox" class="ai-grading-loader">
-      <div class="ai-spinner"></div>
-      <h3 style="font-size: 1.4rem; font-weight: 800; color: #1e293b; margin-bottom: 8px;">
-        Giám Khảo AI Đang Chấm Bài Thi Tự Luận...
-      </h3>
-      <p style="font-size: 0.95rem; color: #64748b; max-width: 600px; margin: 0 auto 20px;">
-        Hệ thống đang đối chiếu bài làm của bạn với từng tiêu chí trong Barem điểm của Hội đồng tuyển dụng thành phố Huế (Phụ lục 06).
-      </p>
-      <div style="display: inline-flex; flex-direction: column; gap: 8px; text-align: left; background: #f8fafc; border: 1px solid var(--border); padding: 16px 24px; border-radius: 12px; font-size: 0.88rem; color: #475569;">
-        <div>⏳ Bước 1: Rà soát căn cứ pháp lý & thuật ngữ chuyên môn</div>
-        <div>⏳ Bước 2: So khớp tiêu chí Barem chấm thi 4 câu hỏi</div>
-        <div>⏳ Bước 3: Tính toán điểm số & lập nhận xét ưu/nhược điểm</div>
-      </div>
-    </div>
-
-    <!-- Khung Bảng điểm chính thức -->
-    <div id="vong2ResultContent" style="display: none;">
-      <div class="result-status-card" id="vong2StatusCard">
-        <div class="result-emoji" id="v2ResultEmoji">🎯</div>
-        <h2 class="result-heading" id="v2ResultScoreText">78.5 / 100 Điểm</h2>
-        <p class="result-subtext" id="v2ResultStatusMessage">KẾT QUẢ: ĐẠT TIÊU CHUẨN TRÚNG TUYỂN VÒNG 2</p>
-      </div>
-
-      <!-- Nhận xét tổng quát -->
-      <div class="score-breakdown-card" style="border-left: 5px solid #3b82f6;">
-        <h3 style="font-size: 1.1rem; font-weight: 800; color: #1e3a8a; margin-bottom: 8px;">
-          👨‍⚖️ LỜI NHẬN XÉT TỔNG QUÁT CỦA GIÁM KHẢO:
-        </h3>
-        <p id="v2GeneralCommentText" style="font-size: 0.95rem; line-height: 1.7; color: #334155; white-space: pre-line;"></p>
-      </div>
-
-      <!-- Chi tiết 4 câu -->
-      <div class="score-breakdown-card">
-        <h3 style="font-size: 1.15rem; font-weight: 800; color: #1e293b; margin-bottom: 16px;">
-          📊 BẢNG ĐIỂM CHI TIẾT TỪNG CÂU HỎI (THANG ĐIỂM 100)
-        </h3>
-        <div id="v2QuestionsBreakdownContainer"></div>
-      </div>
-
-      <div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; margin-top: 24px;">
-        <button class="btn btn-primary" onclick="openVong2BaremModal()" style="background: #059669; font-size: 1.05rem; padding: 14px 28px;">
-          📖 Xem Barem Chi Tiết & Bài Viết Mẫu Chuẩn
-        </button>
-        <button class="btn btn-secondary" onclick="retakeCurrentV2Exam()">
-          🔄 Làm lại đề này
-        </button>
-        <button class="btn btn-secondary" onclick="triggerRandomLotteryDraw()">
-          🎲 Bốc thăm đề khác
-        </button>
-        <button class="btn btn-secondary" onclick="exitVong2ToLanding()">
-          🏠 Danh sách 10 đề Vòng 2
-        </button>
-      </div>
-    </div>
-  </main>
-
-  <!-- ========================================== -->
-  <!-- MODAL: XEM BAREM CHI TIẾT & BÀI MẪU       -->
-  <!-- ========================================== -->
-  <div class="custom-modal-backdrop" id="baremModalBackdrop">
-    <div class="custom-modal-dialog">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding-bottom: 14px; border-bottom: 1px solid var(--border);">
-        <div>
-          <h2 style="font-size: 1.35rem; font-weight: 900; color: #065f46;" id="baremModalTitle">Barem Điểm & Bài Mẫu</h2>
-          <p style="font-size: 0.85rem; color: #64748b;">Đối chiếu từng tiêu chí chấm thi của Hội đồng</p>
-        </div>
-        <button class="btn btn-secondary" onclick="closeVong2BaremModal()" style="padding: 6px 14px;">Đóng ✕</button>
-      </div>
-      <div id="baremModalBodyContent"></div>
-    </div>
-  </div>
-
-  <!-- ========================================== -->
-  <!-- MODAL: CÀI ĐẶT AI CHẤM ĐIỂM (GEMINI KEY)  -->
-  <!-- ========================================== -->
-  <div class="custom-modal-backdrop" id="aiSettingsModalBackdrop">
-    <div class="custom-modal-dialog" style="max-width: 620px;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid var(--border);">
-        <h3 style="font-size: 1.25rem; font-weight: 800; color: #1e293b;">⚙️ Cấu Hình Giám Khảo AI Chấm Điểm</h3>
-        <button class="btn btn-secondary" onclick="closeAiSettingsModal()" style="padding: 4px 10px;">✕</button>
-      </div>
-
-      <p style="font-size: 0.9rem; color: #475569; line-height: 1.6; margin-bottom: 16px;">
-        Hệ thống hỗ trợ <strong>Google Gemini AI</strong> để phân tích ngữ nghĩa và chấm điểm bài viết tự luận theo barem chính xác đến từng 0,25 điểm.
-      </p>
-
-      <div style="background: #f0fdf4; border: 1px solid #bbf7d0; padding: 14px; border-radius: 10px; margin-bottom: 18px; font-size: 0.85rem; color: #166534;">
-        💡 <strong>Nếu triển khai trên Vercel:</strong> Bạn có thể cấu hình biến môi trường <code>GEMINI_API_KEY</code> trên Dashboard Vercel (chấm tự động không cần nhập mã tại đây).<br><br>
-        Hoặc bạn có thể dán trực tiếp <strong>Google AI Studio API Key</strong> của bạn vào ô dưới đây (hoàn toàn miễn phí, lưu trực tiếp trên trình duyệt của bạn).
-      </div>
-
-      <div style="margin-bottom: 18px;">
-        <label style="display: block; font-size: 0.88rem; font-weight: 700; color: #1e293b; margin-bottom: 6px;">
-          Google Gemini API Key:
-        </label>
-        <input type="password" id="geminiApiKeyInput" placeholder="AIzaSy..." style="width: 100%; padding: 12px 14px; border: 1.5px solid var(--border); border-radius: 10px; font-family: monospace; font-size: 0.95rem;">
-      </div>
-
-      <div style="display: flex; gap: 10px; justify-content: flex-end;">
-        <button class="btn btn-secondary" onclick="clearAiKey()">Xóa Key</button>
-        <button class="btn btn-primary" onclick="saveAiKey()" style="background: #059669;">Lưu Cấu Hình</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- TẢI DỮ LIỆU ĐỀ THI VÒNG 1 & VÒNG 2 -->
+  <!-- TẢI DỮ LIỆU NGÂN HÀNG ĐỀ THI VÒNG 1 VÀ VÒNG 2 -->
   <script src="exams_data.js"></script>
   <script src="vong2_exams_data.js"></script>
 
   <script>
     // QUẢN LÝ TRẠNG THÁI ỨNG DỤNG
+    let currentMainRound = 'vong1'; // 'vong1' hoặc 'vong2'
     let currentExamIndex = 0;
     let currentExamData = null;
     let currentQuestionIndex = 0;
@@ -1720,12 +1188,115 @@
     // KHỞI ĐỘNG
     window.onload = function() {
       if (!window.EXAMS_DATA || window.EXAMS_DATA.length === 0) {
-        alert("Không tìm thấy dữ liệu ngân hàng 10 đề thi (exams_data.js). Vui lòng kiểm tra lại file!");
+        alert("Không tìm thấy dữ liệu ngân hàng 10 đề thi Vòng 1 (exams_data.js). Vui lòng kiểm tra lại file!");
         return;
       }
       renderExamsGrid();
+      if (window.VONG2_EXAMS_DATA) {
+        renderVong2ExamsGrid();
+      }
       showScreen('landingScreen');
     };
+
+    function switchMainRound(round) {
+      currentMainRound = round;
+      document.getElementById('tabBtnVong1').classList.toggle('active', round === 'vong1');
+      document.getElementById('tabBtnVong2').classList.toggle('active', round === 'vong2');
+
+      const badge = document.getElementById('mainBrandBadge');
+      if (round === 'vong1') {
+        if (badge) badge.innerText = 'CÔNG CHỨC HUẾ 2025';
+        renderExamsGrid();
+        showScreen('landingScreen');
+      } else {
+        if (badge) badge.innerText = 'VÒNG 2 HUẾ 2026';
+        renderVong2ExamsGrid();
+        showScreen('vong2LandingScreen');
+      }
+    }
+
+    function toggleVong2DocsList() {
+      const table = document.getElementById('vong2DocsListTable');
+      const btn = document.getElementById('vong2DocsToggleBtn');
+      if (table.style.display === 'none') {
+        table.style.display = 'flex';
+        btn.innerText = 'Thu gọn ▲';
+      } else {
+        table.style.display = 'none';
+        btn.innerText = 'Xem đầy đủ ▼';
+      }
+    }
+
+    // RENDER DANH SÁCH 10 ĐỀ THI VÒNG 2
+    function renderVong2ExamsGrid() {
+      const container = document.getElementById('vong2ExamsGridContainer');
+      if (!container || !window.VONG2_EXAMS_DATA) return;
+      container.innerHTML = '';
+
+      window.VONG2_EXAMS_DATA.forEach((exam, index) => {
+        const hist = getExamHistory(exam.id);
+        const card = document.createElement('div');
+        card.className = 'exam-card';
+
+        let histBadge = '<span class="history-badge none">Chưa thi</span>';
+        if (hist) {
+          histBadge = `<span class="history-badge ${hist.passed ? 'passed' : 'failed'}">
+            ${hist.score}/${exam.totalQuestions || 70} câu (${hist.passed ? 'Đạt' : 'Chưa đạt'})
+          </span>`;
+        }
+
+        card.innerHTML = `
+          <div class="exam-card-head">
+            <span class="exam-number-badge" style="background: #059669;">ĐỀ SỐ ${String(index + 1).padStart(2, '0')}</span>
+            ${histBadge}
+          </div>
+          <h3 class="exam-title">${exam.title}</h3>
+          <p class="exam-desc">${exam.description}</p>
+          <div class="exam-card-meta">
+            <span>⏱ ${exam.timeMinutes} phút</span>
+            <span>📝 ${exam.totalQuestions || 70} câu trắc nghiệm</span>
+            <span>🎯 Đạt: ≥ ${exam.passScore || 35}/${exam.totalQuestions || 70} câu</span>
+          </div>
+          <button class="btn-start-exam" style="background: #059669;" onclick="startSelectedVong2Exam(${index})">
+            <span>✍️ Bắt đầu làm bài thi (70 câu / 105 phút) →</span>
+          </button>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function startSelectedVong2Exam(index) {
+      currentMainRound = 'vong2';
+      prepareAndStartExam(index);
+    }
+
+    // BỐC THĂM ĐỀ THI NGẪU NHIÊN VÒNG 2
+    function triggerRandomLotteryDraw() {
+      if (!window.VONG2_EXAMS_DATA || window.VONG2_EXAMS_DATA.length === 0) return;
+      const btn = document.getElementById('btnRollLottery');
+      const drum = document.getElementById('lotteryDrumDisplay');
+      if (btn) btn.disabled = true;
+
+      let counter = 0;
+      const totalRolls = 20;
+      const interval = setInterval(() => {
+        const randId = Math.floor(Math.random() * window.VONG2_EXAMS_DATA.length);
+        drum.innerText = `ĐỀ SỐ ${String(randId + 1).padStart(2, '0')}...`;
+        counter++;
+
+        if (counter >= totalRolls) {
+          clearInterval(interval);
+          const finalIndex = Math.floor(Math.random() * window.VONG2_EXAMS_DATA.length);
+          drum.innerText = `🎉 ĐỀ SỐ ${String(finalIndex + 1).padStart(2, '0')}`;
+          if (btn) btn.disabled = false;
+          fireConfetti();
+
+          setTimeout(() => {
+            startSelectedVong2Exam(finalIndex);
+          }, 1200);
+        }
+      }, 70);
+    }
 
     function showScreen(screenId) {
       document.querySelectorAll('.view-screen').forEach(s => s.classList.remove('active'));
@@ -1733,7 +1304,7 @@
       window.scrollTo({ top: 0, behavior: 'smooth' });
 
       const timerBox = document.getElementById('timerBox');
-      if (screenId === 'quizScreen' || screenId === 'vong2ExamScreen' || screenId === 'vong2PrepScreen') {
+      if (screenId === 'quizScreen') {
         timerBox.style.display = 'flex';
       } else {
         timerBox.style.display = 'none';
@@ -1795,7 +1366,7 @@
     // BẮT ĐẦU VÀO THI
     function prepareAndStartExam(examIdx) {
       currentExamIndex = examIdx;
-      currentExamData = window.EXAMS_DATA[examIdx];
+      currentExamData = (currentMainRound === 'vong2') ? window.VONG2_EXAMS_DATA[examIdx] : window.EXAMS_DATA[examIdx];
       currentQuestionIndex = 0;
       userAnswers = new Array(currentExamData.questions.length).fill(null);
       flaggedQuestions = new Array(currentExamData.questions.length).fill(false);
@@ -1803,6 +1374,15 @@
       startTime = new Date();
 
       document.getElementById('currentExamTitleText').innerText = currentExamData.title;
+      
+      const subTitleEl = document.querySelector('#quizScreen p');
+      if (subTitleEl) {
+        if (currentMainRound === 'vong2') {
+          subTitleEl.innerText = 'Vòng 2: Trắc nghiệm Chuyên ngành Môi trường & Đất đai (70 câu hỏi / 105 phút)';
+        } else {
+          subTitleEl.innerText = 'Vòng 1: Trắc nghiệm Kiến thức chung Công chức (60 câu hỏi / 60 phút)';
+        }
+      }
 
       renderPaletteGrid();
       loadQuestionInQuiz(0);
@@ -2122,8 +1702,13 @@
         }
       }
       clearInterval(timerInterval);
-      renderExamsGrid();
-      showScreen('landingScreen');
+      if (currentMainRound === 'vong2') {
+        renderVong2ExamsGrid();
+        showScreen('vong2LandingScreen');
+      } else {
+        renderExamsGrid();
+        showScreen('landingScreen');
+      }
     }
 
     // LƯU TRỮ ĐIỂM
@@ -2206,666 +1791,6 @@
       }
       render();
     }
-  
-    // ==========================================
-    // LOGIC VÒNG 2: THI TỰ LUẬN CHUYÊN NGÀNH
-    // ==========================================
-    let currentMainRound = 'vong1'; // 'vong1' hoặc 'vong2'
-    let currentV2ExamIndex = 0;
-    let currentV2ExamData = null;
-    let currentV2TabIndex = 0;
-    let v2Answers = ['', '', '', ''];
-    let v2Scratchpad = '';
-    let v2TimerInterval = null;
-    let v2SecondsLeft = 180 * 60;
-    let v2PrepTimerInterval = null;
-    let v2PrepSecondsLeft = 15 * 60;
-    let v2GradingResult = null;
-
-    function switchMainRound(round) {
-      currentMainRound = round;
-      document.getElementById('tabBtnVong1').classList.toggle('active', round === 'vong1');
-      document.getElementById('tabBtnVong2').classList.toggle('active', round === 'vong2');
-
-      if (round === 'vong1') {
-        showScreen('landingScreen');
-      } else {
-        renderVong2ExamsGrid();
-        showScreen('vong2LandingScreen');
-      }
-    }
-
-    function toggleVong2DocsList() {
-      const table = document.getElementById('vong2DocsListTable');
-      const btn = document.getElementById('vong2DocsToggleBtn');
-      if (table.style.display === 'none') {
-        table.style.display = 'flex';
-        btn.innerText = 'Thu gọn ▲';
-      } else {
-        table.style.display = 'none';
-        btn.innerText = 'Xem đầy đủ ▼';
-      }
-    }
-
-    // Render danh sách 10 đề thi Vòng 2
-    function renderVong2ExamsGrid() {
-      const container = document.getElementById('vong2ExamsGridContainer');
-      if (!container || !window.VONG2_EXAMS_DATA) return;
-      container.innerHTML = '';
-
-      window.VONG2_EXAMS_DATA.forEach((exam, index) => {
-        const hist = getVong2History(exam.id);
-        const card = document.createElement('div');
-        card.className = 'vong2-exam-card';
-
-        let histBadge = '<span class="history-badge none">Chưa thi</span>';
-        if (hist) {
-          histBadge = `<span class="history-badge ${hist.passed ? 'passed' : 'failed'}">
-            ${hist.score.toFixed(1)}/100đ (${hist.passed ? 'Đạt' : 'Chưa đạt'})
-          </span>`;
-        }
-
-        card.innerHTML = `
-          <div class="vong2-card-head">
-            <span class="vong2-badge">ĐỀ SỐ ${String(exam.id).padStart(2, '0')}</span>
-            ${histBadge}
-          </div>
-          <h3 class="vong2-title">${exam.title}</h3>
-          <p class="vong2-desc">${exam.description}</p>
-          <div class="vong2-card-meta">
-            <span>⏱ 15' chuẩn bị + 180' làm bài</span>
-            <span>📝 4 câu tự luận</span>
-            <span>🎯 Thang điểm 100</span>
-          </div>
-          <button class="btn-start-exam" style="background: #059669;" onclick="selectVong2Exam(${index})">
-            <span>✍️ Vào thi đề này →</span>
-          </button>
-        `;
-        container.appendChild(card);
-      });
-    }
-
-    // BỐC THĂM ĐỀ THI NGẪU NHIÊN VỚI HIỆU ỨNG ROULETTE
-    function triggerRandomLotteryDraw() {
-      if (!window.VONG2_EXAMS_DATA || window.VONG2_EXAMS_DATA.length === 0) return;
-      const btn = document.getElementById('btnRollLottery');
-      const drum = document.getElementById('lotteryDrumDisplay');
-      if (btn) btn.disabled = true;
-
-      let counter = 0;
-      const totalRolls = 20;
-      const interval = setInterval(() => {
-        const randId = Math.floor(Math.random() * window.VONG2_EXAMS_DATA.length);
-        drum.innerText = `ĐỀ SỐ ${String(randId + 1).padStart(2, '0')}...`;
-        counter++;
-
-        if (counter >= totalRolls) {
-          clearInterval(interval);
-          const finalIndex = Math.floor(Math.random() * window.VONG2_EXAMS_DATA.length);
-          drum.innerText = `🎉 ĐỀ SỐ ${String(finalIndex + 1).padStart(2, '0')}`;
-          if (btn) btn.disabled = false;
-          fireConfetti();
-
-          setTimeout(() => {
-            selectVong2Exam(finalIndex);
-          }, 1200);
-        }
-      }, 70);
-    }
-
-    function selectVong2Exam(index) {
-      currentV2ExamIndex = index;
-      currentV2ExamData = window.VONG2_EXAMS_DATA[index];
-
-      // Reset câu trả lời hoặc khôi phục từ localStorage
-      const savedDraft = getVong2Draft(currentV2ExamData.id);
-      if (savedDraft) {
-        v2Answers = savedDraft.answers || ['', '', '', ''];
-        v2Scratchpad = savedDraft.scratchpad || '';
-      } else {
-        v2Answers = ['', '', '', ''];
-        v2Scratchpad = '';
-      }
-
-      // Sang màn hình chuẩn bị (15 phút)
-      startVong2Preparation();
-    }
-
-    // GIAI ĐOẠN CHUẨN BỊ 15 PHÚT
-    function startVong2Preparation() {
-      showScreen('vong2PrepScreen');
-      document.getElementById('prepExamTitleText').innerText = currentV2ExamData.title;
-      document.getElementById('prepScratchpadInput').value = v2Scratchpad;
-
-      // Render 4 câu hỏi
-      const container = document.getElementById('prepQuestionsListContainer');
-      container.innerHTML = '';
-      currentV2ExamData.questions.forEach((q) => {
-        const item = document.createElement('div');
-        item.className = 'prep-q-card';
-        item.innerHTML = `
-          <div class="prep-q-head">
-            <span>${q.title}</span>
-            <span>${q.score}.0 điểm</span>
-          </div>
-          <div style="font-size: 0.95rem; color: #334155; line-height: 1.6; white-space: pre-line;">${q.content}</div>
-        `;
-        container.appendChild(item);
-      });
-
-      // Bắt đầu đếm ngược chuẩn bị 15 phút
-      clearInterval(v2PrepTimerInterval);
-      v2PrepSecondsLeft = 15 * 60;
-      updateTimerDisplay(v2PrepSecondsLeft, 'Chuẩn bị:');
-
-      v2PrepTimerInterval = setInterval(() => {
-        v2PrepSecondsLeft--;
-        updateTimerDisplay(v2PrepSecondsLeft, 'Chuẩn bị:');
-        if (v2PrepSecondsLeft <= 0) {
-          clearInterval(v2PrepTimerInterval);
-          alert("Hết 15 phút chuẩn bị! Bắt đầu tính giờ 180 phút làm bài chính thức.");
-          proceedToVong2Exam();
-        }
-      }, 1000);
-    }
-
-    // CHUYỂN SANG PHÒNG THI 180 PHÚT
-    function proceedToVong2Exam() {
-      clearInterval(v2PrepTimerInterval);
-      // Lưu lại nháp
-      v2Scratchpad = document.getElementById('prepScratchpadInput').value;
-
-      showScreen('vong2ExamScreen');
-      document.getElementById('examV2TitleText').innerText = currentV2ExamData.title;
-
-      currentV2TabIndex = 0;
-      switchVong2QuestionTab(0);
-
-      // Bắt đầu đếm ngược 180 phút
-      clearInterval(v2TimerInterval);
-      v2SecondsLeft = 180 * 60;
-      updateTimerDisplay(v2SecondsLeft, 'Còn lại:');
-
-      v2TimerInterval = setInterval(() => {
-        v2SecondsLeft--;
-        updateTimerDisplay(v2SecondsLeft, 'Còn lại:');
-
-        // Tự động lưu mỗi 10 giây
-        if (v2SecondsLeft % 10 === 0) {
-          autoSaveVong2Draft();
-        }
-
-        if (v2SecondsLeft <= 0) {
-          clearInterval(v2TimerInterval);
-          alert("Hết thời gian 180 phút làm bài! Hệ thống tự động khóa và nộp bài chấm điểm.");
-          submitVong2ExamAction();
-        }
-      }, 1000);
-    }
-
-    function switchVong2QuestionTab(tabIndex) {
-      // Lưu câu trả lời của tab cũ trước khi chuyển
-      const input = document.getElementById('vong2AnswerInput');
-      if (input && currentV2TabIndex !== undefined) {
-        v2Answers[currentV2TabIndex] = input.value;
-      }
-
-      currentV2TabIndex = tabIndex;
-      const q = currentV2ExamData.questions[tabIndex];
-
-      // Đổi active tab button
-      document.querySelectorAll('.vong2-q-tab-btn').forEach((btn, idx) => {
-        btn.classList.toggle('active', idx === tabIndex);
-      });
-
-      // Hiển thị đề bài câu hỏi
-      document.getElementById('currentQHeaderTitle').innerText = q.title;
-      document.getElementById('currentQPromptContent').innerText = q.content;
-
-      // Nạp câu trả lời của tab mới
-      input.value = v2Answers[tabIndex] || '';
-      updateWordCountDisplay();
-
-      // Cập nhật nút trước / sau
-      document.getElementById('btnPrevV2Tab').disabled = (tabIndex === 0);
-      document.getElementById('btnNextV2Tab').innerText = (tabIndex === 3) ? 'Xem lại Câu 1' : 'Câu tiếp theo →';
-    }
-
-    function navigateV2Tab(direction) {
-      let next = currentV2TabIndex + direction;
-      if (next < 0) next = 0;
-      if (next > 3) next = 0;
-      switchVong2QuestionTab(next);
-    }
-
-    function handleVong2Input() {
-      const input = document.getElementById('vong2AnswerInput');
-      v2Answers[currentV2TabIndex] = input.value;
-      updateWordCountDisplay();
-    }
-
-    function updateWordCountDisplay() {
-      const text = document.getElementById('vong2AnswerInput').value || '';
-      const words = text.trim() ? text.trim().split(/\s+/).length : 0;
-      const chars = text.length;
-      document.getElementById('currentWordCountText').innerText = `Số từ: ${words} từ`;
-      document.getElementById('currentCharCountText').innerText = `${chars} ký tự`;
-    }
-
-    // AUTO-SAVE ĐẢM BẢO KHÔNG MẤT BÀI
-    function autoSaveVong2Draft() {
-      const input = document.getElementById('vong2AnswerInput');
-      if (input && currentV2TabIndex !== undefined) {
-        v2Answers[currentV2TabIndex] = input.value;
-      }
-
-      const pulse = document.getElementById('saveDotPulse');
-      const statusText = document.getElementById('saveStatusText');
-      if (pulse) pulse.classList.add('saving');
-
-      try {
-        const key = `vong2_draft_${currentV2ExamData.id}`;
-        localStorage.setItem(key, JSON.stringify({
-          answers: v2Answers,
-          scratchpad: v2Scratchpad,
-          savedAt: new Date().toLocaleTimeString('vi-VN')
-        }));
-
-        setTimeout(() => {
-          if (pulse) pulse.classList.remove('saving');
-          const timeStr = new Date().toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
-          if (statusText) statusText.innerText = `Đã tự động lưu lúc ${timeStr}`;
-        }, 300);
-      } catch (e) {
-        console.error(e);
-      }
-    }
-
-    function manualSaveVong2Draft() {
-      autoSaveVong2Draft();
-      alert("Đã lưu nháp bài thi thành công!");
-    }
-
-    function getVong2Draft(examId) {
-      try {
-        const item = localStorage.getItem(`vong2_draft_${examId}`);
-        return item ? JSON.parse(item) : null;
-      } catch (e) {
-        return null;
-      }
-    }
-
-    // NỘP BÀI VÒNG 2
-    function confirmSubmitVong2Exam() {
-      // Lưu câu hiện tại
-      const input = document.getElementById('vong2AnswerInput');
-      if (input && currentV2TabIndex !== undefined) {
-        v2Answers[currentV2TabIndex] = input.value;
-      }
-
-      // Đếm số câu có viết
-      const filledCount = v2Answers.filter(a => a && a.trim().length > 30).length;
-      let msg = `Vợ đã hoàn thành ${filledCount}/4 câu hỏi.\nVợ có chắc chắn muốn nộp bài thi để Giám khảo chấm điểm không?`;
-      if (filledCount < 4) {
-        msg = `⚠️ Chú ý: Vợ mới viết ${filledCount}/4 câu.\nVợ có chắc chắn muốn nộp bài ngay bây giờ không?`;
-      }
-
-      if (confirm(msg)) {
-        clearInterval(v2TimerInterval);
-        submitVong2ExamAction();
-      }
-    }
-
-    // CHẤM ĐIỂM (VERCEL SERVERLESS / GEMINI DIRECT / HEURISTIC BAREM)
-    async function submitVong2ExamAction() {
-      showScreen('vong2ResultScreen');
-      document.getElementById('vong2LoadingBox').style.display = 'block';
-      document.getElementById('vong2ResultContent').style.display = 'none';
-
-      const payloadQuestions = currentV2ExamData.questions.map((q, idx) => ({
-        num: q.num,
-        score: q.score,
-        title: q.title,
-        content: q.content,
-        rubric: q.rubric,
-        userAnswer: v2Answers[idx] || ''
-      }));
-
-      const apiKey = localStorage.getItem('user_gemini_api_key') || '';
-
-      let gradeData = null;
-
-      // 1. Thử gọi API Vercel /api/grade
-      try {
-        const res = await fetch('/api/grade', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            examId: currentV2ExamData.id,
-            examTitle: currentV2ExamData.title,
-            questions: payloadQuestions,
-            apiKey: apiKey
-          })
-        });
-
-        if (res.ok) {
-          gradeData = await res.json();
-        }
-      } catch (e) {
-        console.warn('Call to /api/grade failed, falling back...', e);
-      }
-
-      // 2. Nếu /api/grade chưa có (ví dụ chạy local không qua Vercel CLI) và user có API key, gọi trực tiếp Gemini
-      if (!gradeData && apiKey) {
-        try {
-          gradeData = await directCallGeminiGrading(apiKey, currentV2ExamData.title, payloadQuestions);
-        } catch (e) {
-          console.warn('Direct Gemini call failed:', e);
-        }
-      }
-
-      // 3. Nếu không có API hoặc lỗi mạng: Chạy Chấm điểm Heuristic đối chiếu Barem
-      if (!gradeData) {
-        gradeData = runHeuristicBaremGrading(currentV2ExamData, v2Answers);
-      }
-
-      v2GradingResult = gradeData;
-      renderVong2Result(gradeData);
-    }
-
-    // Chấm điểm Heuristic chuẩn xác bám sát từ khóa Barem
-    function runHeuristicBaremGrading(examData, answers) {
-      let totalScore = 0;
-      const results = [];
-
-      examData.questions.forEach((q, idx) => {
-        const ans = answers[idx] || '';
-        let qScore = 0;
-        const strengths = [];
-        const missingPoints = [];
-
-        if (!ans.trim()) {
-          results.push({
-            questionNum: q.num,
-            score: 0,
-            maxScore: q.score,
-            strengths: [],
-            missingPoints: ['Chưa trả lời câu hỏi này.'],
-            comment: 'Thí sinh bỏ trống không làm bài.'
-          });
-          return;
-        }
-
-        // Kiểm tra từng tiêu chí trong rubric
-        q.rubric.forEach((r, rIdx) => {
-          let matched = false;
-          // Kiểm tra xem bài làm có chứa từ khóa của tiêu chí không
-          const lowerAns = ans.toLowerCase();
-          const keywords = q.keywords || [];
-
-          // Đếm số từ khóa xuất hiện
-          let kwMatches = 0;
-          keywords.forEach(kw => {
-            if (lowerAns.includes(kw.toLowerCase())) kwMatches++;
-          });
-
-          // Tiêu chí điểm dựa trên độ dài và độ phủ từ khóa
-          const words = ans.trim().split(/\s+/).length;
-          const ratio = Math.min(1.0, (kwMatches / Math.max(3, keywords.length * 0.4)) * 0.7 + (Math.min(words, 300) / 300) * 0.3);
-
-          const itemScore = Math.round(r.points * ratio * 2) / 2; // làm tròn đến 0.5
-          qScore += itemScore;
-
-          if (itemScore >= r.points * 0.6) {
-            strengths.push(`Nắm được nội dung: ${r.criteria.substring(0, 70)}...`);
-          } else {
-            missingPoints.push(`Cần bổ sung ý: ${r.criteria.substring(0, 70)}... [Căn cứ: ${r.reference || ''}]`);
-          }
-        });
-
-        qScore = Math.min(q.score, Math.round(qScore * 2) / 2);
-        totalScore += qScore;
-
-        results.push({
-          questionNum: q.num,
-          score: qScore,
-          maxScore: q.score,
-          strengths: strengths.length ? strengths : ['Đã nỗ lực trình bày bài viết.'],
-          missingPoints: missingPoints.length ? missingPoints : ['Cần trau chuốt thêm văn phong hành chính.'],
-          comment: `Bài làm đạt ${qScore}/${q.score} điểm. Bám sát barem hướng dẫn chấm của Hội đồng.`
-        });
-      });
-
-      return {
-        totalScore: Math.round(totalScore * 2) / 2,
-        passed: totalScore >= 50,
-        generalFeedback: `Bài thi được chấm theo Barem chính thức của Phụ lục 06. Tổng điểm đạt ${totalScore}/100. ${totalScore >= 50 ? 'Chúc mừng bạn đã đạt tiêu chuẩn qua Vòng 2!' : 'Cần ôn kỹ lại các căn cứ pháp lý của Nghị định 151/2025 và Nghị định 05/2025.'}`,
-        results: results
-      };
-    }
-
-    // Direct Gemini caller
-    async function directCallGeminiGrading(apiKey, examTitle, questions) {
-      let prompt = `Bạn là Giám khảo chấm thi công chức Thừa Thiên Huế. Chấm bài tự luận theo Barem:\nĐề: ${examTitle}\n`;
-      questions.forEach(q => {
-        prompt += "\nCâu " + q.num + " (" + q.score + "đ): " + q.content + "\nBarem: " + JSON.stringify(q.rubric) + "\nBài làm:\n\"\"\"" + q.userAnswer + "\"\"\"\n";
-      });
-      prompt += `\nTrả về kết quả duy nhất định dạng JSON: {"totalScore": 75, "passed": true, "generalFeedback": "...", "results": [{"questionNum": 1, "score": 20, "maxScore": 25, "strengths": ["..."], "missingPoints": ["..."], "comment": "..."}]}`;
-
-      const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { responseMimeType: "application/json", temperature: 0.2 }
-        })
-      });
-
-      const data = await res.json();
-      const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-      return JSON.parse(text);
-    }
-
-    // HIỂN THỊ KẾT QUẢ VÒNG 2
-    function renderVong2Result(gradeData) {
-      document.getElementById('vong2LoadingBox').style.display = 'none';
-      document.getElementById('vong2ResultContent').style.display = 'block';
-
-      const total = gradeData.totalScore || 0;
-      const passed = (total >= 50);
-
-      document.getElementById('v2ResultEmoji').innerText = passed ? '🎉' : '📚';
-      document.getElementById('v2ResultScoreText').innerText = `${total.toFixed(1)} / 100 Điểm`;
-
-      const statusBox = document.getElementById('vong2StatusCard');
-      const statusMsg = document.getElementById('v2ResultStatusMessage');
-      if (passed) {
-        statusBox.style.background = 'linear-gradient(135deg, #065f46, #059669)';
-        statusMsg.innerText = 'KẾT QUẢ: ĐẠT TIÊU CHUẨN TRÚNG TUYỂN VÒNG 2 (≥ 50 ĐIỂM) ❤️';
-        fireConfetti();
-      } else {
-        statusBox.style.background = 'linear-gradient(135deg, #991b1b, #dc2626)';
-        statusMsg.innerText = 'KẾT QUẢ: CHƯA ĐẠT (CẦN ÔN THÊM ĐỂ ĐẠT ≥ 50 ĐIỂM)';
-      }
-
-      document.getElementById('v2GeneralCommentText').innerText = gradeData.generalFeedback || 'Đã hoàn thành chấm bài thi.';
-
-      // Render 4 câu
-      const container = document.getElementById('v2QuestionsBreakdownContainer');
-      container.innerHTML = '';
-
-      (gradeData.results || []).forEach(r => {
-        const row = document.createElement('div');
-        row.style.padding = '16px 0';
-        row.style.borderBottom = '1px solid #f1f5f9';
-
-        const qData = currentV2ExamData.questions[r.questionNum - 1] || {};
-
-        let strengthsHtml = (r.strengths || []).map(s => `<div class="feedback-pill-good">✓ ${s}</div>`).join('');
-        let missingHtml = (r.missingPoints || []).map(m => `<div class="feedback-pill-warn">⚠️ ${m}</div>`).join('');
-
-        row.innerHTML = `
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-            <h4 style="font-size: 1.05rem; font-weight: 800; color: #1e293b;">
-              Câu ${r.questionNum}: ${qData.title || ''}
-            </h4>
-            <span class="score-val-badge" style="background: ${r.score >= 12.5 ? '#dcfce7' : '#fee2e2'}; color: ${r.score >= 12.5 ? '#15803d' : '#b91c1c'};">
-              ${r.score.toFixed(1)} / ${r.maxScore}đ
-            </span>
-          </div>
-          <p style="font-size: 0.9rem; color: #475569; margin-bottom: 10px; font-style: italic;">
-            ${r.comment || ''}
-          </p>
-          <div style="margin-bottom: 8px;">${strengthsHtml}</div>
-          <div>${missingHtml}</div>
-        `;
-        container.appendChild(row);
-      });
-
-      // Lưu lịch sử điểm
-      saveVong2History(currentV2ExamData.id, total, passed);
-    }
-
-    // MODAL XEM BAREM VÀ BÀI MẪU
-    function openVong2BaremModal() {
-      if (!currentV2ExamData) return;
-      document.getElementById('baremModalTitle').innerText = `Barem Điểm & Bài Mẫu: ${currentV2ExamData.title}`;
-
-      const container = document.getElementById('baremModalBodyContent');
-      container.innerHTML = '';
-
-      currentV2ExamData.questions.forEach((q, idx) => {
-        const box = document.createElement('div');
-        box.style.marginBottom = '24px';
-        box.style.background = '#f8fafc';
-        box.style.border = '1px solid var(--border)';
-        box.style.borderRadius = '14px';
-        box.style.padding = '20px';
-
-        let rubricRows = (q.rubric || []).map(r => `
-          <div style="display: flex; justify-content: space-between; padding: 6px 0; border-bottom: 1px dashed #cbd5e1; font-size: 0.9rem;">
-            <div style="flex: 1; padding-right: 12px;">• ${r.criteria} <span style="color: #059669; font-weight: 700;">[${r.reference || ''}]</span></div>
-            <div style="font-weight: 800; color: #1e3a8a;">${r.points.toFixed(1)}đ</div>
-          </div>
-        `).join('');
-
-        box.innerHTML = `
-          <h4 style="font-size: 1.1rem; font-weight: 800; color: #065f46; margin-bottom: 8px;">
-            ${q.title}
-          </h4>
-          <div style="font-size: 0.95rem; color: #1e293b; margin-bottom: 14px; line-height: 1.5; white-space: pre-line;">
-            <strong>Đề bài:</strong> ${q.content}
-          </div>
-
-          <div style="background: white; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; margin-bottom: 14px;">
-            <div style="font-weight: 800; color: #1e3a8a; margin-bottom: 8px; font-size: 0.9rem;">📋 TIÊU CHÍ CHẤM ĐIỂM (BAREM CHÍNH THỨC):</div>
-            ${rubricRows}
-          </div>
-
-          <div class="deep-explain-box" style="margin-top: 10px;">
-            <div class="deep-explain-title">🌟 BÀI VIẾT MẪU ĐẠT ĐIỂM TỐI ĐA (THAM KHẢO):</div>
-            <div class="deep-explain-content">${q.model_answer}</div>
-          </div>
-        `;
-        container.appendChild(box);
-      });
-
-      document.getElementById('baremModalBackdrop').classList.add('active');
-    }
-
-    function closeVong2BaremModal() {
-      document.getElementById('baremModalBackdrop').classList.remove('active');
-    }
-
-    // MODAL AI SETTINGS
-    function openAiSettingsModal() {
-      const savedKey = localStorage.getItem('user_gemini_api_key') || '';
-      document.getElementById('geminiApiKeyInput').value = savedKey;
-      document.getElementById('aiSettingsModalBackdrop').classList.add('active');
-    }
-
-    function closeAiSettingsModal() {
-      document.getElementById('aiSettingsModalBackdrop').classList.remove('active');
-    }
-
-    function saveAiKey() {
-      const key = document.getElementById('geminiApiKeyInput').value.trim();
-      if (key) {
-        localStorage.setItem('user_gemini_api_key', key);
-        alert("Đã lưu Gemini API Key thành công! Hệ thống sẽ dùng khóa này để gọi AI chấm bài.");
-      } else {
-        localStorage.removeItem('user_gemini_api_key');
-        alert("Đã xóa khóa cá nhân. Hệ thống sẽ dùng API Vercel hoặc chấm Heuristic Barem.");
-      }
-      closeAiSettingsModal();
-    }
-
-    function clearAiKey() {
-      document.getElementById('geminiApiKeyInput').value = '';
-      localStorage.removeItem('user_gemini_api_key');
-      alert("Đã xóa Gemini API Key.");
-      closeAiSettingsModal();
-    }
-
-    function retakeCurrentV2Exam() {
-      if (confirm("Vợ có muốn làm lại đề thi này không?")) {
-        selectVong2Exam(currentV2ExamIndex);
-      }
-    }
-
-    function exitVong2ToLanding() {
-      clearInterval(v2TimerInterval);
-      clearInterval(v2PrepTimerInterval);
-      renderVong2ExamsGrid();
-      showScreen('vong2LandingScreen');
-    }
-
-    function saveVong2History(examId, score, passed) {
-      try {
-        const key = `vong2_history_${examId}`;
-        const prev = localStorage.getItem(key);
-        let bestScore = score;
-        if (prev) {
-          const parsed = JSON.parse(prev);
-          bestScore = Math.max(parsed.score, score);
-        }
-        localStorage.setItem(key, JSON.stringify({ score: bestScore, passed: bestScore >= 50, date: new Date().toLocaleDateString('vi-VN') }));
-      } catch (e) {
-        console.error(e);
-      }
-    }
-
-    function getVong2History(examId) {
-      try {
-        const item = localStorage.getItem(`vong2_history_${examId}`);
-        return item ? JSON.parse(item) : null;
-      } catch (e) {
-        return null;
-      }
-    }
-
-    function updateTimerDisplay(totalSeconds, label = 'Còn lại:') {
-      const timerBox = document.getElementById('timerBox');
-      const labelEl = document.getElementById('timerLabelText');
-      const valEl = document.getElementById('timerDisplay');
-      if (!timerBox || !valEl) return;
-
-      timerBox.style.display = 'flex';
-      if (labelEl) labelEl.innerText = label;
-
-      const m = Math.floor(totalSeconds / 60);
-      const s = totalSeconds % 60;
-      valEl.innerText = `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
-
-      if (totalSeconds <= 5 * 60) {
-        timerBox.className = 'timer-wrap danger';
-      } else if (totalSeconds <= 15 * 60) {
-        timerBox.className = 'timer-wrap warning';
-      } else {
-        timerBox.className = 'timer-wrap';
-      }
-    }
-
   </script>
 </body>
 </html>
