@@ -1159,7 +1159,7 @@
 
     <!-- Lọc câu hỏi -->
     <div class="review-filter-bar">
-      <button class="filter-pill active" onclick="filterReviewQuestions('all', this)">Tất cả (60 câu)</button>
+      <button class="filter-pill active" id="filterAllPill" onclick="filterReviewQuestions('all', this)">Tất cả (60 câu)</button>
       <button class="filter-pill" onclick="filterReviewQuestions('wrong', this)" id="filterWrongPill">Câu làm sai (0)</button>
       <button class="filter-pill" onclick="filterReviewQuestions('correct', this)" id="filterCorrectPill">Câu làm đúng (0)</button>
     </div>
@@ -1384,6 +1384,13 @@
         }
       }
 
+      const totalQ = currentExamData.questions.length;
+      const passTarget = currentExamData.passScore || (totalQ === 70 ? 35 : 30);
+      const passConditionEl = document.getElementById('statPassConditionText');
+      if (passConditionEl) {
+        passConditionEl.innerText = `≥ ${passTarget}/${totalQ} câu (${Math.round((passTarget / totalQ) * 100)}%)`;
+      }
+
       renderPaletteGrid();
       loadQuestionInQuiz(0);
       updateQuizProgressStats();
@@ -1540,7 +1547,7 @@
       if (unanswered > 0) {
         msg += `\nVẫn còn ${unanswered} câu chưa làm! Vợ có chắc chắn muốn nộp bài ngay không?`;
       } else {
-        msg += `\nVợ đã làm đủ 60 câu! Vợ có muốn nộp bài để xem điểm không?`;
+        msg += `\nVợ đã làm đủ ${total} câu! Vợ có muốn nộp bài để xem điểm không?`;
       }
 
       if (confirm(msg)) {
@@ -1560,7 +1567,8 @@
         }
       });
 
-      const isPassed = (correct >= 30); // Điểm sàn vòng 1 là 50% (30/60)
+      const passScore = currentExamData.passScore || (total === 70 ? 35 : 30);
+      const isPassed = (correct >= passScore); // Điểm sàn 50%
       const percent = Math.round((correct / total) * 100);
 
       // Tính thời gian làm bài
@@ -1582,19 +1590,21 @@
       const heading = document.getElementById('resultHeadingText');
       const motivation = document.getElementById('resultMotivationText');
 
+      const roundLabel = (currentMainRound === 'vong2') ? 'Vòng 2 (Môi trường & Đất đai)' : 'Vòng 1 (Kiến thức chung)';
+
       if (isPassed) {
         statusBox.className = 'result-status-card pass';
         emojiIcon.innerText = '🏆';
         heading.className = 'result-heading pass';
         heading.innerText = 'Chúc mừng đã trúng tuyển';
-        motivation.innerText = `Xuất sắc lắm vợ Hoàng Thủy ơi! Vợ đã xuất sắc vượt qua Vòng 1 với ${correct}/60 câu đúng. Tiếp tục giữ vững phong độ này để đỗ công chức nhé! ❤️`;
+        motivation.innerText = `Xuất sắc lắm vợ Hoàng Thủy ơi! Vợ đã xuất sắc vượt qua ${roundLabel} với ${correct}/${total} câu đúng (${percent}%). Tiếp tục giữ vững phong độ này để đỗ công chức nhé! ❤️`;
         fireConfetti();
       } else {
         statusBox.className = 'result-status-card fail';
         emojiIcon.innerText = '🐔';
         heading.className = 'result-heading fail';
         heading.innerText = 'Con gà cần cố gắng hơn';
-        motivation.innerText = `Chưa đạt rồi vợ ơi! Mới được ${correct}/60 câu thôi (cần tối thiểu 30 câu để qua vòng). Đừng nản, nhấn "Xem giải thích chi tiết" bên dưới để xem lại các bẫy sai rồi làm lại đề này nhé!`;
+        motivation.innerText = `Chưa đạt rồi vợ ơi! Mới được ${correct}/${total} câu thôi (cần tối thiểu ${passScore} câu để qua vòng). Đừng nản, nhấn "Xem giải thích chi tiết" bên dưới để xem lại các bẫy sai rồi làm lại đề này nhé!`;
       }
 
       showScreen('resultScreen');
@@ -1667,7 +1677,7 @@
           <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
             <div style="display: flex; gap: 8px; align-items: center;">
               <span class="q-tag">${q.topic}</span>
-              <strong style="font-size: 0.95rem; color: #1e293b;">Câu ${idx + 1}/60</strong>
+              <strong style="font-size: 0.95rem; color: #1e293b;">Câu ${idx + 1}/${currentExamData.questions.length}</strong>
             </div>
             ${statusTag}
           </div>
@@ -1685,6 +1695,10 @@
         container.appendChild(card);
       });
 
+      const allPill = document.getElementById('filterAllPill');
+      if (allPill) {
+        allPill.innerText = `Tất cả (${currentExamData.questions.length} câu)`;
+      }
       document.getElementById('filterWrongPill').innerText = `Câu làm sai (${wrongCount})`;
       document.getElementById('filterCorrectPill').innerText = `Câu làm đúng (${correctCount})`;
     }
@@ -1721,7 +1735,8 @@
           const parsed = JSON.parse(prev);
           bestScore = Math.max(parsed.score, score);
         }
-        localStorage.setItem(key, JSON.stringify({ score: bestScore, passed: bestScore >= 30, lastDate: new Date().toLocaleDateString('vi-VN') }));
+        const passTarget = (currentExamData && currentExamData.passScore) ? currentExamData.passScore : (currentMainRound === 'vong2' ? 35 : 30);
+        localStorage.setItem(key, JSON.stringify({ score: bestScore, passed: bestScore >= passTarget, lastDate: new Date().toLocaleDateString('vi-VN') }));
       } catch (e) {
         console.error(e);
       }
