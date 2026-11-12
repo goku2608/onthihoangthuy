@@ -1,10 +1,10 @@
 window.EXAMS_DATA = [
   {
     "id": "de_01",
-    "title": "Bộ Đề Thi Số 01 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 01 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -607,133 +607,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Điểm a Khoản 1 Điều 5 Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Nhóm ưu tiên 1 được cộng 7,5 điểm: Anh hùng LLVT, Anh hùng Lao động, thương binh, con liệt sĩ, con thương binh nặng.\n★ Mẹo nhớ & bẫy thi: Cộng 7,5 điểm: Nhóm người có công đặc biệt (Anh hùng, Thương binh, Con Liệt sĩ)."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP ngày 15/7/2021 của Chính phủ, Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 bao gồm bao nhiêu nội dung?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, vị trí việc làm là gì?",
         "options": [
-          "A. Bao gồm 6 nội dung: Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy hành chính nhà nước; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính phủ điện tử, Chính phủ số",
-          "B. Bao gồm 5 nội dung trọng điểm",
-          "C. Bao gồm 7 nội dung mở rộng sang khu vực tư nhân",
-          "D. Bao gồm 8 nội dung phân bổ cho các bộ ngành trung ương"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục II Nghị quyết số 76/NQ-CP ngày 15/7/2021 của Chính phủ.\n★ Phân tích chi tiết: Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2021–2030 gồm đúng 6 nội dung chính: (1) Cải cách thể chế; (2) Cải cách thủ tục hành chính; (3) Cải cách tổ chức bộ máy hành chính nhà nước; (4) Cải cách chế độ công vụ; (5) Cải cách tài chính công; (6) Xây dựng và phát triển Chính phủ điện tử, Chính phủ số.\n★ Mẹo nhớ & bẫy thi: Đề thi hay gài 5 hoặc 7 nội dung. Nhớ quy tắc '6 trụ cột nền hành chính'."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, trọng tâm cải cách hành chính trong giai đoạn 10 năm 2021–2030 được xác định tập trung vào những lĩnh vực nào?",
-        "options": [
-          "A. Tập trung cổ phần hóa toàn diện các đơn vị sự nghiệp công lập và giải thể doanh nghiệp nhà nước",
-          "B. Tập trung chuyển giao toàn bộ thẩm quyền tư pháp sang cho cơ quan hành chính giải quyết",
-          "C. Tập trung cải cách thể chế (trọng tâm là xây dựng, hoàn thiện thể chế hành chính và nâng cao hiệu lực thi hành pháp luật); xây dựng đội ngũ cán bộ, công chức, viên chức chuyên nghiệp, có năng lực, phẩm chất; xây dựng và phát triển Chính phủ điện tử, Chính phủ số",
-          "D. Tập trung tinh giản biên chế và sáp nhập các đơn vị hành chính cấp tỉnh"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục I.2 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Trọng tâm cải cách hành chính 10 năm tới là: cải cách thể chế, xây dựng đội ngũ cán bộ công chức chuyên nghiệp và phát triển Chính phủ điện tử, Chính phủ số.\n★ Mẹo nhớ & bẫy thi: Trọng tâm gồm 3 mũi nhọn: Thể chế - Con người (đội ngũ) - Công nghệ (Chính phủ số)."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu đến năm 2025 về mức độ hài lòng của người dân, doanh nghiệp đối với sự phục vụ của cơ quan hành chính nhà nước (chỉ số SIPAS) đạt tối thiểu bao nhiêu?",
-        "options": [
-          "A. Đạt tối thiểu 80%",
-          "B. Đạt tối thiểu 95%",
-          "C. Đạt tối thiểu 90%",
-          "D. Đạt tối thiểu 85%"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.2 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Nghị quyết 76/NQ-CP đặt mục tiêu đến năm 2025 mức độ hài lòng của người dân, doanh nghiệp đạt tối thiểu 90%; đến năm 2030 đạt tối thiểu 95%.\n★ Mẹo nhớ & bẫy thi: Năm 2025 là mốc 90%; năm 2030 là mốc 95%. Tránh nhầm lẫn 2 mốc thời gian này."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu đến năm 2030 về mức độ hài lòng của người dân, doanh nghiệp đối với sự phục vụ của cơ quan hành chính nhà nước được đặt ra là bao nhiêu?",
-        "options": [
-          "A. Đạt tối thiểu 92%",
-          "B. Đạt tuyệt đối 100%",
-          "C. Đạt tối thiểu 95%",
-          "D. Đạt tối thiểu 90%"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.2 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Mục tiêu đến năm 2030, mức độ hài lòng của người dân, doanh nghiệp đối với sự phục vụ của cơ quan hành chính nhà nước đạt tối thiểu 95%.\n★ Mẹo nhớ & bẫy thi: Mức độ 100% là phi thực tế trong chỉ số đo lường xã hội học; con số chính xác là tối thiểu 95%."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu đến năm 2025 về cắt giảm, đơn giản hóa các quy định liên quan đến hoạt động kinh doanh được xác định như thế nào?",
-        "options": [
-          "A. Cắt giảm tối thiểu 30% số quy định và tối thiểu 50% chi phí tuân thủ",
-          "B. Cắt giảm tối thiểu 10% số quy định và tối thiểu 10% chi phí tuân thủ",
-          "C. Bãi bỏ toàn bộ các điều kiện kinh doanh trong tất cả các ngành nghề",
-          "D. Cắt giảm, đơn giản hóa tối thiểu 20% số quy định và cắt giảm tối thiểu 20% chi phí tuân thủ quy định liên quan đến hoạt động kinh doanh đang có hiệu lực"
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục II.2 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Mục tiêu đến năm 2025: Cắt giảm, đơn giản hóa tối thiểu 20% số quy định và cắt giảm tối thiểu 20% chi phí tuân thủ quy định liên quan đến hoạt động kinh doanh đang có hiệu lực thi hành.\n★ Mẹo nhớ & bẫy thi: Cặp số tỷ lệ vàng của mục tiêu cắt giảm kinh doanh là '20% quy định - 20% chi phí'."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo các văn bản chỉ đạo của Ủy ban nhân dân thành phố Huế (trước đây là tỉnh Thừa Thiên Huế), ứng dụng di động nào đóng vai trò là nền tảng số dùng chung, kết nối duy nhất và toàn diện giữa chính quyền với người dân, doanh nghiệp?",
-        "options": [
-          "A. Hue-Citizen",
-          "B. Hue-SmartCity",
-          "C. Hue-S",
-          "D. Hue-Connect"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 2243/QĐ-UBND và Quyết định số 3322/QĐ-UBND của UBND tỉnh Thừa Thiên Huế (nay là TP Huế).\n★ Phân tích chi tiết: Hue-S là ứng dụng di động công dân số dùng chung của toàn tỉnh Thừa Thiên Huế (nay là thành phố Huế), tích hợp toàn bộ các dịch vụ công, phản ánh hiện trường, cảnh báo thiên tai, thanh toán không dùng tiền mặt và thông tin điều hành.\n★ Mẹo nhớ & bẫy thi: Nền tảng thương hiệu số tiêu biểu số 1 của Thừa Thiên Huế luôn là 'Hue-S'."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Đơn vị nào đóng vai trò là đầu não vận hành hạ tầng số, tiếp nhận dữ liệu camera giám sát thông minh, quản lý hệ thống phản ánh hiện trường và điều phối xử lý thông tin đô thị thông minh của thành phố Huế?",
-        "options": [
-          "A. Trung tâm Giám sát, điều hành đô thị thông minh (IOC) trực thuộc Sở Thông tin và Truyền thông",
-          "B. Văn phòng Hội đồng nhân dân thành phố",
-          "C. Chi cục Văn thư lưu trữ",
-          "D. Trung tâm Lưu trữ lịch sử thành phố"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 2243/QĐ-UBND và các văn bản về dịch vụ đô thị thông minh của Thừa Thiên Huế.\n★ Phân tích chi tiết: Trung tâm Giám sát, điều hành đô thị thông minh (IOC - Intelligent Operations Center) là mô hình đầu não của Huế được cả nước và quốc tế đánh giá cao, tích hợp camera AI, xử lý vi phạm giao thông và phản ánh hiện trường.\n★ Mẹo nhớ & bẫy thi: Cơ quan đầu não vận hành công nghệ đô thị thông minh tại Huế là Trung tâm IOC."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Văn bản nào của Ủy ban nhân dân thành phố Huế trực tiếp ban hành Kế hoạch tuyển dụng công chức năm 2025?",
-        "options": [
-          "A. Quyết định số 2626/QĐ-UBND ngày 19 tháng 8 năm 2025",
-          "B. Quyết định số 1026/QĐ-UBND ngày 30/3/2026",
-          "C. Quyết định số 2243/QĐ-UBND ngày 10/9/2021",
-          "D. Quyết định số 3322/QĐ-UBND ngày 25/12/2024"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Phần mở đầu Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.\n★ Phân tích chi tiết: Thực hiện Quyết định số 2626/QĐ-UBND ngày 19/8/2025 của UBND thành phố về việc ban hành Kế hoạch tuyển dụng công chức năm 2025, Sở Nội vụ đã thông báo danh mục ôn tập tài liệu thi Vòng 1.\n★ Mẹo nhớ & bẫy thi: Quyết định 2626/QĐ-UBND là căn cứ ban hành Kế hoạch tuyển dụng công chức Huế năm 2025."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ thành phố Huế, hình thức thi tuyển môn Kiến thức chung Vòng 1 được tổ chức như thế nào?",
-        "options": [
-          "A. Thi vấn đáp trực tiếp trước Hội đồng tuyển dụng",
-          "B. Thi viết tự luận trong thời gian 180 phút",
-          "C. Thi làm bài tập tình huống thực hành trên máy vi tính",
-          "D. Thi trắc nghiệm trên máy vi tính (60 câu hỏi / 60 phút)"
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế và Nghị định 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Vòng 1 thi trắc nghiệm trên máy tính, gồm Kiến thức chung (60 câu / 60 phút) và Ngoại ngữ (30 câu / 30 phút). Thi trắc nghiệm máy tính biết ngay kết quả, không phải phúc khảo.\n★ Mẹo nhớ & bẫy thi: Vòng 1: Trắc nghiệm trên máy vi tính, 60 câu hỏi trong thời gian 60 phút."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy định tại Kế hoạch tuyển dụng công chức của UBND thành phố Huế năm 2025 và Nghị định số 170/2025/NĐ-CP, thí sinh được xác định trúng tuyển Vòng 1 để vào dự thi Vòng 2 khi đạt kết quả nào?",
-        "options": [
-          "A. Lấy điểm từ cao xuống thấp theo chỉ tiêu tuyển dụng của từng vị trí việc làm",
-          "B. Trả lời đúng từ 50% số câu hỏi trở lên cho từng phần thi (Kiến thức chung đạt tối thiểu từ 30 câu đúng trở lên)",
-          "C. Đạt tối thiểu 45 câu đúng môn Kiến thức chung",
-          "D. Đạt tổng điểm từ 50/100 trở lên của hai môn cộng lại"
+          "A. Là vị trí công tác cụ thể của từng công chức do thủ trưởng đơn vị phân công theo nhu cầu đột xuất hàng năm",
+          "B. Là công việc gắn với chức danh, chức vụ, cơ cấu và ngạch công chức để xác định biên chế và bố trí công chức trong cơ quan, tổ chức, đơn vị",
+          "C. Là ngạch công chức tương ứng với mức lương và hệ số phụ cấp của cán bộ quản lý",
+          "D. Là chức danh chuyên môn gắn với bằng cấp đại học hoặc chứng chỉ nghiệp vụ do cơ sở đào tạo cấp"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP và Nội quy thi tuyển (Thông tư số 001/2025/TT-BNV).\n★ Phân tích chi tiết: Vòng 1 là vòng thi điều kiện: Trả lời đúng từ 50% số câu hỏi trở lên cho từng phần thi (môn Kiến thức chung từ 30/60 câu, Ngoại ngữ từ 15/30 câu) là ĐẠT để vào Vòng 2.\n★ Mẹo nhớ & bẫy thi: Vòng 1 là môn điều kiện, chỉ cần đạt >= 50% số câu (30/60 câu) là đỗ vào Vòng 2, không tính điểm Vòng 1 vào điểm xét tuyển chung cuộc."
+        "explanation": "★ Căn cứ pháp lý: Điều 3 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Vị trí việc làm là công việc gắn với chức danh, chức vụ lãnh đạo, quản lý hoặc chức danh nghề nghiệp, cơ cấu và ngạch công chức để xác định biên chế và bố trí công chức trong cơ quan, tổ chức, đơn vị.\n★ Mẹo nhớ & Bẫy thi: Vị trí việc làm là thước đo căn bản để xác định biên chế và bố trí công chức (không phải là mức lương cá nhân)."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, nguyên tắc nào sau đây là nguyên tắc xác định vị trí việc làm và quản lý vị trí việc làm?",
+        "options": [
+          "A. Ưu tiên mở rộng tối đa số lượng ngạch chuyên viên cao cấp ở các cơ quan địa phương",
+          "B. Tự do điều chỉnh danh mục vị trí việc làm mà không cần cấp có thẩm quyền phê duyệt",
+          "C. Phù hợp với chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của cơ quan, tổ chức",
+          "D. Bố trí theo nguyện vọng cá nhân và thâm niên công tác của công chức"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Điều 4 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Việc xác định vị trí việc làm phải phù hợp với chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của cơ quan, tổ chức; gắn với tinh giản biên chế và cơ cấu lại đội ngũ cán bộ, công chức.\n★ Mẹo nhớ & Bẫy thi: Nguyên tắc số 1 luôn là 'Phù hợp chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức' (gắn liền với vị trí việc làm, không theo nguyện vọng cá nhân)."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Nội dung nào sau đây không phải là căn cứ xác định vị trí việc làm theo Nghị định số 361/2025/NĐ-CP?",
+        "options": [
+          "A. Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của cơ quan, tổ chức",
+          "B. Quy trình quản lý chuyên môn, nghiệp vụ theo quy định của pháp luật chuyên ngành",
+          "C. Mức lương hiện hưởng và hoàn cảnh kinh tế gia đình của từng công chức",
+          "D. Mức độ phức tạp, tính chất, đặc điểm, quy mô hoạt động; phạm vi, đối tượng quản lý"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Điều 5 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Các căn cứ xác định vị trí việc làm gồm: (1) Chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức; (2) Mức độ phức tạp, tính chất, quy mô hoạt động; (3) Quy trình quản lý chuyên môn nghiệp vụ. Hoàn cảnh gia đình hay mức lương cá nhân không phải là căn cứ xác định vị trí việc làm.\n★ Mẹo nhớ & Bẫy thi: Đề bài hỏi 'KHÔNG PHẢI' -> Căn cứ mang tính cá nhân/hoàn cảnh riêng là sai."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc quản lý vị trí việc làm phải bảo đảm nguyên tắc nào sau đây?",
+        "options": [
+          "A. Phân quyền tuyệt đối cho các đơn vị cấp cơ sở tự quyết định số lượng biên chế",
+          "B. Chỉ quản lý theo ngạch công chức hiện tại, không cần xây dựng bản mô tả công việc",
+          "C. Giữ nguyên trạng số lượng vị trí việc làm qua các năm mà không được điều chỉnh",
+          "D. Thống nhất, dân chủ, công khai, minh bạch và phân cấp hợp lý thẩm quyền quản lý"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Điều 4 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Quản lý vị trí việc làm phải bảo đảm tính thống nhất, khoa học, khách quan, công khai, minh bạch và phân cấp hợp lý giữa cơ quan quản lý và cơ quan sử dụng công chức.\n★ Mẹo nhớ & Bẫy thi: Chú ý cụm từ khóa 'Thống nhất, dân chủ, công khai, minh bạch và phân cấp hợp lý'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị, phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia được xác định có vị trí, vai trò như thế nào?",
+        "options": [
+          "A. Chỉ tập trung phục vụ các viện nghiên cứu và trường đại học lớn",
+          "B. Là động lực chính, đột phá chiến lược hàng đầu để phát triển nhanh và bền vững đất nước trong kỷ nguyên mới",
+          "C. Là nhiệm vụ riêng của ngành công nghệ thông tin và truyền thông",
+          "D. Là một lĩnh vực bổ trợ thuần túy cho các ngành kinh tế truyền thống"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Quan điểm chỉ đạo tại Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị.\n★ Phân tích chi tiết: Bộ Chính trị khẳng định: Khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia là động lực chính, là đột phá chiến lược hàng đầu để đưa đất nước phát triển bứt phá, hiện đại, bền vững.\n★ Mẹo nhớ & Bẫy thi: Cụm từ khóa chủ đạo: 'Động lực chính, đột phá chiến lược hàng đầu'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, mục tiêu đến năm 2030, kinh tế số chiếm tỷ trọng khoảng bao nhiêu phần trăm trong GDP cả nước?",
+        "options": [
+          "A. Chiếm khoảng 15% GDP",
+          "B. Chiếm trên 50% GDP",
+          "C. Chiếm khoảng 20% GDP",
+          "D. Chiếm khoảng 30% GDP"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Mục tiêu cụ thể đến năm 2030 tại Nghị quyết số 57-NQ/TW.\n★ Phân tích chi tiết: Nghị quyết 57-NQ/TW đặt mục tiêu đến năm 2030 kinh tế số chiếm khoảng 30% GDP, đóng góp quan trọng vào tăng trưởng năng suất lao động và năng lực cạnh tranh quốc gia.\n★ Mẹo nhớ & Bẫy thi: Con số tỷ trọng kinh tế số mục tiêu 2030: 'Khoảng 30% GDP'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, mục tiêu đến năm 2030, tỷ lệ chi cho nghiên cứu và phát triển (R&D) toàn xã hội phấn đấu đạt mức nào?",
+        "options": [
+          "A. Đạt từ 1,5% đến 2% GDP",
+          "B. Đạt trên 5% GDP",
+          "C. Đạt 10% tổng thu ngân sách nhà nước",
+          "D. Đạt khoảng 0,5% GDP"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Mục tiêu cụ thể Nghị quyết số 57-NQ/TW.\n★ Phân tích chi tiết: Phấn đấu tổng chi xã hội cho nghiên cứu và phát triển (R&D) đạt từ 1,5% đến 2% GDP vào năm 2030, trong đó khuyến khích mạnh mẽ sự tham gia đóng góp của khối doanh nghiệp tư nhân.\n★ Mẹo nhớ & Bẫy thi: Chỉ tiêu chi R&D/GDP năm 2030: '1,5% - 2% GDP'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND thành phố Huế, mục tiêu tổng quát của Kế hoạch cải cách hành chính giai đoạn 2026 - 2030 là gì?",
+        "options": [
+          "A. Duy trì các thủ tục hành chính truyền thống bằng văn bản giấy",
+          "B. Xây dựng nền hành chính thành phố Huế dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả; lấy người dân, doanh nghiệp làm trung tâm phục vụ",
+          "C. Mở rộng tối đa số lượng cơ quan chuyên môn và biên chế hành chính để tạo thêm việc làm",
+          "D. Chuyển toàn bộ việc tiếp công dân sang cho các tổ chức xã hội tự nguyện"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Mục tiêu tổng quát tại Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND TP Huế.\n★ Phân tích chi tiết: TP Huế đặt mục tiêu xây dựng nền hành chính công khai, minh bạch, liêm chính, dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả; phục vụ đắc lực cho mục tiêu phát triển kinh tế - xã hội của thành phố trực thuộc Trung ương.\n★ Mẹo nhớ & Bẫy thi: Chuỗi tính từ kinh điển: 'Dân chủ, chuyên nghiệp, hiện đại, tinh gọn, hiệu lực, hiệu quả, lấy người dân làm trung tâm'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, Kế hoạch cải cách hành chính Nhà nước trọng tâm giai đoạn 2026 - 2030 bao gồm bao nhiêu nội dung?",
+        "options": [
+          "A. Bao gồm 6 nội dung trọng tâm: Cải cách thể chế; Cải cách thủ tục hành chính; Cải cách tổ chức bộ máy; Cải cách chế độ công vụ; Cải cách tài chính công; Xây dựng và phát triển Chính quyền số",
+          "B. Bao gồm 5 nội dung",
+          "C. Bao gồm 8 nội dung",
+          "D. Bao gồm 7 nội dung"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Mục II Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND TP Huế.\n★ Phân tích chi tiết: Kế hoạch CCHC của TP Huế đồng bộ 6 nội dung lớn theo khung quốc gia: (1) Thể chế; (2) TTHC; (3) Tổ chức bộ máy; (4) Chế độ công vụ; (5) Tài chính công; (6) Chính quyền số.\n★ Mẹo nhớ & Bẫy thi: Luôn nhớ con số chuẩn: '6 nội dung CCHC trọng tâm'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, chỉ tiêu về mức độ hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước (Chỉ số SIPAS) đến năm 2030 phấn đấu đạt mức nào?",
+        "options": [
+          "A. Đạt đúng 90%",
+          "B. Đạt từ 80% đến 85%",
+          "C. Đạt tối thiểu 95% trở lên",
+          "D. Đạt tối thiểu 70%"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Chỉ tiêu cụ thể tại Quyết định số 1026/QĐ-UBND của UBND TP Huế.\n★ Phân tích chi tiết: TP Huế đặt mục tiêu rất cao về mức độ hài lòng của cá nhân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước (SIPAS) và mức độ hài lòng về dịch vụ công trực tuyến phấn đấu đạt tối thiểu từ 95% trở lên vào năm 2030.\n★ Mẹo nhớ & Bẫy thi: Chỉ tiêu SIPAS TP Huế giai đoạn 2026 - 2030: 'Tối thiểu 95% trở lên'."
       }
     ]
   },
   {
     "id": "de_02",
-    "title": "Bộ Đề Thi Số 02 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 02 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -1336,133 +1336,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Khoản 2 Điều 7 Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Nghiêm cấm người có quan hệ gia đình, thân thích với người dự tuyển tham gia Hội đồng thi và các ban giúp việc để bảo đảm khách quan, công bằng.\n★ Mẹo nhớ & bẫy thi: Có người thân dự tuyển: Tuyệt đối không tham gia Hội đồng và các Ban giúp việc."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, tỷ lệ hồ sơ giải quyết thủ tục hành chính được thực hiện hoàn toàn trên môi trường trực tuyến đến năm 2025 đặt mục tiêu đạt tối thiểu bao nhiêu?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, căn cứ vào tính chất, nội dung công việc, vị trí việc làm của công chức được phân loại thành những nhóm nào?",
         "options": [
-          "A. Tối thiểu 70%",
-          "B. Tối thiểu 60%",
-          "C. Tối thiểu 80%",
-          "D. Tối thiểu 50%"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.6 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Mục tiêu đến năm 2025: Tỷ lệ hồ sơ giải quyết trực tuyến toàn trình và một phần trên tổng số hồ sơ đạt tối thiểu 80%; đến năm 2030 đạt tối thiểu 90%.\n★ Mẹo nhớ & bẫy thi: Tỷ lệ hồ sơ trực tuyến: mốc 2025 là 80%, mốc 2030 là 90%."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu đến năm 2025 về tỷ lệ số hóa kết quả giải quyết thủ tục hành chính còn hiệu lực thuộc thẩm quyền giải quyết của cấp bộ, cấp tỉnh được quy định là bao nhiêu?",
-        "options": [
-          "A. Đạt 100% để bảo đảm kết nối, chia sẻ dữ liệu trong giải quyết thủ tục hành chính",
-          "B. Đạt tối thiểu 80%",
-          "C. Đạt tối thiểu 70%",
-          "D. Đạt tối thiểu 90%"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục II.2 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Nghị quyết quy định hoàn thành việc số hóa kết quả giải quyết thủ tục hành chính còn hiệu lực đạt 100% đối với cấp bộ, cấp tỉnh, 80% đối với cấp huyện và 60% đối với cấp xã vào năm 2025.\n★ Mẹo nhớ & bẫy thi: Cấp tỉnh và cấp bộ phải đạt 100% số hóa kết quả còn hiệu lực vào năm 2025."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, tỷ lệ tối thiểu các thủ tục hành chính có yêu cầu nghĩa vụ tài chính được triển khai thanh toán trực tuyến đến năm 2025 là bao nhiêu?",
-        "options": [
-          "A. Đạt tối thiểu 50%",
-          "B. Đạt tối thiểu 60%",
-          "C. Đạt tối thiểu 80%, trong đó tỷ lệ giao dịch thanh toán trực tuyến đạt từ 30% trở lên",
-          "D. Đạt 100% và cấm hoàn toàn hình thức thu tiền mặt tại quầy"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.6 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Tối thiểu 80% thủ tục hành chính có yêu cầu nghĩa vụ tài chính được triển khai thanh toán trực tuyến, trong đó tỷ lệ giao dịch thanh toán trực tuyến đạt từ 30% trở lên.\n★ Mẹo nhớ & bẫy thi: Chú ý hai con số đi kèm: 80% thủ tục triển khai và 30% giao dịch thực tế phát sinh trực tuyến."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Trong nội dung cải cách tổ chức bộ máy, Nghị quyết số 76/NQ-CP đặt mục tiêu gì đối với việc sắp xếp, tổ chức lại các cơ quan hành chính nhà nước?",
-        "options": [
-          "A. Duy trì nguyên trạng cơ cấu tổ chức bộ máy đã ổn định từ các giai đoạn trước",
-          "B. Sắp xếp, tổ chức lại các cơ quan theo hướng đa ngành, đa lĩnh vực, tinh gọn, hiệu lực, hiệu quả; giảm tối đa cấp trung gian và cơ bản không duy trì cấp phòng trong vụ thuộc cơ quan hành chính",
-          "C. Chuyển toàn bộ các chi cục trực thuộc sở về ủy ban nhân dân cấp huyện quản lý",
-          "D. Tăng cường tối đa các cơ quan chuyên môn theo hướng chuyên biệt hóa từng nhiệm vụ nhỏ"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục II.3 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Nguyên tắc tổ chức bộ máy là tinh gọn, đa ngành, đa lĩnh vực, khắc phục triệt để sự chồng chéo, giảm tối đa cấp trung gian, phòng trong vụ.\n★ Mẹo nhớ & bẫy thi: Từ khóa cốt lõi của cải cách bộ máy là 'đa ngành, đa lĩnh vực', 'giảm cấp trung gian'."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, việc đổi mới hệ thống tổ chức và quản lý các đơn vị sự nghiệp công lập hướng đến mục tiêu nào sau đây?",
-        "options": [
-          "A. Tăng mức bao cấp từ ngân sách nhà nước cho tất cả các đơn vị sự nghiệp công lập",
-          "B. Xóa bỏ hoàn toàn chế độ viên chức sự nghiệp để chuyển sang hợp đồng lao động vụ việc",
-          "C. Thu gọn đầu mối, tinh giản biên chế gắn với nâng cao chất lượng dịch vụ công; đẩy mạnh trao quyền tự chủ về tài chính, biên chế cho các đơn vị sự nghiệp công lập đủ điều kiện",
-          "D. Chuyển toàn bộ các bệnh viện và trường học công lập sang cho khu vực tư nhân quản lý"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.3 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Mục tiêu đối với đơn vị sự nghiệp công lập là thu gọn đầu mối, cơ cấu lại, đẩy mạnh xã hội hóa và trao quyền tự chủ phù hợp.\n★ Mẹo nhớ & bẫy thi: 'Tự chủ tài chính, biên chế gắn với nâng cao chất lượng' là định hướng xuyên suốt."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Quyết định số 3322/QĐ-UBND ngày 25/12/2024 của Ủy ban nhân dân tỉnh Thừa Thiên Huế (nay là thành phố Huế) phê duyệt nội dung kế hoạch nào?",
-        "options": [
-          "A. Kế hoạch thanh tra công vụ đối với các doanh nghiệp nhà nước",
-          "B. Kế hoạch đầu tư công trung hạn giai đoạn 2026-2030",
-          "C. Kế hoạch tinh giản biên chế viên chức ngành y tế năm 2025",
-          "D. Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025"
+          "A. Vị trí hành chính tổng hợp; Vị trí chuyên trách đoàn thể; Vị trí kỹ thuật viên",
+          "B. Vị trí chính thức; Vị trí dự bị; Vị trí kiêm nhiệm; Vị trí tập sự",
+          "C. Vị trí công chức cấp tỉnh; Vị trí công chức cấp huyện; Vị trí công chức cấp xã",
+          "D. Vị trí lãnh đạo, quản lý; Vị trí nghiệp vụ chuyên ngành; Vị trí nghiệp vụ chuyên môn dùng chung; Vị trí hỗ trợ, phục vụ"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 3322/QĐ-UBND ngày 25/12/2024 của UBND tỉnh Thừa Thiên Huế.\n★ Phân tích chi tiết: Tên đầy đủ của Quyết định 3322 là: Kế hoạch cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025.\n★ Mẹo nhớ & bẫy thi: Quyết định 3322 gắn trực tiếp cụm từ 'cải cách hành chính gắn với chính quyền số, dịch vụ đô thị thông minh năm 2025'."
+        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Theo tính chất, nội dung công việc, có 4 nhóm vị trí việc làm: (1) Lãnh đạo, quản lý; (2) Nghiệp vụ chuyên ngành; (3) Nghiệp vụ chuyên môn dùng chung; (4) Hỗ trợ, phục vụ.\n★ Mẹo nhớ & Bẫy thi: Nhớ câu thần chú 4 nhóm: 'Lãnh đạo - Chuyên ngành - Dùng chung - Hỗ trợ phục vụ'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Quyết định số 2243/QĐ-UBND ngày 10/9/2021 của UBND tỉnh Thừa Thiên Huế (nay là thành phố Huế) phê duyệt văn bản nào?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, căn cứ vào khối lượng công việc, vị trí việc làm được phân loại thành những loại nào?",
         "options": [
-          "A. Kế hoạch cải cách hành chính giai đoạn 2021–2025, định hướng đến năm 2030 của tỉnh Thừa Thiên Huế (nay là thành phố Huế)",
-          "B. Quy hoạch phân khu đô thị bờ Bắc sông Hương",
-          "C. Quy chế quản lý lễ hội Festival Huế",
-          "D. Kế hoạch bảo vệ môi trường vịnh Lăng Cô"
+          "A. Vị trí việc làm khối lượng lớn; Vị trí việc làm khối lượng trung bình; Vị trí việc làm đơn giản",
+          "B. Vị trí việc làm thường xuyên; Vị trí việc làm thời vụ; Vị trí việc làm tạm thời",
+          "C. Vị trí việc làm do một người đảm nhiệm; Vị trí việc làm do nhiều người đảm nhiệm; Vị trí việc làm kiêm nhiệm",
+          "D. Vị trí việc làm toàn thời gian; Vị trí việc làm bán thời gian; Vị trí làm việc từ xa"
         ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 2243/QĐ-UBND ngày 10/9/2021 của UBND tỉnh.\n★ Phân tích chi tiết: Quyết định số 2243/QĐ-UBND là văn bản chiến lược khung về Kế hoạch cải cách hành chính giai đoạn 2021-2025, định hướng đến năm 2030 của tỉnh (nay là TP Huế).\n★ Mẹo nhớ & bẫy thi: QĐ 2243 là kế hoạch CCHC trung hạn 5 năm (2021-2025) định hướng 2030."
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Theo khối lượng công việc: (1) Vị trí do một người đảm nhiệm; (2) Vị trí do nhiều người đảm nhiệm; (3) Vị trí kiêm nhiệm.\n★ Mẹo nhớ & Bẫy thi: Khối lượng công việc -> đếm người: '1 người, nhiều người, kiêm nhiệm'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Chỉ số nào do Bộ Thông tin và Truyền thông công bố hàng năm, đánh giá toàn diện mức độ chuyển đổi số của các tỉnh, thành phố trực thuộc trung ương (trong đó Thừa Thiên Huế liên tục đứng trong nhóm dẫn đầu cả nước)?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, 'Vị trí việc làm nghiệp vụ chuyên ngành' là vị trí việc làm nào sau đây?",
         "options": [
-          "A. Chỉ số DTI (Digital Transformation Index)",
-          "B. Chỉ số SIPAS",
-          "C. Chỉ số PCI",
-          "D. Chỉ số PAPI"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định của Bộ Thông tin và Truyền thông về Bộ chỉ số đánh giá chuyển đổi số.\n★ Phân tích chi tiết: DTI (Digital Transformation Index - Chỉ số Chuyển đổi số) do Bộ TT&TT đánh giá theo 3 trụ cột: Chính quyền số, Kinh tế số và Xã hội số.\n★ Mẹo nhớ & bẫy thi: Chuyển đổi số = DTI."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Chỉ số PAPI (Hiệu quả quản trị và hành chính công cấp tỉnh) tại Thừa Thiên Huế đo lường điều gì từ người dân?",
-        "options": [
-          "A. Đo lường mức tăng trưởng vốn đầu tư công của các doanh nghiệp",
-          "B. Đo lường trải nghiệm, cảm nhận và mức độ hài lòng của người dân về hiệu quả quản trị, tham gia quản lý nhà nước và cung ứng dịch vụ công tại cơ sở",
-          "C. Đo lường tỷ lệ cử tri tham gia bỏ phiếu trong các kỳ bầu cử",
-          "D. Đo lường năng suất lao động của các doanh nghiệp có vốn đầu tư nước ngoài"
+          "A. Là vị trí thực hiện công việc quản trị văn phòng, tổ chức cán bộ, tài chính kế toán dùng chung cho mọi cơ quan",
+          "B. Là vị trí thực hiện các công việc chuyên môn, nghiệp vụ đặc thù thuộc ngành, lĩnh vực quản lý nhà nước của cơ quan, tổ chức",
+          "C. Là vị trí lái xe, bảo vệ, văn thư, lễ tân phục vụ hoạt động cơ quan",
+          "D. Là vị trí có quyền chỉ đạo, điều hành toàn diện cơ quan, tổ chức"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Tài liệu đánh giá chỉ số PAPI của UNDP và Mặt trận Tổ quốc Việt Nam.\n★ Phân tích chi tiết: PAPI là chỉ số xã hội học độc lập, đo lường sự tham gia của người dân ở cấp cơ sở, tính công khai minh bạch, kiểm soát tham nhũng và cung ứng dịch vụ công.\n★ Mẹo nhớ & bẫy thi: PAPI là chỉ số đo tiếng nói và trải nghiệm thực tế của người dân ở cơ sở."
+        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Vị trí việc làm nghiệp vụ chuyên ngành thực hiện các công việc chuyên môn nghiệp vụ mang tính chất đặc thù thuộc ngành, lĩnh vực quản lý nhà nước (ví dụ: công chức địa chính, công chức quản lý môi trường, công chức thanh tra xây dựng...).\n★ Mẹo nhớ & Bẫy thi: Chuyên ngành = mang tính đặc thù chuyên môn ngành, lĩnh vực (phân biệt với chuyên môn dùng chung như kế toán, nhân sự, CNTT)."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Trên nền tảng Hue-S, chức năng 'Phản ánh hiện trường' hoạt động theo quy trình tương tác nào giữa người dân và chính quyền?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, vị trí công chức làm công tác tổ chức cán bộ, kế toán, văn phòng, công nghệ thông tin trong các cơ quan nhà nước thuộc nhóm vị trí việc làm nào?",
         "options": [
-          "A. Người dân gửi đơn khiếu nại bằng văn bản có công chứng đến ủy ban nhân dân thành phố",
-          "B. Chỉ tiếp nhận phản ánh liên quan đến vệ sinh môi trường vào các ngày nghỉ cuối tuần",
-          "C. Người phản ánh phải đóng phí xác minh thông tin trước khi xử lý",
-          "D. Người dân chụp ảnh, quay video gửi phản ánh trực tiếp qua app; Trung tâm IOC tiếp nhận, xác minh và điều phối cơ quan có thẩm quyền xử lý; kết quả xử lý được công khai minh bạch trên app để người dân đánh giá mức độ hài lòng"
+          "A. Vị trí việc làm lãnh đạo, quản lý",
+          "B. Vị trí việc làm nghiệp vụ chuyên môn dùng chung",
+          "C. Vị trí việc làm hỗ trợ, phục vụ thuần túy",
+          "D. Vị trí việc làm nghiệp vụ chuyên ngành"
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Quy chế tiếp nhận, xử lý phản ánh hiện trường qua hệ thống đô thị thông minh của UBND tỉnh Thừa Thiên Huế (nay là TP Huế).\n★ Phân tích chi tiết: Quy trình xử lý phản ánh hiện trường trên Hue-S hoàn toàn công khai: Gửi qua app -> IOC điều phối cơ quan chức năng -> Cơ quan xử lý có hạn định -> Đăng tải kết quả công khai -> Người dân chấm điểm hài lòng.\n★ Mẹo nhớ & bẫy thi: Quy trình phản ánh trên Hue-S: Công khai ảnh/video -> Hẹn giờ xử lý -> Công khai kết quả -> Người dân giám sát, chấm điểm."
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Các công việc tổ chức cán bộ, tài chính, kế toán, văn phòng, hành chính quản trị, công nghệ thông tin có mặt ở hầu hết các cơ quan và được xếp vào nhóm 'Vị trí việc làm nghiệp vụ chuyên môn dùng chung'.\n★ Mẹo nhớ & Bẫy thi: Các vị trí xuất hiện ở mọi sở ban ngành (kế toán, văn phòng, văn thư số, nhân sự) -> 'DÙNG CHUNG'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, quan điểm đổi mới cơ chế quản lý và tài chính đối với hoạt động nghiên cứu khoa học là gì?",
+        "options": [
+          "A. Thu hồi toàn bộ kinh phí nếu đề tài không tạo ra sản phẩm hoàn hảo như dự kiến ban đầu",
+          "B. Chấp nhận rủi ro trong nghiên cứu khoa học, chuyển từ quản lý theo quy trình sang quản lý theo kết quả đầu ra",
+          "C. Xóa bỏ hoàn toàn ngân sách nhà nước đầu tư cho nghiên cứu cơ bản",
+          "D. Bắt buộc 100% đề tài nghiên cứu phải có lợi nhuận thương mại ngay trong năm đầu"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Nhiệm vụ giải pháp tại Nghị quyết số 57-NQ/TW.\n★ Phân tích chi tiết: Một điểm đột phá chiến lược của NQ 57-NQ/TW là chấp nhận nguyên lý rủi ro và độ trễ trong nghiên cứu khoa học; chuyển mạnh phương thức phân bổ tài chính sang cơ chế đặt hàng, khoán chi và quản lý theo sản phẩm/kết quả đầu ra.\n★ Mẹo nhớ & Bẫy thi: Từ khóa mang tính đột phá: 'Chấp nhận rủi ro' + 'Quản lý theo kết quả đầu ra'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, ba trụ cột chính trong chiến lược chuyển đổi số quốc gia là gì?",
+        "options": [
+          "A. Thẻ căn cước số, Chữ ký số và Tiền điện tử",
+          "B. Chính phủ số, Kinh tế số và Xã hội số",
+          "C. Mạng 5G, Điện toán đám mây và Trí tuệ nhân tạo",
+          "D. Chính quyền số, An ninh mạng và Bưu chính số"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Nội dung chuyển đổi số tại Nghị quyết số 57-NQ/TW.\n★ Phân tích chi tiết: Chiến lược chuyển đổi số quốc gia được xây dựng vững chắc trên 3 trụ cột đồng bộ: (1) Chính phủ số (tại địa phương là Chính quyền số); (2) Kinh tế số; (3) Xã hội số.\n★ Mẹo nhớ & Bẫy thi: Tam giác vàng chuyển đổi số: 'Chính phủ số - Kinh tế số - Xã hội số'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, nguồn lực nào được xác định là trung tâm, chủ thể và là động lực quan trọng nhất trong hệ sinh thái đổi mới sáng tạo?",
+        "options": [
+          "A. Con người, đội ngũ trí thức, nhà khoa học và doanh nghiệp khởi nghiệp đổi mới sáng tạo",
+          "B. Các cơ sở hạ tầng nhà xưởng cơ khí truyền thống",
+          "C. Hệ thống kho bãi logistics của nhà nước",
+          "D. Nguồn vốn vay ưu đãi từ các tổ chức tài chính quốc tế"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Quan điểm chỉ đạo Nghị quyết số 57-NQ/TW.\n★ Phân tích chi tiết: Con người là trung tâm, chủ thể, nguồn lực quan trọng nhất; coi trọng trọng dụng nhân tài, các nhà khoa học đầu ngành và phát huy vai trò tiên phong của doanh nghiệp đổi mới sáng tạo.\n★ Mẹo nhớ & Bẫy thi: Con người luôn là 'trung tâm, chủ thể và động lực cốt lõi'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, mục tiêu về vị trí xếp hạng Chỉ số Cải cách hành chính (PAR INDEX) của thành phố Huế giai đoạn 2026 - 2030 là gì?",
+        "options": [
+          "A. Xếp ở nhóm trung bình cả nước",
+          "B. Phấn đấu thoát khỏi nhóm 15 địa phương thấp nhất",
+          "C. Duy trì thứ hạng trong nhóm 10 địa phương dẫn đầu cả nước",
+          "D. Không sử dụng chỉ số PAR INDEX để đánh giá"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Chỉ tiêu CCHC tại Quyết định số 1026/QĐ-UBND của UBND TP Huế.\n★ Phân tích chi tiết: Mục tiêu xuyên suốt của thành phố Huế là duy trì vị trí Chỉ số Cải cách hành chính (PAR INDEX) của thành phố trong top 10 địa phương dẫn đầu cả nước.\n★ Mẹo nhớ & Bẫy thi: Mục tiêu PAR INDEX của Huế: 'Top 10 địa phương dẫn đầu cả nước'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, trọng tâm trong công tác 'Cải cách thủ tục hành chính' của thành phố Huế giai đoạn 2026 - 2030 là gì?",
+        "options": [
+          "A. Cắt giảm tối thiểu 20% thông tin phải khai báo, đơn giản hóa và tái cấu trúc quy trình nội bộ, thực hiện thủ tục hành chính không phụ thuộc vào địa giới hành chính",
+          "B. Ban hành thêm các loại giấy phép con để quản lý chặt chẽ hơn",
+          "C. Yêu cầu người dân nộp thêm bản cam kết bảo lãnh của công an khu vực",
+          "D. Tăng thời gian thẩm định hồ sơ đất đai thêm 15 ngày làm việc"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Nội dung cải cách TTHC tại Quyết định số 1026/QĐ-UBND của UBND TP Huế.\n★ Phân tích chi tiết: Trọng tâm là rà soát, cắt giảm, đơn giản hóa TTHC; cắt giảm tối thiểu 20% thông tin phải khai báo trên cơ sở khai thác dữ liệu số; đẩy mạnh cung cấp dịch vụ công 'phi địa giới hành chính'.\n★ Mẹo nhớ & Bẫy thi: Đột phá TTHC: 'Cắt giảm 20% thông tin khai báo' + 'Thủ tục không phụ thuộc địa giới hành chính'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, yêu cầu then chốt trong 'Cải cách tổ chức bộ máy' hành chính nhà nước của thành phố là gì?",
+        "options": [
+          "A. Sắp xếp, tinh gọn các cơ quan chuyên môn theo Nghị định số 150/2025/NĐ-CP và Nghị định số 370/2025/NĐ-CP, bảo đảm một việc chỉ giao cho một cơ quan chủ trì thực hiện và chịu trách nhiệm chính",
+          "B. Chia nhỏ các sở ban ngành để dễ quản lý nội bộ",
+          "C. Chuyển quyền quản lý ngân sách về cho từng công chức",
+          "D. Mỗi phòng chuyên môn phải có tối thiểu 5 cấp phó"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Nội dung cải cách tổ chức bộ máy tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Tổ chức bộ máy hành chính TP Huế thực hiện tinh gọn, khắc phục triệt để tình trạng chồng chéo, trùng lặp chức năng; quán triệt nguyên tắc 'Một việc chỉ giao một cơ quan chủ trì và chịu trách nhiệm chính'.\n★ Mẹo nhớ & Bẫy thi: Nguyên tắc tổ chức bộ máy: 'Một việc chỉ giao một cơ quan chủ trì, chịu trách nhiệm chính'."
       }
     ]
   },
   {
     "id": "de_03",
-    "title": "Bộ Đề Thi Số 03 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 03 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -2065,133 +2065,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Khoản 2 Điều 25 Nghị định 170.\n★ Phân tích chi tiết: Chính sách nhân văn: Hủy tuyển dụng do không đạt tập sự được trợ cấp 01 tháng lương và tiền tàu xe.\n★ Mẹo nhớ & bẫy thi: Hủy tuyển dụng không đạt tập sự: Trợ cấp 01 tháng lương + Tiền tàu xe về nơi cư trú."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Nội dung cải cách chế độ công vụ theo Nghị quyết số 76/NQ-CP nhấn mạnh nguyên tắc căn bản nào trong quản lý, bố trí công chức?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, tài liệu nào đi kèm với danh mục vị trí việc làm quy định rõ nhiệm vụ, quyền hạn, tiêu chuẩn năng lực và ngạch công chức tương ứng?",
         "options": [
-          "A. Bố trí công chức theo nguyên tắc bổ nhiệm suốt đời không qua đánh giá định kỳ",
-          "B. Quản lý, sử dụng, tuyển dụng công chức căn cứ theo vị trí việc làm và tiêu chuẩn chức danh đã được phê duyệt",
-          "C. Áp dụng chế độ luân chuyển bắt buộc hàng năm cho toàn bộ công chức hành chính",
-          "D. Bố trí công chức căn cứ theo thâm niên công tác và độ tuổi của cán bộ"
+          "A. Bản kê khai lý lịch tư pháp của công chức",
+          "B. Bản mô tả công việc và khung năng lực của vị trí việc làm",
+          "C. Bản cam kết thi đua cá nhân hàng năm",
+          "D. Bản hợp đồng trách nhiệm công vụ"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục II.4 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Cải cách chế độ công vụ đặt trọng tâm vào việc xây dựng cơ cấu công chức gắn với vị trí việc làm; tuyển dụng, sử dụng, đánh giá theo tiêu chuẩn chức danh và năng lực thực tế.\n★ Mẹo nhớ & bẫy thi: Chế độ công vụ hiện đại chuyển đổi từ nền công vụ dựa trên 'thâm niên' sang 'vị trí việc làm'."
+        "explanation": "★ Căn cứ pháp lý: Điều 7 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Mỗi vị trí việc làm phải có 'Bản mô tả công việc' và 'Khung năng lực' tương ứng, trong đó quy định rõ mục tiêu vị trí, nhiệm vụ chính, tiêu chuẩn trình độ, năng lực và ngạch công chức tối thiểu/tối đa.\n★ Mẹo nhớ & Bẫy thi: Cặp đôi hoàn hảo của vị trí việc làm: 'Bản mô tả công việc' + 'Khung năng lực'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, giải pháp đột phá trong đánh giá cán bộ, công chức, viên chức là gì?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc xác định cơ cấu ngạch công chức trong mỗi cơ quan, tổ chức căn cứ vào yếu tố nào?",
         "options": [
-          "A. Chỉ đánh giá khi có đơn thư phản ánh hoặc kiểm tra của cơ quan thanh tra",
-          "B. Đánh giá dựa vào số năm thâm niên giữ ngạch công chức",
-          "C. Đánh giá định lượng hóa dựa trên kết quả thực hiện nhiệm vụ, sản phẩm công việc cụ thể gắn với mức độ hài lòng của đối tượng phục vụ",
-          "D. Đánh giá chủ yếu dựa trên phiếu tự nhận xét và kết quả bình bầu cảm tính"
+          "A. Căn cứ vào mức kinh phí tự chủ còn dư trong tài khoản đơn vị",
+          "B. Căn cứ vào tỷ lệ biểu quyết trong đại hội cán bộ công chức đầu năm",
+          "C. Căn cứ vào tuổi đời trung bình của đội ngũ công chức hiện có trong cơ quan",
+          "D. Căn cứ vào danh mục vị trí việc làm, bản mô tả công việc và khung năng lực của từng vị trí việc làm"
         ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.4 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Đổi mới căn bản phương thức đánh giá cán bộ, công chức theo hướng xuyên suốt, liên tục, đa chiều, có tiêu chí rõ ràng gắn với sản phẩm đầu ra và sự hài lòng của người dân.\n★ Mẹo nhớ & bẫy thi: 'Gắn với kết quả, sản phẩm công việc cụ thể và sự hài lòng' là tiêu chí đột phá."
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Điều 8 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Cơ cấu ngạch công chức được xác định căn cứ vào danh mục vị trí việc làm, bản mô tả công việc và khung năng lực tương ứng của từng vị trí việc làm trong cơ quan, tổ chức.\n★ Mẹo nhớ & Bẫy thi: Cơ cấu ngạch công chức được xây dựng từ dưới lên dựa trên 'danh mục vị trí việc làm và bản mô tả công việc'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu cải cách tài chính công hướng tới nội dung nào sau đây?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, cơ cấu ngạch công chức của cơ quan, tổ chức là gì?",
         "options": [
-          "A. Chuyển toàn bộ quyền phân bổ ngân sách nhà nước cho khu vực doanh nghiệp tư nhân quyết định",
-          "B. Xóa bỏ hoàn toàn định mức, tiêu chuẩn chi tiêu trong cơ quan hành chính nhà nước",
-          "C. Đổi mới cơ chế phân bổ, quản lý, sử dụng ngân sách nhà nước theo hướng quản lý theo kết quả đầu ra; kiểm soát chặt chẽ chi tiêu công, bảo đảm tiết kiệm, minh bạch, phòng chống lãng phí",
-          "D. Cắt giảm toàn bộ chi đầu tư phát triển để dồn ngân sách cho chi thường xuyên"
+          "A. Là số lượng công chức đã chuyển đảng chính thức so với dự bị",
+          "B. Là cơ cấu giới tính và độ tuổi trong ban lãnh đạo cơ quan",
+          "C. Là tổng số lượng chứng chỉ nghiệp vụ mà công chức đã đạt được",
+          "D. Là tỷ lệ phần trăm (%) công chức giữ các ngạch công chức tương ứng với danh mục vị trí việc làm trong tổng số biên chế được giao"
         ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.5 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Cải cách tài chính công tập trung vào đổi mới cơ chế quản lý ngân sách theo kết quả đầu ra, tăng cường trách nhiệm giải trình và quản lý tài sản công minh bạch.\n★ Mẹo nhớ & bẫy thi: Quản lý ngân sách hiện đại là quản lý theo 'kết quả đầu ra' thay vì quản lý theo 'yếu tố đầu vào'."
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Điều 8 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Cơ cấu ngạch công chức là tỷ lệ % công chức giữ các ngạch công chức (chuyên viên cao cấp, chuyên viên chính, chuyên viên, cán sự, nhân viên) theo vị trí việc làm trong tổng số biên chế công chức của cơ quan, tổ chức.\n★ Mẹo nhớ & Bẫy thi: Cơ cấu ngạch luôn được tính bằng 'tỷ lệ % các ngạch trong tổng số biên chế'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Mục tiêu đến năm 2025 về tỷ lệ các ứng dụng công nghệ thông tin có dữ liệu dùng chung được kết nối, chia sẻ qua mạng truyền số liệu chuyên dùng được quy định như thế nào trong Nghị quyết số 76/NQ-CP?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, cơ quan nào có trách nhiệm hướng dẫn về vị trí việc làm công chức lãnh đạo, quản lý và nghiệp vụ chuyên môn dùng chung trong các cơ quan hành chính?",
         "options": [
-          "A. Đạt 100% các hệ thống thông tin, cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành kết nối, chia sẻ thông suốt qua nền tảng tích hợp, chia sẻ dữ liệu",
-          "B. Đạt tối thiểu 70%",
-          "C. Đạt tối thiểu 50%",
-          "D. Không quy định chỉ tiêu bắt buộc kết nối liên thông"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục II.6 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Đến năm 2025 bảo đảm 100% các hệ thống thông tin, cơ sở dữ liệu có quy mô từ trung ương đến địa phương được kết nối, chia sẻ dữ liệu thông qua Nền tảng tích hợp, chia sẻ dữ liệu quốc gia (NDXP).\n★ Mẹo nhớ & bẫy thi: Mục tiêu kết nối chia sẻ dữ liệu dùng chung qua mạng truyền số liệu là 100%."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, tỷ lệ tối thiểu công chức lãnh đạo, quản lý cấp sở, ngành và tương đương được bồi dưỡng nâng cao năng lực quản lý nhà nước trước khi bổ nhiệm là bao nhiêu?",
-        "options": [
-          "A. Đạt 100% đáp ứng tiêu chuẩn chức danh lãnh đạo, quản lý và được bồi dưỡng theo quy định",
-          "B. Chỉ bồi dưỡng sau khi đã được bổ nhiệm chính thức 01 năm",
-          "C. Đạt tối thiểu 90%",
-          "D. Đạt tối thiểu 80%"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục II.4 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Đến năm 2025, 100% cán bộ, công chức lãnh đạo, quản lý các cấp phải được bồi dưỡng theo tiêu chuẩn chức danh trước khi bổ nhiệm.\n★ Mẹo nhớ & bẫy thi: Bồi dưỡng chức danh lãnh đạo bổ nhiệm là điều kiện bắt buộc 100%."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tình huống phòng thi: Trong giờ thi môn Kiến thức chung Vòng 1 kỳ thi tuyển công chức thành phố Huế năm 2025, giám thị phát hiện thí sinh C mang theo điện thoại di động trong túi quần (điện thoại đang ở chế độ rung). Theo Nội quy thi ban hành kèm Thông tư số 001/2025/tt-BNV, giám thị phòng thi xử lý thí sinh C như thế nào?",
-        "options": [
-          "A. Lập biên bản vi phạm, đình chỉ thi và hủy bỏ kết quả thi của thí sinh C ngay tại thời điểm phát hiện",
-          "B. Yêu cầu thí sinh C tắt nguồn điện thoại và tiếp tục làm bài thi bình thường",
-          "C. Trừ 50% số điểm bài thi của thí sinh C khi chấm bài",
-          "D. Chờ thí sinh làm bài xong mới lập biên bản nhắc nhở"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 3 Thông tư số 001/2025/TT-BNV.\n★ Phân tích chi tiết: Thí sinh mang điện thoại di động, thiết bị truyền tin vào phòng thi (dù sử dụng hay chưa sử dụng) đều bị lập biên bản, đình chỉ thi ngay lập tức và hủy bỏ kết quả thi.\n★ Mẹo nhớ & bẫy thi: Mang điện thoại vào phòng thi = Đình chỉ thi ngay lập tức + Hủy kết quả thi (không có hình thức trừ điểm)."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tình huống thời gian dự thi: Trong kỳ thi trắc nghiệm trên máy vi tính Vòng 1, thí sinh D đến cửa phòng thi muộn 15 phút sau khi có hiệu lệnh bắt đầu tính giờ làm bài. Theo Nội quy thi tuyển công chức, Hội đồng thi giải quyết trường hợp của thí sinh D như thế nào?",
-        "options": [
-          "A. Cho phép vào thi nếu thí sinh có lý do chính đáng về kẹt xe và không được bù giờ",
-          "B. Không cho phép thí sinh D tham dự thi vì đã quá thời gian quy định cho phép vào phòng thi",
-          "C. Cho phép thí sinh D vào thi và bù thêm 15 phút làm bài",
-          "D. Chuyển thí sinh D sang thi cùng ca thi kế tiếp vào buổi chiều"
+          "A. Văn phòng Chính phủ",
+          "B. Bộ Nội vụ",
+          "C. Bộ Tư pháp",
+          "D. Ban Tổ chức Trung ương"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Thông tư số 001/2025/TT-BNV.\n★ Phân tích chi tiết: Thí sinh đến muộn quá thời gian quy định (thông thường quá 10 phút sau khi có hiệu lệnh bắt đầu tính giờ thi) thì tuyệt đối không được dự thi.\n★ Mẹo nhớ & bẫy thi: Đến muộn quá hiệu lệnh tính giờ quy định = Không được vào phòng thi."
+        "explanation": "★ Căn cứ pháp lý: Điều 14 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Bộ Nội vụ là cơ quan chịu trách nhiệm trước Chính phủ hướng dẫn về vị trí việc làm lãnh đạo, quản lý và vị trí việc làm nghiệp vụ chuyên môn dùng chung, hỗ trợ phục vụ trong cơ quan hành chính nhà nước.\n★ Mẹo nhớ & Bẫy thi: Chuyên môn dùng chung & lãnh đạo quản lý công chức -> BỘ NỘI VỤ hướng dẫn. Chuyên ngành -> Bộ quản lý ngành, lĩnh vực hướng dẫn."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Thông báo số 3941/TB-SNV, trường hợp thí sinh nào sau đây được miễn thi môn Ngoại ngữ (Tiếng Anh) tại Vòng 1 kỳ thi tuyển công chức thành phố Huế năm 2025?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Nghị quyết số 03/NQ-CP ngày 09/01/2025 của Chính phủ được ban hành nhằm mục đích gì?",
         "options": [
-          "A. Thí sinh là con của người có công với cách mạng",
-          "B. Thí sinh có bằng tốt nghiệp đại học trở lên chuyên ngành ngôn ngữ Anh hoặc có văn bằng do cơ sở đào tạo nước ngoài cấp bằng tiếng Anh được công nhận theo quy định",
-          "C. Thí sinh có chứng chỉ tin học ứng dụng nâng cao",
-          "D. Thí sinh đã từng đi du lịch nước ngoài trên 01 tháng"
+          "A. Ban hành Quy chế thi tuyển công chức cấp xã",
+          "B. Thành lập Quỹ đầu tư mạo hiểm quốc gia",
+          "C. Quy định mức thuế thu nhập doanh nghiệp công nghệ cao",
+          "D. Ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 57-NQ/TW của Bộ Chính trị"
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP và Thông báo số 3941/TB-SNV.\n★ Phân tích chi tiết: Miễn thi ngoại ngữ cho người có bằng tốt nghiệp đại học, sau đại học chuyên ngành ngôn ngữ ngoại ngữ; hoặc tốt nghiệp ở nước ngoài giảng dạy bằng tiếng nước ngoài; hoặc có chứng chỉ tiếng Anh quốc tế đạt chuẩn theo quy định.\n★ Mẹo nhớ & bẫy thi: Miễn ngoại ngữ căn cứ vào văn bằng/chứng chỉ ngoại ngữ hợp lệ, không căn cứ vào đối tượng ưu tiên chính sách."
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Tên gọi và mục tiêu của Nghị quyết số 03/NQ-CP ngày 09/01/2025.\n★ Phân tích chi tiết: Nghị quyết số 03/NQ-CP ban hành Chương trình hành động cụ thể hóa các mục tiêu, nhiệm vụ, giải pháp của Nghị quyết số 57-NQ/TW phân công cho các bộ, ngành, địa phương tổ chức triển khai đồng bộ.\n★ Mẹo nhớ & Bẫy thi: NQ 03/NQ-CP là 'Chương trình hành động của Chính phủ thực hiện NQ 57-NQ/TW'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tình huống ưu tiên: Thí sinh E là người dân tộc thiểu số và có bố đẻ là thương binh suy giảm khả năng lao động 81%. Theo quy định tại Nghị định số 170/2025/NĐ-CP, điểm ưu tiên trong tuyển dụng công chức được tính cho thí sinh E như thế nào?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 03/NQ-CP, nhiệm vụ nào sau đây được Chính phủ giao cho các địa phương trong việc phát triển Chính quyền số?",
         "options": [
-          "A. Được cộng dồn điểm ưu tiên của cả hai diện đối tượng",
-          "B. Không được cộng điểm ưu tiên nếu đã đỗ tốt nghiệp loại giỏi",
-          "C. Chỉ được cộng điểm ưu tiên cao nhất của một trong hai diện đối tượng ưu tiên",
-          "D. Được tuyển thẳng mà không phải thi Vòng 2"
+          "A. Tập trung số hóa hồ sơ, tái cấu trúc quy trình, cung cấp dịch vụ công trực tuyến toàn trình và kết nối, chia sẻ dữ liệu với Cơ sở dữ liệu quốc gia",
+          "B. Đóng cửa hoàn toàn các trung tâm phục vụ hành chính công để chuyển 100% lên mạng",
+          "C. Chỉ sử dụng máy tính ngoại nhập thế hệ mới nhất",
+          "D. Tự xây dựng các trung tâm dữ liệu riêng biệt không kết nối với trục dữ liệu quốc gia"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Nhiệm vụ phát triển Chính quyền số tại Nghị quyết số 03/NQ-CP.\n★ Phân tích chi tiết: Trọng tâm của các địa phương là: số hóa hồ sơ giấy tờ, tái cấu trúc quy trình nghiệp vụ giải quyết TTHC, cung cấp dịch vụ công trực tuyến toàn trình, tích hợp và liên thông dữ liệu dân cư, đất đai qua Trục kết nối chia sẻ dữ liệu quốc gia (NDXP/LGSP).\n★ Mẹo nhớ & Bẫy thi: Từ khóa của Chính quyền số: 'Số hóa hồ sơ + Tái cấu trúc quy trình + Dịch vụ công trực tuyến toàn trình'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 03/NQ-CP, cơ chế thử nghiệm có kiểm soát (Sandbox) trong lĩnh vực công nghệ số được hiểu là gì?",
+        "options": [
+          "A. Không thu bất kỳ loại thuế nào đối với mọi doanh nghiệp phần mềm",
+          "B. Miễn trừ hoàn toàn trách nhiệm pháp sự cho các công ty khởi nghiệp",
+          "C. Cho phép thử nghiệm các sản phẩm, dịch vụ số, mô hình kinh doanh mới trong một không gian và thời gian xác định có sự giám sát của cơ quan nhà nước",
+          "D. Cho phép áp dụng luật pháp nước ngoài tại các khu công nghệ cao"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Trường hợp thí sinh thuộc nhiều diện ưu tiên thì chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm thi tại Vòng 2.\n★ Mẹo nhớ & bẫy thi: Nguyên tắc cộng điểm ưu tiên: 'Nhiều diện ưu tiên thì chỉ lấy mức cao nhất, không cộng dồn'."
+        "explanation": "★ Căn cứ pháp lý: Nhiệm vụ thể chế tại Nghị quyết số 03/NQ-CP.\n★ Phân tích chi tiết: Cơ chế thử nghiệm chính sách (Sandbox) là cơ chế pháp lý đặc thù cho phép các giải pháp công nghệ, mô hình kinh doanh mới (fintech, AI, dữ liệu lớn...) được thử nghiệm trong phạm vi kiểm soát trước khi ban hành khung pháp lý hoàn chỉnh.\n★ Mẹo nhớ & Bẫy thi: Sandbox = 'Thử nghiệm có kiểm soát trong không gian và thời gian xác định'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo kế hoạch chuyển đổi số của thành phố Huế, chỉ tiêu số hóa hồ sơ, kết quả giải quyết thủ tục hành chính tại Trung tâm Phục vụ hành chính công các cấp trên địa bàn đặt mục tiêu đạt tỷ lệ bao nhiêu?",
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, giải pháp mang tính đột phá trong 'Cải cách chế độ công vụ' của thành phố Huế là gì?",
         "options": [
-          "A. Đạt 70%",
-          "B. Chỉ số hóa các hồ sơ thuộc lĩnh vực đất đai",
-          "C. Đạt 100% hồ sơ, giấy tờ phát sinh trong tiếp nhận, giải quyết TTHC được số hóa ngay từ khâu đầu vào",
-          "D. Đạt 50%"
+          "A. Miễn đánh giá định kỳ hàng năm cho công chức có bằng thạc sĩ",
+          "B. Bổ nhiệm công chức lãnh đạo dựa vào số năm đóng bảo hiểm xã hội",
+          "C. Không thực hiện thi tuyển cạnh tranh mà chuyển sang tuyển thẳng toàn bộ",
+          "D. Bố trí, sắp xếp công chức đúng theo Đề án vị trí việc làm (Nghị định 361/2025/NĐ-CP), đổi mới phương thức tuyển dụng cạnh tranh và đánh giá công chức dựa trên kết quả công việc (KPI)"
         ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 3322/QĐ-UBND của UBND tỉnh Thừa Thiên Huế (nay là TP Huế).\n★ Phân tích chi tiết: Mục tiêu xuyên suốt của chính quyền số Huế là 100% hồ sơ, kết quả giải quyết TTHC được số hóa điện tử để người dân không phải nộp lại giấy tờ cũ.\n★ Mẹo nhớ & bẫy thi: Mục tiêu số hóa hồ sơ TTHC tại bộ phận một cửa Huế là 100%."
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Nội dung cải cách chế độ công vụ tại Quyết định số 1026/QĐ-UBND của UBND TP Huế.\n★ Phân tích chi tiết: Đột phá công vụ của Huế là: Chuẩn hóa 100% vị trí việc làm theo NĐ 361/2025/NĐ-CP; tuyển dụng cạnh tranh, khách quan, công khai; đo lường hiệu quả công việc thực chất qua KPI/sản phẩm đầu ra.\n★ Mẹo nhớ & Bẫy thi: Đột phá chế độ công vụ: 'Vị trí việc làm (NĐ 361) + Tuyển dụng cạnh tranh + Đánh giá theo KPI'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, mô hình tiếp nhận và trả kết quả thủ tục hành chính tại thành phố Huế được tổ chức hiện đại hóa như thế nào?",
+        "options": [
+          "A. Nâng cao hiệu quả Trung tâm Phục vụ hành chính công thành phố và Bộ phận Một cửa hiện đại tại UBND các xã, phường, đẩy mạnh dịch vụ bưu chính công ích và tiếp nhận hồ sơ trực tuyến",
+          "B. Mỗi phường chỉ mở cửa tiếp dân 01 buổi mỗi tuần",
+          "C. Giải thể bộ phận một cửa để người dân trực tiếp vào phòng của lãnh đạo nộp hồ sơ",
+          "D. Chỉ tiếp nhận hồ sơ qua đường bưu điện, không tiếp nhận trực tiếp"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Nội dung cải cách thủ tục hành chính Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Tiếp tục hoàn thiện mô hình Trung tâm Phục vụ hành chính công thành phố và Bộ phận Một cửa hiện đại cấp xã/phường, ứng dụng công nghệ số và bưu chính công ích để người dân không phải đi lại nhiều lần.\n★ Mẹo nhớ & Bẫy thi: Hệ thống tiếp nhận giải quyết TTHC: 'Trung tâm Phục vụ HCC TP + Bộ phận Một cửa hiện đại cấp xã phường'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, việc siết chặt kỷ luật, kỷ cương hành chính và văn hóa công sở tại thành phố Huế nhấn mạnh yêu cầu nào đối với cán bộ, công chức?",
+        "options": [
+          "A. Chỉ cần hoàn thành chỉ tiêu giấy tờ, không cần quan tâm đến thái độ giao tiếp với dân",
+          "B. Tự ý đặt thêm các khoản phí bồi dưỡng ngoài quy định pháp luật",
+          "C. Được phép từ chối tiếp công dân nếu công dân hỏi quá nhiều về thủ tục",
+          "D. Thực hiện nghiêm túc tinh thần '4 xin, 4 luôn' (xin chào, xin lỗi, xin cảm ơn, xin phép; luôn mỉm cười, luôn nhẹ nhàng, luôn lắng nghe, luôn giúp đỡ) và kiên quyết xử lý công chức có hành vi nhũng nhiễu, tiêu cực, đùn đẩy trách nhiệm"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Nội dung kỷ luật công vụ tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: TP Huế đặc biệt đề cao văn hóa ứng xử công sở chuẩn mực, mang đậm nét văn hóa Huế: thực hiện '4 xin, 4 luôn', xử lý nghiêm các biểu hiện thờ ơ, vô cảm, vòi vĩnh, gây phiền hà cho nhân dân.\n★ Mẹo nhớ & Bẫy thi: Văn hóa công sở Huế: '4 xin, 4 luôn' và 'Xử lý nghiêm nhũng nhiễu, đùn đẩy trách nhiệm'."
       }
     ]
   },
   {
     "id": "de_04",
-    "title": "Bộ Đề Thi Số 04 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 04 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -2794,133 +2794,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Quy trình xử lý kỷ luật chuẩn: Lập biên bản, thu tang vật, ký xác nhận, báo cáo Trưởng ban Coi thi.\n★ Mẹo nhớ & bẫy thi: Xử lý gian lận: LẬP BIÊN BẢN VI PHẠM KỶ LUẬT + Thu giữ tang vật."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Chỉ thị số 23/CT-TTg ngày 02/9/2021 của Thủ tướng Chính phủ, trách nhiệm của người đứng đầu cơ quan hành chính nhà nước các cấp được xác định như thế nào đối với công tác cải cách hành chính?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, cơ quan nào có thẩm quyền ban hành văn bản hướng dẫn về vị trí việc làm công chức nghiệp vụ chuyên ngành thuộc phạm vi quản lý nhà nước?",
         "options": [
-          "A. Được ủy quyền hoàn toàn cho cấp phó phụ trách mà không phải chịu trách nhiệm cá nhân",
-          "B. Trực tiếp lãnh đạo, chỉ đạo, tổ chức thực hiện và chịu trách nhiệm toàn diện trước cấp trên và pháp luật về kết quả cải cách hành chính tại cơ quan, đơn vị mình phụ trách",
-          "C. Chỉ chịu trách nhiệm khi có kết luận sai phạm tài chính từ cơ quan kiểm toán",
-          "D. Ủy quyền cho tổ chức công đoàn theo dõi và báo cáo định kỳ"
+          "A. Các Bộ, cơ quan ngang Bộ quản lý ngành, lĩnh vực",
+          "B. Ủy ban nhân dân cấp tỉnh tự quy định",
+          "C. Bộ Khoa học và Công nghệ",
+          "D. Thủ trưởng cơ quan sử dụng công chức"
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục 1 Chỉ thị số 23/CT-TTg ngày 02/9/2021 của Thủ tướng Chính phủ.\n★ Phân tích chi tiết: Thủ tướng yêu cầu người đứng đầu các bộ, ngành, địa phương phải trực tiếp chỉ đạo, chịu trách nhiệm toàn diện về công tác cải cách hành chính; coi đây là tiêu chí quan trọng để đánh giá mức độ hoàn thành nhiệm vụ.\n★ Mẹo nhớ & bẫy thi: Người đứng đầu phải 'trực tiếp chỉ đạo' và 'chịu trách nhiệm toàn diện', không thể đùn đẩy trách nhiệm."
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Điều 14 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Bộ trưởng, Thủ trưởng cơ quan ngang Bộ quản lý ngành, lĩnh vực ban hành hướng dẫn về danh mục vị trí việc làm, bản mô tả công việc và khung năng lực của vị trí việc làm công chức nghiệp vụ chuyên ngành được giao quản lý.\n★ Mẹo nhớ & Bẫy thi: Nghiệp vụ chuyên ngành (như tài nguyên môi trường, giao thông, tài chính) do BỘ QUẢN LÝ NGÀNH, LĨNH VỰC ban hành thông tư hướng dẫn."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Chỉ thị số 23/CT-TTg yêu cầu các cơ quan hành chính phải có thái độ và biện pháp xử lý như thế nào đối với cán bộ, công chức có hành vi nhũng nhiễu, né tránh, đùn đẩy trách nhiệm?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Hồ sơ đề án vị trí việc làm theo quy định tại Nghị định số 361/2025/NĐ-CP bao gồm những tài liệu nào sau đây?",
         "options": [
-          "A. Chờ đến đợt đánh giá xếp loại cuối năm mới xem xét rút kinh nghiệm",
-          "B. Chuyển hồ sơ xử lý cho cơ quan truyền thông đăng tin phê bình trước khi kỷ luật",
-          "C. Kịp thời phát hiện, xử lý nghiêm, kiên quyết thay thế hoặc điều chuyển công tác khác đối với cán bộ, công chức có biểu hiện né tránh, đùn đẩy, không dám làm hoặc năng lực hạn chế",
-          "D. Tăng phụ cấp kiêm nhiệm để khuyến khích công chức xử lý công việc"
+          "A. Chỉ cần tờ trình xin cấp thêm ngân sách và bảng lương chi trả hàng tháng",
+          "B. Biên bản họp gia đình công chức cam kết gắn bó lâu dài với cơ quan",
+          "C. Văn bản đề nghị; Đề án vị trí việc làm; Bản mô tả công việc và khung năng lực của từng vị trí; Các tài liệu liên quan",
+          "D. Danh sách trích ngang toàn bộ thân nhân của công chức trong đơn vị"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục 2 Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Chỉ thị 23 nêu rõ: Kiên quyết xử lý nghiêm, thay thế hoặc điều chuyển sang công tác khác đối với người có biểu hiện né tránh, đùn đẩy, sợ sai, sợ trách nhiệm trong thi hành công vụ.\n★ Mẹo nhớ & bẫy thi: Chế tài mạnh mẽ nhất được chỉ đạo trực tiếp là 'kiên quyết thay thế hoặc điều chuyển công tác khác'."
+        "explanation": "★ Căn cứ pháp lý: Điều 9 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Hồ sơ Đề án vị trí việc làm gồm: (1) Văn bản đề nghị phê duyệt; (2) Đề án vị trí việc làm; (3) Bản mô tả công việc và khung năng lực của từng vị trí; (4) Bản tổng hợp cơ cấu ngạch công chức và các tài liệu chứng minh.\n★ Mẹo nhớ & Bẫy thi: Hồ sơ hoàn chỉnh phải có Đề án + Danh mục + Bản mô tả công việc + Khung năng lực."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Chỉ thị số 23/CT-TTg, việc đối thoại giữa người đứng đầu cơ quan nhà nước với cá nhân, tổ chức, cộng đồng doanh nghiệp được quy định thực hiện theo hình thức nào?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, cơ quan nào có thẩm quyền phê duyệt Đề án vị trí việc làm và cơ cấu ngạch công chức của các cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh?",
         "options": [
-          "A. Chỉ thực hiện qua hình thức gửi văn bản trả lời gián tiếp qua bưu điện",
-          "B. Ủy quyền toàn bộ cho phòng thanh tra tiếp dân giải quyết",
-          "C. Định kỳ tổ chức tiếp xúc, đối thoại trực tiếp để lắng nghe, tháo gỡ khó khăn, vướng mắc cho người dân và doanh nghiệp; xử lý dứt điểm các phản ánh, kiến nghị",
-          "D. Chỉ thực hiện khi có khiếu kiện đông người kéo dài vượt cấp"
+          "A. Bộ trưởng Bộ Nội vụ trực tiếp phê duyệt cho từng tỉnh",
+          "B. Giám đốc Sở Tài chính",
+          "C. Ủy ban nhân dân cấp tỉnh (hoặc phân cấp theo thẩm quyền)",
+          "D. Chủ tịch Hội đồng nhân dân cấp tỉnh"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục 1 và Mục 3 Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Chỉ thị yêu cầu tăng cường đối thoại trực tiếp, định kỳ giữa người đứng đầu với người dân, doanh nghiệp để giải quyết khó khăn ngay từ cơ sở.\n★ Mẹo nhớ & bẫy thi: Từ khóa hành động: 'định kỳ đối thoại trực tiếp' và 'xử lý dứt điểm kiến nghị'."
+        "explanation": "★ Căn cứ pháp lý: Điều 11 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Ủy ban nhân dân cấp tỉnh phê duyệt hoặc phân cấp việc phê duyệt đề án vị trí việc làm và cơ cấu ngạch công chức trong các cơ quan chuyên môn, tổ chức hành chính thuộc quyền quản lý của tỉnh/thành phố.\n★ Mẹo nhớ & Bẫy thi: Thẩm quyền tại địa phương thuộc về UBND CẤP TỈNH (Chủ tịch UBND cấp tỉnh phê duyệt)."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Chỉ thị số 23/CT-TTg, hành vi nào sau đây của cơ quan nhà nước trong giải quyết thủ tục hành chính bị nghiêm cấm triệt để?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, cơ quan nào làm đầu mối thẩm định Đề án vị trí việc làm của các sở, ban, ngành trước khi trình Ủy ban nhân dân cấp tỉnh phê duyệt?",
         "options": [
-          "A. Tự đặt thêm hồ sơ, giấy tờ, thủ tục trung gian ngoài quy định của pháp luật hoặc để hồ sơ trễ hạn mà không có văn bản xin lỗi",
-          "B. Niêm yết công khai thủ tục hành chính tại trụ sở cơ quan",
-          "C. Thực hiện việc số hóa hồ sơ đầu vào tại bộ phận một cửa",
-          "D. Hướng dẫn người dân nộp hồ sơ trực tuyến qua cổng dịch vụ công"
+          "A. Sở Nội vụ",
+          "B. Văn phòng Đoàn đbqh và HĐND tỉnh",
+          "C. Thanh tra tỉnh",
+          "D. Sở Tư pháp"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục 2 Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Chỉ thị 23 nghiêm cấm hành vi tự đặt thêm các điều kiện, hồ sơ, giấy tờ ngoài quy định và tình trạng chậm trễ kéo dài không xin lỗi người dân.\n★ Mẹo nhớ & bẫy thi: 'Tự đặt thêm giấy tờ ngoài quy định' là vi phạm nghiêm trọng kỷ luật hành chính."
+        "explanation": "★ Căn cứ pháp lý: Điều 10 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Ở địa phương, Sở Nội vụ là cơ quan chuyên môn làm đầu mối tiếp nhận, thẩm định hồ sơ Đề án vị trí việc làm của các sở, ngành, UBND cấp huyện/xã trước khi trình UBND cấp tỉnh xem xét, quyết định.\n★ Mẹo nhớ & Bẫy thi: Thẩm định hồ sơ vị trí việc làm, biên chế công chức ở địa phương luôn là SỞ NỘI VỤ."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Chỉ thị số 23/CT-TTg nhấn mạnh việc gắn kết quả thực hiện cải cách hành chính với công tác nào sau đây của cán bộ, công chức?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 03/NQ-CP của Chính phủ, chỉ tiêu đến năm 2026 về tỷ lệ người dân trưởng thành có tài khoản thanh toán điện tử phấn đấu đạt bao nhiêu?",
         "options": [
-          "A. Chỉ gắn với việc xét duyệt nâng bậc lương trước thời hạn",
-          "B. Gắn với việc xếp loại đảng viên dự bị và bốc thăm thi đua",
-          "C. Gắn với việc quy định hạn mức đi công tác nước ngoài của đơn vị",
-          "D. Gắn với công tác đánh giá, xếp loại chất lượng, bình xét thi đua khen thưởng và quy hoạch, bổ nhiệm cán bộ, công chức hàng năm"
+          "A. Chỉ tiêu này không bắt buộc ở khu vực nông thôn",
+          "B. Đạt trên 50%",
+          "C. Đạt đúng 70%",
+          "D. Đạt từ 85% đến 90% trở lên"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục 1 Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Kết quả chỉ số CCHC, mức độ hoàn thành nhiệm vụ CCHC là cơ sở bắt buộc để đánh giá, xếp loại và quy hoạch, bổ nhiệm người đứng đầu và cán bộ liên quan.\n★ Mẹo nhớ & bẫy thi: CCHC là thước đo trực tiếp cho đánh giá, thi đua và bổ nhiệm cán bộ."
+        "explanation": "★ Căn cứ pháp lý: Mục tiêu xã hội số tại Nghị quyết số 03/NQ-CP.\n★ Phân tích chi tiết: Mục tiêu thúc đẩy tài chính toàn diện và xã hội số, phấn đấu tỷ lệ người dân từ đủ 18 tuổi trở lên có tài khoản giao dịch ngân hàng hoặc tài khoản thanh toán điện tử đạt từ 85% - 90% trở lên.\n★ Mẹo nhớ & Bẫy thi: Tỷ lệ tài khoản thanh toán số: '85% - 90% trở lên'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Quyết định số 2243/QĐ-UBND, mục tiêu của tỉnh Thừa Thiên Huế (nay là tp Huế) về vị thứ xếp hạng Chỉ số Cải cách hành chính (PAR INDEX) hàng năm thuộc nhóm nào của cả nước?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND ngày 10/01/2026 của Ủy ban nhân dân thành phố Huế, mục tiêu tổng quát của thành phố trong năm 2026 là gì?",
         "options": [
-          "A. Thuộc nhóm 10 đến 15 tỉnh, thành phố dẫn đầu cả nước",
-          "B. Thuộc nhóm 40 tỉnh thành đứng đầu",
-          "C. Không đặt mục tiêu thứ hạng cụ thể",
-          "D. Chỉ cần đứng đầu khu vực Bắc Trung Bộ"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 2243/QĐ-UBND của UBND tỉnh Thừa Thiên Huế.\n★ Phân tích chi tiết: Kế hoạch CCHC Thừa Thiên Huế đặt mục tiêu duy trì vị trí trong top 10 đến 15 tỉnh thành dẫn đầu cả nước về PAR INDEX và nâng cao mức độ hài lòng của nhân dân.\n★ Mẹo nhớ & bẫy thi: Mục tiêu xếp hạng PAR INDEX của Huế là luôn nằm trong nhóm top đầu cả nước (top 10 - 15)."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Mô hình dịch vụ công ích nào sau đây tại Thừa Thiên Huế đã được áp dụng thành công qua mạng di động Hue-S để hỗ trợ người dân?",
-        "options": [
-          "A. Thẻ xe buýt thông minh, vé tham quan di tích điện tử, thanh toán viện phí trực tuyến và phản ánh trật tự đô thị",
-          "B. Hệ thống gửi thư mời họp nội bộ cơ quan nhà nước",
-          "C. Chỉ cung cấp thông tin thời tiết địa phương",
-          "D. Đăng ký kết hôn không cần xuất trình giấy tờ tùy thân"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 3322/QĐ-UBND của UBND tỉnh.\n★ Phân tích chi tiết: Hue-S tích hợp đa dịch vụ: vé tham quan Hoàng cung Huế điện tử, xe buýt thông minh, thanh toán không dùng tiền mặt và phản ánh trật tự đô thị.\n★ Mẹo nhớ & bẫy thi: Hue-S là siêu ứng dụng đa tiện ích gắn liền với du lịch, y tế, giao thông và dịch vụ công của Huế."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy chế của thành phố Huế, thời hạn tối đa để các cơ quan có thẩm quyền tiếp nhận và phản hồi xử lý ban đầu đối với một phản ánh hiện trường khẩn cấp của người dân trên Hue-S là bao lâu?",
-        "options": [
-          "A. Không quy định thời hạn cụ thể",
-          "B. Trong vòng 02 giờ đến 24 giờ tùy theo tính chất vụ việc và mức độ khẩn cấp",
-          "C. Trong vòng 30 ngày làm việc",
-          "D. Trong vòng 07 ngày làm việc"
+          "A. Dừng toàn bộ các dự án công nghệ thông tin để tập trung cho xây dựng cầu đường",
+          "B. Đẩy mạnh phát triển KHCN, đổi mới sáng tạo và chuyển đổi số toàn diện trên 3 trụ cột, giữ vững vị thế thành phố thông minh dẫn đầu cả nước",
+          "C. Hạn chế sử dụng ứng dụng Hue-S để tránh nghẽn mạng",
+          "D. Chuyển toàn bộ máy chủ dữ liệu của thành phố về cho các doanh nghiệp tư nhân quản lý"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Quy chế vận hành hệ thống phản ánh hiện trường IOC Huế.\n★ Phân tích chi tiết: Quy chế phản ánh hiện trường Huế phân loại vụ việc: các sự việc khẩn cấp (sự cố môi trường, trật tự, hạ tầng nguy hiểm) phải tiếp nhận xử lý ngay trong vài giờ; vụ việc thông thường từ 3 đến 5 ngày.\n★ Mẹo nhớ & bẫy thi: Phản ánh hiện trường Hue-S có cơ chế phân loại thời gian xử lý nghiêm ngặt theo mức độ khẩn cấp."
+        "explanation": "★ Căn cứ pháp lý: Mục tiêu tổng quát tại Kế hoạch số 18/KH-UBND ngày 10/01/2026 của UBND TP Huế.\n★ Phân tích chi tiết: TP Huế xác định năm 2026 là năm bứt phá chuyển đổi số, gắn liền với việc xây dựng thành phố trực thuộc Trung ương, lấy Trung tâm IOC và nền tảng Hue-S làm hạt nhân lan tỏa chính quyền số, kinh tế số và xã hội số.\n★ Mẹo nhớ & Bẫy thi: Mục tiêu TP Huế: 'Đột phá toàn diện 3 trụ cột, phát huy vị thế đô thị thông minh dẫn đầu'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tình huống: Một người dân gửi ảnh phản ánh trên Hue-S về việc một xe tải đổ trộm phế thải xây dựng xuống bờ sông Hương. Trung tâm IOC đã chuyển phản ánh đến ủy ban nhân dân phường sở tại. Sau 05 ngày làm việc, ủy ban nhân dân phường vẫn không cử cán bộ kiểm tra và không có báo cáo xử lý trên hệ thống. Trách nhiệm trong tình huống này thuộc về ai?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, nền tảng số nào tiếp tục đóng vai trò là kênh tương tác số chủ đạo, thống nhất giữa chính quyền và người dân, doanh nghiệp trên địa bàn thành phố?",
         "options": [
-          "A. Cả hai bên cùng chịu phạt hành chính",
-          "B. Thuộc về nhân viên trực tổng đài IOC",
-          "C. Thuộc về người dân vì chụp ảnh không rõ biển số xe",
-          "D. Chủ tịch Ủy ban nhân dân phường sở tại phải chịu trách nhiệm trước Chủ tịch Ủy ban nhân dân thành phố về việc chậm trễ xử lý phản ánh của công dân theo quy chế"
+          "A. Nền tảng mạng xã hội Facebook",
+          "B. Hệ thống tổng đài bưu điện 1080",
+          "C. Nền tảng Đô thị thông minh Hue-S",
+          "D. Trang web diễn đàn sinh viên Huế"
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Quy chế phối hợp xử lý phản ánh hiện trường đô thị thông minh Huế và Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Người đứng đầu cơ quan được giao xử lý phản ánh (Chủ tịch UBND phường) chịu trách nhiệm trực tiếp về việc trễ hạn giải quyết phản ánh hiện trường của công dân.\n★ Mẹo nhớ & bẫy thi: Người đứng đầu cơ quan thụ lý chịu trách nhiệm chính về trễ hạn xử lý trên Hue-S."
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Nhiệm vụ trọng tâm Kế hoạch số 18/KH-UBND của UBND TP Huế.\n★ Phân tích chi tiết: Hue-S là ứng dụng số dùng chung, kênh tương tác số thống nhất và duy nhất kết nối chính quyền với người dân, tích hợp dịch vụ công, phản ánh hiện trường, cảnh báo thời tiết thiên tai, du lịch số, y tế số, giáo dục số của TP Huế.\n★ Mẹo nhớ & Bẫy thi: Kênh tương tác số số 1 của Thừa Thiên Huế / TP Huế là 'Hue-S'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo kế hoạch cải cách hành chính của thành phố Huế, việc triển khai thanh toán không dùng tiền mặt (thanh toán số) được áp dụng bắt buộc tại các cơ sở nào sau đây?",
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, trong nội dung 'Cải cách tài chính công', thành phố đặt mục tiêu nào sau đây?",
         "options": [
-          "A. Tại 100% các cơ sở y tế, trường học và bộ phận một cửa giải quyết thủ tục hành chính trên toàn địa bàn",
-          "B. Chỉ áp dụng đối với người có thẻ tín dụng quốc tế",
-          "C. Chỉ áp dụng tại các trung tâm thương mại lớn của tư nhân",
-          "D. Không bắt buộc đối với các đơn vị công lập"
+          "A. Không công khai dự toán ngân sách hàng năm",
+          "B. Đẩy mạnh giao quyền tự chủ, tự chịu trách nhiệm về tài chính cho các đơn vị sự nghiệp công lập và triệt để tiết kiệm chi thường xuyên để dành nguồn lực đầu tư phát triển",
+          "C. Bao cấp 100% kinh phí hoạt động cho toàn bộ các đơn vị sự nghiệp có thu",
+          "D. Cắt giảm toàn bộ phụ cấp công vụ của cán bộ công chức"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Nội dung cải cách tài chính công tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Đổi mới cơ chế tài chính công gắn với việc giao quyền tự chủ, tự chịu trách nhiệm tài chính cho các đơn vị sự nghiệp công lập, nâng cao hiệu quả sử dụng ngân sách nhà nước, công khai minh bạch tài chính.\n★ Mẹo nhớ & Bẫy thi: Cải cách tài chính công: 'Giao quyền tự chủ cho đơn vị sự nghiệp + Tiết kiệm chi thường xuyên'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, chỉ tiêu về tỷ lệ hồ sơ thủ tục hành chính giải quyết đúng hạn và trước hạn tại thành phố Huế đến năm 2030 phấn đấu đạt bao nhiêu?",
+        "options": [
+          "A. Chỉ tiêu này không áp dụng cho lĩnh vực đất đai",
+          "B. Đạt từ 98% trở lên",
+          "C. Đạt tối thiểu 75%",
+          "D. Đạt tối thiểu 85%"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Chỉ tiêu giải quyết TTHC tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Mục tiêu đến năm 2030, tỷ lệ hồ sơ TTHC được giải quyết đúng hạn và trước hạn tại Trung tâm Phục vụ hành chính công và Bộ phận Một cửa các cấp của TP Huế đạt từ 98% trở lên.\n★ Mẹo nhớ & Bẫy thi: Con số tỷ lệ giải quyết đúng hạn và trước hạn của Huế: 'Từ 98% trở lên'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, trường hợp giải quyết hồ sơ thủ tục hành chính bị quá hạn so với quy định thì cơ quan, đơn vị có trách nhiệm gì?",
+        "options": [
+          "A. Phải thực hiện việc xin lỗi người dân, tổ chức bằng văn bản và nêu rõ lý do quá hạn, hẹn lại ngày trả kết quả cụ thể",
+          "B. Yêu cầu người dân nộp lại bộ hồ sơ mới từ đầu",
+          "C. Không cần thông báo, khi nào có kết quả thì người dân tự đến lấy",
+          "D. Chỉ xin lỗi bằng miệng nếu người dân trực tiếp đến thắc mắc"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 3322/QĐ-UBND của UBND tỉnh Thừa Thiên Huế.\n★ Phân tích chi tiết: Kế hoạch chuyển đổi số Huế đặt mục tiêu phổ cập thanh toán không dùng tiền mặt tại 100% bệnh viện, trường học và bộ phận một cửa phục vụ hành chính công.\n★ Mẹo nhớ & bẫy thi: Y tế, giáo dục và bộ phận một cửa là 3 địa bàn tiên phong đạt 100% thanh toán số."
+        "explanation": "★ Căn cứ pháp lý: Quy chế giải quyết TTHC theo cơ chế Một cửa tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Thực hiện nghiêm túc quy định Thư xin lỗi đối với 100% hồ sơ giải quyết quá hạn, nêu rõ lý do chậm trễ và thời gian trả kết quả, đồng thời cập nhật lý do lên Cổng dịch vụ công.\n★ Mẹo nhớ & Bẫy thi: Bị quá hạn hồ sơ: Bắt buộc 'Phải có Thư xin lỗi bằng văn bản và hẹn lại ngày'."
       }
     ]
   },
   {
     "id": "de_05",
-    "title": "Bộ Đề Thi Số 05 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 05 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -3523,133 +3523,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Quy chế thi trắc nghiệm trên máy vi tính.\n★ Phân tích chi tiết: Xử lý sự cố máy tính: Lập biên bản sự cố, đổi máy dự phòng và bù thời gian làm bài bảo đảm quyền lợi chính đáng cho thí sinh.\n★ Mẹo nhớ & bẫy thi: Sự cố máy tính ngoài ý muốn: LẬP BIÊN BẢN SỰ CỐ + Đổi máy tính dự phòng + BÙ THỜI GIAN LÀM BÀI."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Tình huống: Trong quá trình tiếp nhận hồ sơ xin cấp phép kinh doanh của công dân Nguyễn Văn A, công chức phụ trách tại bộ phận một cửa phát hiện hồ sơ cần xác minh thêm thông tin và dự kiến sẽ trễ hạn 03 ngày so với giấy hẹn. Theo quy định về cải cách thủ tục hành chính, cơ quan hành chính phải xử lý tình huống này như thế nào?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, thời hạn cơ quan thẩm định hoàn thành việc thẩm định Đề án vị trí việc làm kể từ ngày nhận đủ hồ sơ hợp lệ là bao nhiêu ngày?",
         "options": [
-          "A. Từ chối giải quyết hồ sơ ngay lập tức vì không kịp tiến độ theo giấy hẹn",
-          "B. Yêu cầu công dân hủy hồ sơ cũ và nộp lại một bộ hồ sơ mới để tính lại thời gian hẹn từ đầu",
-          "C. Chủ động gửi văn bản xin lỗi công dân trước ngày hẹn trả kết quả, nêu rõ lý do chậm trễ và thời gian gia hạn trả kết quả (không quá thời gian quy định)",
-          "D. Im lặng chờ xác minh xong thì trả kết quả và giải thích lý do khi công dân đến nhận"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 61/2018/NĐ-CP (sđbs Nghị định số 107/2021/NĐ-CP) và tinh thần Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Khi hồ sơ trễ hạn, cơ quan phải có văn bản thông báo xin lỗi công dân trước ngày hẹn, nêu rõ lý do trễ hạn và hẹn lại ngày trả kết quả. Việc yêu cầu nộp lại hồ sơ để xóa vết trễ hạn là vi phạm nghiêm trọng quy chế một cửa.\n★ Mẹo nhớ & bẫy thi: Nguyên tắc bắt buộc khi trễ hẹn TTHC: 'Gửi văn bản xin lỗi + nêu rõ lý do + hẹn lại ngày trả kết quả trước ngày hẹn cũ'."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Tình huống: Khi công dân nộp hồ sơ trực tuyến xin cấp bản sao hộ tịch, cơ quan giải quyết yêu cầu công dân phải xuất trình thêm bản giấy chứng minh nhân dân/căn cước công dân có chứng thực để đối chiếu, trong khi thông tin căn cước công dân đã được xác thực thông suốt trên Cơ sở dữ liệu quốc gia về dân cư. Hành vi của cơ quan này đã vi phạm nguyên tắc nào trong cải cách hành chính?",
-        "options": [
-          "A. Không vi phạm vì cơ quan hành chính có toàn quyền yêu cầu mọi giấy tờ bản giấy để lưu trữ hồ sơ",
-          "B. Vi phạm nguyên tắc không được yêu cầu cung cấp lại thông tin, giấy tờ đã được tích hợp, chia sẻ trên cơ sở dữ liệu quốc gia dùng chung",
-          "C. Vi phạm nguyên tắc bí mật đời tư của công dân",
-          "D. Vi phạm nguyên tắc công khai tài chính công"
+          "A. 45 ngày làm việc",
+          "B. 30 ngày làm việc",
+          "C. 20 ngày làm việc",
+          "D. 15 ngày"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Nghị quyết số 76/NQ-CP và Đề án 06/CP của Thủ tướng Chính phủ.\n★ Phân tích chi tiết: Một trong những nguyên tắc cốt lõi của Chính phủ điện tử và cải cách TTHC là: Không yêu cầu người dân cung cấp lại thông tin, giấy tờ khi thông tin đó đã có trong các cơ sở dữ liệu quốc gia đã được kết nối, chia sẻ.\n★ Mẹo nhớ & bẫy thi: Nguyên tắc dữ liệu dùng chung: 'Dữ liệu chỉ thu thập một lần, dùng nhiều lần; không bắt nộp lại giấy tờ đã số hóa'."
+        "explanation": "★ Căn cứ pháp lý: Điều 10 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan thẩm định có trách nhiệm thẩm định và gửi văn bản trả lời hoặc trình cấp có thẩm quyền phê duyệt.\n★ Mẹo nhớ & Bẫy thi: Con số thời hạn thẩm định đề án vị trí việc làm: đúng '30 ngày làm việc'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Tình huống: Một dự án đầu tư cần ý kiến phối hợp của 3 sở chuyên môn. Sở chủ trì đã gửi văn bản xin ý kiến kèm thời hạn phản hồi là 07 ngày làm việc. Quá thời hạn trên, một sở chuyên môn không gửi văn bản trả lời. Theo quy chế phối hợp và tinh thần Chỉ thị 23/CT-TTg, việc xử lý được thực hiện như thế nào?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Trường hợp nào sau đây bắt buộc phải thực hiện điều chỉnh Đề án vị trí việc làm theo quy định tại Nghị định số 361/2025/NĐ-CP?",
         "options": [
-          "A. Công chức thụ lý của sở chủ trì phải trực tiếp đến gặp lãnh đạo sở không trả lời để xin phê duyệt miệng",
-          "B. Sở chủ trì tự ý thay đổi nội dung hồ sơ dự án theo ý kiến chủ quan",
-          "C. Hết thời hạn quy định, nếu cơ quan được lấy ý kiến không trả lời thì được coi là đồng ý với ý kiến của cơ quan gửi và người đứng đầu cơ quan không trả lời phải chịu trách nhiệm cá nhân về nội dung thuộc lĩnh vực quản lý của mình",
-          "D. Dự án phải dừng vô thời hạn cho đến khi nhận được đầy đủ văn bản đồng ý của cả 3 sở"
+          "A. Khi công chức chuyển công tác từ phòng này sang phòng khác trong cùng đơn vị",
+          "B. Khi có công chức trong đơn vị đến tuổi nghỉ hưu",
+          "C. Khi cơ quan, tổ chức có sự thay đổi chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức theo quyết định của cấp có thẩm quyền",
+          "D. Khi cơ quan đón nhận các danh hiệu khen thưởng đột xuất"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Chỉ thị số 23/CT-TTg và các văn bản chỉ đạo của Chính phủ về siết chặt kỷ cương hành chính trong phối hợp công tác.\n★ Phân tích chi tiết: Để xóa bỏ tình trạng ngâm hồ sơ, quy chế phối hợp quy định rõ: Hết thời hạn mà cơ quan được lấy ý kiến không có văn bản trả lời thì coi như đồng ý và người đứng đầu cơ quan đó phải chịu hoàn toàn trách nhiệm pháp lý.\n★ Mẹo nhớ & bẫy thi: Quy tắc phối hợp hành chính hiện đại: 'Quá hạn không trả lời = đồng ý + người đứng đầu cơ quan im lặng chịu trách nhiệm'."
+        "explanation": "★ Căn cứ pháp lý: Điều 12 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Điều chỉnh vị trí việc làm khi: (1) Cơ quan thay đổi chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức; (2) Tổ chức lại hoặc giải thể; (3) Cấp có thẩm quyền bổ sung nhiệm vụ mới hoặc điều chỉnh biên chế.\n★ Mẹo nhớ & Bẫy thi: Thay đổi mang tính tổ chức/nhiệm vụ lớn (chức năng, nhiệm vụ, tổ chức lại) mới phải điều chỉnh đề án."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Tình huống: Công chức B công tác tại bộ phận thẩm định giấy phép kinh doanh xây dựng, do lo ngại trách nhiệm cá nhân khi dự thảo quy chuẩn kỹ thuật mới chưa có thông tư hướng dẫn chi tiết, đã liên tục chuyển phiếu xin ý kiến lên cấp trên và yêu cầu doanh nghiệp bổ sung giải trình nhiều lần ngoài danh mục quy định. Người đứng đầu cơ quan xử lý hành vi của công chức B theo Chỉ thị số 23/CT-TTg như thế nào?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc điều chỉnh Đề án vị trí việc làm được thực hiện như thế nào?",
         "options": [
-          "A. Giao toàn bộ hồ sơ cho bộ phận thanh tra để tạm đình chỉ giải quyết",
-          "B. Khen ngợi công chức B vì có tinh thần cẩn trọng, bảo đảm an toàn tuyệt đối cho cơ quan",
-          "C. Chấn chỉnh ngay hành vi đùn đẩy trách nhiệm, kéo dài thời gian; nếu tiếp tục tái phạm phải xem xét chuyển đổi vị trí công tác hoặc xử lý kỷ luật theo quy định",
-          "D. Yêu cầu công chức B tự viết bản tường trình và tiếp tục thụ lý hồ sơ mà không can thiệp"
+          "A. Gửi thông báo bằng miệng cho cơ quan quản lý cấp trên",
+          "B. Chỉ cần thông báo cho công chức trong cuộc họp giao ban đầu tháng",
+          "C. Cơ quan lập hồ sơ đề nghị điều chỉnh gửi cơ quan có thẩm quyền thẩm định và phê duyệt theo trình tự quy định",
+          "D. Thủ trưởng cơ quan tự ý ký quyết định bổ sung vị trí mới vào nội quy cơ quan"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục 2 Chỉ thị số 23/CT-TTg ngày 02/9/2021.\n★ Phân tích chi tiết: Chỉ thị 23 yêu cầu chấm dứt ngay tình trạng sợ sai, sợ trách nhiệm, lạm dụng việc xin ý kiến cấp trên để trì hoãn công việc. Người có hành vi này phải bị chấn chỉnh, thay thế hoặc điều chuyển công tác.\n★ Mẹo nhớ & bẫy thi: Đùn đẩy, kéo dài thời gian vì sợ trách nhiệm là đối tượng trọng tâm cần xử lý, điều chuyển công tác theo Chỉ thị 23."
+        "explanation": "★ Căn cứ pháp lý: Điều 12 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Khi điều chỉnh vị trí việc làm, cơ quan, tổ chức phải lập hồ sơ đề nghị điều chỉnh gửi cơ quan làm đầu mối thẩm định và trình cấp có thẩm quyền phê duyệt như trình tự phê duyệt ban đầu.\n★ Mẹo nhớ & Bẫy thi: Điều chỉnh vị trí việc làm phải làm theo đúng quy trình lập hồ sơ, thẩm định và phê duyệt văn bản chính thức."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Tình huống: Khi thực hiện khảo sát đo lường chỉ số hài lòng của cá nhân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước (SIPAS), một phòng chuyên môn đã chỉ đạo công chức liên hệ trước với những công dân thân quen để họ cho điểm tối đa 10/10 trên phiếu khảo sát. Hành vi này được xác định là:",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc xếp ngạch công chức bổ nhiệm vào vị trí việc làm phải tuân thủ nguyên tắc nào?",
         "options": [
-          "A. Là biện pháp vận động quần chúng hợp pháp trong quản lý hành chính",
-          "B. Hành vi vi phạm nghiêm trọng tính khách quan, trung thực của công tác đánh giá CCHC; kết quả khảo sát bị hủy bỏ và tập thể, cá nhân liên quan phải bị xử lý kỷ luật",
-          "C. Hành vi linh hoạt, sáng tạo trong việc nâng cao thành tích thi đua của đơn vị",
-          "D. Được pháp luật khuyến khích để tạo động lực cho cán bộ phấn đấu"
+          "A. Tùy theo sự thỏa thuận giữa thủ trưởng đơn vị và người trúng tuyển",
+          "B. Người được bổ nhiệm vào vị trí việc làm nào thì phải đáp ứng tiêu chuẩn ngạch công chức tương ứng với vị trí việc làm đó",
+          "C. Công chức có bằng tiến sĩ thì đương nhiên được xếp ngạch chuyên viên cao cấp ở mọi vị trí",
+          "D. Công chức có thâm niên trên 20 năm thì mặc nhiên được xếp ngạch chuyên viên chính"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Quy chế đo lường SIPAS của Bộ Nội vụ và Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Đo lường SIPAS bắt buộc phải bảo đảm nguyên tắc khoa học, độc lập, khách quan, bảo mật thông tin người tham gia đánh giá. Can thiệp làm sai lệch phiếu khảo sát là hành vi gian dối thành tích, bị xử lý nghiêm minh.\n★ Mẹo nhớ & bẫy thi: Đo lường chỉ số CCHC đòi hỏi tuyệt đối 'khách quan, trung thực, độc lập'."
+        "explanation": "★ Căn cứ pháp lý: Điều 8 & Điều 13 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Việc tuyển dụng, sử dụng, nâng ngạch công chức phải căn cứ vào vị trí việc làm. Công chức đảm nhiệm vị trí việc làm nào phải có đủ tiêu chuẩn, năng lực và ngạch công chức tương ứng với vị trí đó.\n★ Mẹo nhớ & Bẫy thi: 'Vị trí việc làm nào -> Ngạch tương ứng đó' (không phong ngạch tùy tiện theo bằng cấp hay thỏa thuận)."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ thành phố Huế, kỳ thi tuyển công chức năm 2025 gồm có bao nhiêu vòng thi?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, Trung tâm Giám sát, điều hành đô thị thông minh (IOC Huế) trực thuộc cơ quan nào quản lý?",
         "options": [
-          "A. Gồm 04 vòng thi có phỏng vấn sơ loại",
-          "B. Gồm 02 vòng thi: Vòng 1 thi trắc nghiệm trên máy tính kiểm tra kiến thức, năng lực chung; Vòng 2 thi môn nghiệp vụ chuyên ngành",
-          "C. Gồm 01 vòng thi duy nhất kết hợp lý thuyết và thực hành",
-          "D. Gồm 03 vòng thi"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Thông báo số 3941/TB-SNV và Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Quy trình tuyển dụng công chức chuẩn gồm 2 vòng: Vòng 1 kiểm tra kiến thức chung và ngoại ngữ; Vòng 2 kiểm tra nghiệp vụ chuyên ngành (phỏng vấn hoặc viết hoặc kết hợp).\n★ Mẹo nhớ & bẫy thi: Thi tuyển công chức có đúng 2 vòng thi."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy chế thi tuyển công chức (Thông tư số 001/2025/tt-BNV), trong phòng thi trắc nghiệm trên máy vi tính, việc chấm điểm bài thi được thực hiện như thế nào?",
-        "options": [
-          "A. Hội đồng thi in bài thi ra giấy để ban chấm thi chấm tay trong vòng 15 ngày",
-          "B. Tùy theo quyết định của Trưởng ban coi thi",
-          "C. Máy tính tự động chấm điểm ngay sau khi thí sinh nhấn nút nộp bài hoặc hết giờ làm bài, điểm thi được thông báo ngay cho thí sinh biết và ký xác nhận vào bảng điểm",
-          "D. Gửi dữ liệu bài thi về Bộ Nội vụ chấm tập trung"
+          "A. Ban Quản lý dự án xây dựng dân dụng",
+          "B. Sở Công Thương",
+          "C. Sở Thông tin và Truyền thông thành phố Huế",
+          "D. Công an thành phố Huế"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Thông tư số 001/2025/TT-BNV.\n★ Phân tích chi tiết: Thi trắc nghiệm máy vi tính có ưu điểm tuyệt đối về tính khách quan: Máy chấm tự động, báo điểm ngay trên màn hình, thí sinh ký xác nhận kết quả trước khi rời phòng thi.\n★ Mẹo nhớ & bẫy thi: Thi trắc nghiệm máy vi tính: Máy chấm tự động và biết kết quả ngay lập tức."
+        "explanation": "★ Căn cứ pháp lý: Kế hoạch số 18/KH-UBND ngày 10/01/2026.\n★ Phân tích chi tiết: Trung tâm Giám sát, điều hành đô thị thông minh (IOC) do Sở Thông tin và Truyền thông trực tiếp quản lý, vận hành hạ tầng kỹ thuật, làm đầu não tiếp nhận dữ liệu số, phân tích dữ liệu và điều phối phản ánh hiện trường.\n★ Mẹo nhớ & Bẫy thi: Cơ quan chủ quản của IOC Huế: 'SỞ THÔNG TIN VÀ TRUYỀN THÔNG'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Có được phúc khảo kết quả thi đối với bài thi trắc nghiệm trên máy vi tính tại Vòng 1 kỳ thi tuyển công chức hay không?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, mục tiêu về tỷ lệ hồ sơ thủ tục hành chính được tiếp nhận và xử lý trực tuyến toàn trình năm 2026 phấn đấu đạt tối thiểu bao nhiêu?",
         "options": [
-          "A. Được phúc khảo khi có sự đồng ý của Giám đốc Sở Nội vụ",
-          "B. Được phúc khảo phần thi ngoại ngữ nhưng không được phúc khảo kiến thức chung",
-          "C. Được phúc khảo nếu thí sinh nộp lệ phí trong vòng 07 ngày",
-          "D. Không thực hiện phúc khảo kết quả thi trắc nghiệm trên máy vi tính theo quy định của pháp luật"
+          "A. Không quy định tỷ lệ cụ thể",
+          "B. Đạt tối thiểu 80% trở lên đối với các thủ tục đủ điều kiện",
+          "C. Đạt tối thiểu 50%",
+          "D. Chỉ cần đạt 30%"
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP và Thông tư số 001/2025/TT-BNV.\n★ Phân tích chi tiết: Khoản quy chế nêu rõ: 'Không thực hiện việc phúc khảo đối với kết quả thi trắc nghiệm trên máy vi tính'. Thí sinh cần đặc biệt ghi nhớ quy định này.\n★ Mẹo nhớ & bẫy thi: Thi máy vi tính = Tuyệt đối KHÔNG phúc khảo."
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Chỉ tiêu cụ thể năm 2026 tại Kế hoạch số 18/KH-UBND của TP Huế.\n★ Phân tích chi tiết: TP Huế đặt chỉ tiêu đến hết năm 2026 đạt tối thiểu 80% hồ sơ TTHC đủ điều kiện được tiếp nhận, giải quyết trực tuyến toàn trình, giảm tối đa việc người dân phải mang hồ sơ giấy đến trụ sở cơ quan công quyền.\n★ Mẹo nhớ & Bẫy thi: Chỉ tiêu dịch vụ công toàn trình của Huế: 'Tối thiểu 80% trở lên'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Kế hoạch tuyển dụng công chức năm 2025 của thành phố Huế, trường hợp có từ 02 người trở lên có tổng điểm môn nghiệp vụ chuyên ngành Vòng 2 bằng nhau ở chỉ tiêu cuối cùng thì việc xác định người trúng tuyển được giải quyết thế nào?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, giải pháp nào được áp dụng để đảm bảo an toàn thông tin mạng cho các hệ thống thông tin của chính quyền thành phố?",
         "options": [
-          "A. Tổ chức bốc thăm công khai trước sự chứng kiến của các thí sinh",
-          "B. Ưu tiên người có điểm thi Vòng 1 cao hơn",
-          "C. Tuyển dụng cả hai thí sinh bằng cách xin tăng thêm chỉ tiêu biên chế",
-          "D. Thực hiện theo thứ tự ưu tiên: Người có kết quả điểm thi Vòng 2 cao hơn (nếu có phần thực hành); người thuộc đối tượng ưu tiên; nếu vẫn không xác định được thì người đứng đầu cơ quan có thẩm quyền tuyển dụng quyết định"
+          "A. Thực hiện bảo đảm an toàn thông tin theo mô hình 4 lớp và 100% hệ thống thông tin được phê duyệt hồ sơ cấp độ an toàn",
+          "B. Giao toàn quyền kiểm soát mật khẩu cho nhân viên văn thư",
+          "C. Không kết nối máy tính của cơ quan với mạng Internet",
+          "D. Chỉ cần cài đặt các phần mềm diệt virus miễn phí trên máy cá nhân"
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Thứ tự xét trúng tuyển khi bằng điểm ở chỉ tiêu cuối cùng: Xét đối tượng ưu tiên; nếu vẫn bằng nhau thì người có thẩm quyền tuyển dụng xem xét, quyết định theo thẩm quyền.\n★ Mẹo nhớ & bẫy thi: Không dùng điểm Vòng 1 để xét khi bằng điểm Vòng 2; không bốc thăm và không được tự ý tăng biên chế."
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Nhiệm vụ an toàn an ninh mạng Kế hoạch số 18/KH-UBND.\n★ Phân tích chi tiết: Bảo đảm an toàn thông tin mạng theo mô hình 4 lớp (Lực lượng tại chỗ; Giám sát bảo vệ chuyên nghiệp; Độc lập kiểm tra đánh giá; Kết nối giám sát quốc gia), 100% hệ thống thông tin hoàn thành hồ sơ cấp độ an toàn.\n★ Mẹo nhớ & Bẫy thi: Mô hình an toàn thông tin chuẩn quốc gia là 'Mô hình 4 lớp'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Trung tâm Hành chính công thành phố Huế trực thuộc cơ quan nào sau đây?",
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, cơ quan nào là cơ quan thường trực, chịu trách nhiệm chủ trì tham mưu, tổng hợp và theo dõi chung công tác cải cách hành chính của thành phố Huế?",
         "options": [
-          "A. Sở Tư pháp thành phố",
-          "B. Thanh tra thành phố",
-          "C. Sở Lao động - Thương binh và Xã hội",
-          "D. Văn phòng Ủy ban nhân dân thành phố"
+          "A. Sở Nội vụ thành phố Huế",
+          "B. Thanh tra thành phố Huế",
+          "C. Sở Tư pháp thành phố Huế",
+          "D. Sở Tài chính thành phố Huế"
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 61/2018/NĐ-CP và Quyết định của UBND tỉnh/thành phố về tổ chức Trung tâm Phục vụ hành chính công.\n★ Phân tích chi tiết: Trung tâm Phục vụ hành chính công là đơn vị hành chính/đặc thù trực thuộc Văn phòng UBND cấp tỉnh/thành phố, chịu trách nhiệm tổ chức cơ chế một cửa liên thông tập trung.\n★ Mẹo nhớ & bẫy thi: Trung tâm Phục vụ hành chính công cấp tỉnh/thành phố trực thuộc Văn phòng UBND tỉnh/thành phố."
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Tổ chức thực hiện tại Quyết định số 1026/QĐ-UBND ngày 30/3/2026.\n★ Phân tích chi tiết: Sở Nội vụ là cơ quan thường trực Ban Chỉ đạo CCHC của thành phố, chủ trì theo dõi, đôn đốc, kiểm tra và tham mưu UBND thành phố triển khai thực hiện toàn diện Kế hoạch CCHC 2026 - 2030.\n★ Mẹo nhớ & Bẫy thi: Cơ quan thường trực công tác Cải cách hành chính: 'SỞ NỘI VỤ THÀNH PHỐ HUẾ'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, Sở Tư pháp thành phố Huế được giao chủ trì, chịu trách nhiệm chính về nội dung cải cách nào?",
+        "options": [
+          "A. Cải cách tài chính công và phân bổ ngân sách",
+          "B. Cải cách thể chế và nâng cao chất lượng ban hành văn bản quy phạm pháp luật",
+          "C. Xây dựng hạ tầng đô thị thông minh",
+          "D. Cải cách tổ chức bộ máy cơ quan chuyên môn"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Phân công trách nhiệm tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Sở Tư pháp chủ trì tham mưu nội dung 'Cải cách thể chế': rà soát, kiểm tra, theo dõi thi hành pháp luật, nâng cao chất lượng xây dựng và thẩm định văn bản QPPL của HĐND và UBND thành phố.\n★ Mẹo nhớ & Bẫy thi: Sở Tư pháp phụ trách nội dung: 'CẢI CÁCH THỂ CHẾ'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, Văn phòng UBND thành phố Huế được giao chủ trì tham mưu nội dung trọng tâm nào?",
+        "options": [
+          "A. Cải cách thủ tục hành chính và kiểm soát thủ tục hành chính, vận hành Trung tâm Phục vụ hành chính công",
+          "B. Kiểm tra việc sử dụng tài sản công",
+          "C. Thẩm định đề án vị trí việc làm các sở ban ngành",
+          "D. Tuyển dụng và nâng ngạch công chức"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Phân công nhiệm vụ tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Văn phòng UBND thành phố chủ trì nội dung 'Cải cách thủ tục hành chính': kiểm soát TTHC, rà soát quy trình giải quyết TTHC, trực tiếp quản lý và vận hành Trung tâm Phục vụ hành chính công thành phố.\n★ Mẹo nhớ & Bẫy thi: Văn phòng UBND thành phố phụ trách: 'CẢI CÁCH THỦ TỤC HÀNH CHÍNH & TRUNG TÂM HÀNH CHÍNH CÔNG'."
       }
     ]
   },
   {
     "id": "de_06",
-    "title": "Bộ Đề Thi Số 06 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 06 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -4252,133 +4252,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Điều 21 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, nhiệm vụ cải cách thể chế tập trung chủ yếu vào việc tháo gỡ khó khăn cho khu vực nào sau đây?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, nội dung chính của 'Bản mô tả công việc' đối với từng vị trí việc làm bao gồm những gì?",
         "options": [
-          "A. Các tổ chức phi chính phủ quốc tế hoạt động tại Việt Nam",
-          "B. Môi trường đầu tư kinh doanh, quyền tự do kinh doanh của người dân, doanh nghiệp; huy động, phân bổ và sử dụng hiệu quả các nguồn lực xã hội",
-          "C. Khu vực kinh tế có vốn đầu tư nước ngoài ưu tiên số một",
-          "D. Hệ thống doanh nghiệp công ích độc quyền của nhà nước"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục II.1 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Thể chế tập trung hoàn thiện đồng bộ thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, khơi thông điểm nghẽn nguồn lực xã hội.\n★ Mẹo nhớ & bẫy thi: Cải cách thể chế phục vụ phát triển kinh tế thị trường và tháo gỡ rào cản kinh doanh."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu phân cấp, phân quyền giữa chính phủ với chính quyền địa phương phải đi đôi với yếu tố nào để bảo đảm kỷ cương quản lý?",
-        "options": [
-          "A. Đi đôi với việc thành lập các cơ quan giám sát trung gian của trung ương tại từng tỉnh",
-          "B. Giảm bớt biên chế của địa phương tương ứng với số nhiệm vụ được giao thêm",
-          "C. Phân cấp, phân quyền hợp lý gắn với phân bổ nguồn lực, nâng cao năng lực thực thi và tăng cường thanh tra, kiểm tra, kiểm soát quyền lực",
-          "D. Phân cấp toàn bộ mà không cần kiểm tra lại sau khi đã bàn giao nhiệm vụ"
+          "A. Họ tên và ngày tháng năm sinh của người đang tạm thời giữ vị trí",
+          "B. Chỉ ghi tên vị trí và danh sách các khoản phụ cấp lương được nhận hàng tháng",
+          "C. Tên vị trí việc làm; Mục tiêu vị trí; Các công việc, nhiệm vụ chính; Tiêu chuẩn kết quả đầu ra; Quyền hạn và quan hệ công tác",
+          "D. Địa chỉ nhà riêng và số điện thoại cá nhân của công chức đảm nhận"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.3 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Phân cấp, phân quyền phải bảo đảm nguyên tắc 'giao quyền gắn với giao nguồn lực' và 'tăng cường thanh tra, kiểm tra, giám sát thực thi'.\n★ Mẹo nhớ & bẫy thi: Phân cấp luôn đi đôi với 3 yếu tố: nguồn lực + năng lực + kiểm soát quyền lực."
+        "explanation": "★ Căn cứ pháp lý: Điều 7 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Bản mô tả công việc xác định rõ: Tên vị trí; Mục tiêu vị trí việc làm; Các nhiệm vụ chính; Tiêu chuẩn đầu ra (kết quả công việc); Quyền hạn và quan hệ công tác (báo cáo ai, phối hợp với ai).\n★ Mẹo nhớ & Bẫy thi: Bản mô tả công việc gắn với VỊ TRÍ (việc gì, làm như thế nào, kết quả ra sao), không gắn với thông tin cá nhân của người ngồi vị trí."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, một trong những giải pháp nâng cao hiệu quả xây dựng văn bản quy phạm pháp luật là:",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, 'Khung năng lực' của vị trí việc làm xác định những nội dung nào sau đây?",
         "options": [
-          "A. Nâng cao chất lượng công tác phân tích, đánh giá tác động chính sách (RIA) trước khi ban hành; kiểm soát chặt chẽ việc phát sinh thủ tục hành chính mới",
-          "B. Cho phép các sở ngành ban hành văn bản quy phạm pháp luật dưới hình thức công văn hướng dẫn",
-          "C. Rút ngắn tối đa thời gian lấy ý kiến công chúng xuống dưới 05 ngày để ban hành nhanh",
-          "D. Hạn chế việc tổ chức hội thảo tham vấn để tránh phát sinh ý kiến trái chiều"
+          "A. Năng lực cốt lõi; Năng lực quản lý; Năng lực chuyên môn, nghiệp vụ và các tiêu chuẩn về trình độ, phẩm chất cần thiết",
+          "B. Điểm thi tuyển đại học đầu vào cách đây 10 năm",
+          "C. Khả năng đóng góp kinh phí hoạt động cho công đoàn cơ quan",
+          "D. Trọng lượng cơ thể và chiều cao tối thiểu của công chức"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục II.1 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Đánh giá tác động chính sách (RIA) là công cụ bắt buộc để kiểm soát chất lượng thể chế và ngăn chặn phát sinh rào cản TTHC ngay từ khâu soạn thảo.\n★ Mẹo nhớ & bẫy thi: Nâng cao chất lượng RIA và kiểm soát thủ tục hành chính ngay từ khâu xây dựng chính sách."
+        "explanation": "★ Căn cứ pháp lý: Điều 7 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Khung năng lực gồm các nhóm: Năng lực cốt lõi (chung cho toàn hệ thống); Năng lực lãnh đạo quản lý (đối với vị trí lãnh đạo); Năng lực chuyên môn nghiệp vụ theo ngành và các tiêu chuẩn trình độ đào tạo, chứng chỉ, kinh nghiệm.\n★ Mẹo nhớ & Bẫy thi: Khung năng lực = 'Cốt lõi + Quản lý + Chuyên môn nghiệp vụ'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, yêu cầu đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính bao gồm định hướng nào?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc đánh giá, xếp loại chất lượng công chức hàng năm phải căn cứ chủ yếu vào yếu tố nào?",
         "options": [
-          "A. Mỗi xã phường tự xây dựng một phần mềm quản lý hồ sơ riêng biệt",
-          "B. Bắt buộc người dân phải đến nộp hồ sơ tại đúng địa giới hành chính nơi thường trú",
-          "C. Giải thể bộ phận một cửa hiện đại để chuyển sang hình thức tiếp dân truyền thống",
-          "D. Phi địa giới hành chính trong tiếp nhận hồ sơ; ứng dụng công nghệ số để người dân có thể nộp và nhận kết quả tại bất kỳ điểm giao dịch một cửa nào thuận tiện"
+          "A. Kết quả thực hiện nhiệm vụ theo vị trí việc làm, bản mô tả công việc và tiêu chuẩn chức danh đã được phê duyệt",
+          "B. Tỷ lệ tham gia các chuyến công tác xa của đơn vị",
+          "C. Mối quan hệ cá nhân với lãnh đạo cấp phòng và cấp sở",
+          "D. Số lượng bài phát biểu đóng góp trong các hội thảo ngoại khóa"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Điều 13 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Đánh giá, xếp loại chất lượng công chức phải dựa trên kết quả thực hiện nhiệm vụ được giao theo bản mô tả công việc và khung năng lực của vị trí việc làm đó, lấy hiệu quả công việc thực tế làm thước đo chủ yếu.\n★ Mẹo nhớ & Bẫy thi: Thước đo đánh giá công chức thời kỳ mới là 'kết quả thực hiện nhiệm vụ theo vị trí việc làm'."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, khi một vị trí việc làm có khối lượng công việc lớn, đòi hỏi nhiều người cùng thực hiện một nhiệm vụ tương tự thì được gọi là gì?",
+        "options": [
+          "A. Vị trí việc làm tập thể hỗn hợp",
+          "B. Vị trí việc làm kiêm nhiệm liên phòng",
+          "C. Vị trí việc làm không định danh",
+          "D. Vị trí việc làm do nhiều người đảm nhiệm"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục II.2 Nghị quyết số 76/NQ-CP và Đề án đổi mới cơ chế một cửa ban hành kèm QĐ 468/QĐ-TTg.\n★ Phân tích chi tiết: Tiếp nhận hồ sơ 'không phụ thuộc vào địa giới hành chính' là bước chuyển mình lịch sử của cơ chế một cửa hiện đại.\n★ Mẹo nhớ & bẫy thi: 'Phi địa giới hành chính' trong tiếp nhận hồ sơ TTHC."
+        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Vị trí việc làm do nhiều người đảm nhiệm là vị trí có khối lượng công việc lớn, tính chất công việc giống nhau đòi hỏi từ hai người trở lên cùng đảm nhận (ví dụ: công chức tiếp nhận và trả kết quả TTHC, công chức thanh tra thuế...).\n★ Mẹo nhớ & Bẫy thi: Khối lượng lớn + cùng 1 công việc = 'Vị trí việc làm do nhiều người đảm nhiệm'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, việc rà soát, cắt giảm chứng chỉ bồi dưỡng đối với cán bộ, công chức, viên chức được chỉ đạo thực hiện theo nguyên tắc nào?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND, việc ứng dụng dữ liệu dân cư và định danh xác thực điện tử (Đề án 06) vào các dịch vụ công tại tp Huế nhằm mục đích gì?",
         "options": [
-          "A. Tăng thêm nhiều loại chứng chỉ kỹ năng mềm bắt buộc hàng năm",
-          "B. Bãi bỏ toàn bộ yêu cầu về chứng chỉ ngoại ngữ, tin học và các chứng chỉ bồi dưỡng không thực chất, không phù hợp với vị trí việc làm",
-          "C. Quy định mỗi công chức phải có tối thiểu 10 chứng chỉ bồi dưỡng chuyên ngành",
-          "D. Chuyển việc cấp chứng chỉ cho các trung tâm đào tạo tư nhân cấp phép"
+          "A. Kiểm soát giờ giấc đi lại của công dân trong ngày",
+          "B. Cắt giảm các loại giấy tờ tùy thân, bản sao hộ khẩu, chứng thực trùng lặp khi giải quyết thủ tục cho người dân",
+          "C. Bắt buộc người dân phải đổi căn cước hàng năm",
+          "D. Tăng mức thu lệ phí hành chính đối với các giao dịch trực tiếp"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục II.4 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Cắt giảm triệt để các loại chứng chỉ rườm rà (như chứng chỉ tin học, ngoại ngữ chuẩn cũ), chỉ giữ lại chứng chỉ bồi dưỡng theo tiêu chuẩn ngạch, vị trí việc làm thực tế.\n★ Mẹo nhớ & bẫy thi: Cắt giảm chứng chỉ hình thức, không thực chất để giảm gánh nặng thủ tục cho công chức."
+        "explanation": "★ Căn cứ pháp lý: Kế hoạch số 18/KH-UBND của UBND TP Huế (thực hiện Đề án 06).\n★ Phân tích chi tiết: Ứng dụng VNeID và cơ sở dữ liệu quốc gia về dân cư giúp tái sử dụng thông tin đã được số hóa, người dân không phải nộp lại bản sao công chứng, giấy tờ cư trú khi làm thủ tục hành chính.\n★ Mẹo nhớ & Bẫy thi: Mục đích cốt lõi của Đề án 06 là 'Cắt giảm giấy tờ, tái sử dụng dữ liệu, tiện lợi cho dân'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tình huống phản ánh hiện trường: Một hộ kinh doanh tại thành phố Huế nhận được thông báo phản ánh trên ứng dụng Hue-S về việc chiếm dụng vỉa hè để kinh doanh gây cản trở người đi bộ. Hộ kinh doanh không đồng ý với nội dung phản ánh và cho rằng mình kinh doanh trong khuôn viên đất nhà. Hộ kinh doanh có quyền phản hồi như thế nào trên Hue-S?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, trong lĩnh vực nông nghiệp, đất đai và tài nguyên môi trường, công nghệ số được ưu tiên triển khai trong nhiệm vụ nào?",
         "options": [
-          "A. Được quyền gửi thông tin phản hồi, cung cấp hình ảnh minh chứng đính kèm trực tiếp trên hệ thống phản ánh hiện trường để cơ quan có thẩm quyền kiểm tra lại",
-          "B. Phải đến trụ sở công an phường làm đơn khiếu nại bằng văn bản",
-          "C. Không có quyền phản hồi, chỉ có cơ quan nhà nước mới được bình luận",
-          "D. Tự ý gỡ bỏ camera công cộng xung quanh khu vực"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quy chế vận hành hệ thống dịch vụ đô thị thông minh Huế.\n★ Phân tích chi tiết: Hệ thống Hue-S bảo đảm tương tác đa chiều, dân chủ. Người dân, tổ chức liên quan có quyền phản hồi, cung cấp hình ảnh minh chứng để bảo đảm tính khách quan trước khi cơ quan chức năng ra quyết định xử phạt.\n★ Mẹo nhớ & bẫy thi: Hue-S cho phép đối thoại tương tác đa chiều, người bị phản ánh có quyền giải trình kèm hình ảnh minh chứng."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo các tiêu chí đánh giá cải cách hành chính tại Huế, tỷ lệ giải quyết hồ sơ thủ tục hành chính đúng hạn và trước hạn trên địa bàn thành phố được chỉ đạo duy trì ở mức tối thiểu bao nhiêu?",
-        "options": [
-          "A. Từ 85% trở lên",
-          "B. Từ 75% trở lên",
-          "C. Từ 98% trở lên trên toàn bộ các lĩnh vực quản lý nhà nước",
-          "D. Chỉ cần đạt 50%"
+          "A. Chỉ ghi chép diện tích đất đai trên sổ tay địa chính giấy truyền thống",
+          "B. Không cho phép người dân tra cứu thông tin quy hoạch đất trên mạng",
+          "C. Xây dựng cơ sở dữ liệu số về đất đai, bản đồ địa chính số và quan trắc môi trường tự động, liên thông dữ liệu tài nguyên",
+          "D. Xóa bỏ hệ thống cảm biến đo lường chất lượng không khí"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Kế hoạch CCHC hàng năm của UBND tỉnh Thừa Thiên Huế (nay là TP Huế).\n★ Phân tích chi tiết: Nhằm giữ vững vị thế dẫn đầu cả nước về chỉ số CCHC, Huế luôn đặt mục tiêu tỷ lệ hồ sơ TTHC giải quyết đúng hạn và trước hạn đạt từ 98% trở lên.\n★ Mẹo nhớ & bẫy thi: Tỷ lệ giải quyết TTHC đúng hạn tại Huế luôn phấn đấu ở mức rất cao: >= 98%."
+        "explanation": "★ Căn cứ pháp lý: Nhiệm vụ chuyển đổi số chuyên ngành tại Kế hoạch số 18/KH-UBND.\n★ Phân tích chi tiết: TP Huế ưu tiên số hóa hồ sơ địa chính, tích hợp cơ sở dữ liệu đất đai vào nền tảng dùng chung và triển khai hệ thống quan trắc môi trường tự động kết nối về Trung tâm IOC Huế để giám sát thời gian thực.\n★ Mẹo nhớ & Bẫy thi: Chuyển đổi số ngành tài nguyên môi trường tại Huế: 'CSDL đất đai số + Bản đồ số + Quan trắc tự động kết nối IOC'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tổ Công nghệ số cộng đồng tại các thôn, bản, tổ dân phố trên địa bàn thành phố Huế có nhiệm vụ nòng cốt nào sau đây?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, hoạt động của 'Tổ công nghệ số cộng đồng' tại các thôn, tổ dân phố nhằm mục đích gì?",
         "options": [
-          "A. Trực tiếp 'đi từng ngõ, gõ từng nhà, hướng dẫn từng người' cài đặt Hue-S, tài khoản dịch vụ công quốc gia, thanh toán không dùng tiền mặt và kỹ năng số an toàn",
-          "B. Kiểm tra xử phạt hành chính các cơ sở kinh doanh dịch vụ internet",
-          "C. Thu tiền điện, tiền nước hàng tháng thay cho các công ty dịch vụ",
-          "D. Lắp đặt đường dây cáp quang viễn thông cho các hộ gia đình"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định và hướng dẫn của UBND tỉnh về Tổ công nghệ số cộng đồng.\n★ Phân tích chi tiết: Tổ công nghệ số cộng đồng là cánh tay nối dài của chính quyền số cơ sở, phương châm là 'đi từng ngõ, gõ từng nhà' phổ cập kỹ năng số, cài đặt Hue-S và dịch vụ công trực tuyến cho người dân.\n★ Mẹo nhớ & bẫy thi: Tổ công nghệ số cộng đồng = Hướng dẫn kỹ năng số, cài Hue-S cho từng người dân."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy định tại Quyết định số 3322/QĐ-UBND, việc kết nối liên thông dữ liệu giữa các sở, ban, ngành thành phố với Trung tâm Giám sát điều hành đô thị thông minh (IOC) phải bảo đảm nguyên tắc gì?",
-        "options": [
-          "A. Tuân thủ Kiến trúc Chính quyền điện tử/Chính quyền số thành phố Huế, sử dụng nền tảng chia sẻ, tích hợp dữ liệu (LGSP) dùng chung",
-          "B. Kết nối qua mạng xã hội công cộng",
-          "C. Mỗi đơn vị xây dựng phần mềm độc lập và tuyệt đối không chia sẻ mã nguồn",
-          "D. Chỉ kết nối khi có sự cho phép bằng văn bản của từng trưởng phòng chuyên môn"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 3322/QĐ-UBND của UBND tỉnh.\n★ Phân tích chi tiết: Mọi hệ thống thông tin chuyên ngành phải tuân thủ Kiến trúc Chính quyền số của tỉnh/thành phố và kết nối thông qua Nền tảng chia sẻ, tích hợp dữ liệu cấp tỉnh (LGSP).\n★ Mẹo nhớ & bẫy thi: Nền tảng kết nối dùng chung của địa phương là LGSP."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tình huống: Một thí sinh tham dự kỳ thi công chức thành phố Huế năm 2025 có bằng tốt nghiệp đại học loại xuất sắc tại một trường đại học công lập trong nước. Thí sinh này có được tuyển dụng thông qua hình thức tiếp nhận vào làm công chức mà không cần qua thi tuyển hay không?",
-        "options": [
-          "A. Chỉ được tiếp nhận vào vị trí công chức cấp xã",
-          "B. Chỉ được xem xét tiếp nhận nếu đáp ứng đồng thời các tiêu chuẩn theo quy định về thu hút, tạo nguồn cán bộ từ sinh viên tốt nghiệp xuất sắc, cán bộ khoa học trẻ (theo chính sách thu hút nhân tài của Đảng và Nhà nước) và cơ quan có chỉ tiêu vị trí việc làm phù hợp",
-          "C. Được tiếp nhận ngay lập tức mà không cần bất kỳ điều kiện nào khác",
-          "D. Tuyệt đối không được tiếp nhận, bắt buộc 100% phải qua thi tuyển"
+          "A. Thu tiền điện, tiền nước thay cho các công ty dịch vụ",
+          "B. 'Đi từng ngõ, gõ từng nhà' hướng dẫn, trợ giúp người dân cài đặt Hue-S, kích hoạt VNeID, sử dụng dịch vụ công trực tuyến và thanh toán số",
+          "C. Quản lý việc mua bán bất động sản trong tổ dân phố",
+          "D. Thay mặt người dân ký tên vào các văn bản pháp lý"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP và chính sách thu hút tài năng trẻ của Thừa Thiên Huế.\n★ Phân tích chi tiết: Tốt nghiệp xuất sắc thuộc diện chính sách thu hút (Nghị định 140/2017/NĐ-CP hoặc văn bản tương đương) có thể được xét tuyển/tiếp nhận nếu đơn vị có nhu cầu và vị trí việc làm phù hợp, bảo đảm đúng quy trình tuyển chọn tài năng.\n★ Mẹo nhớ & bẫy thi: Tiếp nhận sinh viên tốt nghiệp xuất sắc phải gắn với chính sách thu hút nhân tài và có vị trí việc làm tương ứng."
+        "explanation": "★ Căn cứ pháp lý: Phát triển xã hội số tại Kế hoạch số 18/KH-UBND của UBND TP Huế.\n★ Phân tích chi tiết: Tổ công nghệ số cộng đồng là cánh tay nối dài của chính quyền số, có nhiệm vụ trực tiếp hướng dẫn kỹ năng số cơ bản cho người dân: dùng Hue-S, thanh toán không tiền mặt, làm TTHC online.\n★ Mẹo nhớ & Bẫy thi: Tổ công nghệ số cộng đồng: 'Đi từng ngõ, gõ từng nhà, hướng dẫn kỹ năng số cho người dân'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, Sở Tài chính thành phố Huế chịu trách nhiệm chủ trì tham mưu nội dung nào trong Kế hoạch CCHC?",
+        "options": [
+          "A. Cải cách chế độ công vụ",
+          "B. Quản lý cán bộ, công chức, viên chức",
+          "C. Cải cách tài chính công và đổi mới cơ chế phân bổ, quản lý ngân sách nhà nước",
+          "D. Tổ chức thi tuyển công chức hàng năm"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Phân công nhiệm vụ Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Sở Tài chính chủ trì tham mưu nội dung 'Cải cách tài chính công': quản lý ngân sách, tài sản công, đổi mới cơ chế tài chính đối với cơ quan hành chính và đơn vị sự nghiệp công lập.\n★ Mẹo nhớ & Bẫy thi: Sở Tài chính phụ trách: 'CẢI CÁCH TÀI CHÍNH CÔNG'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, Sở Thông tin và Truyền thông thành phố Huế chịu trách nhiệm chủ trì nội dung nào trong Kế hoạch CCHC?",
+        "options": [
+          "A. Kiểm tra xử lý văn bản quy phạm pháp luật trái thẩm quyền",
+          "B. Quyết định mức lương cơ sở cho công chức",
+          "C. Xây dựng và phát triển Chính quyền điện tử, Chính quyền số và Đô thị thông minh",
+          "D. Sắp xếp tổ chức các đơn vị sự nghiệp y tế"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Phân công nhiệm vụ Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Sở Thông tin và Truyền thông chủ trì tham mưu nội dung 'Xây dựng và phát triển Chính quyền số': phát triển hạ tầng số, các nền tảng ứng dụng dùng chung, an toàn thông tin và dịch vụ đô thị thông minh Hue-S.\n★ Mẹo nhớ & Bẫy thi: Sở Thông tin và Truyền thông phụ trách: 'CHÍNH QUYỀN SỐ & ĐÔ THỊ THÔNG MINH'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, việc đánh giá kết quả thực hiện cải cách hành chính hàng năm tại các cơ quan, đơn vị, địa phương được thực hiện thông qua công cụ nào?",
+        "options": [
+          "A. Báo cáo thi đua của tổ chức đoàn thể",
+          "B. Bảng chấm công đi làm hàng ngày",
+          "C. Bộ chỉ số đánh giá, xếp hạng Cải cách hành chính (PAR INDEX) của các sở, ban, ngành và UBND cấp xã/phường",
+          "D. Số lượng biên bản họp chuyên môn"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Kiểm tra, đánh giá tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Hàng năm, Sở Nội vụ chủ trì chấm điểm, xác định Chỉ số CCHC (PAR INDEX) của từng sở, ban, ngành và UBND cấp huyện/xã, công bố công khai kết quả và gắn với việc bình xét thi đua khen thưởng của người đứng đầu.\n★ Mẹo nhớ & Bẫy thi: Công cụ đánh giá CCHC hàng năm của các đơn vị: 'Bộ chỉ số PAR INDEX nội bộ của thành phố'."
       }
     ]
   },
   {
     "id": "de_07",
-    "title": "Bộ Đề Thi Số 07 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 07 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -4981,133 +4981,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Điều 31 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Chỉ thị số 23/CT-TTg quy định trách nhiệm thanh tra, kiểm tra công vụ được tiến hành theo phương thức nào để nâng cao hiệu lực răn đe?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, 'Vị trí việc làm kiêm nhiệm' được áp dụng trong trường hợp nào sau đây?",
         "options": [
-          "A. Tuyệt đối không được kiểm tra đột xuất khi chưa có khiếu nại bằng văn bản",
-          "B. Tăng cường công tác kiểm tra công vụ đột xuất, không báo trước, tập trung vào các lĩnh vực nhạy cảm, dễ phát sinh tiêu cực, phiền hà đối với người dân và doanh nghiệp",
-          "C. Chỉ kiểm tra hồ sơ giấy tờ lưu trữ tại văn phòng",
-          "D. Chỉ thông báo trước 30 ngày để cơ quan chuẩn bị báo cáo hoàn chỉnh"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục 2 Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Thủ tướng yêu cầu tăng cường kiểm tra công vụ đột xuất, không báo trước, đặc biệt tại các bộ phận một cửa, tiếp dân, quản lý đất đai, cấp phép đầu tư.\n★ Mẹo nhớ & bẫy thi: 'Kiểm tra công vụ đột xuất, không báo trước' là công cụ then chốt chống nhũng nhiễu."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, cơ quan nào chịu trách nhiệm là đầu mối giúp Chính phủ, Thủ tướng Chính phủ đôn đốc, theo dõi, tổng hợp tình hình thực hiện công tác cải cách hành chính trên phạm vi cả nước?",
-        "options": [
-          "A. Thanh tra Chính phủ",
-          "B. Văn phòng Quốc hội",
-          "C. Bộ Tư pháp",
-          "D. Bộ Nội vụ"
+          "A. Áp dụng bắt buộc đối với tất cả công chức giữ ngạch chuyên viên cao cấp",
+          "B. Một công chức làm việc đồng thời ở hai cơ quan nhà nước độc lập khác nhau để nhận hai bảng lương",
+          "C. Công chức vừa làm việc trong cơ quan nhà nước vừa quản lý doanh nghiệp tư nhân bên ngoài",
+          "D. Một công chức đảm nhận từ hai vị trí việc làm trở lên nhưng không thể bố trí người chuyên trách do khối lượng công việc ít"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục III Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Bộ Nội vụ là cơ quan thường trực Ban Chỉ đạo cải cách hành chính của Chính phủ, chịu trách nhiệm tổng thể theo dõi, tổng hợp và công bố Chỉ số PAR INDEX hàng năm.\n★ Mẹo nhớ & bẫy thi: Bộ Nội vụ là cơ quan đầu mối thường trực CCHC của Chính phủ."
+        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Vị trí việc làm kiêm nhiệm áp dụng khi khối lượng công việc của một vị trí không đủ để bố trí một biên chế chuyên trách, cơ quan giao cho công chức đang đảm nhiệm một vị trí việc làm khác kiêm nhiệm thêm.\n★ Mẹo nhớ & Bẫy thi: Kiêm nhiệm = 'khối lượng công việc ít, không đủ bố trí người chuyên trách'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, cơ quan nào chủ trì theo dõi, hướng dẫn và đôn đốc việc thực hiện nội dung cải cách thể chế và nâng cao hiệu quả tổ chức thi hành pháp luật?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc xác định số lượng biên chế công chức của mỗi cơ quan hành chính nhà nước phải dựa trên căn cứ trực tiếp nào?",
         "options": [
-          "A. Bộ Kế hoạch và Đầu tư",
-          "B. Bộ Nội vụ",
-          "C. Văn phòng Chính phủ",
-          "D. Bộ Tư pháp"
+          "A. Chỉ tiêu biên chế cố định từ năm 2015 không thay đổi",
+          "B. Danh mục vị trí việc làm, khối lượng công việc của từng vị trí và thực tế mức độ hiện đại hóa công nghệ thông tin",
+          "C. Số lượng phòng làm việc còn trống trong khuôn viên cơ quan",
+          "D. Tốc độ tăng trưởng dân số cơ học tại địa bàn đóng trụ sở"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Điều 5 & Điều 8 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Biên chế công chức được xác định dựa trên danh mục vị trí việc làm, khối lượng công việc thực tế của từng vị trí, mức độ hiện đại hóa trang thiết bị, phương tiện làm việc và ứng dụng công nghệ thông tin/chuyển đổi số.\n★ Mẹo nhớ & Bẫy thi: Biên chế gắn với 'Vị trí việc làm + Khối lượng công việc + Ứng dụng CNTT/CĐS'."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, trường hợp cơ quan cấp dưới có văn bản đề nghị điều chỉnh vị trí việc làm nhưng chưa hợp lệ thì cơ quan thẩm định phải xử lý như thế nào?",
+        "options": [
+          "A. Im lặng và coi như hồ sơ tự động hết hiệu lực sau 30 ngày",
+          "B. Bác bỏ hoàn toàn và không tiếp nhận lại hồ sơ trong 12 tháng",
+          "C. Chuyển hồ sơ sang cơ quan công an để điều tra tính xác thực",
+          "D. Trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, phải có văn bản thông báo rõ lý do và hướng dẫn bổ sung, hoàn thiện hồ sơ"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục III Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Bộ Tư pháp chủ trì nội dung Cải cách thể chế; Bộ Nội vụ chủ trì Cải cách tổ chức bộ máy và Cải cách công chức; Văn phòng Chính phủ chủ trì Cải cách thủ tục hành chính.\n★ Mẹo nhớ & bẫy thi: Thể chế -> Bộ Tư pháp; TTHC -> Văn phòng Chính phủ; Bộ máy, công vụ -> Bộ Nội vụ."
+        "explanation": "★ Căn cứ pháp lý: Điều 10 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Nếu hồ sơ chưa đủ điều kiện, trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan thẩm định phải có văn bản thông báo nêu rõ nội dung cần sửa đổi, bổ sung, hoàn thiện.\n★ Mẹo nhớ & Bẫy thi: Thời hạn trả lời thông báo hồ sơ chưa hợp lệ: '05 ngày làm việc'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, cơ quan nào chủ trì triển khai nội dung Cải cách thủ tục hành chính và kiểm soát thủ tục hành chính trên toàn quốc?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, ai là người chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của việc lập hồ sơ Đề án vị trí việc làm của cơ quan mình?",
         "options": [
-          "A. Bộ Công an",
-          "B. Bộ Nội vụ",
-          "C. Văn phòng Chính phủ",
-          "D. Bộ Tư pháp"
+          "A. Trưởng đoàn thanh tra công vụ",
+          "B. Người đứng đầu cơ quan, tổ chức xây dựng đề án vị trí việc làm",
+          "C. Chuyên viên trực tiếp soạn thảo văn bản đề án",
+          "D. Chủ tịch công đoàn cơ quan"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Điều 9 & Điều 15 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Người đứng đầu cơ quan, tổ chức xây dựng đề án vị trí việc làm chịu trách nhiệm toàn diện trước pháp luật và cấp có thẩm quyền về tính chính xác, trung thực, khách quan của số liệu và nội dung trong Đề án.\n★ Mẹo nhớ & Bẫy thi: Trách nhiệm trước pháp luật luôn thuộc về 'Người đứng đầu cơ quan, tổ chức xây dựng đề án'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, mục tiêu về phổ cập chữ ký số cá nhân cho người dân trưởng thành tại thành phố Huế năm 2026 phấn đấu đạt mức nào?",
+        "options": [
+          "A. Chỉ cấp chữ ký số cho công chức nhà nước",
+          "B. Đạt 10% dân số",
+          "C. Đạt trên 50% dân số trưởng thành được cấp chữ ký số cá nhân để thực hiện giao dịch điện tử",
+          "D. Chưa đặt mục tiêu phổ cập chữ ký số cá nhân"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục III Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Văn phòng Chính phủ chịu trách nhiệm chủ trì theo dõi, đôn đốc nội dung Cải cách thủ tục hành chính và vận hành Cổng Dịch vụ công Quốc gia.\n★ Mẹo nhớ & bẫy thi: Cải cách TTHC và Cổng Dịch vụ công Quốc gia do Văn phòng Chính phủ quản lý."
+        "explanation": "★ Căn cứ pháp lý: Chỉ tiêu xã hội số tại Kế hoạch số 18/KH-UBND.\n★ Phân tích chi tiết: TP Huế đẩy mạnh chương trình cấp miễn phí chữ ký số cá nhân cho công dân, phấn đấu năm 2026 trên 50% người dân trưởng thành có chữ ký số cá nhân để ký số hồ sơ TTHC từ xa.\n★ Mẹo nhớ & Bẫy thi: Mục tiêu chữ ký số cá nhân của Huế: 'Phấn đấu trên 50% dân số trưởng thành'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, cơ quan nào chủ trì nội dung Xây dựng và phát triển Chính phủ điện tử, Chính phủ số?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, nguyên tắc xử lý 'Phản ánh hiện trường' của người dân trên hệ thống Hue-S là gì?",
         "options": [
-          "A. Bộ Khoa học và Công nghệ",
-          "B. Bộ Thông tin và Truyền thông",
-          "C. Bộ Nội vụ",
-          "D. Bộ Tài chính"
+          "A. Cơ quan thụ lý được quyền từ chối trả lời mà không cần nêu lý do",
+          "B. Bí mật nội bộ, không thông báo kết quả lại cho người phản ánh",
+          "C. Chỉ xử lý các phản ánh của cán bộ công chức cơ quan",
+          "D. Công khai, minh bạch, có thời hạn xử lý cụ thể, có hình ảnh kiểm chứng kết quả và người dân được quyền đánh giá mức độ hài lòng"
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục III Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Bộ Thông tin và Truyền thông chủ trì triển khai nội dung Xây dựng và phát triển Chính phủ điện tử, Chính phủ số, hạ tầng số quốc gia và an toàn thông tin mạng.\n★ Mẹo nhớ & bẫy thi: Chính phủ điện tử, Chính phủ số gắn liền với Bộ Thông tin và Truyền thông."
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Quy chế phản ánh hiện trường gắn với Kế hoạch số 18/KH-UBND.\n★ Phân tích chi tiết: Phản ánh hiện trường trên Hue-S vận hành theo chu trình khép kín: Tiếp nhận -> Phân phối tự động -> Cơ quan xử lý có thời hạn -> Đăng tải kết quả công khai kèm hình ảnh -> Người dân đánh giá 'Hài lòng' hoặc 'Không hài lòng'.\n★ Mẹo nhớ & Bẫy thi: Đặc trưng Hue-S: 'Công khai, thời hạn rõ ràng, có ảnh kết quả, người dân chấm điểm hài lòng'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Quyết định số 2626/QĐ-UBND, nguyên tắc tuyển dụng công chức thành phố Huế năm 2025 phải bảo đảm các yêu cầu nào sau đây?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, mục tiêu đến năm 2030, Chỉ số Đổi mới sáng tạo toàn cầu (GII) của Việt Nam phấn đấu thuộc nhóm nào?",
         "options": [
-          "A. Tuyển dụng dựa trên sự giới thiệu của doanh nghiệp trên địa bàn",
-          "B. Công khai, minh bạch, khách quan, cạnh tranh lành mạnh và đúng quy định pháp luật; tuyển chọn đúng người đáp ứng yêu cầu tiêu chuẩn chức danh của vị trí việc làm",
-          "C. Ưu tiên người có người thân đang công tác trong ngành nội vụ",
-          "D. Ưu tiên tuyển dụng người có hộ khẩu thường trú lâu năm tại địa phương"
+          "A. Thuộc nhóm 40 nước dẫn đầu thế giới",
+          "B. Thuộc nhóm 100 nước dẫn đầu thế giới",
+          "C. Không tham gia xếp hạng quốc tế",
+          "D. Dẫn đầu tuyệt đối khu vực châu Á"
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 2626/QĐ-UBND và Điều 38 Luật Cán bộ, công chức.\n★ Phân tích chi tiết: Nguyên tắc tuyển dụng công chức tối thượng là công khai, minh bạch, khách quan, đúng pháp luật và cạnh tranh bình đẳng dựa trên năng lực vị trí việc làm.\n★ Mẹo nhớ & bẫy thi: Tuyển dụng công chức không phân biệt địa phương thường trú, tôn giáo hay thành phần kinh tế."
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Mục tiêu Nghị quyết số 57-NQ/TW của Bộ Chính trị.\n★ Phân tích chi tiết: Phấn đấu đưa Việt Nam vào nhóm 40 quốc gia dẫn đầu thế giới về Chỉ số Đổi mới sáng tạo toàn cầu (GII) vào năm 2030.\n★ Mẹo nhớ & Bẫy thi: Mục tiêu chỉ số GII: 'Top 40 thế giới'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo đề án chuyển đổi số của Huế, cơ sở dữ liệu nào sau đây được coi là 'trái tim' của dữ liệu dùng chung phục vụ giải quyết thủ tục hành chính cho người dân tại thành phố?",
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND, chỉ số PAPI mà thành phố Huế phấn đấu giữ vững trong nhóm đầu cả nước là viết tắt của chỉ số nào?",
         "options": [
-          "A. Cơ sở dữ liệu danh bạ điện thoại nội bộ",
-          "B. Cơ sở dữ liệu quốc gia về dân cư kết nối thông suốt với hệ thống thông tin giải quyết thủ tục hành chính thành phố",
-          "C. Cơ sở dữ liệu giá vé máy bay",
-          "D. Cơ sở dữ liệu lưu trữ các bài báo địa phương"
+          "A. Chỉ số Đổi mới sáng tạo cấp địa phương",
+          "B. Chỉ số Chuyển đổi số doanh nghiệp",
+          "C. Chỉ số Năng lực cạnh tranh cấp tỉnh",
+          "D. Chỉ số Hiệu quả quản trị và hành chính công cấp tỉnh"
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Đề án phát triển ứng dụng dữ liệu về dân cư (Đề án 06) và Quyết định số 3322/QĐ-UBND.\n★ Phân tích chi tiết: Cơ sở dữ liệu quốc gia về dân cư là dữ liệu gốc, kết nối liên thông trực tiếp với Cổng dịch vụ công Huế để xác thực danh tính và cắt giảm thủ tục hộ tịch, cư trú.\n★ Mẹo nhớ & bẫy thi: Cơ sở dữ liệu cốt lõi giải quyết TTHC là Cơ sở dữ liệu quốc gia về dân cư."
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Các chỉ tiêu quản trị tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: PAPI (The Viet Nam Provincial Governance and Public Administration Performance Index) là Chỉ số Hiệu quả quản trị và hành chính công cấp tỉnh tại Việt Nam, đo lường cảm nhận và trải nghiệm thực tế của người dân.\n★ Mẹo nhớ & Bẫy thi: PAPI = 'Chỉ số Hiệu quả quản trị và hành chính công cấp tỉnh'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tình huống: Một cá nhân sử dụng ứng dụng Hue-S để liên tục gửi các hình ảnh cắt ghép, bịa đặt sai sự thật nhằm bôi nhọ danh dự của một cán bộ công chức trên địa bàn. Hành vi này của cá nhân bị xử lý như thế nào theo quy chế và pháp luật?",
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, giải pháp nào được áp dụng để khuyến khích cán bộ, công chức năng động, đổi mới, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung?",
         "options": [
-          "A. Không bị xử lý vì phản ánh hiện trường được ẩn danh tuyệt đối",
-          "B. Được coi là quyền tự do phản ánh của công dân nên không vi phạm",
-          "C. Tài khoản bị khóa vĩnh viễn; cơ quan chức năng tiến hành xác minh danh tính và xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật về an ninh mạng",
-          "D. Chỉ bị khóa tài khoản Hue-S trong 24 giờ và không bị xử lý gì thêm"
+          "A. Tự động miễn trừ kỷ luật cho toàn bộ công chức lãnh đạo",
+          "B. Tăng gấp đôi tiền thưởng không qua kiểm tra kết quả",
+          "C. Không cần lập biên bản khi xảy ra sai phạm",
+          "D. Thực hiện cơ chế khuyến khích và bảo vệ cán bộ theo Kết luận số 14-kl/TW của Bộ Chính trị và Nghị định số 73/2023/NĐ-CP của Chính phủ"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Giải pháp xây dựng đội ngũ công chức tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: TP Huế đặc biệt chú trọng xây dựng cơ chế bảo vệ cán bộ dám nghĩ, dám làm, dám đột phá vì lợi ích chung; phân định rõ giữa sai sót vô tư do đổi mới sáng tạo với hành vi lợi dụng tham nhũng, vụ lợi cá nhân.\n★ Mẹo nhớ & Bẫy thi: Bảo vệ cán bộ dám nghĩ dám làm: 'Kết luận 14-KL/TW và Nghị định 73/2023/NĐ-CP'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, việc ứng dụng mã QR trong giải quyết thủ tục hành chính nhằm mục đích gì?",
+        "options": [
+          "A. Thay thế chữ ký của Chủ tịch UBND thành phố",
+          "B. Quản lý danh sách phương tiện cá nhân của công chức",
+          "C. Cho phép người dân dùng điện thoại thông minh quét mã để tra cứu tiến độ xử lý hồ sơ, thanh toán phí/lệ phí trực tuyến và đánh giá mức độ hài lòng",
+          "D. Kiểm tra thẻ căn cước của người qua đường"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Luật An ninh mạng và Quy chế quản lý dịch vụ phản ánh hiện trường Huế.\n★ Phân tích chi tiết: Lợi dụng hệ thống phản ánh hiện trường để vu khống, bôi nhọ cán bộ công chức sẽ bị cơ quan công an truy vết qua định danh tài khoản, xử phạt nghiêm minh theo Nghị định số 15/2020/NĐ-CP hoặc truy cứu hình sự.\n★ Mẹo nhớ & bẫy thi: Phản ánh trên Hue-S phải chịu trách nhiệm trước pháp luật về tính trung thực của thông tin cung cấp."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo kế hoạch đào tạo bồi dưỡng công chức của thành phố Huế, mục tiêu đến năm 2025 về tỷ lệ công chức được trang bị kỹ năng số, an toàn thông tin và khai thác dịch vụ đô thị thông minh là bao nhiêu?",
-        "options": [
-          "A. Đạt tối thiểu 80%",
-          "B. Chỉ bồi dưỡng cho cán bộ chuyên trách công nghệ thông tin",
-          "C. Đạt 100% cán bộ, công chức, viên chức được bồi dưỡng kỹ năng số và ứng dụng hiệu quả trong hoạt động công vụ",
-          "D. Đạt tối thiểu 60%"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 3322/QĐ-UBND của UBND tỉnh.\n★ Phân tích chi tiết: Huế xác định con người là nhân tố quyết định chuyển đổi số thành công. Mục tiêu 100% cán bộ công chức phải thành thạo kỹ năng số và xử lý công việc trên môi trường điện tử.\n★ Mẹo nhớ & bẫy thi: Phổ cập kỹ năng số trong cơ quan hành chính Huế đạt 100%."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Trung tâm Giám sát, điều hành đô thị thông minh (IOC) của Thừa Thiên Huế từng đạt giải thưởng quốc tế danh giá nào về giải pháp đô thị thông minh sáng tạo?",
-        "options": [
-          "A. Giải thưởng Kiến trúc xanh APEC",
-          "B. Giải thưởng Viễn thông Châu Á (Telecom Asia Awards) cho Dự án Thành phố thông minh sáng tạo nhất Châu Á",
-          "C. Giải thưởng Thành phố Văn hóa Thế giới",
-          "D. Giải thưởng Di sản thiên nhiên UNESCO"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Báo cáo thành tựu CCHC và chuyển đổi số tỉnh Thừa Thiên Huế.\n★ Phân tích chi tiết: Năm 2019, Trung tâm IOC Thừa Thiên Huế vinh dự nhận giải thưởng Telecom Asia Awards với hạng mục 'Dự án thành phố thông minh sáng tạo nhất Châu Á'.\n★ Mẹo nhớ & bẫy thi: IOC Huế đạt giải thưởng quốc tế Telecom Asia Awards - Thành phố thông minh sáng tạo nhất."
+        "explanation": "★ Căn cứ pháp lý: Ứng dụng công nghệ trong TTHC theo Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Tại Bộ phận Một cửa và Trung tâm Phục vụ HCC TP Huế, mã QR được in trên giấy tiếp nhận và hiển thị tại quầy để người dân quét tra cứu trạng thái hồ sơ, thanh toán không tiền mặt và đánh giá cán bộ.\n★ Mẹo nhớ & Bẫy thi: Mã QR trong CCHC: 'Tra cứu tiến độ hồ sơ + Thanh toán số + Chấm điểm hài lòng'."
       }
     ]
   },
   {
     "id": "de_08",
-    "title": "Bộ Đề Thi Số 08 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 08 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -5710,133 +5710,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Điều 1 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, cơ quan nào chủ trì nội dung Cải cách tài chính công và đổi mới cơ chế tự chủ tài chính của các đơn vị sự nghiệp công lập?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, 'Vị trí việc làm hỗ trợ, phục vụ' trong cơ quan hành chính được điều chỉnh theo hình thức hợp đồng nào?",
         "options": [
-          "A. Bộ Tài chính",
-          "B. Bộ Nội vụ",
-          "C. Bộ Kế hoạch và Đầu tư",
-          "D. Ngân hàng Nhà nước Việt Nam"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục III Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Bộ Tài chính chủ trì triển khai nội dung Cải cách tài chính công, quản lý ngân sách theo kết quả đầu ra và phân bổ tài chính công.\n★ Mẹo nhớ & bẫy thi: Tài chính công -> Bộ Tài chính."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Chỉ số nào sau đây được sử dụng để đánh giá, đo lường toàn diện kết quả cải cách hành chính hàng năm của các bộ, cơ quan ngang bộ và ủy ban nhân dân cấp tỉnh?",
-        "options": [
-          "A. Chỉ số cpi (Chỉ số giá tiêu dùng)",
-          "B. Chỉ số PAR INDEX (Chỉ số Cải cách hành chính)",
-          "C. Chỉ số PCI (Năng lực cạnh tranh cấp tỉnh)",
-          "D. Chỉ số PAPI (Hiệu quả quản trị và hành chính công)"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Quyết định phê duyệt Bộ chỉ số theo dõi, đánh giá CCHC của Bộ Nội vụ.\n★ Phân tích chi tiết: PAR INDEX (Public Administration Reform Index) là công cụ chuyên biệt do Bộ Nội vụ ban hành và đánh giá thường niên để xếp hạng CCHC của các bộ và tỉnh/thành.\n★ Mẹo nhớ & bẫy thi: Chỉ số CCHC chính thống của cơ quan nhà nước là PAR INDEX."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Chỉ số nào sau đây đo lường mức độ hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước do Bộ Nội vụ chủ trì thực hiện?",
-        "options": [
-          "A. Chỉ số SIPAS",
-          "B. Chỉ số ICT Index",
-          "C. Chỉ số DTI",
-          "D. Chỉ số hdi"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quyết định của Bộ Nội vụ về Đề án đo lường sự hài lòng của người dân.\n★ Phân tích chi tiết: SIPAS (Satisfaction Index of Public Administrative Services) đo lường sự hài lòng đối với dịch vụ hành chính công do Bộ Nội vụ triển khai.\n★ Mẹo nhớ & bẫy thi: Đo lường 'sự hài lòng' = SIPAS."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu đến năm 2025 về tỷ lệ tối thiểu công chức cấp xã có trình độ chuyên môn từ đại học trở lên được xác định là bao nhiêu?",
-        "options": [
-          "A. Đạt tối thiểu 90%",
-          "B. Đạt 100%",
-          "C. Đạt tối thiểu 80%",
-          "D. Đạt tối thiểu 70%"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục II.4 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Nghị quyết 76/NQ-CP đặt mục tiêu đến năm 2025, 90% cán bộ, công chức cấp xã có trình độ chuyên môn từ đại học trở lên (trừ vùng sâu, vùng xa, đồng bào dân tộc thiểu số).\n★ Mẹo nhớ & bẫy thi: Mục tiêu chuẩn hóa công chức cấp xã đến 2025 là tối thiểu 90% đại học trở lên."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, nguyên tắc nào sau đây là yêu cầu cốt lõi trong việc xây dựng cơ sở dữ liệu quốc gia và chuyển đổi số trong cơ quan nhà nước?",
-        "options": [
-          "A. Dữ liệu được lưu trữ phân tán, cục bộ, khép kín trong nội bộ từng bộ ngành",
-          "B. Chỉ số hóa các văn bản phát hành sau năm 2030",
-          "C. Dữ liệu phải bảo đảm 'đúng, đủ, sạch, sống', kết nối liên thông, chia sẻ và tái sử dụng hiệu quả giữa các cơ quan",
-          "D. Thu phí tra cứu dữ liệu đối với các cơ quan hành chính khác"
+          "A. Thực hiện theo chế độ công chức biên chế suốt đời",
+          "B. Không được ký hợp đồng mà huy động tình nguyện viên",
+          "C. Thực hiện ký kết hợp đồng lao động theo quy định của Chính phủ về hợp đồng thực hiện một số loại công việc trong cơ quan hành chính, đơn vị sự nghiệp",
+          "D. Bắt buộc ký hợp đồng thời vụ không quá 03 tháng"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Mục II.6 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Dữ liệu là tài nguyên số cốt lõi. Nguyên tắc bắt buộc của chuyển đổi số quốc gia là dữ liệu phải 'đúng, đủ, sạch, sống' và được kết nối, chia sẻ dùng chung.\n★ Mẹo nhớ & bẫy thi: Phương châm chuyển đổi số quốc gia: 'Đúng - Đủ - Sạch - Sống'."
+        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Các vị trí hỗ trợ, phục vụ (lái xe, bảo vệ, vệ sinh...) không thuộc chỉ tiêu biên chế công chức mà thực hiện theo chế độ hợp đồng lao động quy định tại Nghị định của Chính phủ về hợp đồng trong cơ quan hành chính.\n★ Mẹo nhớ & Bẫy thi: Hỗ trợ, phục vụ = 'HỢP ĐỒNG LAO ĐỘNG', không tính vào biên chế công chức."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy chế hoạt động của bộ phận một cửa các cấp tại thành phố Huế, việc lấy ý kiến đánh giá sự hài lòng của người dân được thực hiện qua những phương thức nào?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Nghị định số 361/2025/NĐ-CP quy định cơ cấu ngạch công chức tối đa ngạch Chuyên viên cao cấp tại các cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh phải tuân thủ điều kiện gì?",
         "options": [
-          "A. Chỉ phát phiếu đánh giá bằng giấy khi công dân yêu cầu",
-          "B. Đánh giá trực tiếp qua máy tính bảng (kiosk) tại quầy giao dịch, qua quét mã QR trên giấy tiếp nhận hồ sơ, và qua ứng dụng di động Hue-S",
-          "C. Tự động tính điểm hài lòng tối đa nếu hồ sơ trả đúng hẹn",
-          "D. Chỉ gọi điện thoại ngẫu nhiên vào cuối năm"
+          "A. Chỉ bố trí cho công chức trên 55 tuổi chuẩn bị nghỉ chế độ",
+          "B. Được bố trí không giới hạn số lượng nếu công chức có học hàm giáo sư",
+          "C. Không được vượt quá tỷ lệ quy định của Chính phủ và chỉ bố trí ở các vị trí có tính chất nghiên cứu chiến lược, tham mưu hoạch định chính sách cấp tỉnh",
+          "D. Mọi công chức giữ chức vụ Phó Giám đốc Sở đều mặc nhiên giữ ngạch Chuyên viên cao cấp"
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 2243/QĐ-UBND và các văn bản chỉ đạo của UBND tỉnh.\n★ Phân tích chi tiết: Đánh giá sự hài lòng tại Huế được số hóa đa kênh: Kiosk cảm ứng tại quầy, mã QR trên biên nhận và thông báo đánh giá trực tiếp qua Hue-S.\n★ Mẹo nhớ & bẫy thi: Đánh giá hài lòng tại Huế là số hóa đa kênh (Kiosk, QR code, app Hue-S)."
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Điều 8 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Ngạch chuyên viên cao cấp ở cấp tỉnh phải nằm trong khung tỷ lệ khống chế tối đa theo quy định của Chính phủ/Bộ Nội vụ và gắn với vị trí tham mưu chiến lược, chính sách lớn, không bố trí tùy tiện.\n★ Mẹo nhớ & Bẫy thi: Tỷ lệ ngạch cao cấp luôn có 'khung trần tối đa và gắn với vị trí tham mưu chiến lược'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy định tại Thông báo số 3941/TB-SNV, thí sinh dự thi tuyển công chức năm 2025 cần mang theo giấy tờ gì vào phòng thi để đối chiếu nhân thân?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc rà soát, đánh giá tính phù hợp của Đề án vị trí việc làm đã được phê duyệt được thực hiện với tần suất như thế nào?",
         "options": [
-          "A. Bản sao giấy khai sinh có công chứng",
-          "B. Thẻ căn cước công dân hoặc giấy tờ tùy thân hợp pháp có dán ảnh và Giấy báo dự thi",
-          "C. Học bạ trung học phổ thông bản gốc",
-          "D. Sổ bảo hiểm xã hội"
+          "A. 5 năm một lần khi kết thúc nhiệm kỳ Quốc hội",
+          "B. 10 năm một lần khi tổng kết cải cách hành chính",
+          "C. Định kỳ hàng năm hoặc khi có sự thay đổi về nhiệm vụ, tổ chức bộ máy",
+          "D. Chỉ rà soát khi có đơn khiếu nại của công chức"
         ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Thông tư số 001/2025/TT-BNV và Thông báo số 3941/TB-SNV.\n★ Phân tích chi tiết: Thí sinh phải xuất trình Thẻ căn cước công dân (hoặc hộ chiếu hợp lệ) cùng Giấy báo thi để giám thị kiểm tra, đối chiếu nhân thân trước khi phát số máy và mã đăng nhập.\n★ Mẹo nhớ & bẫy thi: Giấy tờ vào phòng thi: Căn cước công dân / hộ chiếu + Giấy báo dự thi."
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Điều 12 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Cơ quan có trách nhiệm định kỳ hàng năm rà soát sự phù hợp của vị trí việc làm với chức năng, nhiệm vụ và khối lượng công việc, kịp thời đề xuất điều chỉnh khi có biến động.\n★ Mẹo nhớ & Bẫy thi: Rà soát vị trí việc làm: 'Định kỳ hàng năm'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Kế hoạch CCHC của thành phố Huế, chỉ số PAR INDEX cấp sở, ban, ngành và cấp quận/huyện trên địa bàn được xác định nhằm mục đích gì?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, cơ quan nào có thẩm quyền kiểm tra, thanh tra việc chấp hành quy định về xác định vị trí việc làm và cơ cấu ngạch công chức trên phạm vi toàn quốc?",
         "options": [
-          "A. Để giảm trừ ngân sách thường xuyên của các đơn vị xếp thứ hạng thấp",
-          "B. Đánh giá khách quan, thực chất tiến độ và hiệu quả CCHC của từng đơn vị; làm cơ sở bình xét thi đua, khen thưởng và đánh giá trách nhiệm người đứng đầu",
-          "C. Để bãi bỏ các cơ quan có thứ hạng xếp loại trung bình",
-          "D. Làm căn cứ để thanh tra toàn diện hoạt động tài chính của đơn vị đứng đầu"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Quyết định ban hành Bộ chỉ số CCHC của UBND tỉnh Thừa Thiên Huế.\n★ Phân tích chi tiết: Chỉ số CCHC nội bộ cấp sở, cấp huyện tại Huế tạo động lực thi đua cạnh tranh lành mạnh, gắn trực tiếp với trách nhiệm của người đứng đầu cơ quan.\n★ Mẹo nhớ & bẫy thi: Xếp hạng PAR INDEX nội bộ = Đánh giá thực chất hiệu quả + Gắn trách nhiệm người đứng đầu."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Trong công tác cải cách tài chính công, thành phố Huế đẩy mạnh việc áp dụng cơ chế khoán kinh phí quản lý hành chính theo hướng nào?",
-        "options": [
-          "A. Giao quyền tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính; khuyến khích tiết kiệm chi thường xuyên để tăng thu nhập chính đáng cho cán bộ, công chức",
-          "B. Chuyển toàn bộ kinh phí quản lý hành chính sang mua sắm xe ô tô công",
-          "C. Cắt giảm 50% lương cơ bản của công chức để bổ sung quỹ dự phòng",
-          "D. Khoán chi cố định theo số lượng công văn phát hành"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 130/2005/NĐ-CP (sđbs Nghị định số 117/2013/NĐ-CP) và Quyết định 2243/QĐ-UBND.\n★ Phân tích chi tiết: Cơ chế tự chủ, tự chịu trách nhiệm về kinh phí quản lý hành chính tạo động lực mạnh mẽ cho cơ quan hành chính tiết kiệm chi thường xuyên, nâng cao thu nhập tăng thêm hợp pháp cho công chức.\n★ Mẹo nhớ & bẫy thi: Khoán kinh phí quản lý hành chính = Tiết kiệm chi gắn với tăng thu nhập chính đáng cho công chức."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo định hướng xây dựng và phát triển Thừa Thiên Huế trở thành thành phố trực thuộc trung ương trên nền tảng bảo tồn và phát huy giá trị di sản Cố đô, nhiệm vụ xây dựng nền hành chính công vụ được xác định như thế nào?",
-        "options": [
-          "A. Chỉ tuyển dụng cán bộ có chuyên ngành khảo cổ học",
-          "B. Xóa bỏ toàn bộ các công trình văn hóa di sản để mở rộng trụ sở cơ quan hành chính",
-          "C. Xây dựng nền hành chính khép kín, tập trung bảo tồn các thủ tục phong kiến xưa",
-          "D. Xây dựng nền hành chính văn minh, hiện đại, kỷ cương, liêm chính, phục vụ nhân dân, lấy chuyển đổi số và bảo tồn di sản làm động lực phát triển bền vững"
+          "A. Tòa án nhân dân tối cao",
+          "B. Hội Luật gia Việt Nam",
+          "C. Văn phòng Quốc hội",
+          "D. Thanh tra Bộ Nội vụ và các cơ quan thanh tra nhà nước theo thẩm quyền"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Nghị quyết số 54-NQ/TW của Bộ Chính trị về xây dựng và phát triển tỉnh Thừa Thiên Huế đến năm 2030, tầm nhìn đến năm 2045.\n★ Phân tích chi tiết: Mục tiêu hành chính của thành phố Huế trực thuộc trung ương: Hiện đại, kỷ cương, liêm chính, phục vụ, vừa bảo tồn tinh hoa văn hóa di sản Cố đô vừa tiên phong về chính quyền số.\n★ Mẹo nhớ & bẫy thi: Nền hành chính Huế: 'Hiện đại, liêm chính, phục vụ gắn với đô thị di sản thông minh'."
+        "explanation": "★ Căn cứ pháp lý: Điều 14 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Bộ Nội vụ chủ trì kiểm tra, thanh tra việc chấp hành các quy định pháp luật về vị trí việc làm, cơ cấu ngạch công chức trên phạm vi toàn quốc.\n★ Mẹo nhớ & Bẫy thi: Kiểm tra, thanh tra vị trí việc làm công chức trên toàn quốc: BỘ NỘI VỤ."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, đột phá thể chế đối với tài sản hình thành từ nhiệm vụ khoa học công nghệ sử dụng ngân sách nhà nước là gì?",
+        "options": [
+          "A. Giao quyền sở hữu hoặc quyền sử dụng kết quả nghiên cứu, tài sản trí tuệ cho tổ chức chủ trì nghiên cứu để thương mại hóa",
+          "B. Bắt buộc tiêu hủy sau 05 năm nếu không có người mua",
+          "C. Tịch thu toàn bộ bản quyền về cho cơ quan hành chính lưu giữ trong kho",
+          "D. Nghiêm cấm bán hoặc chuyển giao công nghệ cho doanh nghiệp"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Nhiệm vụ giải pháp hoàn thiện thể chế tại Nghị quyết số 57-NQ/TW.\n★ Phân tích chi tiết: Đột phá lớn về tài sản trí tuệ là giao quyền sở hữu hoặc quyền sử dụng kết quả nghiên cứu cho viện, trường, nhà khoa học chủ trì để khuyến khích thương mại hóa nhanh chóng ra thị trường.\n★ Mẹo nhớ & Bẫy thi: Thể chế mới: 'Giao quyền sở hữu/sử dụng tài sản nghiên cứu cho tổ chức chủ trì'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, việc số hóa 100% kết quả giải quyết thủ tục hành chính còn hiệu lực nhằm mục tiêu gì?",
+        "options": [
+          "A. Xây dựng kho dữ liệu điện tử dùng chung của tổ chức, cá nhân, chấm dứt tình trạng yêu cầu nộp lại giấy tờ đã có trong hệ thống",
+          "B. Tăng dung lượng lưu trữ trên các máy chủ cũ",
+          "C. Giảm lương của nhân viên bộ phận một cửa",
+          "D. Thanh lý toàn bộ hồ sơ lưu trữ lịch sử bằng giấy"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Kế hoạch số 18/KH-UBND ngày 10/01/2026 của UBND TP Huế.\n★ Phân tích chi tiết: Số hóa kết quả TTHC để hình thành Kho dữ liệu điện tử cá nhân/tổ chức trên Cổng dịch vụ công, bảo đảm nguyên tắc 'Người dân chỉ cung cấp thông tin một lần'.\n★ Mẹo nhớ & Bẫy thi: Nguyên tắc vàng chuyển đổi số: 'Dữ liệu chỉ cung cấp một lần'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 03/NQ-CP, công nghệ số nào sau đây được xác định là công nghệ chiến lược mũi nhọn cần ưu tiên làm chủ và ứng dụng rộng rãi?",
+        "options": [
+          "A. Trí tuệ nhân tạo (AI), Điện toán đám mây (Cloud), Dữ liệu lớn (Big Data) và Công nghệ chuỗi khối (Blockchain)",
+          "B. Công nghệ in báo giấy cổ điển",
+          "C. Công nghệ đĩa mềm từ tính",
+          "D. Hệ thống phát thanh truyền thanh dây kéo truyền thống"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Nghị quyết số 03/NQ-CP của Chính phủ.\n★ Phân tích chi tiết: Các công nghệ số chiến lược ưu tiên: Trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data), điện toán đám mây (Cloud computing), Internet vạn vật (IoT), bán dẫn và chuỗi khối (Blockchain).\n★ Mẹo nhớ & Bẫy thi: Bộ tứ công nghệ 4.0: 'AI, Big Data, Cloud, Blockchain'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, mục tiêu về tỷ lệ các văn bản quy phạm pháp luật do HĐND và UBND thành phố ban hành phải bảo đảm yêu cầu gì?",
+        "options": [
+          "A. Cho phép ban hành thủ tục hành chính mới trong quyết định quy phạm pháp luật của UBND thành phố",
+          "B. Chỉ cần ban hành nhanh chóng, không bắt buộc qua khâu thẩm định của Sở Tư pháp",
+          "C. Văn bản có hiệu lực ngay trong ngày ký mà không cần niêm yết công khai",
+          "D. 100% văn bản quy phạm pháp luật được ban hành đúng thẩm quyền, đúng trình tự, thủ tục luật định và bảo đảm tính hợp hiến, hợp pháp, khả thi cao"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Nội dung cải cách thể chế Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: 100% dự thảo văn bản QPPL của HĐND và UBND TP Huế phải qua thẩm định nghiêm ngặt của Sở Tư pháp, tuân thủ Luật Ban hành VBQPPL, tuyệt đối không quy định TTHC trái luật định.\n★ Mẹo nhớ & Bẫy thi: Chỉ tiêu thể chế: '100% văn bản QPPL ban hành đúng luật, không chứa TTHC trái phép'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, trách nhiệm của Người đứng đầu cơ quan, đơn vị, địa phương đối với công tác cải cách hành chính là gì?",
+        "options": [
+          "A. Có quyền ủy quyền toàn bộ trách nhiệm CCHC cho công chức văn phòng",
+          "B. Không liên quan đến kết quả thi đua cá nhân cuối năm",
+          "C. Chỉ chịu trách nhiệm nếu cơ quan bị xếp loại cuối bảng",
+          "D. Chịu trách nhiệm trực tiếp, toàn diện về kết quả CCHC tại cơ quan, đơn vị mình phụ trách; lấy kết quả CCHC làm căn cứ chủ yếu để đánh giá mức độ hoàn thành nhiệm vụ của người đứng đầu"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Trách nhiệm người đứng đầu tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Người đứng đầu cơ quan, đơn vị phải trực tiếp chỉ đạo công tác CCHC; nếu để xảy ra tình trạng trì trệ, hồ sơ quá hạn kéo dài, công chức nhũng nhiễu thì người đứng đầu bị xử lý trách nhiệm theo quy định.\n★ Mẹo nhớ & Bẫy thi: Người đứng đầu 'chịu trách nhiệm trực tiếp, toàn diện về kết quả CCHC của cơ quan'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, việc lấy ý kiến đóng góp của người dân và doanh nghiệp về chất lượng phục vụ của cơ quan hành chính được thực hiện qua các kênh nào?",
+        "options": [
+          "A. Người dân phải trả phí khi tham gia khảo sát ý kiến",
+          "B. Chỉ lấy ý kiến của cán bộ công chức hưu trí",
+          "C. Trực tiếp qua phiếu đánh giá tại Bộ phận Một cửa, qua ứng dụng Hue-S, qua Cổng dịch vụ công và các đợt khảo sát độc lập của Viện Nghiên cứu phát triển tỉnh/thành phố",
+          "D. Chỉ lấy ý kiến qua hòm thư góp ý bằng gỗ đặt ở cổng cơ quan"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Đo lường mức độ hài lòng tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Đa dạng hóa các kênh đo lường sự hài lòng: Ki-ốt thông minh tại Một cửa, ứng dụng Hue-S, Cổng dịch vụ công trực tuyến và điều tra xã hội học độc lập định kỳ hàng năm.\n★ Mẹo nhớ & Bẫy thi: Kênh đánh giá sự hài lòng: 'Đa kênh (Một cửa + Hue-S + Cổng DVC + Khảo sát độc lập)'."
       }
     ]
   },
   {
     "id": "de_09",
-    "title": "Bộ Đề Thi Số 09 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 09 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -6439,133 +6439,133 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Điều 11 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu đến năm 2030 về mức độ hoàn thành xây dựng Chính phủ điện tử, Chính phủ số là:",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc đào tạo, bồi dưỡng công chức bắt buộc phải căn cứ vào yếu tố nào?",
         "options": [
-          "A. Việt Nam thuộc nhóm 50 nước dẫn đầu về Chính phủ điện tử (EGDI) theo đánh giá của Liên hợp quốc",
-          "B. Việt Nam thuộc nhóm 30 nước dẫn đầu thế giới",
-          "C. Việt Nam thuộc nhóm 70 nước dẫn đầu về Chính phủ điện tử (EGDI)",
-          "D. Việt Nam chỉ xếp hạng trong phạm vi khu vực asean"
+          "A. Địa điểm tổ chức khóa học có gần nhà công chức hay không",
+          "B. Sở thích cá nhân của công chức về ngành học",
+          "C. Yêu cầu về tiêu chuẩn năng lực của vị trí việc làm và nhu cầu chuẩn hóa ngạch công chức",
+          "D. Chỉ tiêu kinh phí đi lại còn thừa của cơ quan"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Điều 13 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Kế hoạch đào tạo, bồi dưỡng công chức phải căn cứ vào tiêu chuẩn khung năng lực của từng vị trí việc làm nhằm đáp ứng yêu cầu công vụ và quy hoạch nhân sự.\n★ Mẹo nhớ & Bẫy thi: Đào tạo, bồi dưỡng thời nay phải 'gắn với yêu cầu của vị trí việc làm'."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, cơ quan nào có trách nhiệm lưu trữ, quản lý hồ sơ Đề án vị trí việc làm sau khi đã được cấp có thẩm quyền phê duyệt?",
+        "options": [
+          "A. Cơ quan phê duyệt đề án và cơ quan trực tiếp sử dụng công chức",
+          "B. Bưu điện trung tâm",
+          "C. Thư viện thành phố",
+          "D. Chỉ cơ quan lưu trữ lịch sử của tỉnh"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục II.6 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Mục tiêu đến năm 2030: Việt Nam thuộc nhóm 50 nước dẫn đầu về Chính phủ điện tử (EGDI) trên thế giới theo xếp hạng của Liên Hợp Quốc.\n★ Mẹo nhớ & bẫy thi: Mốc quốc tế EGDI đến năm 2030 là 'top 50 nước dẫn đầu'."
+        "explanation": "★ Căn cứ pháp lý: Điều 11 & Điều 15 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Hồ sơ Đề án vị trí việc làm sau khi phê duyệt phải được quản lý, lưu trữ chặt chẽ tại cả cơ quan có thẩm quyền phê duyệt và cơ quan trực tiếp xây dựng, sử dụng công chức.\n★ Mẹo nhớ & Bẫy thi: Lưu trữ tại cả 2 đầu: 'Cơ quan phê duyệt và Cơ quan sử dụng công chức'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Chỉ thị số 23/CT-TTg yêu cầu các bộ, ngành, địa phương phải hoàn thành việc xây dựng và phê duyệt danh mục gì để làm căn cứ bố trí biên chế công chức?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, mục tiêu cao nhất của việc xác định vị trí việc làm trong cơ quan hành chính nhà nước là gì?",
         "options": [
-          "A. Danh mục trang thiết bị văn phòng hiện đại hóa",
-          "B. Quy chế khen thưởng đột xuất",
-          "C. Bản phân bổ quỹ lương hàng tháng",
-          "D. Đề án vị trí việc làm và cơ cấu ngạch công chức của từng cơ quan, tổ chức, đơn vị"
+          "A. Tạo cơ hội nâng lương nhanh chóng cho toàn bộ cán bộ công chức",
+          "B. Giải ngân toàn bộ ngân sách chi thường xuyên được giao",
+          "C. Sắp xếp tổ chức bộ máy tinh gọn, nâng cao chất lượng đội ngũ công chức và tối ưu hóa hiệu quả thực thi công vụ",
+          "D. Tăng tối đa số lượng phòng ban chức năng để có thêm vị trí lãnh đạo"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Điều 4 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Mục tiêu xuyên suốt là xây dựng bộ máy tinh gọn, hiệu lực, hiệu quả; cơ cấu lại và nâng cao chất lượng đội ngũ cán bộ, công chức; làm cơ sở trả lương theo vị trí việc làm.\n★ Mẹo nhớ & Bẫy thi: Tinh thần cốt lõi: 'Bộ máy tinh gọn, công chức chuyên nghiệp, tối ưu hóa công vụ'."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, một trong những tiêu chuẩn để xác định vị trí việc làm lãnh đạo, quản lý là gì?",
+        "options": [
+          "A. Phải là người cao tuổi nhất trong đơn vị",
+          "B. Phải có thời gian công tác trên 30 năm trong ngành",
+          "C. Phải có hộ khẩu thường trú tại địa phương nơi cơ quan đóng trụ sở",
+          "D. Phải gắn với chức danh lãnh đạo trong cơ cấu tổ chức và có thẩm quyền chỉ đạo, điều hành, quản lý"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục 2 Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Phê duyệt đề án vị trí việc làm và cơ cấu ngạch công chức là cơ sở khoa học để giao biên chế, chấm dứt tình trạng biên chế bình quân cào bằng.\n★ Mẹo nhớ & bẫy thi: Giao biên chế phải dựa trên 'Đề án vị trí việc làm'."
+        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Vị trí việc làm lãnh đạo, quản lý gắn liền với chức vụ, chức danh lãnh đạo trong cơ cấu tổ chức bộ máy, có chức năng chỉ đạo, điều hành, quản lý công chức và chịu trách nhiệm về kết quả hoạt động của cơ quan, tổ chức.\n★ Mẹo nhớ & Bẫy thi: Lãnh đạo quản lý = 'gắn với chức vụ, chức danh lãnh đạo và thẩm quyền chỉ đạo, điều hành'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, giải pháp nào sau đây nâng cao tính minh bạch trong quản lý tài chính và tài sản công?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, cơ quan nào là đầu mối chịu trách nhiệm đôn đốc, theo dõi, tổng hợp và báo cáo Ủy ban nhân dân thành phố việc triển khai Kế hoạch chuyển đổi số năm 2026?",
         "options": [
-          "A. Chỉ báo cáo tình hình sử dụng tài sản công khi có thanh tra",
-          "B. Chuyển toàn bộ tài sản công cho công đoàn đơn vị quản lý nội bộ",
-          "C. Không công khai dự toán ngân sách để tránh khiếu kiện",
-          "D. Thực hiện công khai, minh bạch đầy đủ dự toán, quyết toán ngân sách nhà nước và công khai quản lý, sử dụng tài sản công theo đúng quy định pháp luật"
+          "A. Sở Thông tin và Truyền thông thành phố Huế",
+          "B. Sở Kế hoạch và Đầu tư thành phố Huế",
+          "C. Sở Nội vụ thành phố Huế",
+          "D. Văn phòng UBND thành phố Huế"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Điều khoản tổ chức thực hiện tại Kế hoạch số 18/KH-UBND.\n★ Phân tích chi tiết: Sở Thông tin và Truyền thông là cơ quan thường trực, đầu mối theo dõi, hướng dẫn, kiểm tra và định kỳ báo cáo UBND thành phố tình hình thực hiện Kế hoạch số 18/KH-UBND.\n★ Mẹo nhớ & Bẫy thi: Cơ quan thường trực về CNTT & Chuyển đổi số của thành phố: 'SỞ THÔNG TIN VÀ TRUYỀN THÔNG'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, mục tiêu phát triển hạ tầng số quốc gia đến năm 2030 đòi hỏi mạng thông tin di động băng rộng phải đạt chuẩn nào?",
+        "options": [
+          "A. Chỉ sử dụng mạng vệ tinh quân sự",
+          "B. Xóa bỏ hoàn toàn mạng Internet cáp quang",
+          "C. Chỉ duy trì mạng 3G và 4G ở các thành phố lớn",
+          "D. Phổ cập mạng di động 5G trên toàn quốc và bắt đầu thử nghiệm mạng 6G"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục II.5 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Công khai, minh bạch ngân sách và tài sản công là yêu cầu bắt buộc của cải cách tài chính công nhằm ngăn chặn thất thoát, tham nhũng.\n★ Mẹo nhớ & bẫy thi: 'Công khai, minh bạch dự toán và quyết toán' là nguyên tắc quản trị tài chính công."
+        "explanation": "★ Căn cứ pháp lý: Mục tiêu hạ tầng số Nghị quyết số 57-NQ/TW.\n★ Phân tích chi tiết: Đến năm 2030, mạng băng rộng di động 5G được phủ sóng toàn quốc, cáp quang kết nối 100% hộ gia đình và nghiên cứu, phát triển, thử nghiệm mạng 6G.\n★ Mẹo nhớ & Bẫy thi: Hạ tầng viễn thông 2030: 'Phổ cập 5G toàn quốc, nghiên cứu thử nghiệm 6G'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, một trong những tiêu chí cơ bản để đánh giá sự thành công của cải cách thủ tục hành chính là:",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, chỉ tiêu xếp hạng Chỉ số Chuyển đổi số (DTI) của thành phố Huế năm 2026 phấn đấu duy trì ở vị trí nào?",
         "options": [
-          "A. Tăng thêm các khâu kiểm duyệt hồ sơ nội bộ để bảo đảm an toàn cho cán bộ",
-          "B. Lấy người dân, doanh nghiệp làm trung tâm phục vụ; lấy sự hài lòng của cá nhân, tổ chức làm thước đo chất lượng phục vụ của cơ quan hành chính nhà nước",
-          "C. Số lượng cán bộ tham gia xử lý một bộ hồ sơ nhiều hơn",
-          "D. Số lượng văn bản giải thích thủ tục hành chính ban hành nhiều hơn"
+          "A. Thuộc nhóm 10 tỉnh cuối bảng",
+          "B. Không tham gia đánh giá xếp hạng DTI",
+          "C. Giữ vững vị trí trong nhóm 5 địa phương dẫn đầu cả nước",
+          "D. Xếp ở nhóm trung bình cả nước"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Mục tiêu DTI Kế hoạch số 18/KH-UBND của UBND TP Huế.\n★ Phân tích chi tiết: Thừa Thiên Huế (nay là TP Huế) luôn là điểm sáng dẫn đầu về DTI và mục tiêu năm 2026 là giữ vững thứ hạng trong top 5 địa phương dẫn đầu cả nước về chuyển đổi số.\n★ Mẹo nhớ & Bẫy thi: Chỉ số DTI của Huế luôn đặt mục tiêu: 'Top 5 địa phương dẫn đầu cả nước'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, chế độ báo cáo định kỳ công tác cải cách hành chính của các cơ quan, đơn vị gửi về Sở Nội vụ được thực hiện theo thời hạn nào?",
+        "options": [
+          "A. Báo cáo hàng tuần vào thứ Hai",
+          "B. Báo cáo định kỳ hàng quý, 6 tháng và báo cáo tổng kết năm",
+          "C. Không cần làm báo cáo định kỳ",
+          "D. Chỉ báo cáo một lần vào cuối nhiệm kỳ 5 năm"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục I và Mục II.2 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Quan điểm chỉ đạo xuyên suốt của Chính phủ: Lấy người dân, doanh nghiệp làm trung tâm phục vụ, lấy sự hài lòng làm thước đo đánh giá.\n★ Mẹo nhớ & bẫy thi: Thước đo chất lượng phục vụ = Sự hài lòng của người dân, doanh nghiệp."
+        "explanation": "★ Căn cứ pháp lý: Chế độ thông tin báo cáo tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Các sở, ngành và UBND cấp huyện/xã có trách nhiệm gửi báo cáo CCHC định kỳ: quý I, 6 tháng, quý III và báo cáo năm về Sở Nội vụ để tổng hợp trình UBND thành phố và Bộ Nội vụ.\n★ Mẹo nhớ & Bẫy thi: Chế độ báo cáo CCHC: 'Định kỳ hàng quý, 6 tháng và báo cáo năm'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Tình huống: Một sở chuyên môn khi công bố danh mục thủ tục hành chính trực tuyến toàn trình nhưng trên thực tế vẫn yêu cầu người nộp hồ sơ phải mang bản chính đến đối chiếu tại trụ sở trước khi trả kết quả điện tử. Theo quy định về cung cấp dịch vụ công trực tuyến, phản ánh nào sau đây là chính xác?",
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, việc sắp xếp, tinh gọn các đơn vị sự nghiệp công lập thuộc phạm vi quản lý của thành phố phải đảm bảo mục tiêu gì?",
         "options": [
-          "A. Thủ tục này thực chất chỉ là dịch vụ công một phần, việc công bố là toàn trình là sai sự thật và gây phiền hà, đánh lừa chỉ số thành tích",
-          "B. Không ảnh hưởng gì đến quyền lợi của tổ chức, cá nhân",
-          "C. Được khuyến khích thực hiện để hạn chế làm giả giấy tờ",
-          "D. Cơ quan hoàn toàn làm đúng vì dịch vụ công toàn trình vẫn phải kiểm tra trực tiếp bản chính"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Nghị định số 42/2022/NĐ-CP và Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Dịch vụ công trực tuyến toàn trình là dịch vụ mà toàn bộ quy trình từ nộp, giải quyết, thanh toán đến trả kết quả đều thực hiện trên môi trường điện tử. Yêu cầu đến đối chiếu trực tiếp bản giấy là biến tướng, vi phạm định nghĩa toàn trình.\n★ Mẹo nhớ & bẫy thi: Đã là 'toàn trình' thì toàn bộ quy trình phải trực tuyến, không có bước đến trực tiếp nộp giấy tờ."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của Ủy ban nhân dân thành phố Huế, giải pháp nâng cao hiệu quả chỉ đạo, điều hành công tác cải cách hành chính trên địa bàn thành phố nhấn mạnh nội dung nào?",
-        "options": [
-          "A. Cắt giảm toàn bộ kinh phí truyền thông về CCHC trên địa bàn thành phố",
-          "B. Chỉ đánh giá CCHC vào dịp tổng kết 5 năm một lần",
-          "C. Phát huy trách nhiệm nêu gương của người đứng đầu các phòng, ban, đơn vị trực thuộc; thường xuyên kiểm tra hiện trường và gắn kết quả CCHC với bình xét đánh giá công chức hàng tháng, hàng quý",
-          "D. Giao toàn quyền quyết định chỉ số CCHC cho các hội nhóm tự phát"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND thành phố Huế.\n★ Phân tích chi tiết: Quyết định 1026/QĐ-UBND nhấn mạnh vai trò nêu gương và kiểm tra trực tiếp hiện trường của người đứng đầu, đưa việc đánh giá CCHC thành hoạt động thường xuyên hàng tháng, hàng quý.\n★ Mẹo nhớ & bẫy thi: Quyết định 1026 gắn với 'trách nhiệm nêu gương của người đứng đầu và kiểm tra thường xuyên'."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Kế hoạch tuyển dụng công chức thành phố Huế năm 2025, người nào sau đây không được đăng ký dự tuyển công chức?",
-        "options": [
-          "A. Người tốt nghiệp đại học loại trung bình khá",
-          "B. Người chưa từng làm việc trong cơ quan nhà nước",
-          "C. Người không cư trú tại địa bàn thành phố Huế",
-          "D. Người mất hoặc bị hạn chế năng lực hành vi dân sự; người đang bị truy cứu trách nhiệm hình sự hoặc đang chấp hành bản án hình sự"
+          "A. Thành lập thêm các ban quản lý dự án nhỏ lẻ ở từng phường",
+          "B. Xóa bỏ hoàn toàn chế độ viên chức sự nghiệp",
+          "C. Chuyển toàn bộ bệnh viện và trường học công lập sang thành doanh nghiệp cổ phần tư nhân",
+          "D. Giảm tối thiểu 10% đơn vị sự nghiệp công lập và giảm tối thiểu 10% biên chế sự nghiệp hưởng lương từ ngân sách nhà nước so với giai đoạn trước"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 36 Luật Cán bộ, công chức và Quyết định số 2626/QĐ-UBND.\n★ Phân tích chi tiết: Những người không được đăng ký dự tuyển công chức: mất hoặc hạn chế năng lực hành vi dân sự; đang bị truy cứu trách nhiệm hình sự, đang chấp hành bản án, quyết định về hình sự hoặc đang áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện, giáo dục.\n★ Mẹo nhớ & bẫy thi: Nơi cư trú và xếp loại tốt nghiệp không phải điều kiện cấm dự tuyển công chức."
+        "explanation": "★ Căn cứ pháp lý: Đổi mới đơn vị sự nghiệp công lập tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Thực hiện Nghị quyết 19-NQ/TW và Kế hoạch của thành phố: Sắp xếp lại mạng lưới đơn vị sự nghiệp, giảm đầu mối trung gian, phấn đấu giảm tối thiểu 10% đơn vị sự nghiệp và 10% biên chế hưởng lương ngân sách.\n★ Mẹo nhớ & Bẫy thi: Chỉ tiêu tinh gọn đơn vị sự nghiệp công lập: 'Giảm tối thiểu 10% đơn vị và 10% biên chế hưởng lương ngân sách'."
       },
       {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Thông báo số 3941/TB-SNV, thí sinh dự thi Vòng 1 môn Kiến thức chung nếu có hành vi trao đổi bài hoặc quay cóp tài liệu đã bị giám thị nhắc nhở 01 lần nhưng vẫn tái phạm trong cùng buổi thi thì bị xử lý hình thức nào?",
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, công tác thanh tra, kiểm tra công vụ được tiến hành theo phương thức nào để nâng cao hiệu lực?",
         "options": [
-          "A. Bị lập biên bản cảnh cáo và trừ 50% tổng số điểm của phần thi đó",
-          "B. Bị nhắc nhở bằng miệng lần thứ 2 và cho tiếp tục làm bài",
-          "C. Bị đình chỉ thi ngay lập tức",
-          "D. Bị lập biên bản khiển trách và trừ 25% tổng số điểm của phần thi đó"
+          "A. Chỉ kiểm tra khi có thông báo trước 30 ngày cho cơ quan được kiểm tra",
+          "B. Tăng cường kiểm tra đột xuất, không báo trước đối với việc thực thi công vụ, giải quyết thủ tục hành chính và chấp hành giờ giấc, kỷ luật hành chính của công chức",
+          "C. Chỉ kiểm tra hồ sơ sổ sách lưu trữ từ 5 năm trước",
+          "D. Không được phép kiểm tra trực tiếp tại bộ phận một cửa"
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Thông tư số 001/2025/TT-BNV.\n★ Phân tích chi tiết: Hành vi trao đổi, quay cóp đã nhắc nhở 01 lần mà tái phạm thì bị lập biên bản Khiển trách (trừ 25% điểm). Nếu đã khiển trách mà vẫn tiếp tục vi phạm thì bị Cảnh cáo (trừ 50% điểm). Nếu tiếp tục vi phạm hoặc mang điện thoại thì bị Đình chỉ thi.\n★ Mẹo nhớ & bẫy thi: Bậc thang thang điểm kỷ luật phòng thi: Nhắc nhở -> Khiển trách (trừ 25%) -> Cảnh cáo (trừ 50%) -> Đình chỉ thi (hủy kết quả)."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy chế thi tuyển công chức (Thông tư số 001/2025/tt-BNV), thành viên Ban giám sát kỳ thi có quyền hạn nào sau đây trong phòng thi?",
-        "options": [
-          "A. Tự ý thay đổi đề thi dự phòng nếu thấy câu hỏi quá khó",
-          "B. Thu bài thi của thí sinh trước khi hết giờ",
-          "C. Giám sát việc thực hiện nhiệm vụ của các thành viên Hội đồng thi và các Ban giúp việc; lập biên bản đề nghị Chủ tịch Hội đồng thi xử lý đối với thành viên vi phạm quy chế",
-          "D. Trực tiếp giải thích nội dung câu hỏi cho thí sinh khi thí sinh thắc mắc"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Thông tư số 001/2025/TT-BNV.\n★ Phân tích chi tiết: Ban giám sát có chức năng giám sát độc lập toàn bộ hoạt động của kỳ thi, bảo đảm tính công bằng, khách quan, không trực tiếp coi thi hay can thiệp vào chuyên môn chấm thi.\n★ Mẹo nhớ & bẫy thi: Ban giám sát giám sát quy trình và thành viên Hội đồng thi, không can thiệp nội dung làm bài của thí sinh."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Trong hệ thống đô thị thông minh của Huế, hệ thống camera thông minh AI kết nối về Trung tâm IOC phục vụ đắc lực nhất cho công tác nào sau đây?",
-        "options": [
-          "A. Giám sát an ninh trật tự, giám sát và 'phạt nguội' vi phạm trật tự an toàn giao thông, và phát hiện lấn chiếm lòng lề đường đô thị",
-          "B. Giám sát chấm công hàng ngày của toàn bộ doanh nghiệp tư nhân",
-          "C. Quay phim quảng cáo thương mại cho các công ty du lịch",
-          "D. Theo dõi biến động giá cả thị trường bán lẻ"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Báo cáo kết quả vận hành IOC Thừa Thiên Huế (nay là TP Huế).\n★ Phân tích chi tiết: Camera AI của Huế nổi tiếng toàn quốc với việc tự động nhận diện biển số xe vi phạm giao thông để phạt nguội, giám sát an ninh trật tự và vệ sinh môi trường.\n★ Mẹo nhớ & bẫy thi: Camera AI IOC Huế: Phạt nguội vi phạm giao thông + Giám sát an ninh trật tự đô thị."
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Thanh tra, kiểm tra công vụ tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Đổi mới công tác kiểm tra công vụ: Thành lập các đoàn kiểm tra liên ngành tăng cường kiểm tra đột xuất, ghi nhận hình ảnh thực tế, xử lý ngay tại chỗ các vi phạm kỷ luật, thái độ nhũng nhiễu của công chức.\n★ Mẹo nhớ & Bẫy thi: Phương thức kiểm tra công vụ hiệu quả cao: 'Tăng cường kiểm tra đột xuất, không báo trước'."
       }
     ]
   },
   {
     "id": "de_10",
-    "title": "Bộ Đề Thi Số 10 - Kỳ Thi Tuyển Công Chức TP Huế 2025",
+    "title": "Bộ Đề Thi Số 10 - Kỳ Thi Tuyển Công Chức TP Huế 2026",
     "timeMinutes": 60,
     "passScore": 30,
-    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 10 danh mục tài liệu theo Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ TP Huế.",
+    "description": "Đề thi mô phỏng chính thức Vòng 1 gồm 60 câu hỏi trắc nghiệm độ khó cao, thời gian 60 phút. Căn cứ đúng 13 danh mục tài liệu theo Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế.",
     "questions": [
       {
         "topic": "1. Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (Chương III & IV)",
@@ -7168,124 +7168,124 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Điều 21 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa nhấn mạnh nội dung nào?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc tuyển dụng công chức mới hàng năm bắt buộc phải căn cứ vào yếu tố nào?",
         "options": [
-          "A. Khôi phục chế độ phân phối hàng hóa theo tem phiếu",
-          "B. Bảo đảm quyền sở hữu, quyền tự do kinh doanh; bảo đảm cạnh tranh bình đẳng, minh bạch giữa các thành phần kinh tế",
-          "C. Phân biệt đối xử giữa doanh nghiệp nhà nước và doanh nghiệp tư nhân",
-          "D. Áp dụng biện pháp hành chính để can thiệp trực tiếp vào giá cả thị trường"
+          "A. Căn cứ vào quyết định đột xuất của hội đồng thi đua khen thưởng",
+          "B. Căn cứ vào số lượng hồ sơ nộp vào cơ quan nhiều hay ít",
+          "C. Căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm còn khuyết và chỉ tiêu biên chế được giao",
+          "D. Căn cứ vào tỷ lệ nam nữ trong cơ quan"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Điều 13 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm còn trống (còn khuyết) và chỉ tiêu biên chế công chức được cấp có thẩm quyền giao.\n★ Mẹo nhớ & Bẫy thi: Tuyển dụng phải có 3 điều kiện: 'Nhiệm vụ + Vị trí còn trống + Biên chế được giao'."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, hành vi nào sau đây bị nghiêm cấm trong quản lý vị trí việc làm?",
+        "options": [
+          "A. Bố trí công chức không đúng với vị trí việc làm đã được phê duyệt",
+          "B. Ứng dụng phần mềm số để quản lý hồ sơ vị trí việc làm",
+          "C. Công khai bản mô tả công việc cho công chức trong phòng",
+          "D. Rà soát định kỳ hàng năm danh mục vị trí việc làm"
+        ],
+        "ans": 0,
+        "explanation": "★ Căn cứ pháp lý: Điều 4 & Điều 15 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Nghiêm cấm việc tuyển dụng, bố trí, sắp xếp công chức không đúng với vị trí việc làm hoặc phê duyệt vượt quá chỉ tiêu biên chế, cơ cấu ngạch đã quy định.\n★ Mẹo nhớ & Bẫy thi: 'Bố trí sai vị trí việc làm đã duyệt' là hành vi vi phạm kỷ luật quản lý công chức."
+      },
+      {
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, việc chuyển đổi vị trí công tác để phòng ngừa tham nhũng phải bảo đảm nguyên tắc nào đối với vị trí việc làm?",
+        "options": [
+          "A. Phải hạ ngạch công chức khi thực hiện chuyển đổi",
+          "B. Phải chuyển đổi giữa các vị trí có chuyên môn, nghiệp vụ tương đương và phù hợp với khung năng lực của công chức",
+          "C. Phải chuyển sang vị trí hoàn toàn trái chuyên môn để thử thách",
+          "D. Chỉ chuyển đổi đối với công chức hợp đồng lao động"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Mục II.1 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Hoàn thiện thể chế kinh tế bảo đảm quyền tài sản, cạnh tranh bình đẳng, tự do kinh doanh theo pháp luật cho mọi thành phần kinh tế.\n★ Mẹo nhớ & bẫy thi: Thể chế kinh tế thị trường = Cạnh tranh bình đẳng, không phân biệt thành phần kinh tế."
+        "explanation": "★ Căn cứ pháp lý: Điều 13 Nghị định số 361/2025/NĐ-CP (kết hợp Luật PCTN).\n★ Phân tích chi tiết: Việc chuyển đổi vị trí công tác phòng ngừa tham nhũng phải bảo đảm tính khách quan, hợp lý, giữa các vị trí có chuyên môn nghiệp vụ tương đương, không làm gián đoạn nhiệm vụ và phù hợp với khung năng lực của công chức.\n★ Mẹo nhớ & Bẫy thi: Chuyển đổi vị trí phải 'phù hợp với chuyên môn, nghiệp vụ tương đương và khung năng lực'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Chỉ thị số 23/CT-TTg, việc ứng dụng công nghệ thông tin trong chỉ đạo, điều hành của các cơ quan hành chính nhà nước phải bảo đảm điều kiện gì?",
+        "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
+        "q": "Theo Nghị định số 361/2025/NĐ-CP, ngày Nghị định này chính thức có hiệu lực thi hành là ngày nào?",
         "options": [
-          "A. Chỉ sử dụng máy tính cá nhân không kết nối mạng internet",
-          "B. Mỗi cơ quan tự thuê máy chủ đặt tại nước ngoài để lưu trữ",
-          "C. Văn bản điện tử chỉ mang tính chất tham khảo, bắt buộc phải gửi kèm văn bản giấy có đóng dấu đỏ",
-          "D. 100% văn bản trao đổi giữa các cơ quan hành chính nhà nước được thực hiện dưới dạng điện tử, có sử dụng chữ ký số chuyên dùng (trừ văn bản mật)"
+          "A. Ngày 01 tháng 7 năm 2026",
+          "B. Ngày 01 tháng 01 năm 2026",
+          "C. Ngày 31 tháng 12 năm 2025",
+          "D. Ngày 15 tháng 02 năm 2026"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục 2 Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: 100% văn bản hành chính (không mật) giữa các cơ quan nhà nước được ký số chuyên dùng và gửi nhận hoàn toàn qua Trục liên thông văn bản quốc gia.\n★ Mẹo nhớ & bẫy thi: Gửi nhận văn bản điện tử có chữ ký số đạt 100% (trừ văn bản mật)."
+        "explanation": "★ Căn cứ pháp lý: Điều 16 Nghị định số 361/2025/NĐ-CP.\n★ Phân tích chi tiết: Nghị định số 361/2025/NĐ-CP được ban hành ngày 31/12/2025 và có hiệu lực thi hành kể từ ngày 15/02/2026.\n★ Mẹo nhớ & Bẫy thi: Ban hành ngày cuối năm 31/12/2025 -> Hiệu lực thi hành sau 45 ngày là ngày 15/02/2026."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, mục tiêu đến năm 2030 về mức độ giảm chi trực tiếp từ ngân sách nhà nước cho đơn vị sự nghiệp công lập so với giai đoạn trước là bao nhiêu?",
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Nghị quyết số 57-NQ/TW, yêu cầu đặt ra đối với dữ liệu số trong kỷ nguyên kinh tế số là gì?",
         "options": [
-          "A. Giảm tối thiểu 15% chi trực tiếp từ ngân sách nhà nước cho các đơn vị sự nghiệp công lập",
-          "B. Giảm tối thiểu 5%",
-          "C. Giảm tối thiểu 10%",
-          "D. Cắt giảm 100% ngân sách đối với toàn bộ các đơn vị sự nghiệp"
+          "A. Dữ liệu phải được bảo mật tuyệt đối và không chia sẻ cho bất kỳ cơ quan nào khác",
+          "B. Dữ liệu là tư liệu sản xuất mới, là nguồn tài nguyên chiến lược quốc gia phải được kết nối, chia sẻ, khai thác tối đa giá trị",
+          "C. Mọi dữ liệu công vụ phải đem bán cho các sàn giao dịch quốc tế",
+          "D. Dữ liệu chỉ lưu trữ trên giấy tờ chứng từ để tránh mất cắp"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Quan điểm chỉ đạo Nghị quyết số 57-NQ/TW.\n★ Phân tích chi tiết: Nghị quyết khẳng định dữ liệu là nguồn tài nguyên chiến lược mới, là tư liệu sản xuất quan trọng của nền kinh tế số; xóa bỏ tình trạng cát cứ, phân mảnh dữ liệu giữa các bộ, ngành, địa phương.\n★ Mẹo nhớ & Bẫy thi: Luận điểm cốt lõi: 'Dữ liệu là tư liệu sản xuất mới, tài nguyên chiến lược'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND của UBND tp Huế, việc xây dựng 'Chính quyền số' của thành phố Huế hướng đến mục tiêu phục vụ ai làm trung tâm?",
+        "options": [
+          "A. Lấy cơ quan quản lý nhà nước làm trung tâm để thuận tiện cho việc kiểm tra",
+          "B. Lấy người dân và doanh nghiệp làm trung tâm, sự hài lòng của người dân là thước đo hiệu quả phục vụ",
+          "C. Lấy các tập đoàn viễn thông làm trung tâm để hưởng lợi nhuận",
+          "D. Lấy các chỉ số thống kê lý thuyết làm mục đích duy nhất"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Quan điểm chỉ đạo xuyên suốt tại Kế hoạch số 18/KH-UBND.\n★ Phân tích chi tiết: Xây dựng Chính quyền số TP Huế lấy người dân, doanh nghiệp làm trung tâm, lấy sự thuận tiện, tiết kiệm thời gian, chi phí và sự hài lòng của người dân làm thước đo đánh giá chất lượng phục vụ.\n★ Mẹo nhớ & Bẫy thi: Triết lý phục vụ công quyền: 'Lấy người dân và doanh nghiệp làm trung tâm'."
+      },
+      {
+        "topic": "8. Nghị quyết 57-NQ/TW, NQ 03/NQ-CP & KH 18/KH-UBND (Đột phá KHCN, đổi mới sáng tạo & CĐS TP Huế)",
+        "q": "Theo Kế hoạch số 18/kh-UBND, ngày Chuyển đổi số quốc gia hàng năm được tổ chức vào ngày nào?",
+        "options": [
+          "A. Ngày 30 tháng 4",
+          "B. Ngày 19 tháng 5",
+          "C. Ngày 10 tháng 10",
+          "D. Ngày 02 tháng 9"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Quyết định của Thủ tướng Chính phủ và Kế hoạch số 18/KH-UBND của TP Huế.\n★ Phân tích chi tiết: Ngày 10 tháng 10 hàng năm là Ngày Chuyển đổi số quốc gia (gắn với ý nghĩa nhị phân 10 - 10 của công nghệ số).\n★ Mẹo nhớ & Bẫy thi: Ngày Chuyển đổi số quốc gia: 'Ngày 10 tháng 10' (10/10)."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, 'Cải cách chế độ công vụ' yêu cầu chuyển dịch phương thức quản lý cán bộ, công chức từ mô hình chức nghiệp sang mô hình nào?",
+        "options": [
+          "A. Mô hình ký hợp đồng khoán việc không hưởng lương hưu",
+          "B. Mô hình quản trị nhân lực công vụ theo vị trí việc làm kết hợp với mô hình chức nghiệp",
+          "C. Mô hình luân chuyển công chức hoàn toàn ngẫu nhiên",
+          "D. Mô hình quản lý theo tiêu chuẩn gia đình truyền thống"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Cải cách chế độ công vụ tại Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Trọng tâm đổi mới công vụ là chuyển đổi mạnh mẽ từ hệ thống chức nghiệp thuần túy (quản lý theo ngạch, thâm niên) sang hệ thống việc làm kết hợp chức nghiệp (quản trị nhân lực theo vị trí việc làm, năng lực và kết quả công việc).\n★ Mẹo nhớ & Bẫy thi: Mô hình quản lý công vụ hiện đại: 'Quản trị nhân lực theo vị trí việc làm kết hợp chức nghiệp'."
+      },
+      {
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, ngày ban hành Quyết định này là ngày nào?",
+        "options": [
+          "A. Ngày 30 tháng 3 năm 2026",
+          "B. Ngày 12 tháng 11 năm 2026",
+          "C. Ngày 10 tháng 9 năm 2021",
+          "D. Ngày 25 tháng 12 năm 2025"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục II.5 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Mục tiêu đến năm 2030: Giảm tối thiểu 15% chi trực tiếp từ ngân sách nhà nước cho đơn vị sự nghiệp công lập so với giai đoạn 2021-2025.\n★ Mẹo nhớ & bẫy thi: Mốc giảm chi trực tiếp từ ngân sách cho sự nghiệp công lập đến 2030 là 15%."
+        "explanation": "★ Căn cứ pháp lý: Tiêu đề và phần ban hành của Quyết định số 1026/QĐ-UBND.\n★ Phân tích chi tiết: Quyết định số 1026/QĐ-UBND được Chủ tịch Ủy ban nhân dân thành phố Huế ký ban hành vào ngày 30 tháng 3 năm 2026.\n★ Mẹo nhớ & Bẫy thi: Ngày ký QĐ 1026/QĐ-UBND: 'Ngày 30 tháng 3 năm 2026'."
       },
       {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Nghị quyết số 76/NQ-CP, việc rà soát, sắp xếp các cơ quan hành chính nhà nước phải kiên quyết khắc phục tình trạng nào?",
+        "topic": "9. Quyết định số 1026/QĐ-UBND ngày 30/3/2026 (Kế hoạch CCHC trọng tâm TP Huế 2026 - 2030)",
+        "q": "Theo Quyết định số 1026/QĐ-UBND của UBND tp Huế, khẩu hiệu hành động xuyên suốt của chính quyền thành phố Huế trong công tác phục vụ người dân và doanh nghiệp là gì?",
         "options": [
-          "A. Tình trạng công khai lịch tiếp công dân trên trang web",
-          "B. Tình trạng áp dụng chữ ký số trong phát hành công văn",
-          "C. Tình trạng luân chuyển cán bộ quá nhiều lần",
-          "D. Tình trạng chồng chéo, trùng lặp về chức năng, nhiệm vụ, quyền hạn hoặc bỏ sót nhiệm vụ giữa các cơ quan, đơn vị"
+          "A. Chính quyền tối thiểu hóa chi tiêu công",
+          "B. Chính quyền khép kín, bảo mật toàn diện thông tin hành chính",
+          "C. Chính quyền kiến tạo, liêm chính, hành động, phục vụ người dân và đồng hành cùng doanh nghiệp",
+          "D. Chính quyền quản lý nghiêm ngặt, xử phạt tối đa"
         ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Mục II.3 Nghị quyết số 76/NQ-CP.\n★ Phân tích chi tiết: Nguyên tắc một việc chỉ giao một cơ quan chủ trì chịu trách nhiệm chính; kiên quyết khắc phục triệt để tình trạng chồng chéo, trùng lặp hoặc bỏ sót nhiệm vụ.\n★ Mẹo nhớ & bẫy thi: Khắc phục triệt để 'chồng chéo, trùng lặp, chia cắt hoặc bỏ sót nhiệm vụ'."
-      },
-      {
-        "topic": "7. Chương trình tổng thể Cải cách hành chính nhà nước (NQ 76/NQ-CP & Chỉ thị 23/CT-TTg)",
-        "q": "Theo Chỉ thị số 23/CT-TTg, vai trò của cơ quan thông tin, truyền thông, báo chí trong công tác cải cách hành chính nhà nước được xác định là:",
-        "options": [
-          "A. Chủ động tuyên truyền, phổ biến pháp luật, phản ánh khách quan kết quả cải cách hành chính; đồng thời phát hiện, phê phán các hành vi tiêu cực, nhũng nhiễu, chậm trễ trong bộ máy công quyền",
-          "B. Chỉ được đăng tải các tin bài ca ngợi thành tích, không được phản ánh hạn chế",
-          "C. Chỉ thực hiện đưa tin khi có thông cáo báo chí chính thức bằng văn bản",
-          "D. Không được can thiệp vào công việc nội bộ của cơ quan hành chính"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Mục 4 Chỉ thị số 23/CT-TTg.\n★ Phân tích chi tiết: Báo chí, truyền thông đóng vai trò cầu nối thông tin, vừa tuyên truyền lan tỏa các mô hình sáng tạo, vừa giám sát, phát hiện các điểm nghẽn, tiêu cực để xử lý kịp thời.\n★ Mẹo nhớ & bẫy thi: Truyền thông CCHC có vai trò kép: 'Tuyên truyền mô hình tốt + giám sát, phản ánh tiêu cực'."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Tình huống phản ánh hiện trường: Một công dân dùng ứng dụng Hue-S chụp ảnh một hố ga bị mất nắp trên đường Lê Lợi gây nguy hiểm cho người đi đường lúc 20h đêm. Hệ thống IOC tiếp nhận và phát lệnh cảnh báo khẩn. Đơn vị quản lý hạ tầng giao thông đô thị phải xử lý khẩn cấp tình huống này như thế nào?",
-        "options": [
-          "A. Cử ngay lực lượng ứng trực tiếp cận hiện trường trong vòng 01 đến 02 giờ để rào chắn cảnh báo nguy hiểm tạm thời và tiến hành lắp nắp hố ga thay thế an toàn",
-          "B. Chờ đến giờ hành chính sáng ngày thứ Hai tuần sau mới cử người kiểm tra",
-          "C. Từ chối tiếp nhận vì ngoài giờ làm việc hành chính",
-          "D. Yêu cầu người gửi phản ánh tự tìm vật liệu che chắn miệng hố ga"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Quy chế xử lý tình huống khẩn cấp phản ánh hiện trường IOC Huế.\n★ Phân tích chi tiết: Đối với các nguy cơ mất an toàn trực tiếp đến tính mạng người dân (như hố ga mất nắp, cây ngã đổ ban đêm), đơn vị quản lý hạ tầng đô thị có tổ phản ứng nhanh xử lý ngay trong 1-2 giờ.\n★ Mẹo nhớ & bẫy thi: Tình huống khẩn cấp an toàn giao thông trên Hue-S được xử lý ứng trực phản ứng nhanh ngay lập tức (1-2 giờ)."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Quyết định số 2626/QĐ-UBND, đối tượng nào sau đây được cộng 7,5 điểm vào kết quả điểm thi tại Vòng 2 kỳ thi tuyển công chức thành phố Huế năm 2025?",
-        "options": [
-          "A. Người dân tộc thiểu số",
-          "B. Con đẻ của thương binh suy giảm khả năng lao động dưới 61%",
-          "C. Người có bằng thạc sĩ chuyên ngành quản lý nhà nước",
-          "D. Anh hùng Lực lượng vũ trang, Anh hùng Lao động, thương binh, người hưởng chính sách như thương binh, thương binh loại B"
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 35 Luật Cán bộ, công chức và Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Mức điểm ưu tiên tuyển dụng công chức:\n- Cộng 7,5 điểm: Anh hùng LLVT, Anh hùng Lao động, thương binh, người hưởng chính sách như thương binh.\n- Cộng 5 điểm: Người dân tộc thiểu số, sĩ quan quân đội, công an, con liệt sĩ, con thương binh...\n- Cộng 2,5 điểm: Người hoàn thành nghĩa vụ quân sự, nghĩa vụ công an, đội viên thanh niên xung phong.\n★ Mẹo nhớ & bẫy thi: Khung điểm ưu tiên: 7,5 điểm (Anh hùng, thương binh) - 5 điểm (Dân tộc thiểu số, con liệt sĩ/thương binh) - 2,5 điểm (Nghĩa vụ quân sự)."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy định tại Thông báo số 3941/TB-SNV, nội dung đề thi môn Kiến thức chung Vòng 1 thi trắc nghiệm trên máy vi tính không bao gồm văn bản nào sau đây?",
-        "options": [
-          "A. Bộ luật Tố tụng Dân sự số 92/2015/QH13",
-          "B. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15",
-          "C. Luật Cán bộ, công chức năm 2025",
-          "D. Nghị định số 170/2025/NĐ-CP của Chính phủ"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Thông báo số 3941/TB-SNV ngày 27/8/2025 của Sở Nội vụ thành phố Huế.\n★ Phân tích chi tiết: Danh mục tài liệu ôn tập môn Kiến thức chung Vòng 1 theo Thông báo số 3941/TB-SNV gồm đúng 10 văn bản quy định về tổ chức chính quyền địa phương, cán bộ công chức, phòng chống tham nhũng, ban hành VBQPPL, tổ chức bộ máy, tuyển dụng sử dụng công chức, cải cách hành chính (NQ 76, CT 23) và các Quyết định của Huế. Không có Bộ luật Tố tụng Dân sự.\n★ Mẹo nhớ & bẫy thi: Bám sát chuẩn 10 văn bản trong danh mục Thông báo 3941/TB-SNV."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo quy chế tuyển dụng công chức (Thông tư số 001/2025/tt-BNV), biên bản bàn giao đề thi, đề thi dự phòng và dữ liệu phần mềm thi trắc nghiệm trên máy tính phải được bảo mật theo cấp độ nào?",
-        "options": [
-          "A. Bảo mật theo cấp độ tài liệu bí mật nhà nước độ 'Tối mật' cho đến khi kết thúc toàn bộ các ca thi của kỳ thi",
-          "B. Được giải mật ngay khi ca thi đầu tiên bắt đầu",
-          "C. Không cần bảo mật vì ngân hàng câu hỏi đã được công khai trên mạng",
-          "D. Chỉ coi là tài liệu lưu hành nội bộ thông thường"
-        ],
-        "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Thông tư số 001/2025/TT-BNV và pháp luật về bảo vệ bí mật nhà nước.\n★ Phân tích chi tiết: Đề thi, đáp án đề thi tuyển dụng công chức khi chưa công bố là tài liệu bí mật nhà nước (thường độ Tối mật). Bất kỳ hành vi làm lộ, lọt đề thi đều bị truy cứu trách nhiệm hình sự.\n★ Mẹo nhớ & bẫy thi: Đề thi chưa công bố được bảo vệ nghiêm ngặt theo quy định về bí mật nhà nước."
-      },
-      {
-        "topic": "8. Cải cách hành chính, chuyển đổi số & Kế hoạch tuyển dụng công chức TP Huế",
-        "q": "Theo Thông báo số 3941/TB-SNV, sau khi kết thúc phần thi trắc nghiệm trên máy tính, thí sinh cần thực hiện thao tác gì trước khi được phép rời khỏi phòng thi?",
-        "options": [
-          "A. Chụp ảnh màn hình điểm số bằng điện thoại",
-          "B. Yêu cầu in toàn bộ câu hỏi và đáp án mang về",
-          "C. Tự ý tắt nguồn máy tính và đi ra ngoài",
-          "D. Ký xác nhận vào Bảng kết quả thi (bảng điểm in từ máy tính) và nộp lại giấy nháp cho giám thị phòng thi"
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Thông tư số 001/2025/TT-BNV và Thông báo số 3941/TB-SNV.\n★ Phân tích chi tiết: Quy chế yêu cầu thí sinh sau khi nộp bài phải quan sát điểm số hiển thị trên màn hình, ký tên xác nhận vào bảng kết quả thi in ra từ máy chủ, nộp lại giấy nháp cho giám thị mới được ra khỏi phòng thi.\n★ Mẹo nhớ & bẫy thi: Thao tác kết thúc thi trắc nghiệm máy vi tính: 'Ký bảng kết quả điểm in ra + nộp lại giấy nháp'."
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Quan điểm chỉ đạo tại Quyết định số 1026/QĐ-UBND của UBND TP Huế.\n★ Phân tích chi tiết: Tinh thần xuyên suốt trong Kế hoạch CCHC 2026 - 2030 của TP Huế là: 'Chính quyền kiến tạo, liêm chính, hành động, phục vụ nhân dân và đồng hành cùng doanh nghiệp phát triển'.\n★ Mẹo nhớ & Bẫy thi: Khẩu hiệu phục vụ: 'Kiến tạo, liêm chính, hành động, phục vụ nhân dân, đồng hành cùng doanh nghiệp'."
       }
     ]
   }
