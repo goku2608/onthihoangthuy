@@ -692,6 +692,53 @@
       50% { transform: scale(1.1); opacity: 0.8; }
     }
 
+    
+    /* VÒNG 2 CATEGORY FILTER PILLS */
+    .vong2-category-filters {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
+      padding: 12px;
+      background: #f0fdf4;
+      border: 1px solid #bbf7d0;
+      border-radius: var(--radius-lg);
+    }
+    .v2-cat-pill {
+      padding: 8px 16px;
+      border-radius: 9999px;
+      font-size: 0.88rem;
+      font-weight: 700;
+      border: 1px solid #a7f3d0;
+      background: #ffffff;
+      color: #065f46;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .v2-cat-pill:hover {
+      background: #d1fae5;
+      border-color: #059669;
+      transform: translateY(-1px);
+    }
+    .v2-cat-pill.active {
+      background: #059669;
+      color: #ffffff;
+      border-color: #047857;
+      box-shadow: 0 4px 6px -1px rgba(5, 150, 105, 0.3);
+    }
+    .exam-cat-tag {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #047857;
+      background: #d1fae5;
+      padding: 3px 10px;
+      border-radius: 9999px;
+      border: 1px solid #a7f3d0;
+    }
+    
     /* VÒNG 2 HERO & BỐC THĂM */
     .vong2-hero-banner {
       background: linear-gradient(135deg, #065f46, #0d9488, #1e3a8a);
@@ -795,123 +842,117 @@
     </div>
   </header>
 
-  <!-- SCREEN 1: LANDING & CHỌN ĐỀ -->
+    <!-- SCREEN 1: VÒNG 1 - KIẾN THỨC CHUNG (60 CÂU / 60 PHÚT) -->
   <main class="view-screen active" id="landingScreen">
     <section class="hero-banner">
       <div class="hero-pretitle">Kỳ thi tuyển dụng công chức TP Huế năm 2026 (Thông báo số 6838/TB-SNV ngày 12/11/2026 của Sở Nội vụ TP Huế)</div>
       <h2 class="hero-title">Chúc Vợ Yêu Hoàng Thủy Thi Đỗ Công Chức!</h2>
       <p class="hero-subtitle">
-        Hệ thống 10 đề thi mô phỏng Vòng 1 gồm <strong>600 câu hỏi trắc nghiệm chất lượng cao</strong>, bám sát chính xác 100% Danh mục tài liệu ôn tập của <strong>Thông báo số 6838/TB-SNV ngày 12/11/2026</strong> của Sở Nội vụ TP Huế, bao gồm trọn vẹn 13 văn bản chính thức của Trung ương và TP Huế ban hành mới nhất 2025 - 2026.
+        Hệ thống 10 đề thi mô phỏng Vòng 1 gồm <strong>600 câu hỏi trắc nghiệm chất lượng cao</strong>, bám sát chính xác 100% Danh mục tài liệu ôn tập của <strong>Thông báo số 6838/TB-SNV ngày 12/11/2026</strong> của Sở Nội vụ TP Huế, bao gồm trọn vẹn 13 văn bản chính thức của Trung ương và TP Huế ban hành mới nhất 2025 - 2026. Độ khó đã được nâng cấp chuyên sâu, triệt tiêu 100% phương pháp loại trừ.
       </p>
       <div class="hero-meta">
-        <div class="hero-meta-item">📚 10 Đề thi (600 câu hỏi độc nhất)</div>
-        <div class="hero-meta-item">⏱ 60 phút / Đề thi</div>
+        <div class="hero-meta-item">📚 10 Đề thi (600 câu hỏi chuẩn hóa)</div>
+        <div class="hero-meta-item">⏱ 60 phút / Đề thi (60 câu)</div>
         <div class="hero-meta-item">🎯 Tiêu chuẩn đỗ: ≥ 30/60 câu (50%)</div>
         <div class="hero-meta-item">💖 Bản quyền yêu thương từ Gia - Chồng</div>
       </div>
     </section>
 
-    <!-- BẢNG DANH MỤC 13 TÀI LIỆU ÔN TẬP CHÍNH THỨC 2026 CỦA SỞ NỘI VỤ TP HUẾ -->
+    <!-- BẢNG DANH MỤC 13 TÀI LIỆU ÔN TẬP CHÍNH THỨC VÒNG 1 -->
     <section class="docs-summary-card">
-      <div class="docs-summary-head" onclick="toggleDocsList()">
-        <h3>📖 Danh Mục 13 Tài Liệu Ôn Tập Vòng 1 (Theo Thông báo 6838/TB-SNV ngày 12/11/2026)</h3>
-        <button class="docs-toggle-btn" id="docsToggleBtn" type="button">Thu gọn ▲</button>
+      <div class="docs-summary-head" onclick="toggleVong1DocsList()">
+        <h3>📖 Danh Mục 13 Văn Bản Ôn Tập Vòng 1 (Theo Thông Báo 6838/TB-SNV Ngày 12/11/2026)</h3>
+        <button class="docs-toggle-btn" id="vong1DocsToggleBtn" type="button">Thu gọn ▲</button>
       </div>
-      <p style="font-size: 0.88rem; color: var(--text-muted); margin-bottom: 12px;">
-        Thực hiện <strong>Quyết định số 3491/QĐ-UBND ngày 28/10/2026</strong> của UBND TP Huế về Kế hoạch tuyển dụng công chức năm 2026 và <strong>Thông báo số 6838/TB-SNV ngày 12/11/2026</strong> của Sở Nội vụ TP Huế. Dưới đây là 13 danh mục tài liệu ôn tập chính thức Phần I (Môn thi điều kiện kiểm tra kiến thức, năng lực chung):
-      </p>
-      <div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 10px; padding: 10px 14px; margin-bottom: 16px; font-size: 0.88rem; color: #1e40af;">
-        🎉 <strong>Lưu ý quan trọng cho Vợ:</strong> Phần II (Tiếng Anh) chỉ áp dụng cho 03 vị trí (Kinh tế - Tài chính VTTD 01, CNTT VTTD 02, Văn hóa - Xã hội VTTD 03). Vị trí tuyển dụng chuyên ngành của Vợ (Địa chính - Môi trường) <strong>KHÔNG phải thi Tiếng Anh</strong>, Vòng 1 chỉ thi duy nhất 60 câu trắc nghiệm Kiến thức chung này!
-      </div>
-      <div class="docs-table" id="docsListTable">
+      <div class="docs-table" id="vong1DocsListTable">
         <div class="doc-item-row">
           <div class="doc-num-badge">1</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Luật Tổ chức chính quyền địa phương ngày 16 tháng 6 năm 2025</div>
+            <div class="doc-item-title">Luật Tổ chức chính quyền địa phương số 72/2025/QH15 (ngày 16/6/2025)</div>
             <div class="doc-item-subtitle">— Chương III: Phân định thẩm quyền của chính quyền địa phương các cấp; Chương IV: Nhiệm vụ, quyền hạn của chính quyền địa phương</div>
           </div>
         </div>
         <div class="doc-item-row">
           <div class="doc-num-badge">2</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Luật Cán bộ, công chức ngày 24 tháng 6 năm 2025</div>
+            <div class="doc-item-title">Luật Cán bộ, công chức năm 2025 (ngày 24/6/2025)</div>
             <div class="doc-item-subtitle">— Chương II: Nghĩa vụ, quyền của cán bộ, công chức; Chương IV: Công chức</div>
           </div>
         </div>
         <div class="doc-item-row">
           <div class="doc-num-badge">3</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Luật Phòng, chống tham nhũng ngày 20 tháng 11 năm 2018</div>
-            <div class="doc-item-subtitle">— Chương I: Những quy định chung; Chương II: Phòng ngừa tham nhũng trong cơ quan tổ chức đơn vị</div>
+            <div class="doc-item-title">Luật Phòng, chống tham nhũng số 36/2018/QH14 (ngày 20/11/2018)</div>
+            <div class="doc-item-subtitle">— Chương I: Những quy định chung; Chương II: Phòng ngừa tham nhũng trong cơ quan, tổ chức, đơn vị</div>
           </div>
         </div>
         <div class="doc-item-row">
           <div class="doc-num-badge">4</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Luật Sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 25 tháng 6 năm 2025</div>
-            <div class="doc-item-subtitle">Thẩm quyền ban hành, quy trình xây dựng, thẩm định và ban hành VBQPPL</div>
+            <div class="doc-item-title">Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sđbs Luật số 87/2025/QH15 ngày 25/6/2025)</div>
+            <div class="doc-item-subtitle">Hệ thống văn bản QPPL, thẩm quyền ban hành, trình tự thủ tục rút gọn và hiệu lực văn bản</div>
           </div>
         </div>
         <div class="doc-item-row">
           <div class="doc-num-badge">5</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị quyết số 57-NQ/TW ngày 22 tháng 12 năm 2024 của Bộ Chính trị</div>
+            <div class="doc-item-title">Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị</div>
             <div class="doc-item-subtitle">Về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia</div>
           </div>
         </div>
         <div class="doc-item-row">
           <div class="doc-num-badge">6</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 150/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ</div>
-            <div class="doc-item-subtitle">Quy định tổ chức các cơ quan chuyên môn thuộc UBND cấp tỉnh và UBND xã, phường, đặc khu thuộc tỉnh, thành phố trực thuộc trung ương</div>
+            <div class="doc-item-title">Nghị định số 150/2025/NĐ-CP ngày 12/6/2025 của Chính phủ</div>
+            <div class="doc-item-subtitle">Quy định tổ chức các cơ quan chuyên môn thuộc UBND cấp tỉnh, thành phố trực thuộc trung ương và UBND xã, phường, đặc khu</div>
           </div>
         </div>
         <div class="doc-item-row">
           <div class="doc-num-badge">7</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 370/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ</div>
-            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Nghị định số 150/2025/NĐ-CP về tổ chức cơ quan chuyên môn</div>
+            <div class="doc-item-title">Nghị định số 370/2025/NĐ-CP ngày 31/12/2025 của Chính phủ</div>
+            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Nghị định số 150/2025/NĐ-CP</div>
           </div>
         </div>
         <div class="doc-item-row">
           <div class="doc-num-badge">8</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 170/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ</div>
+            <div class="doc-item-title">Nghị định số 170/2025/NĐ-CP ngày 30/6/2025 của Chính phủ</div>
             <div class="doc-item-subtitle">Quy định về tuyển dụng, sử dụng và quản lý công chức</div>
           </div>
         </div>
         <div class="doc-item-row">
           <div class="doc-num-badge">9</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 300/2026/NĐ-CP ngày 29 tháng 7 năm 2026 của Chính phủ</div>
+            <div class="doc-item-title">Nghị định số 300/2026/NĐ-CP ngày 29/7/2026 của Chính phủ</div>
             <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Nghị định số 170/2025/NĐ-CP về tuyển dụng, sử dụng và quản lý công chức</div>
           </div>
         </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">10</div>
+        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
+          <div class="doc-num-badge" style="background: #d97706;">10</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 361/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ</div>
-            <div class="doc-item-subtitle">Quy định về vị trí việc làm công chức (nguyên tắc xác định, cơ cấu ngạch, danh mục vị trí việc làm)</div>
+            <div class="doc-item-title">Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 của Chính phủ ★ MỚI</div>
+            <div class="doc-item-subtitle">Quy định về vị trí việc làm công chức (nguyên tắc, phân loại, cơ cấu ngạch và đề án VTVL)</div>
           </div>
         </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">11</div>
+        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
+          <div class="doc-num-badge" style="background: #d97706;">11</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị quyết số 03/NQ-CP ngày 09 tháng 01 năm 2025 của Chính phủ</div>
+            <div class="doc-item-title">Nghị quyết số 03/NQ-CP ngày 09/01/2025 của Chính phủ ★ MỚI</div>
             <div class="doc-item-subtitle">Ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 57-NQ/TW của Bộ Chính trị</div>
           </div>
         </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">12</div>
+        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
+          <div class="doc-num-badge" style="background: #d97706;">12</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Kế hoạch số 18/KH-UBND ngày 10 tháng 01 năm 2026 của UBND thành phố Huế</div>
-            <div class="doc-item-subtitle">Thực hiện Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển KHCN, đổi mới sáng tạo và CĐS quốc gia năm 2026</div>
+            <div class="doc-item-title">Kế hoạch số 18/KH-UBND ngày 10/01/2026 của UBND thành phố Huế ★ MỚI</div>
+            <div class="doc-item-subtitle">Thực hiện Nghị quyết số 57-NQ/TW của Bộ Chính trị về đột phá phát triển KHCN, đổi mới sáng tạo và chuyển đổi số tại TP Huế</div>
           </div>
         </div>
-        <div class="doc-item-row">
-          <div class="doc-num-badge">13</div>
+        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
+          <div class="doc-num-badge" style="background: #d97706;">13</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Quyết định số 1026/QĐ-UBND ngày 30 tháng 3 năm 2026 của UBND thành phố Huế</div>
+            <div class="doc-item-title">Quyết định số 1026/QĐ-UBND ngày 30/3/2026 của UBND thành phố Huế ★ MỚI</div>
             <div class="doc-item-subtitle">Ban hành Kế hoạch cải cách hành chính Nhà nước trọng tâm của thành phố Huế giai đoạn 2026 - 2030</div>
           </div>
         </div>
@@ -920,34 +961,34 @@
 
     <div class="section-title">
       <div>
-        <h2>Danh sách 10 Bộ Đề Thi Công Chức Ôn Luyện (100% Khác Nhau)</h2>
-        <p>Mỗi đề gồm 60 câu hỏi hoàn toàn riêng biệt, chọn một đề bên dưới và nhấn "Bắt đầu làm bài"</p>
+        <h2>Danh sách 10 Bộ Đề Thi Vòng 1 - Trắc Nghiệm Kiến Thức Chung (60 câu / 60 phút)</h2>
+        <p>Bấm chọn đề thi bất kỳ để bắt đầu làm bài thi mô phỏng chính thức:</p>
       </div>
     </div>
 
+    <!-- 10 ĐỀ THI VÒNG 1 -->
     <div class="exams-grid" id="examsGridContainer">
-      <!-- Sẽ được nạp tự động qua JavaScript -->
+      <!-- Nạp tự động qua renderExamsGrid() -->
     </div>
   </main>
 
-
-  <!-- SCREEN 1B: VÒNG 2 LANDING SCREEN (70 CÂU / 105 PHÚT) -->
+  <!-- SCREEN 1B: VÒNG 2 - THI VIẾT TRÊN MÁY TÍNH - NGHIỆP VỤ NÔNG NGHIỆP (70 CÂU / 105 PHÚT) -->
   <main class="view-screen" id="vong2LandingScreen">
     <section class="vong2-hero-banner">
-      <div class="hero-pretitle">VÒNG 2: THI VIẾT TRÊN MÁY TÍNH - MÔN NGHIỆP VỤ CHUYÊN NGÀNH MÔI TRƯỜNG & ĐẤT ĐAI (TP HUẾ 2026)</div>
-      <h2 class="hero-title">Chúc Vợ Yêu Hoàng Thủy Thủ Khoa Vòng 2 Chuyên Ngành!</h2>
+      <div class="hero-pretitle">VÒNG 2: THI VIẾT TRÊN MÁY TÍNH - MÔN NGHIỆP VỤ CHUYÊN NGÀNH NÔNG NGHIỆP (TP HUẾ 2026)</div>
+      <h2 class="hero-title">Chúc Vợ Yêu Hoàng Thủy Thủ Khoa Vòng 2 Chuyên Ngành Nông Nghiệp!</h2>
       <p class="hero-subtitle">
-        Hệ thống 10 bộ đề thi mô phỏng Vòng 2 bằng hình thức <strong>thi viết trên máy vi tính</strong> gồm <strong>700 câu hỏi chuyên sâu</strong> (70 câu / đề, 105 phút), bám sát 100% <strong>Phụ lục 06</strong> (Kèm theo Thông báo số 4359/TB-HĐTDCC của Hội đồng tuyển dụng công chức TP Huế). Đầy đủ các dạng câu hỏi: Điền khuyết (...), Thẩm quyền phân cấp, Con số định lượng, Nhận định đúng/sai và Tình huống thực tế.
+        Hệ thống 10 bộ đề thi mô phỏng Vòng 2 bằng hình thức <strong>thi viết trên máy vi tính</strong> gồm <strong>700 câu hỏi chuyên sâu</strong> (70 câu / đề, 105 phút), bám sát chính xác 100% <strong>Phụ lục 05</strong> (Kèm theo Thông báo số 4359/TB-HĐTDCC của Hội đồng tuyển dụng công chức TP Huế). Phân chia thành đúng <strong>5 lĩnh vực chuyên biệt</strong> theo phụ lục: Lâm nghiệp, Trồng trọt, Chăn nuôi, Công nghệ thực phẩm, Thủy lợi và biến đổi khí hậu.
       </p>
       <div class="hero-meta">
-        <div class="hero-meta-item">📚 10 Đề thi (700 câu trên máy tính)</div>
-        <div class="hero-meta-item">⏱ 105 phút / Đề thi</div>
+        <div class="hero-meta-item">🌾 Đầy đủ 5 Lĩnh vực theo Phụ lục 05</div>
+        <div class="hero-meta-item">⏱ 105 phút / Đề thi (70 câu)</div>
         <div class="hero-meta-item">🎯 Tiêu chuẩn đỗ: ≥ 35/70 câu (50%)</div>
         <div class="hero-meta-item">💖 Bản quyền yêu thương từ Gia - Chồng</div>
       </div>
     </section>
 
-    <!-- HỘP BỐC THĂM ĐỀ THI NGẪU NHIÊN -->
+    <!-- HỘP BỐC THĂM ĐỀ THI NGẪU NHIÊN VÒNG 2 -->
     <section class="draw-lottery-card">
       <div style="font-size: 0.9rem; font-weight: 700; color: #047857; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px;">
         🎲 MÔ PHỎNG PHÒNG THI THỰC TẾ TRÊN MÁY TÍNH
@@ -969,81 +1010,91 @@
       </div>
     </section>
 
-    <!-- BẢNG DANH MỤC 10 VĂN BẢN PHỤ LỤC 06 -->
+    <!-- BẢNG DANH MỤC 5 LĨNH VỰC THEO PHỤ LỤC 05 -->
     <section class="docs-summary-card">
       <div class="docs-summary-head" onclick="toggleVong2DocsList()">
-        <h3>📖 Danh Mục 10 Văn Bản Pháp Luật Vòng 2 (Theo Phụ Lục 06 - Thông Báo 4359/TB-HĐTDCC)</h3>
+        <h3>📖 Danh Mục 5 Lĩnh Vực Tài Liệu Ôn Tập Vòng 2 Nông Nghiệp (Theo Phụ Lục 05 - Thông Báo 4359/TB-HĐTDCC)</h3>
         <button class="docs-toggle-btn" id="vong2DocsToggleBtn" type="button">Thu gọn ▲</button>
       </div>
       <div class="docs-table" id="vong2DocsListTable">
-        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
-          <div class="doc-num-badge" style="background: #059669;">1</div>
+        <!-- 1. LĨNH VỰC LÂM NGHIỆP -->
+        <div class="doc-item-row" style="background: #ecfdf5; border-left: 4px solid #047857;">
+          <div class="doc-num-badge" style="background: #047857;">1</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Luật Đất đai số 31/2024/QH15 (ngày 18/01/2024)</div>
-            <div class="doc-item-subtitle">Căn cứ giao đất, cho thuê đất, thu hồi đất, quy hoạch đất đai và bồi thường tái định cư</div>
+            <div class="doc-item-title">🌲 1. LĨNH VỰC LÂM NGHIỆP</div>
+            <div class="doc-item-subtitle">
+              • Luật Lâm nghiệp ngày 15/11/2017;<br>
+              • Nghị định số 156/2018/NĐ-CP ngày 16/11/2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Lâm nghiệp;<br>
+              • Nghị định số 91/2024/NĐ-CP ngày 18/7/2024 sửa đổi, bổ sung một số điều Nghị định số 156/2018/NĐ-CP;<br>
+              • Nghị định số 183/2025/NĐ-CP ngày 01/7/2025 sửa đổi, bổ sung một số điều Nghị định số 156/2018/NĐ-CP;<br>
+              • Nghị định số 227/2025/NĐ-CP ngày 16/8/2025 sửa đổi, bổ sung một số điều Nghị định số 156/2018/NĐ-CP;<br>
+              • Thông tư số 26/2025/TT-BNNMT ngày 24/6/2025 của Bộ Nông nghiệp và Môi trường quy định về quản lý lâm sản; xử lý lâm sản, thủy sản là tài sản được xác lập quyền sở hữu toàn dân;<br>
+              • Thông tư số 27/TT-BNNMT ngày 24/6/2025 của Bộ Nông nghiệp và Môi trường quy định về quản lý loài nguy cấp, quý, hiếm; nuôi động vật rừng thông thường và thực thi Công ước CITES.
+            </div>
           </div>
         </div>
+
+        <!-- 2. LĨNH VỰC TRỒNG TRỌT -->
         <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
           <div class="doc-num-badge" style="background: #059669;">2</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Luật Bảo vệ môi trường số 72/2020/QH14 (ngày 17/11/2020)</div>
-            <div class="doc-item-subtitle">ĐTM, Giấy phép môi trường, Đăng ký môi trường, phân loại chất thải rắn sinh hoạt</div>
+            <div class="doc-item-title">🌾 2. LĨNH VỰC TRỒNG TRỌT</div>
+            <div class="doc-item-subtitle">
+              • Luật Trồng trọt ngày 19/11/2018;<br>
+              • Luật Bảo vệ và Kiểm dịch thực vật ngày 25/11/2013;<br>
+              • Nghị định số 94/2019/NĐ-CP ngày 13/12/2019 của Chính phủ quy định chi tiết một số điều của Luật Trồng trọt về giống cây trồng và canh tác;<br>
+              • Nghị định số 112/2024/NĐ-CP ngày 11/9/2024 của Chính phủ quy định chi tiết về đất trồng lúa;<br>
+              • Thông tư số 21/2015/TT-BNNPTNT ngày 08/6/2015 của Bộ Nông nghiệp và PTNT về quản lý thuốc bảo vệ thực vật.
+            </div>
           </div>
         </div>
-        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
-          <div class="doc-num-badge" style="background: #059669;">3</div>
+
+        <!-- 3. LĨNH VỰC CHĂN NUÔI -->
+        <div class="doc-item-row" style="background: #eff6ff; border-left: 4px solid #3b82f6;">
+          <div class="doc-num-badge" style="background: #2563eb;">3</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 102/2024/NĐ-CP (ngày 30/7/2024)</div>
-            <div class="doc-item-subtitle">Quy định chi tiết thi hành một số điều của Luật Đất đai</div>
+            <div class="doc-item-title">🐄 3. LĨNH VỰC CHĂN NUÔI</div>
+            <div class="doc-item-subtitle">
+              • Luật Chăn nuôi ngày 19/11/2018;<br>
+              • Nghị định số 13/2020/NĐ-CP ngày 21/01/2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi;<br>
+              • Nghị định số 46/2022/NĐ-CP ngày 13/7/2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 13/2020/NĐ-CP;<br>
+              • Thông tư số 22/2019/TT-BNNPTNT ngày 30/11/2019 hướng dẫn về quản lý giống và sản phẩm giống vật nuôi;<br>
+              • Thông tư số 21/2024/TT-BNNPTNT ngày 11/12/2024 sửa đổi, bổ sung một số điều của Thông tư số 22/2019/TT-BNNPTNT;<br>
+              • Thông tư số 23/2019/TT-BNNPTNT ngày 30/11/2019 hướng dẫn về hoạt động chăn nuôi;<br>
+              • Thông tư số 18/2023/TT-BNNPTNT ngày 15/12/2023 sửa đổi, bổ sung một số điều của Thông tư số 23/2019/TT-BNNPTNT.
+            </div>
           </div>
         </div>
-        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
-          <div class="doc-num-badge" style="background: #059669;">4</div>
+
+        <!-- 4. LĨNH VỰC CÔNG NGHỆ THỰC PHẨM, KỸ THUẬT THỰC PHẨM -->
+        <div class="doc-item-row" style="background: #fdf4ff; border-left: 4px solid #c084fc;">
+          <div class="doc-num-badge" style="background: #9333ea;">4</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 88/2024/NĐ-CP (ngày 15/7/2024)</div>
-            <div class="doc-item-subtitle">Quy định về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất</div>
+            <div class="doc-item-title">🔬 4. LĨNH VỰC CÔNG NGHỆ THỰC PHẨM, KỸ THUẬT THỰC PHẨM</div>
+            <div class="doc-item-subtitle">
+              • Luật An toàn thực phẩm ngày 17/6/2010;<br>
+              • Nghị định số 15/2018/NĐ-CP ngày 02/02/2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm;<br>
+              • Thông tư số 17/2018/TT-BNNPTNT ngày 31/10/2018 quy định phương thức quản lý điều kiện an toàn thực phẩm đối với cơ sở không thuộc diện cấp Giấy chứng nhận;<br>
+              • Thông tư số 38/2018/TT-BNNPTNT ngày 25/12/2018 về thẩm định, chứng nhận cơ sở sản xuất kinh doanh thực phẩm nông, lâm, thủy sản đủ điều kiện an toàn thực phẩm;<br>
+              • Thông tư số 17/2024/TT-BNNPTNT ngày 28/11/2024 sửa đổi, bổ sung một số Thông tư về thẩm định, chứng nhận cơ sở an toàn thực phẩm.
+            </div>
           </div>
         </div>
-        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
-          <div class="doc-num-badge" style="background: #d97706;">5</div>
+
+        <!-- 5. LĨNH VỰC THỦY LỢI VÀ BIẾN ĐỔI KHÍ HẬU -->
+        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #eab308;">
+          <div class="doc-num-badge" style="background: #ca8a04;">5</div>
           <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 151/2025/NĐ-CP (ngày 12/6/2025) ★ ĐIỂM MỚI</div>
-            <div class="doc-item-subtitle">Phân định thẩm quyền chính quyền địa phương 02 cấp, phân quyền, phân cấp trong lĩnh vực đất đai</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
-          <div class="doc-num-badge" style="background: #059669;">6</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 226/2025/NĐ-CP (ngày 15/8/2025)</div>
-            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của các nghị định quy định chi tiết Luật Đất đai</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
-          <div class="doc-num-badge" style="background: #059669;">7</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 08/2022/NĐ-CP (ngày 10/01/2022)</div>
-            <div class="doc-item-subtitle">Quy định chi tiết một số điều của Luật Bảo vệ môi trường</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
-          <div class="doc-num-badge" style="background: #d97706;">8</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Nghị định số 05/2025/NĐ-CP (ngày 06/01/2025) ★ ĐIỂM MỚI</div>
-            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Nghị định số 08/2022/NĐ-CP quy định chi tiết Luật Bảo vệ môi trường</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #f0fdf4; border-left: 4px solid #10b981;">
-          <div class="doc-num-badge" style="background: #059669;">9</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Thông tư số 02/2022/TT-BTNMT (ngày 10/01/2022)</div>
-            <div class="doc-item-subtitle">Quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường</div>
-          </div>
-        </div>
-        <div class="doc-item-row" style="background: #fefce8; border-left: 4px solid #f59e0b;">
-          <div class="doc-num-badge" style="background: #d97706;">10</div>
-          <div class="doc-item-content">
-            <div class="doc-item-title">Thông tư số 07/2025/TT-BTNMT (ngày 28/02/2025) ★ ĐIỂM MỚI</div>
-            <div class="doc-item-subtitle">Sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BTNMT của Bộ trưởng Bộ TN&MT</div>
+            <div class="doc-item-title">💧 5. LĨNH VỰC THỦY LỢI VÀ BIẾN ĐỔI KHÍ HẬU</div>
+            <div class="doc-item-subtitle">
+              • Luật Đê điều ngày 29/11/2006;<br>
+              • Luật Phòng, chống thiên tai ngày 19/6/2013;<br>
+              • Luật Sửa đổi, bổ sung một số điều của Luật Phòng, chống thiên tai và Luật Đê điều ngày 17/6/2020;<br>
+              • Luật Thủy lợi ngày 19/6/2017;<br>
+              • Nghị định số 66/2021/NĐ-CP ngày 06/7/2021 quy định chi tiết thi hành Luật Phòng, chống thiên tai và Luật Đê điều sửa đổi;<br>
+              • Nghị định số 67/2018/NĐ-CP ngày 14/5/2018 quy định chi tiết một số điều của Luật Thủy lợi;<br>
+              • Nghị định số 40/2023/NĐ-CP ngày 27/6/2023 sửa đổi, bổ sung một số điều của Nghị định số 67/2018/NĐ-CP.
+            </div>
           </div>
         </div>
       </div>
@@ -1051,16 +1102,26 @@
 
     <div class="section-title">
       <div>
-        <h2>Danh sách 10 Bộ Đề Thi Vòng 2 - Thi Viết Trên Máy Tính (70 câu / 105 phút)</h2>
-        <p>Môn nghiệp vụ chuyên ngành: 70 câu hỏi làm bài trên máy tính trong 105 phút, nhấn "Bắt đầu làm bài" để vào thi</p>
+        <h2>Danh sách 10 Bộ Đề Thi Vòng 2 - Nghiệp Vụ Chuyên Ngành Nông Nghiệp (70 câu / 105 phút)</h2>
+        <p>Phân chia thành đúng 5 lĩnh vực theo Phụ lục 05. Nhấn chọn từng lĩnh vực bên dưới để lọc đề thi phù hợp:</p>
       </div>
     </div>
 
+    <!-- 5 HẠNG MỤC LĨNH VỰC NÔNG NGHIỆP THEO PHỤ LỤC 05 -->
+    <div class="vong2-category-filters" id="vong2CategoryFilters">
+      <button class="v2-cat-pill active" onclick="filterVong2Category('all', this)">🎯 Tất cả (10 Đề)</button>
+      <button class="v2-cat-pill" onclick="filterVong2Category('lam_nghiep', this)">🌲 1. Lâm nghiệp (Đề 01 - 02)</button>
+      <button class="v2-cat-pill" onclick="filterVong2Category('trong_trot', this)">🌾 2. Trồng trọt (Đề 03 - 04)</button>
+      <button class="v2-cat-pill" onclick="filterVong2Category('chan_nuoi', this)">🐄 3. Chăn nuôi (Đề 05 - 06)</button>
+      <button class="v2-cat-pill" onclick="filterVong2Category('cong_nghe_thuc_pham', this)">🔬 4. Công nghệ thực phẩm (Đề 07 - 08)</button>
+      <button class="v2-cat-pill" onclick="filterVong2Category('thuy_loi_bdkh', this)">💧 5. Thủy lợi & BĐKH (Đề 09 - 10)</button>
+    </div>
+
+    <!-- 10 ĐỀ THI VÒNG 2 -->
     <div class="exams-grid" id="vong2ExamsGridContainer">
-      <!-- Sẽ được nạp tự động qua JavaScript -->
+      <!-- Nạp tự động qua renderVong2ExamsGrid() -->
     </div>
   </main>
-
 
   <!-- SCREEN 2: GIAO DIỆN LÀM BÀI THI -->
   <main class="view-screen" id="quizScreen">
@@ -1239,6 +1300,19 @@
       }
     }
 
+    
+    function toggleVong1DocsList() {
+      const table = document.getElementById('vong1DocsListTable');
+      const btn = document.getElementById('vong1DocsToggleBtn');
+      if (table.style.display === 'none') {
+        table.style.display = 'flex';
+        btn.innerText = 'Thu gọn ▲';
+      } else {
+        table.style.display = 'none';
+        btn.innerText = 'Xem đầy đủ ▼';
+      }
+    }
+
     function toggleVong2DocsList() {
       const table = document.getElementById('vong2DocsListTable');
       const btn = document.getElementById('vong2DocsToggleBtn');
@@ -1251,13 +1325,26 @@
       }
     }
 
-    // RENDER DANH SÁCH 10 ĐỀ THI VÒNG 2
+    // BỘ LỌC VÀ RENDER DANH SÁCH 10 ĐỀ THI VÒNG 2
+    let currentVong2CatFilter = 'all';
+
+    function filterVong2Category(cat, btn) {
+      currentVong2CatFilter = cat;
+      document.querySelectorAll('.v2-cat-pill').forEach(b => b.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      renderVong2ExamsGrid();
+    }
+
     function renderVong2ExamsGrid() {
       const container = document.getElementById('vong2ExamsGridContainer');
       if (!container || !window.VONG2_EXAMS_DATA) return;
       container.innerHTML = '';
 
       window.VONG2_EXAMS_DATA.forEach((exam, index) => {
+        if (currentVong2CatFilter !== 'all' && exam.category !== currentVong2CatFilter) {
+          return;
+        }
+
         const hist = getExamHistory(exam.id);
         const card = document.createElement('div');
         card.className = 'exam-card';
@@ -1271,7 +1358,8 @@
 
         card.innerHTML = `
           <div class="exam-card-head">
-            <span class="exam-number-badge" style="background: #059669;">ĐỀ SỐ ${String(index + 1).padStart(2, '0')}</span>
+            <span class="exam-number-badge" style="background: #059669;">ĐỀ SỐ ${String(exam.numericId || (index + 1)).padStart(2, '0')}</span>
+            <span class="exam-cat-tag">${exam.categoryName || 'Nông nghiệp'}</span>
             ${histBadge}
           </div>
           <h3 class="exam-title">${exam.title}</h3>
@@ -1279,7 +1367,7 @@
           <div class="exam-card-meta">
             <span>⏱ ${exam.timeMinutes} phút</span>
             <span>📝 ${exam.totalQuestions || 70} câu trắc nghiệm</span>
-            <span>🎯 Đạt: ≥ ${exam.passScore || 35}/${exam.totalQuestions || 70} câu</span>
+            <span>🎯 Sàn đỗ: ≥ ${exam.passScore || 35}/${exam.totalQuestions || 70} câu (50%)</span>
           </div>
           <button class="btn-start-exam" style="background: #059669;" onclick="startSelectedVong2Exam(${index})">
             <span>✍️ Bắt đầu làm bài thi (70 câu / 105 phút) →</span>
@@ -1402,7 +1490,7 @@
       const subTitleEl = document.querySelector('#quizScreen p');
       if (subTitleEl) {
         if (currentMainRound === 'vong2') {
-          subTitleEl.innerText = 'Vòng 2: Môn nghiệp vụ chuyên ngành - Thi viết trên máy tính (70 câu hỏi / 105 phút)';
+          subTitleEl.innerText = 'Vòng 2: Môn nghiệp vụ chuyên ngành Nông nghiệp - Thi viết trên máy tính (70 câu hỏi / 105 phút)';
         } else {
           subTitleEl.innerText = 'Vòng 1: Trắc nghiệm Kiến thức chung Công chức (60 câu hỏi / 60 phút)';
         }
@@ -1614,7 +1702,7 @@
       const heading = document.getElementById('resultHeadingText');
       const motivation = document.getElementById('resultMotivationText');
 
-      const roundLabel = (currentMainRound === 'vong2') ? 'Vòng 2 - Thi viết trên máy tính (Môi trường & Đất đai)' : 'Vòng 1 (Kiến thức chung)';
+      const roundLabel = (currentMainRound === 'vong2') ? 'Vòng 2 - Nghiệp vụ chuyên ngành Nông nghiệp (Thi viết trên máy tính)' : 'Vòng 1 (Kiến thức chung)';
 
       if (isPassed) {
         statusBox.className = 'result-status-card pass';
@@ -1628,7 +1716,7 @@
         emojiIcon.innerText = '🐔';
         heading.className = 'result-heading fail';
         heading.innerText = 'Con gà cần cố gắng hơn';
-        motivation.innerText = `Chưa đạt rồi vợ ơi! Mới được ${correct}/${total} câu thôi (cần tối thiểu ${passScore} câu để qua vòng). Đừng nản, nhấn "Xem giải thích chi tiết" bên dưới để xem lại các bẫy sai rồi làm lại đề này nhé!`;
+        motivation.innerText = `Chưa đạt rồi vợ ơi! Mới được ${correct}/${total} câu thôi (cần tối thiểu ${passScore}/${total} câu để qua vòng). Đừng nản, nhấn "Xem giải thích chi tiết" bên dưới để xem lại các bẫy sai rồi làm lại đề này nhé!`;
       }
 
       showScreen('resultScreen');

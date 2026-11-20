@@ -128,7 +128,7 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Nội dung nào sau đây là nghĩa vụ của cán bộ, công chức trong thi hành công vụ (Điều 9)?",
+        "q": "Theo Luật Cán bộ, công chức năm 2025: Nội dung nào sau đây là nghĩa vụ của cán bộ, công chức trong thi hành công vụ?",
         "options": [
           "A. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xhcn Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia",
           "B. Tôn trọng Nhân dân, tận tụy phục vụ Nhân dân, liên hệ chặt chẽ với Nhân dân, lắng nghe ý kiến và chịu sự giám sát của Nhân dân",
@@ -140,7 +140,7 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "2. Luật Cán bộ, công chức năm 2025 (Chương II & IV)",
-        "q": "Theo Luật Cán bộ, công chức năm 2025: Nội dung nào sau đây không phải là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân (Điều 8)?",
+        "q": "Theo Luật Cán bộ, công chức năm 2025: Nội dung nào sau đây không phải là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân?",
         "options": [
           "A. Chấp hành nghiêm chỉnh đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước",
           "B. Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xhcn Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia",
@@ -248,7 +248,7 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật Phòng, chống tham nhũng năm 2018: Các hành vi tham nhũng trong khu vực doanh nghiệp, tổ chức ngoài nhà nước bao gồm những hành vi nào sau đây (Điều 2)?",
+        "q": "Theo Luật Phòng, chống tham nhũng năm 2018: Các hành vi tham nhũng trong khu vực doanh nghiệp, tổ chức ngoài nhà nước bao gồm những hành vi nào sau đây?",
         "options": [
           "A. Không thực hiện nhiệm vụ, công vụ vì vụ lợi; Sử dụng trái phép thông tin của cơ quan vì vụ lợi",
           "B. Tham ô tài sản; Nhận hối lộ; Lợi dụng chức vụ, quyền hạn sử dụng trái phép tài sản của Nhà nước vì vụ lợi",
@@ -3250,10 +3250,10 @@ window.EXAMS_DATA = [
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
         "q": "Theo Luật pctn năm 2018: Công dân có quyền và nghĩa vụ gì trong công tác phòng, chống tham nhũng?",
         "options": [
-          "A. Tự mình tổ chức vây bắt và khám xét nhà của người bị nghi tham nhũng",
-          "B. Không có quyền tham gia vì đây là việc riêng của cơ quan công an",
-          "C. Được quyền yêu cầu chia 50% số tiền tham nhũng thu hồi được",
-          "D. Có quyền phát hiện, phản ánh, tố cáo, tố giác hành vi tham nhũng; được bảo vệ, khen thưởng theo quy định pháp luật"
+          "A. Tự mình tiến hành niêm phong trụ sở và tạm giữ tài sản của người bị nghi ngờ tham nhũng",
+          "B. Không có quyền tham gia vì công tác phòng, chống tham nhũng thuộc thẩm quyền riêng của cơ quan điều tra",
+          "C. Được trích nhận 50% tổng số tiền tài sản tham nhũng thu hồi được trong vụ án",
+          "D. Có quyền phát hiện, phản ánh, tố cáo, tố giác hành vi tham nhũng; được bảo vệ, khen thưởng theo quy định của pháp luật"
         ],
         "ans": 3,
         "explanation": "★ Căn cứ pháp lý: Điều 6 Luật PCTN.\n★ Phân tích chi tiết: Công dân có quyền tố cáo, tố giác, phản ánh và được Nhà nước bảo vệ tính mạng, tài sản, vị trí công tác.\n★ Mẹo nhớ & Bẫy thi: Quyền của công dân: Phản ánh, tố cáo, được bảo vệ và khen thưởng."
@@ -3893,99 +3893,99 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Trách nhiệm của cơ quan báo chí trong phòng chống tham nhũng là gì?",
+        "q": "Theo Luật Phòng, chống tham nhũng năm 2018, tài sản, thu nhập nào sau đây bắt buộc phải kê khai khi có biến động trong năm từ 300 triệu đồng trở lên?",
         "options": [
-          "A. Đưa tin chính xác, khách quan về vụ việc tham nhũng; chịu trách nhiệm trước pháp luật về tính chính xác của thông tin đã đưa",
-          "B. Được quyền quy kết một người có tội tham nhũng trước khi có bản án của Tòa án",
-          "C. Được tự ý thâm nhập vào các cuộc họp mật của Ban Chấp hành Trung ương",
-          "D. Không được đưa bất kỳ thông tin nào về tham nhũng khi chưa có văn bản đồng ý của Chủ tịch tỉnh"
+          "A. Kim khí quý, đá quý, tiền mặt, ngoại tệ, tiền gửi ngân hàng, cổ phiếu, trái phiếu và các giấy tờ có giá khác",
+          "B. Toàn bộ đồ dùng gia dụng, trang sức thông thường và đồ nội thất sinh hoạt gia đình",
+          "C. Các khoản chi phí tiêu dùng sinh hoạt hàng ngày tích lũy qua các tháng trong năm",
+          "D. Quà tặng có giá trị kỷ niệm tinh thần không thể quy đổi thành tiền mặt"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 74 Luật PCTN.\n★ Phân tích chi tiết: Báo chí phản ánh khách quan, trung thực và chịu trách nhiệm pháp lý.\n★ Mẹo nhớ & Bẫy thi: Báo chí: Đưa tin trung thực, khách quan, chịu trách nhiệm pháp luật."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Tài sản phải kê khai gồm: Quyền sử dụng đất, nhà ở; kim khí quý, đá quý, tiền mặt, ngoại tệ, cổ phiếu, trái phiếu từ 50 triệu đồng trở lên; biến động từ 300 triệu đồng trở lên phải kê khai bổ sung.\n★ Mẹo nhớ & Bẫy thi: Tài sản kê khai bắt buộc: Đất đai, nhà ở, tiền/vàng/đá quý/cổ phiếu từ 50 triệu (biến động từ 300 triệu/năm)."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Xung đột lợi ích là tình huống như thế nào?",
+        "q": "Tình huống nào sau đây được xác định là có 'Xung đột lợi ích' trong thực thi công vụ?",
         "options": [
-          "A. Là mâu thuẫn quyền lợi giữa người mua và người bán đất",
-          "B. Là việc hai cơ quan tranh giành nguồn vốn đầu tư công",
-          "C. Là sự bất đồng quan điểm giữa Bí thư và Chủ tịch UBND",
-          "D. Là tình huống mà trong đó lợi ích của người có chức vụ, quyền hạn hoặc người thân thích của họ tác động hoặc sẽ tác động không đúng đắn đến việc thực hiện nhiệm vụ, công vụ"
+          "A. Cán bộ tham gia thảo luận dân chủ trong cuộc họp giao ban định kỳ của đơn vị",
+          "B. Người có chức vụ, quyền hạn bất đồng quan điểm chuyên môn về giải pháp kỹ thuật với đồng nghiệp cùng cơ quan",
+          "C. Hai cơ quan hành chính cùng cấp đề xuất các phương án khác nhau về phân bổ chỉ tiêu ngân sách phát triển kinh tế",
+          "D. Người có chức vụ, quyền hạn hoặc người thân thích của họ có quyền lợi tác động hoặc sẽ tác động không đúng đắn đến việc thực hiện nhiệm vụ, công vụ"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Khoản 9 Điều 3 Luật PCTN.\n★ Phân tích chi tiết: Xung đột lợi ích: Lợi ích riêng tác động làm sai lệch việc thực thi công vụ.\n★ Mẹo nhớ & Bẫy thi: Xung đột lợi ích: Lợi ích riêng tác động không đúng đắn đến thực thi công vụ."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Xung đột lợi ích là tình huống mà trong đó lợi ích của người có chức vụ, quyền hạn hoặc người thân thích tác động hoặc sẽ tác động không đúng đắn đến việc thực thi công vụ.\n★ Mẹo nhớ & Bẫy thi: Xung đột lợi ích: Lợi ích của cá nhân/người thân thích làm ảnh hưởng tiêu cực đến tính khách quan của công vụ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người có chức vụ, quyền hạn khi phát hiện có xung đột lợi ích phải làm gì?",
+        "q": "Khi người có chức vụ, quyền hạn nhận thấy mình rơi vào tình huống có xung đột lợi ích thì phải thực hiện nghĩa vụ nào sau đây?",
         "options": [
-          "A. Cứ tiếp tục thực hiện và cố gắng chia đều lợi ích cho các bên",
-          "B. Tự ý bỏ việc về nhà không làm nhiệm vụ đó nữa",
-          "C. Chuyển toàn bộ hồ sơ cho cấp phó ký thay mà không báo cáo",
-          "D. Phải báo cáo ngay với người có thẩm quyền để giám sát hoặc tạm đình chỉ việc thực hiện nhiệm vụ được giao đối với việc có xung đột lợi ích"
+          "A. Tự mình chủ động giải quyết công việc và tự chịu trách nhiệm nếu không để xảy ra thất thoát",
+          "B. Ủy quyền bằng miệng cho chuyên viên cấp dưới ký thay hồ sơ giải quyết công việc",
+          "C. Chờ đến kỳ đánh giá công chức cuối năm mới báo cáo giải trình bằng văn bản",
+          "D. Phải báo cáo ngay bằng văn bản cho người có thẩm quyền quản lý trực tiếp để xem xét, xử lý"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 23 Luật PCTN.\n★ Phân tích chi tiết: Bắt buộc báo cáo người có thẩm quyền để xử lý xung đột lợi ích.\n★ Mẹo nhớ & Bẫy thi: Thấy xung đột lợi ích: BÁO CÁO NGAY NGƯỜI CÓ THẨM QUYỀN."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Nghị định 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Khi có xung đột lợi ích, cán bộ phải báo cáo ngay bằng văn bản với người có thẩm quyền để xem xét giám sát hoặc tạm đình chỉ việc thực hiện nhiệm vụ đối với nội dung đó.\n★ Mẹo nhớ & Bẫy thi: Xử lý xung đột lợi ích: Phải BÁO CÁO NGAY BẰNG VĂN BẢN cho cấp trên trực tiếp."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Các biện pháp xử lý xung đột lợi ích bao gồm biện pháp nào?",
+        "q": "Người có thẩm quyền khi nhận được báo cáo về xung đột lợi ích của cán bộ cấp dưới có quyền áp dụng biện pháp xử lý nào sau đây?",
         "options": [
-          "A. Không có biện pháp xử lý nào nếu chưa gây thiệt hại tiền tệ",
-          "B. Buộc thôi việc ngay lập tức không cần xem xét",
-          "C. Phạt tiền tương đương giá trị vụ việc",
-          "D. Giám sát việc thực hiện nhiệm vụ; Đình chỉ việc thực hiện nhiệm vụ; Tạm thời chuyển người có chức vụ, quyền hạn sang vị trí khác"
+          "A. Đình chỉ hoạt động của toàn bộ phòng, ban nơi công chức đó đang làm việc",
+          "B. Ra quyết định cách chức ngay lập tức người vừa báo cáo tình huống xung đột lợi ích",
+          "C. Chuyển hồ sơ sang cơ quan công an đề nghị khởi tố vụ án hình sự về tội vụ lợi",
+          "D. Giám sát việc thực hiện nhiệm vụ; đình chỉ việc thực hiện nhiệm vụ; hoặc tạm thời chuyển người đó sang vị trí công tác khác"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 23 Luật PCTN.\n★ Phân tích chi tiết: Biện pháp: Giám sát, Đình chỉ công việc, hoặc Tạm chuyển vị trí khác.\n★ Mẹo nhớ & Bẫy thi: Xử lý xung đột lợi ích: Giám sát, đình chỉ thực hiện nhiệm vụ, chuyển vị trí."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Các biện pháp xử lý xung đột lợi ích gồm: Giám sát việc thực hiện nhiệm vụ; Đình chỉ việc thực hiện nhiệm vụ; Tạm thời phân công người khác thay thế.\n★ Mẹo nhớ & Bẫy thi: 3 biện pháp xử lý xung đột lợi ích: Giám sát - Đình chỉ nhiệm vụ đó - Phân công người khác thay thế."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Việc công khai bản kê khai tài sản tại cuộc họp có yêu cầu biên bản không?",
+        "q": "Hình thức công khai bản kê khai tài sản, thu nhập tại trụ sở cơ quan, tổ chức, đơn vị phải bảo đảm thời gian niêm yết tối thiểu là bao lâu?",
         "options": [
-          "A. Biên bản chỉ lập nếu có người nộp đơn tố cáo tại cuộc họp",
-          "B. Chỉ cần điểm danh bằng miệng",
-          "C. Bắt buộc phải lập biên bản cuộc họp ghi rõ ý kiến phản ánh, thắc mắc (nếu có) và lưu hồ sơ tài sản",
-          "D. Không cần lập biên bản chỉ cần chụp ảnh lưu niệm"
+          "A. Ít nhất là 60 ngày đối với cơ quan quản lý nhà nước cấp tỉnh",
+          "B. Ít nhất là 07 ngày làm việc kể từ ngày hoàn thành việc kê khai",
+          "C. Ít nhất là 15 ngày liên tục tại vị trí thuận lợi cho cán bộ, công chức tiếp cận",
+          "D. Ít nhất là 30 ngày liên tục tại phòng làm việc của người đứng đầu cơ quan"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Nghị định 130/2020/NĐ-CP.\n★ Phân tích chi tiết: Công khai tại cuộc họp BẮT BUỘC phải lập biên bản và có chữ ký xác nhận.\n★ Mẹo nhớ & Bẫy thi: Công khai tại cuộc họp: BẮT BUỘC LẬP BIÊN BẢN."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Nghị định 130/2020/NĐ-CP.\n★ Phân tích chi tiết: Niêm yết bản kê khai tài sản tại cơ quan phải bảo đảm thời gian tối thiểu 15 ngày liên tục ở vị trí công khai, an toàn.\n★ Mẹo nhớ & Bẫy thi: Thời hạn niêm yết bản kê khai tài sản: Tối thiểu 15 ngày liên tục."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Tiêu chí nào sau đây là một trong những căn cứ để xác minh tài sản, thu nhập theo kế hoạch?",
+        "q": "Trường hợp công khai bản kê khai tài sản, thu nhập tại cuộc họp của cơ quan, tổ chức thì cuộc họp phải đáp ứng điều kiện về tỷ lệ tham dự như thế nào?",
         "options": [
-          "A. Chọn người không tham gia phong trào văn nghệ",
-          "B. Chọn những người trẻ tuổi mới vào cơ quan",
-          "C. Chọn những người có mâu thuẫn với thủ trưởng cơ quan",
-          "D. Lựa chọn ngẫu nhiên bằng hình thức bốc thăm hoặc sử dụng phần mềm máy tính"
+          "A. Phải có mặt đại diện của Ủy ban Kiểm tra Đảng ủy cấp trên trực tiếp",
+          "B. Phải có mặt trên một phần hai (1/2) số đại biểu thuộc diện lãnh đạo từ cấp phó phòng trở lên",
+          "C. Phải có mặt đầy đủ 100% toàn bộ công chức, viên chức, người lao động của cơ quan",
+          "D. Phải có mặt tối thiểu hai phần ba (2/3) số người thuộc thành phần triệu tập tham dự cuộc họp"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 41 Luật PCTN.\n★ Phân tích chi tiết: Lựa chọn xác minh ngẫu nhiên bằng bốc thăm công khai hoặc phần mềm.\n★ Mẹo nhớ & Bẫy thi: Xác minh ngẫu nhiên: Bốc thăm công khai hoặc chọn bằng phần mềm."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Công khai tại cuộc họp phải bảo đảm có ít nhất 2/3 số người thuộc thành phần được triệu tập tham dự và phải lập biên bản cuộc họp.\n★ Mẹo nhớ & Bẫy thi: Tỷ lệ tham dự cuộc họp công khai bản kê khai: Tối thiểu 2/3 thành phần triệu tập."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người có hành vi tham nhũng đã nghỉ hưu thì có bị xử lý không?",
+        "q": "Cơ quan nào có thẩm quyền kiểm soát tài sản, thu nhập đối với người có nghĩa vụ kê khai công tác tại các cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh?",
         "options": [
-          "A. Miễn trừ hoàn toàn trách nhiệm vì đã hoàn thành nhiệm kỳ và hưởng lương hưu",
-          "B. Vẫn bị xử lý nghiêm minh theo quy định của pháp luật; bị xử lý kỷ luật xóa tư cách chức vụ đã đảm nhiệm, xử phạt hành chính hoặc xử lý hình sự",
-          "C. Chỉ bị thu hồi thẻ bảo hiểm y tế hưu trí",
-          "D. Chỉ bị xử lý nếu hành vi xảy ra trong vòng 06 tháng trước khi nghỉ hưu"
+          "A. Sở Tư pháp cấp tỉnh",
+          "B. Thanh tra tỉnh",
+          "C. Sở Nội vụ cấp tỉnh",
+          "D. Ban Pháp chế của Hội đồng nhân dân tỉnh"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 92 Luật PCTN.\n★ Phân tích chi tiết: Đã nghỉ hưu vẫn bị xử lý nghiêm minh (xóa tư cách chức vụ, truy tố hình sự). Không có vùng cấm.\n★ Mẹo nhớ & Bẫy thi: Đã nghỉ hưu: VẪN BỊ XỬ LÝ (xóa tư cách chức vụ, xử lý hình sự)."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Thanh tra tỉnh là Cơ quan kiểm soát tài sản, thu nhập đối với người có nghĩa vụ kê khai công tác tại cơ quan, tổ chức cấp tỉnh, cấp huyện và doanh nghiệp nhà nước thuộc tỉnh.\n★ Mẹo nhớ & Bẫy thi: Cơ quan kiểm soát tài sản thu nhập cấp tỉnh: THANH TRA TỈNH."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Tài sản tham nhũng được xử lý như thế nào?",
+        "q": "Cơ quan nào là Cơ quan kiểm soát tài sản, thu nhập đối với người giữ chức vụ từ Thứ trưởng và tương đương trở lên trong các Bộ, ngành trung ương?",
         "options": [
-          "A. Bị tiêu hủy hoàn toàn dưới sự giám sát của Tòa án",
-          "B. Phải được thu hồi, tịch thu sung công quỹ nhà nước hoặc trả lại cho chủ sở hữu, người quản lý hợp pháp",
-          "C. Được giữ lại 50% tại quỹ của cơ quan xảy ra tham nhũng",
-          "D. Được chia đều cho những người tham gia phát hiện tố cáo"
+          "A. Bộ Công an",
+          "B. Thanh tra Chính phủ",
+          "C. Kiểm toán Nhà nước",
+          "D. Ủy ban Giám sát tài chính quốc gia"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 93 Luật PCTN.\n★ Phân tích chi tiết: Tài sản tham nhũng phải được tịch thu sung công quỹ hoặc trả lại chủ sở hữu hợp pháp.\n★ Mẹo nhớ & Bẫy thi: Tài sản tham nhũng: THU HỒI, TỊCH THU sung công quỹ hoặc trả lại chủ sở hữu."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Thanh tra Chính phủ kiểm soát tài sản thu nhập của người giữ chức vụ từ Thứ trưởng và tương đương trở lên, người đứng đầu và cấp phó các tập đoàn nhà nước.\n★ Mẹo nhớ & Bẫy thi: Kiểm soát tài sản chức danh Thứ trưởng trở lên: THANH TRA CHÍNH PHỦ."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
@@ -4132,124 +4132,124 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Điều 16 Nghị định số 150/2025/NĐ-CP.\n★ Phân tích chi tiết: Ở huyện nông thôn tổ chức Phòng Kinh tế và Hạ tầng (gộp công thương, giao thông, xây dựng). Ở quận đô thị tách riêng Phòng Quản lý Đô thị và Phòng Kinh tế.\n★ Mẹo nhớ & bẫy thi: Ở Huyện gọi là Phòng Kinh tế và Hạ tầng; ở Quận gọi là Phòng Quản lý Đô thị và Phòng Kinh tế."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 51: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 12 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thẩm quyền thành lập Ban Giám sát kỳ thi tuyển công chức được quy định thuộc về ai?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 12 của Nghị định.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Giám đốc Sở Nội vụ thành phố trực thuộc trung ương",
+          "B. Người đứng đầu cơ quan có thẩm quyền tuyển dụng công chức",
+          "C. Chủ tịch Hội đồng tuyển dụng công chức",
+          "D. Trưởng Ban Coi thi của kỳ thi tuyển dụng"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 12 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV (Quy chế thi tuyển công chức).\n★ Phân tích chi tiết: Người đứng đầu cơ quan có thẩm quyền tuyển dụng công chức thành lập Ban Giám sát kỳ thi trước khi tổ chức thi. Trưởng ban và các thành viên Ban Giám sát hoạt động độc lập với Hội đồng thi.\n★ Mẹo nhớ & bẫy thi: Ban Giám sát do 'Người đứng đầu cơ quan có thẩm quyền tuyển dụng' lập, không phải do Chủ tịch Hội đồng thi lập (để bảo đảm tính khách quan, giám sát chính Hội đồng thi)."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 52: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 13 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Khi phát hiện thành viên Hội đồng tuyển dụng hoặc thành viên các ban giúp việc có hành vi vi phạm quy chế thi, Trưởng Ban Giám sát kỳ thi có thẩm quyền xử lý như thế nào?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 13 của Nghị định.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Lập biên bản về hành vi vi phạm và kiến nghị Chủ tịch Hội đồng thi đình chỉ nhiệm vụ hoặc xử lý theo quy định",
+          "B. Ra quyết định phạt vi phạm hành chính đối với thành viên vi phạm quy chế thi",
+          "C. Tự mình đình chỉ toàn bộ hoạt động của kỳ thi và báo cáo Bộ Nội vụ trong thời hạn 24 giờ",
+          "D. Trực tiếp ra quyết định hủy bỏ tư cách thành viên Hội đồng thi và công bố công khai cho thí sinh"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 13 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV (Quy chế thi tuyển công chức).\n★ Phân tích chi tiết: Trưởng Ban Giám sát lập biên bản và gửi kiến nghị đến Chủ tịch Hội đồng thi để xem xét đình chỉ hoặc xử lý; Ban Giám sát không có thẩm quyền trực tiếp ra quyết định xử phạt hay hủy tư cách thành viên.\n★ Mẹo nhớ & bẫy thi: Ban Giám sát giám sát và kiến nghị, thẩm quyền quyết định xử lý thuộc về Chủ tịch Hội đồng hoặc người đứng đầu cơ quan có thẩm quyền tuyển dụng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 53: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 14 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Theo quy chế thi tuyển công chức, những người nào sau đây không được tham gia làm thành viên Hội đồng thi, Ban Giám sát và các ban giúp việc của Hội đồng?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 14 của Nghị định.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Cha, mẹ, anh, chị, em ruột của bên vợ hoặc chồng; vợ hoặc chồng; con đẻ, con nuôi của người dự tuyển",
+          "B. Công chức có chuyên môn cùng ngành đào tạo với vị trí việc làm cần tuyển dụng",
+          "C. Lãnh đạo cơ quan cấp trên trực tiếp của đơn vị có chỉ tiêu tuyển dụng công chức",
+          "D. Đồng nghiệp cùng làm việc chung một phòng, ban chuyên môn với người tham gia dự tuyển"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 14 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP & Thông tư số 22/2025/TT-BNV.\n★ Phân tích chi tiết: Người có quan hệ gia đình (vợ, chồng, cha, mẹ, con đẻ, con nuôi, anh chị em ruột của hai bên vợ chồng) hoặc người đang trong thời gian bị kỷ luật, thanh tra không được bố trí tham gia Hội đồng thi và các ban giúp việc.\n★ Mẹo nhớ & bẫy thi: Quan hệ gia đình trực hệ và bên vợ/chồng là tiêu chí loại trừ bắt buộc để chống xung đột lợi ích."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 54: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 15 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Đề thi và đáp án của các môn thi trong kỳ thi tuyển công chức chưa công khai được quản lý theo chế độ bảo mật nào?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 15 của Nghị định.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Được quản lý theo độ 'tuyệt mật' kể từ thời điểm xây dựng ngân hàng câu hỏi",
+          "B. Được quản lý theo độ 'mật' của pháp luật về bảo vệ bí mật nhà nước cho đến khi kết thúc môn thi",
+          "C. Được quản lý theo chế độ tài liệu lưu hành nội bộ thông thường của cơ quan tuyển dụng",
+          "D. Do Trưởng Ban Đề thi tự quyết định cấp độ bảo mật bằng văn bản nội bộ"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 15 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV & Pháp luật Bảo vệ bí mật nhà nước.\n★ Phân tích chi tiết: Đề thi, đáp án thi tuyển công chức khi chưa công bố thuộc danh mục bí mật nhà nước độ 'MẬT'. Người làm lộ đề thi bị xử lý kỷ luật nghiêm khắc và có thể bị truy cứu trách nhiệm hình sự.\n★ Mẹo nhớ & bẫy thi: Cấp độ bảo mật chuẩn của đề thi công chức là độ MẬT."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 55: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 16 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Hội đồng tuyển dụng công chức được thành lập với số lượng thành viên là bao nhiêu?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 16 của Nghị định."
+          "A. Có 03 hoặc 05 thành viên",
+          "B. Cố định đúng 05 thành viên trong mọi trường hợp",
+          "C. Có từ 07 đến 09 thành viên",
+          "D. Có 05 hoặc 07 thành viên"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 16 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định 300/2026/NĐ-CP).\n★ Phân tích chi tiết: Hội đồng tuyển dụng công chức có 05 hoặc 07 thành viên, gồm Chủ tịch, Phó Chủ tịch và các Ủy viên (trong đó có 01 Ủy viên kiêm Thư ký).\n★ Mẹo nhớ & bẫy thi: Số lượng thành viên Hội đồng tuyển dụng là số lẻ: '05 hoặc 07 thành viên'."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 56: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 17 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Chức danh Thư ký Hội đồng tuyển dụng công chức được phân công cho ai đảm nhiệm?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 17 của Nghị định."
+          "A. Chuyên viên công nghệ thông tin phụ trách hệ thống máy chủ thi trắc nghiệm",
+          "B. Trưởng Ban Coi thi của kỳ thi tuyển dụng kiêm nhiệm",
+          "C. Trưởng Ban Kiểm tra sát hạch kiêm nhiệm",
+          "D. Một Ủy viên Hội đồng kiêm nhiệm, thường là lãnh đạo hoặc công chức bộ phận tổ chức cán bộ"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 17 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Thư ký Hội đồng là 01 Ủy viên Hội đồng kiêm nhiệm, tham mưu điều phối các công việc hành chính và ghi biên bản các cuộc họp của Hội đồng.\n★ Mẹo nhớ & bẫy thi: Thư ký là 'Ủy viên Hội đồng kiêm Thư ký', không phải người ngoài Hội đồng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 57: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 18 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trong kỳ thi tuyển công chức, thí sinh bị áp dụng hình thức kỷ luật Khiển trách khi có hành vi vi phạm nào sau đây?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 18 của Nghị định.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Cố ý nhìn bài hoặc trao đổi bài với thí sinh khác và đã bị nhắc nhở một lần nhưng vẫn tiếp tục vi phạm",
+          "B. Mang tài liệu, thiết bị truyền tin hoặc thiết bị lưu trữ dữ liệu trái phép vào phòng thi",
+          "C. Nhờ người khác thi hộ hoặc làm bài hộ trong phòng thi",
+          "D. Gây rối trật tự làm gián đoạn thời gian làm bài của phòng thi"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 18 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV (Nội quy thi tuyển công chức).\n★ Phân tích chi tiết: Hình thức Khiển trách áp dụng đối với thí sinh cố ý nhìn bài hoặc trao đổi với thí sinh khác đã bị nhắc nhở 01 lần nhưng không tuân thủ. Mang tài liệu/thiết bị vào phòng thi bị đình chỉ thi ngay.\n★ Mẹo nhớ & bẫy thi: Nhắc nhở 1 lần vẫn tái phạm nhìn/trao đổi bài -> Khiển trách. Mang điện thoại/tài liệu -> Đình chỉ thi."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 58: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 19 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thí sinh bị kỷ luật bằng hình thức Khiển trách trong thi môn viết sẽ bị xử lý trừ điểm bài thi như thế nào?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 19 của Nghị định.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng."
+          "A. Bị trừ 25% tổng số điểm của bài thi môn đó",
+          "B. Bị trừ 50% tổng số điểm của bài thi môn đó",
+          "C. Bị trừ toàn bộ điểm số của câu hỏi mà thí sinh có hành vi vi phạm",
+          "D. Bị trừ 10 điểm trực tiếp trên thang điểm 100"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 19 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV.\n★ Phân tích chi tiết: Thí sinh bị khiển trách bị trừ 25% tổng số điểm đạt được của bài thi môn đó. Bị cảnh cáo bị trừ 50% tổng số điểm.\n★ Mẹo nhớ & bẫy thi: Tỷ lệ trừ điểm theo quy chế: Khiển trách trừ 25%, Cảnh cáo trừ 50%."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 59: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 20 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thí sinh bị kỷ luật bằng hình thức Cảnh cáo trong môn thi viết sẽ bị xử lý trừ điểm bài thi như thế nào?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 20 của Nghị định.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Bị hủy bài thi và tính điểm 0",
+          "B. Bị trừ 50% tổng số điểm của bài thi môn đó",
+          "C. Bị trừ 30 điểm trên thang điểm 100",
+          "D. Bị trừ 25% tổng số điểm của bài thi môn đó"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 20 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV.\n★ Phân tích chi tiết: Mức phạt Cảnh cáo đi kèm trừ 50% tổng số điểm môn thi. Đình chỉ thi mới bị điểm 0.\n★ Mẹo nhớ & bẫy thi: Khiển trách trừ 25% - Cảnh cáo trừ 50% - Đình chỉ thi điểm 0."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 60: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 21 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trường hợp thí sinh bị áp dụng hình thức kỷ luật Đình chỉ thi thì kết quả bài thi môn đó được tính như thế nào?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 21 của Nghị định.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Bài thi bị chấm điểm 0 và thí sinh không được tiếp tục dự thi các môn thi tiếp theo",
+          "B. Kết quả bài thi bị hủy bỏ nhưng được bảo lưu hồ sơ để tham dự kỳ thi tuyển kế tiếp",
+          "C. Phải nộp phạt vi phạm hành chính tương ứng 50% mức lương cơ sở",
+          "D. Bài thi bị trừ 75% tổng số điểm và vẫn được thi môn tiếp theo nếu có cam kết"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 21 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV.\n★ Phân tích chi tiết: Thí sinh bị đình chỉ thi bị điểm 0 môn thi đó và không được tham gia thi các môn tiếp theo trong kỳ thi.\n★ Mẹo nhớ & bẫy thi: Đình chỉ thi = Điểm 0 + Dừng thi toàn bộ kỳ thi."
       },
       {
         "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
@@ -4622,99 +4622,99 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Việc tiếp nhận, xử lý phản ánh, tố cáo về hành vi tham nhũng được bảo mật như thế nào?",
+        "q": "Việc lựa chọn ngẫu nhiên người được xác minh tài sản, thu nhập hàng năm theo kế hoạch của Cơ quan kiểm soát tài sản, thu nhập được thực hiện theo nguyên tắc nào?",
         "options": [
-          "A. Chỉ bảo mật nếu người tố cáo trả phí bảo vệ thông tin",
-          "B. Được công khai danh tính người tố cáo để minh bạch thông tin",
-          "C. Được cung cấp thông tin người tố cáo cho người bị tố cáo để đối chất",
-          "D. Cơ quan tiếp nhận phải giữ bí mật họ tên, địa chỉ, bút tích và thông tin cá nhân khác của người tố cáo"
+          "A. Bắt buộc phải chọn toàn bộ những người vừa được nâng bậc lương trước thời hạn",
+          "B. Do Thủ trưởng cơ quan thanh tra tự chỉ định danh sách theo ý chí chủ quan",
+          "C. Chỉ lựa chọn những người có ý kiến phản ánh của công chúng qua mạng xã hội",
+          "D. Được thực hiện công khai bằng hình thức bốc thăm hoặc sử dụng phần mềm máy tính lựa chọn ngẫu nhiên"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 65 Luật PCTN & Luật Tố cáo.\n★ Phân tích chi tiết: Bảo mật tuyệt đối danh tính, bút tích người tố cáo.\n★ Mẹo nhớ & Bẫy thi: Bảo vệ người tố cáo: BẢO MẬT TUYỆT ĐỐI DANH TÍNH, BÚT TÍCH."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 130/2020/NĐ-CP.\n★ Phân tích chi tiết: Lựa chọn ngẫu nhiên người xác minh hàng năm qua hình thức bốc thăm hoặc phần mềm máy tính ngẫu nhiên trước sự chứng kiến của Ủy ban Mặt trận Tổ quốc.\n★ Mẹo nhớ & Bẫy thi: Nguyên tắc chọn người xác minh tài sản ngẫu nhiên: Bốc thăm hoặc phần mềm máy tính trước sự chứng kiến của MTTQ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Cơ quan nào là cơ quan đầu mối giúp Chính phủ quản lý nhà nước về công tác phòng, chống tham nhũng trong phạm vi cả nước?",
+        "q": "Tỷ lệ số người được xác minh tài sản, thu nhập hàng năm theo kế hoạch tại mỗi cơ quan, tổ chức, đơn vị được quy định tối thiểu là bao nhiêu?",
         "options": [
-          "A. Bộ Tư pháp",
-          "B. Bộ Công an",
-          "C. Kiểm toán Nhà nước",
-          "D. Thanh tra Chính phủ"
+          "A. Tối thiểu là 05% tổng số biên chế của cơ quan, tổ chức, đơn vị",
+          "B. Tối thiểu là 20% số người có nghĩa vụ kê khai tài sản hàng năm tại cơ quan đó",
+          "C. Cố định đúng 03 người tại mỗi phòng, ban chuyên môn",
+          "D. Tối thiểu là 10% số người có nghĩa vụ kê khai tài sản hàng năm tại cơ quan đó"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 84 Luật PCTN.\n★ Phân tích chi tiết: Thanh tra Chính phủ là cơ quan đầu mối giúp Chính phủ quản lý nhà nước về PCTN.\n★ Mẹo nhớ & Bẫy thi: Cơ quan đầu mối PCTN cả nước: THANH TRA CHÍNH PHỦ."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 130/2020/NĐ-CP.\n★ Phân tích chi tiết: Số lượng người được xác minh hàng năm tại mỗi cơ quan, đơn vị phải bảo đảm tối thiểu 10% số người có nghĩa vụ kê khai tài sản hàng năm.\n★ Mẹo nhớ & Bẫy thi: Tỷ lệ xác minh tài sản hàng năm: Tối thiểu 10% số người có nghĩa vụ kê khai hàng năm."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người đứng đầu cơ quan bị xử lý kỷ luật Khiển trách trong trường hợp để xảy ra vụ việc tham nhũng ở mức độ nào?",
+        "q": "Căn cứ nào sau đây là căn cứ bắt buộc để Cơ quan kiểm soát tài sản, thu nhập ra quyết định xác minh tài sản, thu nhập đột xuất?",
         "options": [
-          "A. Để xảy ra vụ việc tham nhũng đặc biệt nghiêm trọng",
-          "B. Để xảy ra vụ việc tham nhũng nghiêm trọng",
-          "C. Để xảy ra vụ việc tham nhũng ít nghiêm trọng",
-          "D. Để xảy ra vụ việc tham nhũng rất nghiêm trọng"
+          "A. Khi công chức hoàn thành vượt mức chỉ tiêu nhiệm vụ chuyên môn được giao",
+          "B. Khi người có nghĩa vụ kê khai đi du lịch nước ngoài vào kỳ nghỉ phép năm",
+          "C. Khi có dấu hiệu rõ ràng về việc kê khai không trung thực hoặc có biến động tài sản từ 300 triệu đồng trở lên mà không giải trình được nguồn gốc hợp lý",
+          "D. Khi cơ quan chuyển đổi trụ sở làm việc sang địa điểm mới"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Nghị định 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Vụ việc ít nghiêm trọng -> Khiển trách người đứng đầu.\n★ Mẹo nhớ & Bẫy thi: Ít nghiêm trọng: Khiển trách."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Căn cứ xác minh đột xuất: Có dấu hiệu kê khai không trung thực; có biến động tài sản từ 300 triệu trở lên không giải trình được; có đơn tố cáo đủ điều kiện.\n★ Mẹo nhớ & Bẫy thi: Xác minh đột xuất: Dấu hiệu kê khai gian dối hoặc tài sản tăng từ 300 triệu không rõ nguồn gốc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người đứng đầu cơ quan bị xử lý kỷ luật Cảnh cáo trong trường hợp để xảy ra vụ việc tham nhũng ở mức độ nào?",
+        "q": "Thời hạn xác minh tài sản, thu nhập của Tổ xác minh được quy định tối đa là bao lâu kể từ ngày ban hành quyết định xác minh?",
         "options": [
-          "A. Chỉ khi có thiệt hại trên 100 tỷ đồng",
-          "B. Để xảy ra vụ việc tham nhũng ít nghiêm trọng lần đầu",
-          "C. Tự động áp dụng cho tất cả các vụ việc",
-          "D. Để xảy ra vụ việc tham nhũng nghiêm trọng hoặc nhiều vụ việc ít nghiêm trọng"
+          "A. Không quá 60 ngày; trường hợp phức tạp có thể gia hạn tối đa 180 ngày",
+          "B. Không quá 30 ngày; không được phép gia hạn trong mọi trường hợp",
+          "C. Cố định đúng 15 ngày làm việc kể từ ngày công bố quyết định",
+          "D. Không quá 45 ngày; trường hợp phức tạp có thể gia hạn nhưng không quá 90 ngày"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Nghị định 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Vụ việc nghiêm trọng -> Cảnh cáo người đứng đầu.\n★ Mẹo nhớ & Bẫy thi: Nghiêm trọng: Cảnh cáo."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Thời hạn xác minh tài sản, thu nhập là không quá 45 ngày; vụ việc phức tạp được gia hạn 01 lần nhưng không quá 90 ngày.\n★ Mẹo nhớ & Bẫy thi: Thời hạn xác minh tài sản: Không quá 45 ngày (phức tạp tối đa 90 ngày)."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người đứng đầu cơ quan bị xử lý kỷ luật Cách chức trong trường hợp để xảy ra vụ việc tham nhũng ở mức độ nào?",
+        "q": "Kết luận xác minh tài sản, thu nhập phải được người ra quyết định xác minh ban hành trong thời hạn bao lâu kể từ ngày nhận được báo cáo kết quả xác minh?",
         "options": [
-          "A. Khi có dư luận phản ánh trên báo chí",
-          "B. Để xảy ra vụ việc tham nhũng rất nghiêm trọng hoặc đặc biệt nghiêm trọng",
-          "C. Do Ban Thanh tra nhân dân biểu quyết",
-          "D. Để xảy ra 01 vụ việc tham nhũng ít nghiêm trọng"
+          "A. Trong thời hạn 60 ngày kể từ ngày kết thúc việc niêm yết bản kê khai",
+          "B. Chậm nhất là 45 ngày (hoặc 90 ngày đối với vụ việc phức tạp) tính từ ngày ra quyết định xác minh",
+          "C. Ban hành ngay trong ngày kết thúc cuộc họp thẩm tra của Hội đồng kỷ luật",
+          "D. Chậm nhất là 10 ngày làm việc kể từ ngày nhận được báo cáo của Tổ xác minh"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Nghị định 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Vụ việc rất nghiêm trọng / đặc biệt nghiêm trọng -> Cách chức người đứng đầu.\n★ Mẹo nhớ & Bẫy thi: Rất nghiêm trọng / đặc biệt nghiêm trọng: CÁCH CHỨC."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Kết luận xác minh phải được ban hành kịp thời trong khung thời hạn xác minh và gửi cho người được xác minh cùng cơ quan quản lý.\n★ Mẹo nhớ & Bẫy thi: Ban hành kết luận xác minh: Tuân thủ thời hạn toàn bộ quá trình xác minh (45 ngày hoặc 90 ngày)."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Cơ quan thanh tra trong quá trình thanh tra phát hiện vụ việc có dấu hiệu tội phạm tham nhũng thì phải làm gì?",
+        "q": "Kết luận xác minh tài sản, thu nhập phải được công khai trong thời hạn bao lâu kể từ ngày ban hành?",
         "options": [
-          "A. Chờ kết thúc cuộc thanh tra sau 01 năm mới chuyển hồ sơ",
-          "B. Chuyển ngay hồ sơ vụ việc và tài liệu chứng cứ cho Cơ quan điều tra có thẩm quyền để thụ lý theo quy định tố tụng hình sự",
-          "C. Hỏi ý kiến của người có hành vi vi phạm trước khi chuyển",
-          "D. Tự ý ra quyết định xử phạt tiền và khép lại hồ sơ"
+          "A. Trong thời hạn 15 ngày làm việc kể từ ngày ban hành kết luận xác minh",
+          "B. Trong thời hạn 05 ngày làm việc kể từ ngày ban hành kết luận xác minh",
+          "C. Chỉ công khai sau khi có kết luận điều tra chính thức của cơ quan công an",
+          "D. Trong thời hạn 30 ngày kể từ ngày ban hành kết luận xác minh"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 66 Luật PCTN.\n★ Phân tích chi tiết: Phát hiện tội phạm -> CHUYỂN NGAY HỒ SƠ cho Cơ quan điều tra.\n★ Mẹo nhớ & Bẫy thi: Dấu hiệu tội phạm: CHUYỂN NGAY CHO CƠ QUAN ĐIỀU TRA."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Trong thời hạn 05 ngày làm việc kể từ ngày ban hành Kết luận xác minh, người ra quyết định xác minh phải công khai kết luận xác minh.\n★ Mẹo nhớ & Bẫy thi: Thời hạn công khai kết luận xác minh tài sản: 05 ngày làm việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Trách nhiệm của Viện kiểm sát nhân dân trong công tác phòng chống tham nhũng là gì?",
+        "q": "Người được quy hoạch vào chức vụ lãnh đạo, quản lý mà bị kết luận kê khai tài sản, thu nhập không trung thực thì bị xử lý như thế nào?",
         "options": [
-          "A. Thực hành quyền công tố, kiểm sát việc tuân theo pháp luật trong tiếp nhận, giải quyết tin báo tội phạm và điều tra, truy tố, xét xử các tội phạm tham nhũng",
-          "B. Thu hồi tài sản tham nhũng nộp vào tài khoản riêng của Viện kiểm sát",
-          "C. Quản lý biên chế công chức của các cơ quan hành chính",
-          "D. Trực tiếp ban hành văn bản quy phạm pháp luật thay Quốc hội"
+          "A. Bị xóa tên khỏi danh sách quy hoạch chức vụ lãnh đạo, quản lý đó",
+          "B. Chỉ bị phê bình nghiêm khắc trước hội nghị cán bộ công chức cơ quan",
+          "C. Bị phạt tiền tương ứng 10% giá trị tài sản kê khai thiếu",
+          "D. Được hạ xuống quy hoạch vào chức vụ lãnh đạo cấp phó"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 86 Luật PCTN.\n★ Phân tích chi tiết: VKSND thực hành quyền công tố và kiểm sát hoạt động tư pháp án tham nhũng.\n★ Mẹo nhớ & Bẫy thi: VKSND: Thực hành quyền công tố + Kiểm sát hoạt động tư pháp án tham nhũng."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Người dự kiến quy hoạch mà kê khai không trung thực thì bị xóa tên khỏi danh sách quy hoạch.\n★ Mẹo nhớ & Bẫy thi: Kê khai không trung thực khi quy hoạch: XÓA TÊN KHỎI DANH SÁCH QUY HOẠCH."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Tòa án nhân dân có trách nhiệm gì trong công tác pctn?",
+        "q": "Người dự kiến được bổ nhiệm vào chức vụ lãnh đạo, quản lý mà bị kết luận kê khai tài sản, thu nhập không trung thực thì bị xử lý ra sao?",
         "options": [
-          "A. Chỉ đạo công tác điều tra của cơ quan công an",
-          "B. Tự mình đi xác minh tài sản ngẫu nhiên của công chức",
-          "C. Xét xử kịp thời, nghiêm minh các vụ án tham nhũng; áp dụng các biện pháp thu hồi tài sản tham nhũng theo quy định",
-          "D. Thẩm định hồ sơ bổ nhiệm công chức lãnh đạo"
+          "A. Vẫn được bổ nhiệm nhưng thời gian giữ chức vụ bị rút ngắn còn 01 năm",
+          "B. Tạm hoãn bổ nhiệm trong thời gian 03 tháng để công chức giải trình bổ sung",
+          "C. Không được bổ nhiệm vào chức vụ đã dự kiến bổ nhiệm",
+          "D. Được chuyển sang bổ nhiệm chức vụ lãnh đạo tương đương tại cơ quan khác"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 87 Luật PCTN.\n★ Phân tích chi tiết: Tòa án xét xử nghiêm minh và quyết định tịch thu, thu hồi tài sản tham nhũng.\n★ Mẹo nhớ & Bẫy thi: Tòa án: XÉT XỬ KỊP THỜI, NGHIÊM MINH + Thu hồi tài sản tham nhũng."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Người dự kiến bổ nhiệm mà kê khai tài sản, thu nhập không trung thực thì không được bổ nhiệm.\n★ Mẹo nhớ & Bẫy thi: Kê khai không trung thực khi dự kiến bổ nhiệm: KHÔNG ĐƯỢC BỔ NHIỆM."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
@@ -4861,124 +4861,124 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Điều 20 Nghị định số 150/2025/NĐ-CP.\n★ Phân tích chi tiết: Phòng Nội vụ cấp huyện thẩm định đề án tổ chức bộ máy các phòng chuyên môn cấp huyện.\n★ Mẹo nhớ & bẫy thi: Thẩm định đề án tổ chức bộ máy cấp huyện: PHÒNG NỘI VỤ."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 61: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 22 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Theo quy chế thi tuyển công chức, những môn thi nào sau đây không thực hiện phúc khảo bài thi?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 22 của Nghị định."
+          "A. Toàn bộ các môn thi đều được quyền phúc khảo nếu thí sinh có đơn yêu cầu",
+          "B. Môn thi viết kiến thức chung và môn thi viết chuyên ngành",
+          "C. Môn thi trắc nghiệm trên giấy và môn thi viết tự luận",
+          "D. Môn thi trắc nghiệm trên máy tính, môn thi phỏng vấn và môn thi thực hành"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 22 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP & Thông tư số 22/2025/TT-BNV.\n★ Phân tích chi tiết: Không phúc khảo đối với thi trắc nghiệm trên máy vi tính (kết quả hiển thị ngay), thi phỏng vấn (chấm trực tiếp) và thi thực hành.\n★ Mẹo nhớ & bẫy thi: Môn KHÔNG phúc khảo: Trắc nghiệm máy vi tính, Phỏng vấn, Thực hành. Môn ĐƯỢC phúc khảo: Thi viết, thi trắc nghiệm trên giấy."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 62: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 23 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thời hạn thí sinh được nộp đơn đề nghị phúc khảo bài thi viết được quy định là bao lâu kể từ ngày công bố kết quả chấm thi?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 23 của Nghị định."
+          "A. Trong thời hạn 30 ngày kể từ ngày kết thúc môn thi viết",
+          "B. Trong thời hạn 07 ngày làm việc kể từ ngày niêm yết danh sách điểm",
+          "C. Trong thời hạn 03 ngày làm việc kể từ ngày công bố điểm thi",
+          "D. Trong thời hạn 15 ngày kể từ ngày thông báo công khai kết quả điểm thi"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 23 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Thời hạn nhận đơn phúc khảo bài thi viết là 15 ngày kể từ ngày công bố công khai kết quả thi trên cổng thông tin điện tử của cơ quan tuyển dụng.\n★ Mẹo nhớ & bẫy thi: Khung thời hạn nhận đơn phúc khảo: 15 ngày."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 63: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 24 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Chủ tịch Hội đồng tuyển dụng công chức có trách nhiệm hoàn thành việc chấm phúc khảo bài thi viết trong thời hạn bao lâu?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 24 của Nghị định.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Không quá 30 ngày kể từ ngày nhận được đơn phúc khảo đầu tiên",
+          "B. Không quá 15 ngày kể từ ngày hết thời hạn nhận đơn phúc khảo",
+          "C. Không quá 07 ngày làm việc kể từ ngày kết thúc nhận đơn",
+          "D. Không quá 20 ngày kể từ ngày thành lập Ban Chấm phúc khảo"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 24 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Chậm nhất 15 ngày kể từ ngày hết hạn nhận đơn phúc khảo, Hội đồng phải hoàn thành việc tổ chức chấm phúc khảo và công bố kết quả.\n★ Mẹo nhớ & bẫy thi: Thời hạn chấm và công bố phúc khảo: không quá 15 ngày kể từ ngày hết hạn nhận đơn."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 64: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 25 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Sau khi chấm phúc khảo bài thi viết, trường hợp điểm phúc khảo chênh lệch so với điểm chấm đợt đầu thì xử lý như thế nào?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 25 của Nghị định.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Tự động lấy điểm chấm phúc khảo thay thế điểm đợt đầu bất kể chênh lệch bao nhiêu điểm",
+          "B. Chênh lệch từ 0,5 điểm trở lên trên thang điểm 100 thì Chủ tịch Hội đồng tổ chức đối thoại giữa 02 cặp giám khảo chấm thi để quyết định điểm chính thức",
+          "C. Hủy bỏ cả hai kết quả và cử giám khảo thứ ba chấm độc lập lại từ đầu",
+          "D. Lấy điểm số trung bình cộng giữa điểm chấm đợt đầu và điểm chấm phúc khảo làm điểm chính thức"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 25 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV.\n★ Phân tích chi tiết: Nếu điểm chấm phúc khảo chênh lệch từ 0,5 điểm trở lên (thang điểm 100) so với điểm ban đầu, Chủ tịch Hội đồng tổ chức đối thoại giữa các giám khảo trước khi ký duyệt điểm.\n★ Mẹo nhớ & bẫy thi: Ngưỡng chênh lệch phải đối thoại giám khảo: Từ 0,5 điểm trở lên (thang điểm 100)."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 65: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 26 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thời gian gửi thông báo triệu tập thí sinh đủ điều kiện tham dự thi Vòng 2 được quy định chậm nhất là bao nhiêu ngày trước ngày tổ chức thi?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 26 của Nghị định.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Chậm nhất 10 ngày trước ngày tổ chức thi Vòng 2",
+          "B. Chậm nhất 15 ngày trước ngày tổ chức thi Vòng 2",
+          "C. Chậm nhất 05 ngày làm việc trước ngày tổ chức thi Vòng 2",
+          "D. Chậm nhất 20 ngày trước ngày tổ chức thi Vòng 2"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 26 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Hội đồng gửi thông báo triệu tập thí sinh dự thi Vòng 2 chậm nhất là 10 ngày trước ngày diễn ra kỳ thi Vòng 2.\n★ Mẹo nhớ & bẫy thi: Mốc thời gian triệu tập thi Vòng 2: Chậm nhất 10 ngày trước ngày thi."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 66: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 27 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trong kỳ thi trắc nghiệm trên máy tính, trường hợp máy tính của thí sinh bị treo hoặc mất điện đột ngột thì quy trình xử lý đúng là gì?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 27 của Nghị định.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Thí sinh phải chấp nhận số câu đã làm và không được làm bù thời gian bị gián đoạn",
+          "B. Cán bộ coi thi lập biên bản sự cố, chuyển thí sinh sang máy tính dự phòng và bù lại đúng thời gian gián đoạn",
+          "C. Hủy kết quả thi của phòng thi đó và tổ chức thi lại vào buổi thi tiếp theo",
+          "D. Cho thí sinh chuyển sang làm bài trắc nghiệm trên giấy đối với phần câu hỏi còn lại"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 27 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV.\n★ Phân tích chi tiết: Sự cố kỹ thuật máy tính: Cán bộ coi thi cùng cán bộ kỹ thuật lập biên bản sự cố, chuyển máy tính dự phòng và bù đủ thời gian gián đoạn cho thí sinh.\n★ Mẹo nhớ & bẫy thi: Quy trình xử lý sự cố máy thi: Lập biên bản sự cố + Chuyển máy dự phòng + Bù thời gian gián đoạn."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 67: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 28 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thí sinh tham dự thi trắc nghiệm trên máy vi tính từ chối ký biên bản xác nhận kết quả thi sau khi nộp bài thì kết quả được xử lý như thế nào?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 28 của Nghị định."
+          "A. Kết quả bài thi của thí sinh đương nhiên bị hủy bỏ và tính điểm 0",
+          "B. Hội đồng thi ra quyết định đình chỉ thi toàn bộ các môn còn lại",
+          "C. Thí sinh bị buộc phải làm lại bài thi từ đầu trên máy tính khác",
+          "D. Giám thị phòng thi ghi rõ lý do vào biên bản cùng giám thị thứ hai và kỹ thuật viên ký xác nhận; kết quả ghi nhận trên hệ thống máy chủ vẫn có giá trị"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 28 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư số 22/2025/TT-BNV.\n★ Phân tích chi tiết: Việc thí sinh không ký xác nhận không làm mất giá trị pháp lý của kết quả ghi nhận tự động trên hệ thống dữ liệu máy chủ khi có đủ chữ ký của giám thị và kỹ thuật viên.\n★ Mẹo nhớ & bẫy thi: Thí sinh không ký xác nhận -> Giám thị lập biên bản ghi rõ lý do, kết quả máy tính vẫn có giá trị."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 68: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 29 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Người trúng tuyển vào ngạch Chuyên viên có bằng tốt nghiệp trình độ Thạc sĩ phù hợp với vị trí việc làm thì trong thời gian tập sự được hưởng chế độ lương như thế nào?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 29 của Nghị định."
+          "A. Được hưởng 85% mức lương bậc 1 của ngạch Chuyên viên",
+          "B. Được hưởng 100% mức lương bậc 2 của ngạch Chuyên viên",
+          "C. Được hưởng 100% mức lương bậc 1 của ngạch Chuyên viên",
+          "D. Được hưởng 85% mức lương bậc 2 của ngạch Chuyên viên"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 29 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Tập sự ngạch Chuyên viên: Trình độ đại học hưởng 85% bậc 1; trình độ thạc sĩ phù hợp hưởng 85% bậc 2; tiến sĩ phù hợp hưởng 85% bậc 3.\n★ Mẹo nhớ & bẫy thi: Lương tập sự: Đại học = 85% bậc 1; Thạc sĩ = 85% bậc 2; Tiến sĩ = 85% bậc 3."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 69: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 30 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Người trúng tuyển công chức có bằng Tiến sĩ phù hợp với yêu cầu vị trí việc làm thì trong thời gian tập sự được hưởng mức lương như thế nào?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 30 của Nghị định.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Được hưởng 85% mức lương bậc 3 của ngạch tuyển dụng",
+          "B. Được hưởng 85% mức lương bậc 2 của ngạch tuyển dụng",
+          "C. Được hưởng 100% mức lương bậc 3 của ngạch tuyển dụng",
+          "D. Được hưởng 100% mức lương bậc 2 của ngạch tuyển dụng"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 30 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Người có trình độ tiến sĩ phù hợp với vị trí việc làm tuyển dụng được hưởng 85% bậc 3 của ngạch công chức tuyển dụng trong thời gian tập sự.\n★ Mẹo nhớ & bẫy thi: Tập sự có bằng Tiến sĩ = 85% bậc 3."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 70: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 31 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trường hợp nào sau đây công chức trong thời gian tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 31 của Nghị định.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Làm việc tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn hoặc làm việc trong ngành nghề đặc thù độc hại, nguy hiểm",
+          "B. Được cơ quan đánh giá hoàn thành xuất sắc nhiệm vụ trong 03 tháng đầu tập sự",
+          "C. Là người có thời gian công tác hợp đồng lao động từ đủ 01 năm trở lên tại cơ quan",
+          "D. Đạt kết quả thi tuyển đầu vào Vòng 2 từ 90 điểm trở lên trên thang điểm 100"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 31 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Hưởng 100% lương tập sự áp dụng cho: Làm việc tại vùng đặc biệt khó khăn; làm việc trong các ngành, nghề độc hại, nguy hiểm; hoàn thành nghĩa vụ quân sự, công an nhân dân...\n★ Mẹo nhớ & bẫy thi: Hưởng 100% lương tập sự: Vùng đặc biệt khó khăn, ngành nghề đặc thù độc hại, sĩ quan/hạ sĩ quan hoàn thành NVQS."
       },
       {
         "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
@@ -5351,99 +5351,99 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Kiểm toán Nhà nước có trách nhiệm gì khi kiểm toán phát hiện hành vi tham nhũng?",
+        "q": "Người ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân mà kê khai tài sản, thu nhập không trung thực thì bị xử lý như thế nào?",
         "options": [
-          "A. Bỏ qua sai sót nếu cơ quan kiểm toán đã nộp phí kiểm toán",
-          "B. Chuyển ngay hồ sơ cho cơ quan điều tra nếu có dấu hiệu tội phạm tham nhũng; kiến nghị cơ quan có thẩm quyền xử lý kỷ luật, thu hồi tài sản",
-          "C. Tự ý đình chỉ hoạt động của doanh nghiệp",
-          "D. Chỉ ghi nhận trong biên bản nội bộ"
+          "A. Vẫn được giữ tên trong danh sách nhưng bị thông báo công khai vi phạm trước cử tri",
+          "B. Bị xóa tên khỏi danh sách những người ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân",
+          "C. Được phép nộp bản kê khai điều chỉnh bổ sung trước ngày bỏ phiếu 03 ngày",
+          "D. Bị tước quyền bầu cử trong thời hạn 05 năm"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 85 Luật PCTN.\n★ Phân tích chi tiết: Kiểm toán Nhà nước kiến nghị xử lý và chuyển cơ quan điều tra khi có dấu hiệu phạm tội.\n★ Mẹo nhớ & Bẫy thi: Kiểm toán Nhà nước: Kiến nghị xử lý + Chuyển cơ quan điều tra."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Người ứng cử ĐBQH, ĐBHĐND kê khai không trung thực thì bị xóa tên khỏi danh sách ứng cử theo quy định của pháp luật về bầu cử.\n★ Mẹo nhớ & Bẫy thi: Kê khai không trung thực khi ứng cử ĐBQH/HĐND: XÓA TÊN KHỎI DANH SÁCH ỨNG CỬ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Bản kê khai tài sản, thu nhập của người có nghĩa vụ kê khai được lưu giữ ở đâu?",
+        "q": "Công chức giữ chức vụ lãnh đạo, quản lý có hành vi kê khai tài sản, thu nhập không trung thực thì bị áp dụng một trong các hình thức kỷ luật nào?",
         "options": [
-          "A. Chỉ lưu 01 bản duy nhất tại nhà riêng của người kê khai",
-          "B. Lưu tại Ban Tuyên giáo Tỉnh ủy",
-          "C. 01 bản lưu tại Cơ quan kiểm soát tài sản, thu nhập và 01 bản lưu tại cơ quan quản lý hồ sơ cán bộ, công chức",
-          "D. Gửi lưu trữ tại Tòa án nhân dân tối cao"
+          "A. Khiển trách hoặc trừ 01 tháng phụ cấp chức vụ lãnh đạo",
+          "B. Buộc thôi việc ngay lập tức mà không cần thành lập Hội đồng kỷ luật",
+          "C. Cảnh cáo, hạ bậc lương, giáng chức hoặc cách chức",
+          "D. Phạt tiền vi phạm hành chính tương đương 03 tháng lương cơ sở"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 38 Luật PCTN.\n★ Phân tích chi tiết: Bản kê khai làm 02 bản: 01 bản tại Cơ quan kiểm soát tài sản + 01 bản tại hồ sơ công chức.\n★ Mẹo nhớ & Bẫy thi: Lưu giữ bản kê khai: 02 bản (Cơ quan kiểm soát tài sản & Hồ sơ cán bộ)."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Công chức lãnh đạo kê khai không trung thực bị kỷ luật từ Cảnh cáo trở lên; nếu vi phạm nghiêm trọng thì Giáng chức hoặc Cách chức.\n★ Mẹo nhớ & Bẫy thi: Kỷ luật lãnh đạo kê khai gian dối: Cảnh cáo, Hạ bậc lương, Giáng chức hoặc Cách chức."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Đối tượng nào sau đây bắt buộc phải kê khai tài sản, thu nhập hàng năm?",
+        "q": "Người có chức vụ, quyền hạn khi nhận được quà tặng không đúng quy định mà không thể từ chối được thì có trách nhiệm xử lý như thế nào?",
         "options": [
-          "A. Người lao động làm việc theo hợp đồng 68",
-          "B. Người giữ chức vụ từ Phó Trưởng phòng và tương đương trở lên công tác tại các cơ quan, đơn vị nhà nước",
-          "C. Toàn bộ công chức ngạch Nhân viên làm công tác bảo vệ",
-          "D. Sinh viên đại học năm cuối chuẩn bị tốt nghiệp"
+          "A. Báo cáo bằng văn bản trong kỳ họp kiểm điểm cuối năm của đơn vị",
+          "B. Phải báo cáo thủ trưởng cơ quan, đơn vị và nộp lại quà tặng trong thời hạn 05 ngày làm việc kể từ ngày nhận được quà",
+          "C. Được giữ lại sử dụng nhưng phải trích 50% giá trị quà nộp vào công quỹ cơ quan",
+          "D. Đem tặng lại cho các tổ chức xã hội, từ thiện mà không cần báo cáo cơ quan"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 37 Luật PCTN.\n★ Phân tích chi tiết: Kê khai hàng năm áp dụng cho công chức từ Phó Trưởng phòng trở lên.\n★ Mẹo nhớ & Bẫy thi: Kê khai hàng năm: TỪ PHÓ TRƯỞNG PHÒNG TRỞ LÊN."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 59/2019/NĐ-CP & Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Trường hợp không thể từ chối quà tặng, cán bộ phải báo cáo người đứng đầu và nộp lại quà trong vòng 05 ngày làm việc để xử lý theo quy định.\n★ Mẹo nhớ & Bẫy thi: Nộp lại quà tặng: Báo cáo và nộp lại trong vòng 05 ngày làm việc."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Việc luân chuyển, chuyển đổi vị trí công tác để phòng ngừa tham nhũng không được làm điều gì?",
+        "q": "Quà tặng bằng tiền mặt hoặc kim khí quý, đá quý nộp lại theo quy định của pháp luật về phòng, chống tham nhũng được xử lý như thế nào?",
         "options": [
-          "A. Không được lợi dụng việc chuyển đổi vị trí công tác để trù dập cán bộ, công chức hoặc vì vụ lợi",
-          "B. Không được thông báo trước cho công chức biết",
-          "C. Không được thực hiện đối với người có chuyên môn giỏi",
-          "D. Không được thực hiện vào quý 4 hàng năm"
+          "A. Nộp toàn bộ vào ngân sách nhà nước theo quy định của pháp luật về quản lý ngân sách",
+          "B. Được giữ lại tại cơ quan để bổ sung vào quỹ phúc lợi khen thưởng nội bộ",
+          "C. Trả lại cho người đã tặng quà sau khi lập biên bản xử phạt hành chính",
+          "D. Chuyển cho Công đoàn cơ sở để tổ chức thăm hỏi cán bộ đau ốm"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 24 Luật PCTN.\n★ Phân tích chi tiết: Nghiêm cấm lợi dụng chuyển đổi vị trí để trù dập hoặc vụ lợi.\n★ Mẹo nhớ & Bẫy thi: Cấm tuyệt đối: Lợi dụng chuyển đổi vị trí để TRÙ DẬP CÁN BỘ."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Tiền mặt, kim khí quý, giấy tờ có giá nộp lại được nộp toàn bộ vào ngân sách nhà nước; hiện vật khác được bán đấu giá nộp ngân sách.\n★ Mẹo nhớ & Bẫy thi: Xử lý quà tặng nộp lại: Nộp toàn bộ vào ngân sách nhà nước."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người có chức vụ, quyền hạn có trách nhiệm giải trình với ai khi có yêu cầu?",
+        "q": "Luật Phòng, chống tham nhũng năm 2018 quy định cán bộ, công chức, viên chức không được làm việc nào sau đây đối với doanh nghiệp ngoài nhà nước?",
         "options": [
-          "A. Chỉ giải trình khi được trả tiền thù lao giải trình",
-          "B. Chỉ giải trình với người có quan hệ gia đình",
-          "C. Có quyền im lặng và từ chối mọi yêu cầu giải trình",
-          "D. Giải trình với cơ quan, tổ chức, cá nhân có thẩm quyền hoặc cơ quan báo chí, người dân theo trình tự luật định về quyết định, hành vi của mình trong thực thi công vụ"
+          "A. Tham gia các hội thảo khoa học trao đổi chuyên môn do hiệp hội doanh nghiệp tổ chức",
+          "B. Mua sắm hàng hóa, sản phẩm tiêu dùng do doanh nghiệp tư nhân sản xuất",
+          "C. Sử dụng các dịch vụ viễn thông, bảo hiểm thương mại do doanh nghiệp tư nhân cung cấp",
+          "D. Thành lập, tham gia quản lý, điều hành doanh nghiệp tư nhân, công ty tnhh, công ty cổ phần"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 15 Luật PCTN.\n★ Phân tích chi tiết: Trách nhiệm giải trình là bắt buộc đối với quyết định, hành vi công vụ.\n★ Mẹo nhớ & Bẫy thi: Trách nhiệm giải trình: Giải trình về quyết định, hành vi công vụ trước cơ quan có thẩm quyền."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Cán bộ, công chức không được thành lập, quản lý, điều hành doanh nghiệp tư nhân, công ty TNHH, CTCP, hợp tác xã (trừ trường hợp pháp luật có quy định khác).\n★ Mẹo nhớ & Bẫy thi: Điều cấm cán bộ công chức: Không được thành lập, quản lý, điều hành doanh nghiệp tư nhân, công ty."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Khi cơ quan thanh tra tiến hành xác minh tài sản, người được xác minh có quyền gì?",
+        "q": "Cán bộ, công chức sau khi thôi giữ chức vụ có được làm tư vấn cho doanh nghiệp trong lĩnh vực mà trước đây mình trực tiếp quản lý không?",
         "options": [
-          "A. Được quyền yêu cầu đổi toàn bộ thành viên Tổ xác minh không lý do",
-          "B. Được quyền mang tài sản tẩu tán sang tên cho người khác trước khi có kết luận",
-          "C. Được giải trình về tính trung thực, đầy đủ của bản kê khai và nguồn gốc của tài sản, thu nhập tăng thêm; khiếu nại kết luận xác minh nếu có căn cứ trái luật",
-          "D. Được quyền từ chối mở cửa nhà cho cơ quan chức năng kiểm tra"
+          "A. Được làm việc không hạn chế vì quan hệ công vụ đã chấm dứt hoàn toàn",
+          "B. Được làm tư vấn ngay sau ngày có quyết định nghỉ việc nếu doanh nghiệp có trụ sở ngoài tỉnh",
+          "C. Không được làm việc, làm tư vấn cho các doanh nghiệp trong lĩnh vực trước đây mình trực tiếp quản lý trong một thời hạn nhất định do Chính phủ quy định",
+          "D. Chỉ bị cấm nếu doanh nghiệp đó đang có tranh chấp pháp lý tại Tòa án"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 43 Luật PCTN.\n★ Phân tích chi tiết: Quyền giải trình và khiếu nại kết luận xác minh tài sản.\n★ Mẹo nhớ & Bẫy thi: Quyền người được xác minh: GIẢI TRÌNH & KHIẾU NẠI kết luận trái luật."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Nghị định số 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Người thôi giữ chức vụ không được thành lập, giữ chức vụ quản lý hoặc tư vấn cho doanh nghiệp thuộc lĩnh vực trước đây mình quản lý trong thời hạn từ 12 đến 24 tháng.\n★ Mẹo nhớ & Bẫy thi: Sau khi nghỉ việc: Cấm làm việc, tư vấn cho doanh nghiệp thuộc lĩnh vực trước đây trực tiếp quản lý trong thời hạn nhất định."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Nghĩa vụ của người được xác minh tài sản, thu nhập là gì?",
+        "q": "Thời hạn định kỳ chuyển đổi vị trí công tác đối với công chức, viên chức được pháp luật quy định chung trong khoảng thời gian nào?",
         "options": [
-          "A. Cung cấp đầy đủ, kịp thời, trung thực thông tin, tài liệu liên quan đến tài sản, thu nhập và giải trình nguồn gốc tài sản tăng thêm; chấp hành quyết định xác minh",
-          "B. Yêu cầu cơ quan thanh tra phải chứng minh trước rồi mới giải trình",
-          "C. Chỉ cung cấp tài liệu sau khi được Tòa án triệu tập",
-          "D. Có quyền che giấu các khoản tiền gửi ngân hàng nước ngoài"
+          "A. Từ đủ 02 năm đến 05 năm theo đặc thù của từng ngành, lĩnh vực",
+          "B. Cố định đúng 10 năm theo quy hoạch cán bộ chiến lược",
+          "C. Cố định đúng 01 năm tại mọi cơ quan, tổ chức hành chính nhà nước",
+          "D. Từ đủ 05 năm đến 08 năm đối với ngạch chuyên viên chính"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 44 Luật PCTN.\n★ Phân tích chi tiết: Nghĩa vụ: Cung cấp đầy đủ, trung thực tài liệu và GIẢI TRÌNH NGUỒN GỐC tài sản tăng thêm.\n★ Mẹo nhớ & Bẫy thi: Nghĩa vụ: Cung cấp trung thực tài liệu + Giải trình nguồn gốc tài sản tăng thêm."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Nghị định số 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Thời hạn chuyển đổi vị trí công tác là từ đủ 02 năm đến 05 năm theo đặc thù của từng ngành, lĩnh vực do Bộ trưởng, Thủ trưởng cơ quan ngang bộ quy định cụ thể.\n★ Mẹo nhớ & Bẫy thi: Khung thời hạn chuyển đổi vị trí công tác: Từ đủ 02 năm đến 05 năm."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người đứng đầu cơ quan có thẩm quyền ra quyết định kỷ luật công chức tham nhũng trong thời hạn bao lâu kể từ ngày nhận được kết luận thanh tra/bản án?",
+        "q": "Trường hợp nào sau đây chưa thực hiện việc chuyển đổi vị trí công tác đối với công chức?",
         "options": [
-          "A. Theo quy định của pháp luật về xử lý kỷ luật cán bộ, công chức (không quá 30 ngày đến 90 ngày)",
-          "B. Thời hạn do thủ trưởng cơ quan tự ấn định",
-          "C. Sau khi công chức đã chấp hành xong án phạt tù",
-          "D. Trong thời hạn 03 năm"
+          "A. Người đang trong thời gian xem xét xử lý kỷ luật hoặc đang bị cơ quan thanh tra, điều tra làm rõ dấu hiệu vi phạm",
+          "B. Người giữ chức danh chuyên viên chính có chứng chỉ bồi dưỡng cao cấp lý luận chính trị",
+          "C. Người đã hoàn thành đủ 03 năm công tác tại vị trí hiện tại",
+          "D. Người có trình độ chuyên môn đạt loại xuất sắc và được tặng danh hiệu thi đua"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Luật CBCC & Luật PCTN.\n★ Phân tích chi tiết: Xử lý kỷ luật tiến hành kịp thời theo thời hạn luật định.\n★ Mẹo nhớ & Bẫy thi: Xử lý kỷ luật: Thực hiện kịp thời theo thời hạn luật định."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Nghị định số 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Chưa chuyển đổi vị trí: Đang xem xét kỷ luật/thanh tra; đang điều trị bệnh hiểm nghèo; đang đi học tập trung trên 12 tháng; nữ mang thai hoặc nuôi con dưới 36 tháng.\n★ Mẹo nhớ & Bẫy thi: Các trường hợp chưa chuyển đổi: Đang xem xét kỷ luật, đang trị bệnh hiểm nghèo, nuôi con dưới 36 tháng."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
@@ -5590,124 +5590,124 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Nghị định số 150/2025/NĐ-CP.\n★ Phân tích chi tiết: Hộ tịch, quốc tịch, công chứng, trợ giúp pháp lý, bồi thường nhà nước do Sở Tư pháp quản lý.\n★ Mẹo nhớ & bẫy thi: Hộ tịch, công chứng, trợ giúp pháp lý: SỞ TƯ PHÁP."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 71: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 32 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thời gian nào sau đây không được tính vào thời gian tập sự của công chức?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 32 của Nghị định.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng."
+          "A. Thời gian nghỉ sinh con theo chế độ bảo hiểm xã hội và thời gian nghỉ ốm đau từ 14 ngày trở lên",
+          "B. Thời gian đi công tác biệt phái hỗ trợ địa phương dưới 15 ngày",
+          "C. Thời gian tham gia các khóa bồi dưỡng quản lý nhà nước ngạch chuyên viên theo triệu tập của cơ quan",
+          "D. Thời gian nghỉ phép năm theo quy định của Bộ luật Lao động"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 32 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Thời gian nghỉ thai sản theo chế độ BHXH, nghỉ ốm đau từ 14 ngày trở lên, nghỉ không hưởng lương, thời gian bị tạm đình chỉ công tác không được tính vào thời gian tập sự.\n★ Mẹo nhớ & bẫy thi: Không tính vào tập sự: Nghỉ thai sản, nghỉ ốm từ 14 ngày trở lên, nghỉ không hưởng lương, tạm giam/tạm giữ."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 72: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 33 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Tiêu chuẩn đối với công chức được phân công hướng dẫn người tập sự bao gồm điều kiện nào sau đây?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 33 của Nghị định.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Bắt buộc phải giữ chức vụ lãnh đạo, quản lý từ cấp phó trưởng phòng trở lên",
+          "B. Có ngạch công chức cùng ngạch hoặc ngạch cao hơn, có thời gian công tác từ đủ 03 năm trở lên và có năng lực chuyên môn vững vàng",
+          "C. Có học vị từ thạc sĩ trở lên và có thời gian công tác từ đủ 05 năm",
+          "D. Là công chức cùng ngạch bất kể thâm niên công tác"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 33 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Công chức hướng dẫn tập sự phải cùng ngạch hoặc cao hơn, có thâm niên công tác tối thiểu 03 năm và phẩm chất đạo đức, uy tín chuyên môn tốt.\n★ Mẹo nhớ & bẫy thi: Tiêu chuẩn hướng dẫn tập sự: Cùng ngạch hoặc cao hơn + thâm niên từ đủ 03 năm trở lên."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 73: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 34 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trong cùng một thời gian, mỗi công chức được phân công hướng dẫn tối đa bao nhiêu người tập sự?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 34 của Nghị định.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Không quá 03 người tập sự",
+          "B. Không quá 02 người tập sự",
+          "C. Không quá 01 người tập sự",
+          "D. Tùy thuộc vào quy mô biên chế phòng ban do người đứng đầu quyết định"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 34 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Mỗi công chức chỉ được phân công hướng dẫn tối đa 01 người tập sự trong cùng một thời gian để bảo đảm chất lượng kèm cặp.\n★ Mẹo nhớ & bẫy thi: Giới hạn hướng dẫn tập sự: Tối đa 01 người tập sự trong cùng thời điểm."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 74: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 35 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Mức phụ cấp trách nhiệm hàng tháng dành cho công chức được phân công hướng dẫn tập sự được quy định bằng bao nhiêu?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 35 của Nghị định.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Hệ số 0,3 so với mức lương cơ sở",
+          "B. Hệ số 0,2 so với mức lương cơ sở",
+          "C. Bằng 10% mức lương hiện hưởng của công chức hướng dẫn",
+          "D. Hệ số 0,5 so với mức lương cơ sở"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 35 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Công chức hướng dẫn tập sự được hưởng hệ số phụ cấp trách nhiệm bằng 0,3 mức lương cơ sở trong thời gian hướng dẫn người tập sự.\n★ Mẹo nhớ & bẫy thi: Phụ cấp hướng dẫn tập sự: Hệ số 0,3 mức lương cơ sở."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 75: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 36 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thẩm quyền ra quyết định hủy bỏ quyết định tuyển dụng đối với người tập sự không đạt yêu cầu thuộc về cơ quan, cá nhân nào?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 36 của Nghị định.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Hội đồng kiểm tra sát hạch kỳ thi tuyển công chức",
+          "B. Người đứng đầu cơ quan có thẩm quyền tuyển dụng công chức",
+          "C. Người đứng đầu cơ quan trực tiếp sử dụng công chức tập sự",
+          "D. Giám đốc Trung tâm Dịch vụ việc làm địa phương"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 36 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Người đứng đầu cơ quan có thẩm quyền tuyển dụng (nơi ban hành quyết định tuyển dụng) ra quyết định hủy bỏ tuyển dụng theo đề nghị của người đứng đầu cơ quan sử dụng.\n★ Mẹo nhớ & bẫy thi: Thẩm quyền hủy bỏ tuyển dụng thuộc về 'Người đứng đầu cơ quan có thẩm quyền tuyển dụng'."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 76: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 37 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Người tập sự bị hủy bỏ quyết định tuyển dụng do không đạt yêu cầu tập sự được cơ quan sử dụng trợ cấp chế độ gì?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 37 của Nghị định.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng."
+          "A. Được trợ cấp 03 tháng lương hiện hưởng và phụ cấp bảo hiểm thất nghiệp",
+          "B. Được trợ cấp 01 tháng lương hiện hưởng và tiền tàu xe về nơi cư trú",
+          "C. Không được nhận bất kỳ khoản trợ cấp nào từ ngân sách nhà nước",
+          "D. Được hỗ trợ tìm kiếm việc làm trong thời gian 06 tháng"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 37 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Người bị hủy quyết định tuyển dụng được trợ cấp 01 tháng lương hiện hưởng cùng tiền tàu xe về nơi cư trú.\n★ Mẹo nhớ & bẫy thi: Trợ cấp khi hủy tuyển dụng người tập sự: 01 tháng lương hiện hưởng + tiền tàu xe."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 77: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 38 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Sau khi hết thời gian tập sự và người tập sự đạt yêu cầu, người đứng đầu cơ quan sử dụng công chức có trách nhiệm đề nghị bổ nhiệm ngạch trong thời hạn bao lâu?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 38 của Nghị định.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Trong thời hạn 05 ngày làm việc kể từ ngày hết thời gian tập sự",
+          "B. Trong thời hạn 10 ngày làm việc kể từ ngày hết thời gian tập sự",
+          "C. Trong thời hạn 30 ngày kể từ ngày hết thời gian tập sự",
+          "D. Trong thời hạn 15 ngày làm việc kể từ ngày hết thời gian tập sự"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 38 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Chậm nhất 05 ngày làm việc kể từ ngày hết thời gian tập sự, cơ quan sử dụng đánh giá và gửi văn bản đề nghị người có thẩm quyền ra quyết định bổ nhiệm ngạch.\n★ Mẹo nhớ & bẫy thi: Thời hạn báo cáo kết quả tập sự: Chậm nhất 05 ngày làm việc."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 78: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 39 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Để đủ điều kiện đăng ký dự thi hoặc xét nâng ngạch từ ngạch Chuyên viên lên ngạch Chuyên viên chính, công chức phải có thời gian giữ ngạch Chuyên viên hoặc tương đương tối thiểu là bao lâu?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 39 của Nghị định.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Từ đủ 09 năm trở lên (không kể thời gian tập sự)",
+          "B. Từ đủ 05 năm trở lên (tính cả thời gian tập sự)",
+          "C. Từ đủ 06 năm trở lên (không kể thời gian tập sự)",
+          "D. Từ đủ 03 năm trở lên giữ chức vụ lãnh đạo cấp phòng"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 39 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP (sửa đổi bởi Nghị định 300/2026/NĐ-CP).\n★ Phân tích chi tiết: Thời gian giữ ngạch Chuyên viên hoặc tương đương từ đủ 09 năm trở lên (trừ thời gian tập sự), trong đó thời gian giữ ngạch chuyên viên tối thiểu 01 năm trước ngày hết hạn nộp hồ sơ.\n★ Mẹo nhớ & bẫy thi: Thâm niên thi nâng ngạch Chuyên viên lên Chuyên viên chính: Từ đủ 09 năm trở lên."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 79: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 40 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Công chức dự thi nâng ngạch phải đáp ứng điều kiện về kết quả xếp loại chất lượng trong thời gian công tác liền kề trước năm dự thi như thế nào?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 40 của Nghị định.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Được xếp loại chất lượng ở mức Hoàn thành tốt nhiệm vụ trở lên trong 03 năm công tác liền kề",
+          "B. Được xếp loại từ Hoàn thành nhiệm vụ trở lên trong 05 năm công tác",
+          "C. Được xếp loại chất lượng ở mức Hoàn thành xuất sắc nhiệm vụ trong 02 năm liên tiếp",
+          "D. Không có năm nào bị đánh giá ở mức Không hoàn thành nhiệm vụ trong suốt thời gian công tác"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 40 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Điều kiện thi nâng ngạch: Có 03 năm công tác liền kề trước năm tổ chức nâng ngạch được xếp loại Hoàn thành tốt nhiệm vụ trở lên, có phẩm chất chính trị đạo đức tốt.\n★ Mẹo nhớ & bẫy thi: Tiêu chuẩn đánh giá thi nâng ngạch: 03 năm liền kề hoàn thành tốt nhiệm vụ trở lên."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 80: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 1 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trường hợp công chức dự thi nâng ngạch nào sau đây được miễn thi môn ngoại ngữ?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 1 của Nghị định.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Có bằng tốt nghiệp đại học trở lên chuyên ngành ngoại ngữ hoặc bằng đại học, sau đại học học ở nước ngoài bằng tiếng nước ngoài",
+          "B. Có thời gian công tác trong ngành ngoại giao từ đủ 03 năm trở lên",
+          "C. Có chứng chỉ bồi dưỡng kỹ năng giao tiếp tiếng Anh công vụ do Sở Nội vụ cấp",
+          "D. Đã từng tham gia các đoàn công tác đối ngoại ở nước ngoài trong thời gian 06 tháng trở lên"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 1 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Miễn thi ngoại ngữ khi nâng ngạch: Bằng ĐH trở lên chuyên ngành ngoại ngữ; bằng ĐH/sau ĐH ở nước ngoài bằng tiếng nước ngoài; chứng chỉ tiếng dân tộc thiểu số tại vùng DTTS; từ đủ 55 tuổi đối với nam, 50 tuổi đối với nữ.\n★ Mẹo nhớ & bẫy thi: Miễn thi ngoại ngữ: Bằng cử nhân ngoại ngữ hoặc bằng ĐH/sau ĐH học ở nước ngoài."
       },
       {
         "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
@@ -6080,99 +6080,99 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Cơ quan, đơn vị có trách nhiệm khen thưởng người có thành tích trong công tác phòng chống tham nhũng từ nguồn kinh phí nào?",
+        "q": "Trường hợp nào sau đây không thực hiện việc chuyển đổi vị trí công tác đối với công chức?",
         "options": [
-          "A. Huy động đóng góp bắt buộc của toàn bộ người dân trên địa bàn",
-          "B. Trích từ tiền lương của người có hành vi tham nhũng",
-          "C. Do các tổ chức phi chính phủ nước ngoài tài trợ",
-          "D. Ngân sách nhà nước và Quỹ khen thưởng phòng, chống tham nhũng theo quy định của pháp luật"
+          "A. Người giữ chức vụ phó phòng ban chuyên môn thuộc sở",
+          "B. Người có thâm niên công tác liên tục từ 15 năm trở lên tại cùng một cơ quan",
+          "C. Người đã chuyển đổi vị trí công tác một lần cách đây 04 năm",
+          "D. Người có thời gian công tác còn lại dưới 18 tháng cho đến khi đủ tuổi nghỉ hưu"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 77 Luật PCTN.\n★ Phân tích chi tiết: Khen thưởng từ ngân sách nhà nước và quỹ khen thưởng hợp pháp.\n★ Mẹo nhớ & Bẫy thi: Khen thưởng PCTN: Do NGÂN SÁCH NHÀ NƯỚC và Quỹ khen thưởng PCTN bảo đảm."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Nghị định số 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Không thực hiện chuyển đổi vị trí công tác đối với người có thời gian công tác còn lại dưới 18 tháng tính đến thời điểm đủ tuổi nghỉ hưu.\n★ Mẹo nhớ & Bẫy thi: Không chuyển đổi vị trí công tác: Còn dưới 18 tháng đến tuổi nghỉ hưu."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Cơ quan kiểm soát tài sản, thu nhập không bao gồm cơ quan nào sau đây?",
+        "q": "Kế hoạch chuyển đổi vị trí công tác hàng năm của cơ quan, tổ chức, đơn vị phải được công khai bằng hình thức nào và vào thời gian nào?",
         "options": [
-          "A. Thanh tra cấp tỉnh",
+          "A. Chỉ công khai sau khi đã hoàn thành việc luân chuyển toàn bộ nhân sự",
+          "B. Chỉ gửi riêng cho những công chức có tên trong danh sách chuyển đổi dưới dạng tài liệu mật",
+          "C. Phải được công khai cho toàn thể cán bộ, công chức trong cơ quan và ban hành trong quý I hàng năm",
+          "D. Phải đăng tải trên báo chí trung ương và thông báo trên truyền hình quốc gia"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Kế hoạch chuyển đổi vị trí công tác phải được công khai trong cơ quan, tổ chức, đơn vị để bảo đảm tính minh bạch, khách quan.\n★ Mẹo nhớ & Bẫy thi: Kế hoạch chuyển đổi vị trí công tác: Bắt buộc công khai cho toàn thể cán bộ trong cơ quan."
+      },
+      {
+        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
+        "q": "Người đứng đầu cơ quan, tổ chức, đơn vị phải chịu trách nhiệm như thế nào khi để xảy ra hành vi tham nhũng trong cơ quan, tổ chức do mình quản lý, phụ trách?",
+        "options": [
+          "A. Đương nhiên bị truy cứu trách nhiệm hình sự cùng tội danh với người có hành vi tham nhũng",
+          "B. Không phải chịu trách nhiệm nếu hành vi tham nhũng do cấp dưới thực hiện ngoài giờ hành chính",
+          "C. Chỉ phải chịu hình thức nhắc nhở rút kinh nghiệm trong cuộc họp giao ban",
+          "D. Chịu trách nhiệm trực tiếp nếu để xảy ra tham nhũng trong đơn vị do mình trực tiếp phụ trách; chịu trách nhiệm liên đới nếu xảy ra ở đơn vị cấp dưới"
+        ],
+        "ans": 3,
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Người đứng đầu chịu trách nhiệm trực tiếp nếu tham nhũng xảy ra tại đơn vị trực tiếp phụ trách; chịu trách nhiệm liên đới nếu xảy ra tại cơ quan, đơn vị cấp dưới phân công cho cấp phó phụ trách.\n★ Mẹo nhớ & Bẫy thi: Trách nhiệm người đứng đầu: Trách nhiệm TRỰC TIẾP (đơn vị trực tiếp quản lý) và LIÊN ĐỚI (đơn vị do cấp phó phụ trách)."
+      },
+      {
+        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
+        "q": "Cấp phó của người đứng đầu cơ quan, tổ chức, đơn vị phải chịu trách nhiệm như thế nào khi để xảy ra tham nhũng trong lĩnh vực được giao phụ trách?",
+        "options": [
+          "A. Không phải chịu trách nhiệm vì mọi quyết định thuộc về người đứng đầu",
+          "B. Phải chịu trách nhiệm trực tiếp như người đứng đầu trong lĩnh vực và đơn vị được phân công trực tiếp phụ trách",
+          "C. Chỉ chịu trách nhiệm liên đới trong mọi trường hợp xảy ra vụ việc",
+          "D. Chỉ chịu trách nhiệm nếu có văn bản đồng thuận trước với người thực hiện hành vi tham nhũng"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Cấp phó của người đứng đầu chịu trách nhiệm trực tiếp như người đứng đầu đối với lĩnh vực, cơ quan, đơn vị được giao trực tiếp phụ trách.\n★ Mẹo nhớ & Bẫy thi: Trách nhiệm cấp phó: Chịu trách nhiệm TRỰC TIẾP đối với lĩnh vực được giao phụ trách."
+      },
+      {
+        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
+        "q": "Trường hợp nào sau đây người đứng đầu, cấp phó của người đứng đầu cơ quan được xem xét miễn hoặc giảm nhẹ trách nhiệm khi để xảy ra tham nhũng?",
+        "options": [
+          "A. Đang trong thời gian xem xét đề bạt lên chức vụ cao hơn ở cơ quan cấp trên",
+          "B. Đã nộp tiền túi cá nhân để bù đắp toàn bộ thiệt hại tài sản do cấp dưới gây ra",
+          "C. Đã chủ động phát hiện hành vi tham nhũng và áp dụng các biện pháp cần thiết để ngăn chặn, xử lý kịp thời theo quy định của pháp luật",
+          "D. Có đơn xin thôi giữ chức vụ lãnh đạo trước khi cơ quan thanh tra tiến hành thanh tra"
+        ],
+        "ans": 2,
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Nghị định 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Miễn, giảm nhẹ trách nhiệm người đứng đầu nếu đã chủ động áp dụng biện pháp phòng ngừa, tự phát hiện và báo cáo xử lý kịp thời hành vi tham nhũng.\n★ Mẹo nhớ & Bẫy thi: Miễn/giảm nhẹ trách nhiệm người đứng đầu: CHỦ ĐỘNG PHÁT HIỆN, ngăn chặn và xử lý kịp thời vi phạm."
+      },
+      {
+        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
+        "q": "Luật Phòng, chống tham nhũng năm 2018 quy định những hình thức kỷ luật nào áp dụng đối với người đứng đầu, cấp phó người đứng đầu khi để xảy ra tham nhũng?",
+        "options": [
+          "A. Hạ bậc lương hoặc Giáng chức",
+          "B. Khiển trách, Cảnh cáo hoặc Cách chức",
+          "C. Buộc thôi việc ngay lập tức trong mọi trường hợp",
+          "D. Đình chỉ công tác không thời hạn"
+        ],
+        "ans": 1,
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Nghị định 59/2019/NĐ-CP.\n★ Phân tích chi tiết: Kỷ luật người đứng đầu để xảy ra tham nhũng gồm: Khiển trách (vụ việc ít nghiêm trọng); Cảnh cáo (nghiêm trọng); Cách chức (rất nghiêm trọng, đặc biệt nghiêm trọng).\n★ Mẹo nhớ & Bẫy thi: 3 hình thức kỷ luật người đứng đầu để xảy ra tham nhũng: Khiển trách - Cảnh cáo - Cách chức (không có hạ bậc lương, giáng chức)."
+      },
+      {
+        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
+        "q": "Cơ quan nào sau đây có thẩm quyền giám sát tối cao công tác phòng, chống tham nhũng trên phạm vi cả nước?",
+        "options": [
+          "A. Quốc hội",
           "B. Thanh tra Chính phủ",
-          "C. Ủy ban Mặt trận Tổ quốc các cấp",
-          "D. Thanh tra các Bộ, cơ quan ngang Bộ"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 30 Luật PCTN.\n★ Phân tích chi tiết: MTTQ là cơ quan giám sát xã hội, KHÔNG PHẢI là Cơ quan kiểm soát tài sản, thu nhập theo Điều 30.\n★ Mẹo nhớ & Bẫy thi: Cơ quan kiểm soát tài sản gồm: Thanh tra Chính phủ, Thanh tra Bộ, Thanh tra tỉnh... (MTTQ không phải cơ quan kiểm soát tài sản)."
-      },
-      {
-        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Khái niệm 'cơ quan kiểm soát tài sản, thu nhập' được giao quyền hạn gì?",
-        "options": [
-          "A. Tịch thu ngay nhà đất khi chưa có quyết định xử lý",
-          "B. Tự ý đóng băng mọi tài khoản ngân hàng của công chức mà không cần văn bản phê chuẩn",
-          "C. Khám xét thân thể công chức tại công sở",
-          "D. Yêu cầu người có nghĩa vụ kê khai cung cấp thông tin; yêu cầu cơ quan tín dụng, thuế, đăng ký đất đai cung cấp thông tin tài khoản, tài sản"
-        ],
-        "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 31 Luật PCTN.\n★ Phân tích chi tiết: Quyền yêu cầu ngân hàng, cơ quan đăng ký đất đai, thuế cung cấp thông tin tài sản.\n★ Mẹo nhớ & Bẫy thi: Quyền của CQ kiểm soát tài sản: Yêu cầu Ngân hàng, Thuế, Đất đai cung cấp thông tin."
-      },
-      {
-        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Ngân hàng thương mại, tổ chức tín dụng có trách nhiệm gì khi Cơ quan kiểm soát tài sản thu nhập yêu cầu cung cấp thông tin tài khoản?",
-        "options": [
-          "A. Được quyền từ chối cung cấp với lý do bảo mật thông tin khách hàng",
-          "B. Có trách nhiệm cung cấp thông tin đầy đủ, chính xác, kịp thời và bảo mật thông tin theo yêu cầu của cơ quan có thẩm quyền",
-          "C. Chỉ cung cấp khi có lệnh khám xét của Tòa án",
-          "D. Phải thông báo trước cho chủ tài khoản biết để chuyển tiền đi nơi khác"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 31 & Điều 46 Luật PCTN.\n★ Phân tích chi tiết: Các tổ chức tín dụng BẮT BUỘC PHẢI CUNG CẤP thông tin tài khoản phục vụ xác minh tài sản.\n★ Mẹo nhớ & Bẫy thi: Tổ chức tín dụng: BẮT BUỘC PHẢI CUNG CẤP thông tin tài khoản theo yêu cầu."
-      },
-      {
-        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Cơ quan đăng ký quyền sử dụng đất, đăng ký tài sản có trách nhiệm gì trong việc xác minh tài sản?",
-        "options": [
-          "A. Bán đấu giá tài sản đó cho cơ quan thanh tra",
-          "B. Từ chối cung cấp hồ sơ lưu trữ",
-          "C. Cung cấp trích lục hồ sơ địa chính, hợp đồng giao dịch, thông tin biến động quyền sở hữu tài sản của người được xác minh",
-          "D. Chỉ cung cấp khi có sự đồng ý của người đứng tên trên sổ đỏ"
-        ],
-        "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 46 Luật PCTN.\n★ Phân tích chi tiết: Cơ quan đăng ký tài sản có trách nhiệm cung cấp trích lục, tài liệu pháp lý.\n★ Mẹo nhớ & Bẫy thi: Cơ quan đăng ký đất đai: Cung cấp trích lục, tài liệu biến động tài sản."
-      },
-      {
-        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người có hành vi tham nhũng bị phát hiện thì ngoài việc bị xử lý kỷ luật hoặc hình sự, còn phải chịu trách nhiệm gì?",
-        "options": [
-          "A. Không phải bồi thường nếu đã chấp hành xong án phạt tù",
-          "B. Phải bồi thường thiệt hại, khắc phục hậu quả do hành vi tham nhũng gây ra theo quy định của pháp luật",
-          "C. Chỉ phải nộp một khoản tiền phạt tượng trưng",
-          "D. Được miễn bồi thường nếu gia đình có công với cách mạng"
-        ],
-        "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 92 Luật PCTN.\n★ Phân tích chi tiết: Trách nhiệm dân sự bồi thường thiệt hại là bắt buộc song song với kỷ luật/hình sự.\n★ Mẹo nhớ & Bẫy thi: Hậu quả pháp lý: Kỷ luật/Hình sự + BỒI THƯỜNG THIỆT HẠI, KHẮC PHỤC HẬU QUẢ."
-      },
-      {
-        "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Cơ quan nào có thẩm quyền giám sát công tác phòng, chống tham nhũng trên phạm vi cả nước?",
-        "options": [
-          "A. Quốc hội, Ủy ban Thường vụ Quốc hội, các cơ quan của Quốc hội và Đại biểu Quốc hội",
-          "B. Tổng Liên đoàn Lao động Việt Nam độc quyền",
-          "C. Hội Luật gia Việt Nam",
-          "D. Các cơ quan truyền thông quốc tế"
+          "C. Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, tiêu cực",
+          "D. Tòa án nhân dân tối cao"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 75 Luật PCTN.\n★ Phân tích chi tiết: Quốc hội và các cơ quan của Quốc hội giám sát tối cao công tác PCTN.\n★ Mẹo nhớ & Bẫy thi: Giám sát tối cao: Quốc hội, UBTVQH, ĐBQH."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Hiến pháp 2013.\n★ Phân tích chi tiết: Quốc hội thực hiện quyền giám sát tối cao công tác phòng, chống tham nhũng trong phạm vi cả nước.\n★ Mẹo nhớ & Bẫy thi: Cơ quan giám sát TỐI CAO công tác PCTN: QUỐC HỘI."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Hội đồng nhân dân các cấp giám sát công tác phòng, chống tham nhũng ở đâu?",
+        "q": "Hội đồng nhân dân các cấp thực hiện quyền giám sát công tác phòng, chống tham nhũng trong phạm vi nào?",
         "options": [
           "A. Giám sát công tác phòng, chống tham nhũng tại địa phương mình",
-          "B. Giám sát hoạt động của các Bộ ngành trung ương đóng tại Hà Nội",
-          "C. HĐND không có chức năng giám sát pctn",
-          "D. Giám sát các tập đoàn đa quốc gia ngoài lãnh thổ Việt Nam"
+          "B. Giám sát hoạt động của các bộ, ngành cơ quan trung ương trên phạm vi toàn quốc",
+          "C. Giám sát việc thực hiện chính sách đối ngoại quốc tế của Nhà nước",
+          "D. Giám sát công tác điều tra của Cơ quan Cảnh sát điều tra Bộ Công an"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 76 Luật PCTN.\n★ Phân tích chi tiết: HĐND giám sát công tác PCTN tại địa phương.\n★ Mẹo nhớ & Bẫy thi: HĐND giám sát PCTN: Tại địa phương mình."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: HĐND các cấp có thẩm quyền giám sát công tác phòng, chống tham nhũng tại địa phương mình.\n★ Mẹo nhớ & Bẫy thi: Phạm vi giám sát của HĐND: Tại địa phương mình."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
@@ -6319,124 +6319,124 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Nghị định về cơ chế một cửa, một cửa liên thông.\n★ Phân tích chi tiết: Trung tâm Phục vụ hành chính công cấp tỉnh thuộc Văn phòng UBND cấp tỉnh.\n★ Mẹo nhớ & bẫy thi: Trung tâm Phục vụ hành chính công tỉnh: Thuộc VĂN PHÒNG ỦY BAN NHÂN DÂN CẤP TỈNH."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 81: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 2 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thời hạn biệt phái công chức đến công tác tại cơ quan, tổ chức, đơn vị khác được pháp luật quy định như thế nào?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 2 của Nghị định.",
-          "D. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng."
+          "A. Không quá 01 năm trong mọi trường hợp công tác biệt phái",
+          "B. Tùy thuộc vào thỏa thuận dân sự giữa hai cơ quan mà không bị giới hạn thời gian",
+          "C. Không quá 03 năm; trường hợp đặc biệt không quá 05 năm do cấp có thẩm quyền quản lý công chức quyết định",
+          "D. Cố định đúng 05 năm và không được gia hạn thêm"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 2 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Luật Cán bộ, công chức 2025 & Nghị định 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Thời hạn biệt phái công chức không quá 03 năm. Trong một số ngành, lĩnh vực đặc thù hoặc nhiệm vụ đột xuất đặc biệt thì thời hạn biệt phái không quá 05 năm.\n★ Mẹo nhớ & bẫy thi: Thời hạn biệt phái chuẩn: Không quá 03 năm (đặc thù không quá 05 năm)."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 82: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 3 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trách nhiệm chi trả tiền lương và bảo đảm quyền lợi chính sách cho công chức trong thời gian đi biệt phái thuộc về cơ quan nào?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 3 của Nghị định."
+          "A. Do hai cơ quan chia đôi kinh phí chi trả hàng tháng",
+          "B. Kho bạc Nhà nước nơi công chức đến công tác biệt phái",
+          "C. Cơ quan, tổ chức tiếp nhận công chức biệt phái",
+          "D. Cơ quan, tổ chức cử công chức đi biệt phái"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 3 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Luật Cán bộ, công chức 2025 & Nghị định 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Cơ quan cử công chức biệt phái có trách nhiệm trả lương và bảo đảm các quyền lợi của công chức. Cơ quan tiếp nhận bố trí công việc và bảo đảm điều kiện làm việc.\n★ Mẹo nhớ & bẫy thi: Lương công chức biệt phái do 'Cơ quan CỬ biệt phái' chi trả."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 83: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 4 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Pháp luật nghiêm cấm điều động, biệt phái công chức trong trường hợp nào sau đây?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 4 của Nghị định.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng."
+          "A. Công chức chưa có nhà ở ổn định tại địa phương tiếp nhận",
+          "B. Công chức nữ đang mang thai hoặc nuôi con nhỏ dưới 36 tháng tuổi, trừ trường hợp công chức có nguyện vọng",
+          "C. Công chức là người lao động duy nhất tạo ra thu nhập trong gia đình",
+          "D. Công chức đang trong thời gian giữ ngạch chuyên viên dưới 05 năm"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 4 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Luật Cán bộ, công chức 2025 & Nghị định 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Không thực hiện điều động, luân chuyển, biệt phái công chức nữ đang mang thai hoặc nuôi con dưới 36 tháng tuổi, trừ trường hợp chính công chức có nguyện vọng.\n★ Mẹo nhớ & bẫy thi: Bảo vệ công chức nữ: Mang thai hoặc nuôi con dưới 36 tháng tuổi không được biệt phái/điều động."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 84: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 5 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Công chức bị xử lý kỷ luật đảng hoặc kỷ luật hành chính trong năm đánh giá thì kết quả xếp loại chất lượng được xác định như thế nào?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 5 của Nghị định.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Xếp loại ở mức Hoàn thành nhiệm vụ nếu hành vi vi phạm ở mức khiển trách",
+          "B. Xếp loại chất lượng ở mức Không hoàn thành nhiệm vụ trong năm đó",
+          "C. Tự động hạ một bậc xếp loại so với mức đánh giá thực tế công việc",
+          "D. Vẫn được xếp loại Hoàn thành tốt nhiệm vụ nếu các tiêu chí công tác khác đạt xuất sắc"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 5 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP & Quy định đánh giá cán bộ, công chức.\n★ Phân tích chi tiết: Công chức bị xử lý kỷ luật trong năm đánh giá thì xếp loại ở mức Không hoàn thành nhiệm vụ (trừ trường hợp hành vi vi phạm chưa có quyết định kỷ luật hoặc đã tính ở kỳ đánh giá trước).\n★ Mẹo nhớ & bẫy thi: Bị kỷ luật hành chính hoặc kỷ luật Đảng trong năm -> Xếp loại 'Không hoàn thành nhiệm vụ'."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 85: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 6 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Cơ quan có thẩm quyền tuyển dụng công chức có trách nhiệm thông báo công khai việc tuyển dụng trên phương tiện thông tin đại chúng và cổng thông tin điện tử trong thời hạn tiếp nhận hồ sơ tối thiểu là bao nhiêu ngày?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 6 của Nghị định.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. 15 ngày kể từ ngày ban hành thông báo tuyển dụng",
+          "B. 30 ngày kể từ ngày ban hành thông báo tuyển dụng",
+          "C. 45 ngày kể từ ngày ban hành thông báo tuyển dụng",
+          "D. 20 ngày làm việc kể từ ngày niêm yết công khai"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 6 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Thời hạn tiếp nhận Phiếu đăng ký dự tuyển của người đăng ký dự tuyển là 30 ngày kể từ ngày có thông báo công khai tuyển dụng.\n★ Mẹo nhớ & bẫy thi: Thời hạn nộp Phiếu đăng ký dự tuyển chuẩn: 30 ngày."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 86: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 7 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Theo quy định về tiếp nhận vào làm công chức, viên chức đang công tác tại đơn vị sự nghiệp công lập phải có thời gian công tác tối thiểu bao lâu để đủ điều kiện xem xét tiếp nhận?",
         "options": [
-          "A. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 7 của Nghị định."
+          "A. Đủ 03 năm công tác trở lên giữ chức danh nghề nghiệp viên chức hạng III",
+          "B. Đủ 02 năm công tác liên tục và có chứng chỉ bồi dưỡng ngạch chuyên viên",
+          "C. Đủ 10 năm công tác trong ngành giáo dục hoặc y tế công lập",
+          "D. Đủ 05 năm công tác trở lên làm công việc yêu cầu trình độ đại học trở lên và có đóng bảo hiểm xã hội bắt buộc"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 7 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP (sửa đổi bổ sung).\n★ Phân tích chi tiết: Viên chức tiếp nhận vào công chức phải có thời gian đóng BHXH bắt buộc từ đủ 05 năm trở lên làm công việc chuyên môn đòi hỏi trình độ đại học trở lên (không kể thời gian tập sự).\n★ Mẹo nhớ & bẫy thi: Thời gian công tác tiếp nhận viên chức thành công chức: Từ đủ 05 năm trở lên."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 87: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 8 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Cán bộ cấp xã có nguyện vọng chuyển thành công chức cấp huyện trở lên phải đáp ứng điều kiện thâm niên nào sau đây?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 8 của Nghị định.",
-          "D. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng."
+          "A. Có thời gian công tác từ đủ 01 năm trở lên sau khi hoàn thành quy hoạch cán bộ",
+          "B. Có thời gian công tác ở cấp xã từ đủ 03 năm trở lên và là Đảng viên Đảng Cộng sản Việt Nam",
+          "C. Có thời gian giữ chức vụ cán bộ cấp xã từ đủ 05 năm trở lên và có trình độ đào tạo đại học trở lên phù hợp",
+          "D. Có ít nhất 02 nhiệm kỳ liên tiếp giữ chức vụ lãnh đạo chủ chốt cấp xã"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 8 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Cán bộ cấp xã để được xem xét tiếp nhận vào công chức từ cấp huyện trở lên phải có thâm niên công tác từ đủ 05 năm trở lên giữ chức danh cán bộ chuyên trách cấp xã.\n★ Mẹo nhớ & bẫy thi: Điều kiện tiếp nhận cán bộ cấp xã lên công chức huyện/tỉnh: Từ đủ 05 năm công tác trở lên."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 88: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 9 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Hội đồng kiểm tra, sát hạch khi tiếp nhận vào làm công chức được thành lập với cơ cấu bao nhiêu thành viên?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 9 của Nghị định.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Cố định đúng 05 thành viên do Sở Nội vụ cử sang",
+          "B. Có từ 07 đến 09 thành viên",
+          "C. Có 05 hoặc 07 thành viên",
+          "D. Có 03 thành viên độc lập"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 9 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Hội đồng kiểm tra sát hạch tiếp nhận công chức có 05 hoặc 07 thành viên do người đứng đầu cơ quan có thẩm quyền tuyển dụng thành lập.\n★ Mẹo nhớ & bẫy thi: Hội đồng kiểm tra sát hạch tiếp nhận: 05 hoặc 07 thành viên."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 89: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 10 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Hình thức kiểm tra, sát hạch khi xem xét tiếp nhận người vào làm công chức được thực hiện như thế nào?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 10 của Nghị định.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Kiểm tra hồ sơ về văn bằng, chứng chỉ và sát hạch về năng lực chuyên môn thông qua phỏng vấn hoặc viết",
+          "B. Bắt buộc phải tổ chức thi trắc nghiệm trên máy tính cả 2 vòng như thi tuyển thông thường",
+          "C. Chỉ thẩm định hồ sơ lý lịch tư pháp mà không cần tiến hành phỏng vấn trực tiếp",
+          "D. Giao cho cơ quan sử dụng tổ chức thử việc trong thời hạn 06 tháng rồi đánh giá"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 10 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Kiểm tra sát hạch tiếp nhận gồm 2 bước: Kiểm tra tiêu chuẩn văn bằng, kinh nghiệm và Sát hạch năng lực chuyên môn bằng hình thức phỏng vấn hoặc thi viết.\n★ Mẹo nhớ & bẫy thi: Quy trình sát hạch tiếp nhận: Kiểm tra hồ sơ + Sát hạch phỏng vấn hoặc viết."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 90: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 11 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Điểm sát hạch tối thiểu để người được đề nghị tiếp nhận vào làm công chức đạt yêu cầu chuyên môn được quy định là bao nhiêu?",
         "options": [
-          "A. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 11 của Nghị định.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Đạt từ 50 điểm trở lên trên thang điểm 100",
+          "B. Đạt từ 60 điểm trở lên trên thang điểm 100",
+          "C. Đạt từ 80 điểm trở lên trên thang điểm 100",
+          "D. Đạt từ 70 điểm trở lên trên thang điểm 100"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 11 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Nội dung sát hạch được chấm theo thang điểm 100; người được tiếp nhận phải đạt từ 50 điểm trở lên.\n★ Mẹo nhớ & bẫy thi: Điểm sàn sát hạch tiếp nhận công chức: Từ 50 điểm trở lên (thang điểm 100)."
       },
       {
         "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
@@ -6809,99 +6809,99 @@ window.EXAMS_DATA = [
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Việc xây dựng và thực hiện quy tắc ứng xử của cơ quan, đơn vị nhằm mục đích gì?",
+        "q": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên có trách nhiệm nào sau đây trong công tác phòng, chống tham nhũng?",
         "options": [
-          "A. Tạo thêm các thủ tục kiểm tra để trừ lương nhân viên",
-          "B. Để đối phó với các kỳ kiểm tra của cấp trên",
-          "C. Chuẩn hóa hành vi ứng xử của cán bộ, công chức trong thi hành công vụ và trong quan hệ xã hội nhằm phòng ngừa tham nhũng",
-          "D. Thay thế toàn bộ các quy định của Bộ luật Hình sự"
+          "A. Trực tiếp ban hành các văn bản quy phạm pháp luật quy định về chế tài xử phạt hành chính đối với tham nhũng",
+          "B. Ra quyết định tạm đình chỉ chức vụ đối với cán bộ có dấu hiệu vi phạm",
+          "C. Vận động Nhân dân thực hiện pháp luật về pctn; giám sát, phản biện xã hội và kiến nghị xử lý các hành vi tham nhũng",
+          "D. Quản lý Quỹ thu hồi tài sản tham nhũng quốc gia"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 20 Luật PCTN.\n★ Phân tích chi tiết: Quy tắc ứng xử chuẩn hóa hành vi công vụ, phòng ngừa tiêu cực, tham nhũng.\n★ Mẹo nhớ & Bẫy thi: Quy tắc ứng xử: Chuẩn hóa hành vi công vụ + Phòng ngừa tham nhũng."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: MTTQ và các đoàn thể tuyên truyền, vận động nhân dân, thực hiện giám sát, phản biện xã hội và kiến nghị cơ quan nhà nước xử lý tham nhũng.\n★ Mẹo nhớ & Bẫy thi: Vai trò MTTQ: Vận động nhân dân + Giám sát, phản biện xã hội + Kiến nghị xử lý."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người có chức vụ, quyền hạn khi giải quyết công việc có được ưu ái người thân thích không?",
+        "q": "Theo quy định của pháp luật, cơ quan tiếp nhận tin báo, phản ánh, tố cáo về hành vi tham nhũng có trách nhiệm bảo vệ người tố cáo như thế nào?",
         "options": [
-          "A. Được giảm 50% các khoản phí lệ phí cho họ hàng",
-          "B. Nghiêm cấm can thiệp trái pháp luật vào hoạt động kiểm tra, thanh tra, kiểm toán, điều tra, truy tố, xét xử, thi hành án; cấm ưu ái người thân thích trong thực thi công vụ",
-          "C. Được quyền ưu tiên giải quyết trước hồ sơ của người thân trong gia đình",
-          "D. Được bỏ qua các điều kiện quy định đối với công ty của con ruột"
+          "A. Bổ nhiệm người tố cáo vào các vị trí lãnh đạo, quản lý của cơ quan thanh tra",
+          "B. Bảo vệ vị trí công tác, tính mạng, sức khỏe, danh dự, nhân phẩm và tài sản của người tố cáo và người thân thích của họ",
+          "C. Cung cấp miễn phí nhà ở công vụ cho toàn bộ gia đình người tố cáo",
+          "D. Miễn trừ nghĩa vụ đóng thuế thu nhập cá nhân trọn đời cho người tố cáo"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 20 Luật PCTN.\n★ Phân tích chi tiết: Nghiêm cấm can thiệp và ưu ái người thân trong thực thi công vụ.\n★ Mẹo nhớ & Bẫy thi: Nghiêm cấm: Can thiệp trái luật, ưu ái người thân thích."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Luật Tố cáo 2018.\n★ Phân tích chi tiết: Bảo vệ người tố cáo tham nhũng gồm bảo vệ: Tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm và vị trí công tác/việc làm của người tố cáo và thân nhân.\n★ Mẹo nhớ & Bẫy thi: Nội dung bảo vệ người tố cáo: Vị trí công tác + Tính mạng, sức khỏe, tài sản, danh dự nhân phẩm."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người bị tố cáo hành vi tham nhũng có quyền gì?",
+        "q": "Hành vi trả thù, trù dập hoặc đe dọa người phát hiện, tố cáo, báo cáo về hành vi tham nhũng bị pháp luật xử lý như thế nào?",
         "options": [
-          "A. Được quyền yêu cầu khởi tố ngay người đã tố cáo mình",
-          "B. Được quyền tiêu hủy các hồ sơ sổ sách kế toán liên quan",
-          "C. Được quyền đe dọa, trả thù người tố cáo",
-          "D. Được nhận thông báo về nội dung tố cáo (trừ thông tin người tố cáo); giải trình, đưa ra chứng cứ chứng minh tính hợp pháp của hành vi"
+          "A. Hòa giải nội bộ tại tổ dân phố nơi người có hành vi đe dọa cư trú",
+          "B. Phạt cảnh cáo và yêu cầu viết bản cam kết không tái phạm trong thời hạn 06 tháng",
+          "C. Chỉ bị nhắc nhở kiểm điểm nếu chưa gây ra thương tích cụ thể trên thân thể",
+          "D. Bị xử lý kỷ luật nghiêm khắc, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự tùy theo tính chất, mức độ"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Luật Tố cáo & Luật PCTN.\n★ Phân tích chi tiết: Quyền được giải trình và chứng minh tính hợp pháp của hành vi công vụ.\n★ Mẹo nhớ & Bẫy thi: Quyền người bị tố cáo: Được thông báo nội dung + Giải trình, đưa ra chứng cứ chứng minh."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Bộ luật Hình sự.\n★ Phân tích chi tiết: Mọi hành vi trù dập, trả thù người tố cáo tham nhũng đều bị xử lý nghiêm minh theo kỷ luật cán bộ, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.\n★ Mẹo nhớ & Bẫy thi: Chế tài xử lý trù dập người tố cáo: Kỷ luật nghiêm, xử phạt hành chính hoặc TRUY CỨU TRÁCH NHIỆM HÌNH SỰ."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Đâu là một trong các nguyên tắc xử lý tham nhũng?",
+        "q": "Tài sản tham nhũng thu hồi được trong các vụ án, vụ việc tham nhũng được xử lý theo nguyên tắc nào sau đây?",
         "options": [
-          "A. Ưu tiên miễn trừ trách nhiệm cho người giữ chức vụ lãnh đạo cấp cao",
-          "B. Xử lý nội bộ nhẹ nhàng để giữ uy tín thành tích của cơ quan",
-          "C. Mọi hành vi tham nhũng phải được phát hiện, ngăn chặn và xử lý kịp thời, nghiêm minh theo quy định của pháp luật, không có vùng cấm, không có ngoại lệ",
-          "D. Chỉ xử lý khi hành vi tham nhũng bị báo chí phát hiện công khai"
+          "A. Được chia đều cho tập thể cán bộ, công chức cơ quan nơi xảy ra vụ việc tham nhũng",
+          "B. Được để lại 30% cho cơ quan có công phát hiện để làm quỹ khen thưởng",
+          "C. Phải được trả lại cho chủ sở hữu, người quản lý hợp pháp hoặc tịch thu nộp vào ngân sách nhà nước",
+          "D. Được sử dụng để thành lập doanh nghiệp kinh doanh dịch vụ công ích"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 4 Luật PCTN.\n★ Phân tích chi tiết: Nguyên tắc: Xử lý nghiêm minh, kịp thời, không có vùng cấm, không có ngoại lệ.\n★ Mẹo nhớ & Bẫy thi: Nguyên tắc xử lý: Kịp thời, nghiêm minh, KHÔNG CÓ VÙNG CẤM, KHÔNG CÓ NGOẠI LỆ."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Tài sản tham nhũng phải được thu hồi, tịch thu sung công quỹ nhà nước hoặc trả lại cho chủ sở hữu, người quản lý hợp pháp.\n★ Mẹo nhớ & Bẫy thi: Nguyên tắc xử lý tài sản tham nhũng: Trả lại chủ sở hữu hợp pháp hoặc TỊCH THU SUNG CÔNG QUỸ NHÀ NƯỚC."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Người có hành vi tham nhũng tự giác khai báo trước khi bị phát hiện, tích cực khắc phục hậu quả thì được chính sách gì?",
+        "q": "Cán bộ, công chức có hành vi tham nhũng đã nghỉ hưu hoặc thôi việc thì bị áp dụng chế tài kỷ luật hành chính nào sau đây?",
         "options": [
-          "A. Vẫn bị áp dụng mức hình phạt cao nhất của khung luật định",
-          "B. Không có bất kỳ chính sách khoan hồng nào",
-          "C. Tự động được nâng chức vụ sau khi nộp tiền",
-          "D. Được xem xét giảm nhẹ mức kỷ luật, giảm nhẹ hình phạt hoặc miễn trách nhiệm hình sự theo quy định của pháp luật"
+          "A. Không bị xử lý kỷ luật hành chính do đã chấm dứt quan hệ lao động với Nhà nước",
+          "B. Bị buộc phải quay lại cơ quan cũ làm việc không hưởng lương trong 01 năm",
+          "C. Bị tước toàn bộ lương hưu và trợ cấp bảo hiểm xã hội vĩnh viễn",
+          "D. Xóa tư cách chức vụ đã đảm nhiệm trong thời gian công tác tương ứng với tính chất, mức độ vi phạm"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 5 Luật PCTN.\n★ Phân tích chi tiết: Chính sách khoan hồng: Tự giác khai báo, nộp lại tài sản được xem xét giảm nhẹ hoặc miễn trách nhiệm.\n★ Mẹo nhớ & Bẫy thi: Khoan hồng: Tự giác khai báo, tích cực nộp lại tài sản -> GIẢM NHẸ hoặc MIỄN TRÁCH NHIỆM."
+        "explanation": "★ Căn cứ pháp lý: Luật Cán bộ, công chức 2025 & Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Cán bộ, công chức đã nghỉ hưu có hành vi tham nhũng bị áp dụng hình thức kỷ luật: Khiển trách, Cảnh cáo hoặc Xóa tư cách chức danh, chức vụ đã đảm nhiệm.\n★ Mẹo nhớ & Bẫy thi: Kỷ luật cán bộ nghỉ hưu tham nhũng: XÓA TƯ CÁCH CHỨC VỤ ĐÃ ĐẢM NHIỆM."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Vai trò của Doanh nghiệp, hiệp hội doanh nghiệp, ngành nghề trong pctn là gì?",
+        "q": "Việc đánh giá công tác phòng, chống tham nhũng của các tỉnh, thành phố trực thuộc trung ương hàng năm được thực hiện dựa trên bộ tiêu chí nào?",
         "options": [
-          "A. Không có trách nhiệm gì vì pctn là việc của Nhà nước",
-          "B. Che giấu các hành vi đưa hối lộ của các hội viên",
-          "C. Tài trợ tiền cho các đoàn thanh tra kiểm tra",
-          "D. Xây dựng quy tắc đạo đức kinh doanh, văn hóa kinh doanh lành mạnh, không đưa hối lộ; phối hợp với cơ quan nhà nước ngăn chặn tham nhũng"
+          "A. Kết quả khảo sát mức độ hài lòng về trật tự đô thị và an toàn giao thông",
+          "B. Tổng số tiền nộp ngân sách nhà nước từ các nguồn thuế tài nguyên khoáng sản",
+          "C. Tỷ lệ tăng trưởng tổng sản phẩm trên địa bàn (GRDP) và số lượng doanh nghiệp thành lập mới",
+          "D. Số lượng, tính chất vụ việc; việc xây dựng, hoàn thiện chính sách pháp luật; việc thực hiện các biện pháp phòng ngừa; và kết quả phát hiện, thu hồi tài sản tham nhũng"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 78 - 81 Luật PCTN.\n★ Phân tích chi tiết: Văn hóa kinh doanh liêm chính, không đưa hối lộ, xây dựng quy tắc ứng xử nội bộ.\n★ Mẹo nhớ & Bẫy thi: Doanh nghiệp: Văn hóa kinh doanh liêm chính, quy tắc đạo đức, KHÔNG ĐƯA HỐI LỘ."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Bộ tiêu chí đánh giá PACA của Thanh tra Chính phủ.\n★ Phân tích chi tiết: Tiêu chí đánh giá công tác PCTN cấp tỉnh gồm: Quản lý nhà nước, ban hành văn bản; Thực hiện biện pháp phòng ngừa; Phát hiện, xử lý tham nhũng; Thu hồi tài sản tham nhũng.\n★ Mẹo nhớ & Bẫy thi: 4 trụ cột đánh giá PCTN cấp tỉnh: Quản lý văn bản + Phòng ngừa + Phát hiện xử lý + Thu hồi tài sản."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Biện pháp tạm đình chỉ công tác đối với người có hành vi tham nhũng được áp dụng khi nào?",
+        "q": "Cơ quan thanh tra, cơ quan kiểm toán nhà nước khi tiến hành thanh tra, kiểm toán nếu phát hiện vụ việc có dấu hiệu tội phạm tham nhũng thì có trách nhiệm xử lý như thế nào?",
         "options": [
-          "A. Khi có căn cứ cho rằng người đó có hành vi vi phạm và có thể gây khó khăn cho việc xác minh, xử lý của cơ quan chức năng",
-          "B. Áp dụng tự động hàng năm đối với mọi thủ quỹ",
-          "C. Khi có dư luận xôn xao chưa được kiểm chứng",
-          "D. Chỉ áp dụng khi người đó đã bị bắt tạm giam"
+          "A. Phải chuyển ngay hồ sơ vụ việc và kiến nghị Cơ quan điều tra có thẩm quyền để xem xét khởi tố vụ án hình sự",
+          "B. Ra quyết định xử phạt vi phạm hành chính rồi mới báo cáo lãnh đạo tỉnh",
+          "C. Tự mình tiến hành bắt giữ người và niêm phong tài sản của các đối tượng liên quan",
+          "D. Tiếp tục theo dõi vụ việc và chỉ chuyển hồ sơ sau khi kết thúc toàn bộ đợt thanh tra năm sau"
         ],
         "ans": 0,
-        "explanation": "★ Căn cứ pháp lý: Điều 70 Luật PCTN.\n★ Phân tích chi tiết: Tạm đình chỉ công tác khi người vi phạm có dấu hiệu cản trở, gây khó khăn cho việc điều tra, xác minh.\n★ Mẹo nhớ & Bẫy thi: Tạm đình chỉ: Có hành vi vi phạm VÀ có thể gây khó khăn cho việc xử lý."
+        "explanation": "★ Căn cứ pháp lý: Luật Phòng, chống tham nhũng 2018 & Luật Thanh tra.\n★ Phân tích chi tiết: Khi phát hiện hành vi có dấu hiệu tội phạm tham nhũng, cơ quan thanh tra/kiểm toán phải chuyển ngay hồ sơ cho cơ quan điều tra mà không chờ kết thúc cuộc thanh tra.\n★ Mẹo nhớ & Bẫy thi: Phát hiện dấu hiệu tội phạm: CHUYỂN NGAY HỒ SƠ CHO CƠ QUAN ĐIỀU TRA."
       },
       {
         "topic": "3. Luật Phòng, chống tham nhũng số 36/2018/QH14 (văn bản hợp nhất số 65/VBHN-VPQH)",
-        "q": "Theo Luật pctn năm 2018: Thời hạn tạm đình chỉ công tác đối với người có hành vi tham nhũng theo Luật pctn là bao lâu?",
+        "q": "Thời hiệu xử lý kỷ luật hành chính đối với cán bộ, công chức có hành vi tham nhũng được quy định như thế nào?",
         "options": [
-          "A. Không quá 03 tháng trong mọi trường hợp",
-          "B. Thời hạn tạm đình chỉ công tác là 15 ngày; trường hợp phức tạp có thể kéo dài thêm nhưng không quá 30 ngày",
-          "C. Thời hạn cố định 60 ngày",
-          "D. Tùy theo thời gian diễn ra phiên tòa xét xử"
+          "A. Cố định thời hiệu xử lý kỷ luật là 05 năm tính từ ngày cơ quan thanh tra ban hành kết luận",
+          "B. Không áp dụng thời hiệu xử lý kỷ luật đối với công chức có hành vi tham nhũng đến mức phải xử lý kỷ luật bằng hình thức Buộc thôi việc",
+          "C. Cố định thời hiệu xử lý kỷ luật là 02 năm kể từ ngày xảy ra hành vi vi phạm trong mọi trường hợp",
+          "D. Sau 01 năm kể từ thời điểm công chức chuyển cơ quan khác thì thời hiệu kỷ luật chấm dứt"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 70 Luật PCTN.\n★ Phân tích chi tiết: Thời hạn tạm đình chỉ: 15 ngày (kéo dài tối đa không quá 30 ngày).\n★ Mẹo nhớ & Bẫy thi: Thời hạn tạm đình chỉ PCTN: 15 NGÀY (tối đa 30 ngày)."
+        "explanation": "★ Căn cứ pháp lý: Luật Cán bộ, công chức 2025 & Luật Phòng, chống tham nhũng 2018.\n★ Phân tích chi tiết: Không áp dụng thời hiệu xử lý kỷ luật đối với cán bộ, công chức có hành vi vi phạm đến mức phải kỷ luật Buộc thôi việc hoặc vi phạm về chính trị nội bộ, tham nhũng.\n★ Mẹo nhớ & Bẫy thi: Thời hiệu kỷ luật vi phạm tham nhũng nghiêm trọng: KHÔNG ÁP DỤNG THỜI HIỆU (xử lý bất kỳ thời điểm nào)."
       },
       {
         "topic": "4. Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 (sửa đổi, bổ sung bởi Luật số 87/2025/QH15)",
@@ -7048,124 +7048,124 @@ window.EXAMS_DATA = [
         "explanation": "★ Căn cứ pháp lý: Quy chế làm việc mẫu của cơ quan chuyên môn.\n★ Phân tích chi tiết: Tổng kết công tác: Đánh giá thực hiện nhiệm vụ, kiểm điểm chỉ đạo điều hành và định hướng công tác năm tiếp theo.\n★ Mẹo nhớ & bẫy thi: Tổng kết công tác: Đánh giá toàn diện nhiệm vụ quản lý nhà nước và phát động thi đua."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 91: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 12 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Công chức tự ý bỏ việc tổng cộng bao nhiêu ngày trong một tháng mà không có lý do chính đáng thì bị xử lý kỷ luật bằng hình thức Buộc thôi việc?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 12 của Nghị định.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Tự ý bỏ việc từ 10 ngày làm việc trở lên trong một tháng",
+          "B. Tự ý bỏ việc từ 03 ngày làm việc liên tiếp trở lên",
+          "C. Tự ý bỏ việc từ 07 ngày làm việc trở lên trong một tháng",
+          "D. Tự ý bỏ việc từ 05 ngày làm việc trở lên trong một tháng"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 12 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Luật Cán bộ, công chức 2025 & Quy định kỷ luật công chức.\n★ Phân tích chi tiết: Công chức tự ý bỏ việc từ 07 ngày làm việc trở lên trong 01 tháng hoặc từ 20 ngày làm việc trở lên trong 01 năm mà không có lý do chính đáng thì bị áp dụng hình thức Buộc thôi việc.\n★ Mẹo nhớ & bẫy thi: Mốc ngày tự ý bỏ việc bị buộc thôi việc: Từ 07 ngày/tháng hoặc từ 20 ngày/năm."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 92: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 13 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Công chức tự ý bỏ việc tổng cộng bao nhiêu ngày trong một năm mà không có lý do chính đáng thì bị áp dụng hình thức kỷ luật Buộc thôi việc?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 13 của Nghị định.",
-          "D. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng."
+          "A. Từ 10 ngày làm việc trở lên trong một năm",
+          "B. Từ 15 ngày làm việc trở lên trong một năm",
+          "C. Từ 20 ngày làm việc trở lên trong một năm",
+          "D. Từ 30 ngày làm việc trở lên trong một năm"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 13 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Luật Cán bộ, công chức 2025 & Nghị định xử lý kỷ luật.\n★ Phân tích chi tiết: Tự ý bỏ việc từ 20 ngày làm việc cộng dồn trong một năm không có lý do chính đáng là căn cứ xử lý kỷ luật buộc thôi việc.\n★ Mẹo nhớ & bẫy thi: Mốc năm bị buộc thôi việc vì bỏ việc: Từ 20 ngày làm việc trở lên trong một năm."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 93: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 14 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Thời hạn cơ quan quản lý phải thông báo bằng văn bản cho công chức về thời điểm nghỉ hưu được quy định là bao lâu trước khi nghỉ hưu?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 14 của Nghị định.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Trước 01 tháng tính đến thời điểm công chức nghỉ hưu",
+          "B. Trước 12 tháng tính đến thời điểm công chức nghỉ hưu",
+          "C. Trước 06 tháng tính đến thời điểm công chức nghỉ hưu",
+          "D. Trước 03 tháng tính đến thời điểm công chức nghỉ hưu"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 14 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP & Luật Cán bộ, công chức 2025.\n★ Phân tích chi tiết: Quy trình nghỉ hưu công chức gồm 2 mốc văn bản: Thông báo nghỉ hưu trước 06 tháng và Ban hành Quyết định nghỉ hưu trước 03 tháng.\n★ Mẹo nhớ & bẫy thi: Thông báo nghỉ hưu = Trước 06 tháng; Quyết định nghỉ hưu = Trước 03 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 94: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 15 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Quyết định nghỉ hưu của công chức phải được ban hành và gửi cho công chức trước thời điểm nghỉ hưu tối thiểu là bao lâu?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 15 của Nghị định.",
-          "C. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Trước 01 tháng tính đến thời điểm công chức nghỉ hưu",
+          "B. Trước 03 tháng tính đến thời điểm công chức nghỉ hưu",
+          "C. Trước 15 ngày tính đến thời điểm công chức nghỉ hưu",
+          "D. Trước 06 tháng tính đến thời điểm công chức nghỉ hưu"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 15 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Cơ quan quản lý công chức phải ban hành quyết định nghỉ hưu trước 03 tháng tính đến thời điểm nghỉ hưu để công chức bàn giao công việc.\n★ Mẹo nhớ & bẫy thi: Ban hành quyết định nghỉ hưu: Trước 03 tháng."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 95: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 16 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Kể từ ngày nhận được đơn xin thôi việc của công chức, người đứng đầu cơ quan có thẩm quyền quản lý công chức phải trả lời bằng văn bản trong thời hạn bao lâu?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 16 của Nghị định.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Trong thời hạn 45 ngày kể từ ngày nhận được đơn",
+          "B. Trong thời hạn 60 ngày đối với công chức giữ chức vụ quản lý",
+          "C. Trong thời hạn 30 ngày kể từ ngày nhận được đơn",
+          "D. Trong thời hạn 15 ngày làm việc kể từ ngày nhận đơn"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 16 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Trong thời hạn 30 ngày kể từ ngày nhận đơn xin thôi việc, người đứng đầu cơ quan phải ra quyết định cho thôi việc hoặc trả lời bằng văn bản nêu rõ lý do không đồng ý.\n★ Mẹo nhớ & bẫy thi: Thời hạn giải quyết đơn xin thôi việc: Trong vòng 30 ngày."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 96: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 17 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trường hợp nào sau đây cơ quan quản lý không giải quyết thủ tục thôi việc theo nguyện vọng đối với công chức?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 17 của Nghị định.",
-          "D. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng."
+          "A. Công chức có thâm niên công tác dưới 10 năm tại cơ quan hành chính nhà nước",
+          "B. Công chức chưa đạt danh hiệu Chiến sĩ thi đua cơ sở trong 02 năm gần nhất",
+          "C. Công chức đang trong thời gian xem xét xử lý kỷ luật hoặc đang bị cơ quan có thẩm quyền điều tra, thanh tra",
+          "D. Đơn vị chưa tìm được nhân sự thay thế vị trí việc làm của công chức đó"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 17 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Không giải quyết thôi việc khi: Đang trong thời gian xem xét xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; chưa hoàn trả tiền đào tạo; đảm nhận nhiệm vụ quốc phòng, cơ mật chưa bàn giao.\n★ Mẹo nhớ & bẫy thi: Các trường hợp không giải quyết thôi việc: Đang xem xét kỷ luật/hình sự; chưa bồi hoàn chi phí đào tạo; nhiệm vụ quốc phòng/bí mật chưa bàn giao."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 97: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 18 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Hồ sơ cán bộ, công chức sau khi công chức thôi việc hoặc nghỉ hưu được quản lý và lưu trữ theo thời hạn nào?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 18 của Nghị định.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Chỉ lưu trữ trong thời hạn 05 năm kể từ ngày chấm dứt quan hệ công tác",
+          "B. Được bàn giao lại toàn bộ bản gốc cho cá nhân công chức tự quản lý",
+          "C. Được lưu trữ vĩnh viễn theo quy định của pháp luật về lưu trữ",
+          "D. Được lưu trữ tối đa 10 năm sau đó tiêu hủy theo quy chế cơ quan"
         ],
         "ans": 2,
-        "explanation": "★ Căn cứ pháp lý: Điều 18 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Thông tư của Bộ Nội vụ & Pháp luật về Lưu trữ.\n★ Phân tích chi tiết: Hồ sơ cán bộ, công chức là hồ sơ nhân sự nhà nước, thuộc danh mục tài liệu lưu trữ lịch sử và phải được bảo quản, lưu trữ vĩnh viễn.\n★ Mẹo nhớ & bẫy thi: Thời hạn lưu trữ hồ sơ công chức: Lưu trữ vĩnh viễn."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 98: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 19 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Dữ liệu trong Cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức được liên thông, xác thực và đồng bộ với hệ thống thông tin nào sau đây?",
         "options": [
-          "A. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 19 của Nghị định.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan."
+          "A. Cơ sở dữ liệu đăng ký doanh nghiệp của Bộ Kế hoạch và Đầu tư",
+          "B. Cơ sở dữ liệu quốc gia về dân cư thông qua số định danh cá nhân",
+          "C. Hệ thống quản lý công dân quốc tế của Liên Hợp Quốc",
+          "D. Cổng thanh toán trực tuyến quốc gia của Ngân hàng Nhà nước"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 19 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 300/2026/NĐ-CP & Đề án 06 Chính phủ.\n★ Phân tích chi tiết: Cơ sở dữ liệu quốc gia về CBCCVC được tích hợp, kết nối và đồng bộ xác thực với Cơ sở dữ liệu quốc gia về dân cư thông qua số định danh cá nhân / CCCD.\n★ Mẹo nhớ & bẫy thi: Hệ thống đồng bộ dữ liệu cán bộ công chức: Cơ sở dữ liệu quốc gia về dân cư (Đề án 06)."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 99: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 20 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Theo chính sách thu hút nhân tài của Chính phủ tại Nghị định số 140/2017/NĐ-CP và Nghị định số 170/2025/NĐ-CP, đối tượng sinh viên tốt nghiệp đại học loại xuất sắc được áp dụng hình thức tuyển dụng nào?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "C. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích.",
-          "D. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 20 của Nghị định."
+          "A. Tuyển dụng đặc cách vào ngạch chuyên viên cao cấp không qua ngạch chuyên viên",
+          "B. Bắt buộc phải tham dự thi tuyển cả 2 vòng như mọi thí sinh khác",
+          "C. Bổ nhiệm thẳng vào chức danh lãnh đạo cấp phòng mà không qua tập sự",
+          "D. Tuyển dụng thông qua hình thức xét tuyển mà không phải thi tuyển Vòng 1"
         ],
         "ans": 3,
-        "explanation": "★ Căn cứ pháp lý: Điều 20 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 140/2017/NĐ-CP & Nghị định số 170/2025/NĐ-CP.\n★ Phân tích chi tiết: Sinh viên tốt nghiệp xuất sắc, nhà khoa học trẻ đáp ứng tiêu chuẩn theo chính sách thu hút nhân tài được tuyển dụng vào công chức thông qua hình thức XÉT TUYỂN (phỏng vấn chuyên môn nghiệp vụ).\n★ Mẹo nhớ & bẫy thi: Thu hút nhân tài tốt nghiệp xuất sắc: Tuyển dụng bằng hình thức XÉT TUYỂN."
       },
       {
-        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 001/2025/TT-BNV",
-        "q": "Tình huống thực tế số 100: Trong công tác tuyển dụng và quản lý công chức theo Nghị định 170/2025/NĐ-CP và Thông tư 001/2025/tt-BNV tại thành phố Huế, trường hợp phát sinh liên quan đến quy trình sát hạch, đánh giá tiêu chuẩn nghiệp vụ ngạch chuyên viên tại Điều 21 được quy định như thế nào?",
+        "topic": "6. Nghị định số 170/2025/NĐ-CP (sửa đổi, bổ sung bởi Nghị định số 300/2026/NĐ-CP) & Thông tư 22/2025/TT-BNV",
+        "q": "Trường hợp công chức đạt danh hiệu Chiến sĩ thi đua toàn quốc hoặc được tặng thưởng Huân chương Lao động hạng Ba trở lên do có thành tích xuất sắc trong thực thi công vụ thì được áp dụng chính sách ưu tiên nào khi nâng ngạch?",
         "options": [
-          "A. Áp dụng chính sách tiếp nhận không qua sát hạch đối với mọi lao động thời vụ đang làm việc tại cơ quan.",
-          "B. Bảo đảm tuân thủ đúng trình tự phân cấp quản lý công chức, thực hiện công khai, minh bạch, bảo vệ quyền lợi hợp pháp của công chức theo Điều 21 của Nghị định.",
-          "C. Cắt giảm thời gian thông báo công khai xuống còn 03 ngày làm việc để hoàn thành sớm chỉ tiêu tuyển dụng.",
-          "D. Người đứng đầu cơ quan tự ý ban hành quy chế riêng trái với Thông tư của Bộ Nội vụ nhằm tạo thuận lợi cho người thân thích."
+          "A. Được đặc cách thi nâng ngạch không cần văn bằng thạc sĩ",
+          "B. Được xét nâng ngạch lên ngạch cao hơn liền kề mà không phải dự thi nâng ngạch nếu đáp ứng đủ tiêu chuẩn, vị trí việc làm",
+          "C. Được miễn toàn bộ thời gian giữ ngạch tối thiểu để xét bổ nhiệm lãnh đạo sở",
+          "D. Được tự động thăng lên 02 bậc lương và chuyển thẳng lên ngạch chuyên viên cao cấp"
         ],
         "ans": 1,
-        "explanation": "★ Căn cứ pháp lý: Điều 21 Nghị định 170/2025/NĐ-CP & Thông tư 001/2025/TT-BNV.\n★ Phân tích chi tiết: Mọi quy trình tuyển dụng và sử dụng công chức phải tuân thủ nghiêm ngặt nguyên tắc pháp chế, công khai, khách quan và bình đẳng.\n★ Mẹo nhớ & bẫy thi: Quản lý công chức luôn dựa trên vị trí việc làm và tiêu chuẩn pháp luật thống nhất."
+        "explanation": "★ Căn cứ pháp lý: Nghị định số 170/2025/NĐ-CP (sửa đổi bổ sung bởi Nghị định số 300/2026/NĐ-CP).\n★ Phân tích chi tiết: Công chức có thành tích đặc biệt xuất sắc (Chiến sĩ thi đua toàn quốc, Huân chương Lao động hạng Ba trở lên...) được xem xét NÂNG NGẠCH KHÔNG QUA THI nếu cơ quan có chỉ tiêu ngạch và vị trí việc làm.\n★ Mẹo nhớ & bẫy thi: Thành tích đặc biệt xuất sắc (CSTĐ toàn quốc, Huân chương) = Được xét nâng ngạch không qua thi tuyển."
       },
       {
         "topic": "7. Nghị định số 361/2025/NĐ-CP ngày 31/12/2025 (Vị trí việc làm công chức)",
